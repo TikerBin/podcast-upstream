@@ -1,6 +1,6 @@
 # Podcast 素材上游 – 待制作
 
-状态：**本地已完成并验证，未上传 GitHub。** 本文件里的 raw.githubusercontent 地址是仓库创建并推送后才会生效的预告地址，目前不可订阅。不要把占位地址当成已上线。
+状态：**已上线。** 仓库为公开仓 `TikerBin/podcast-upstream`，下述 raw.githubusercontent 地址为真实可订阅地址（首批 5 条，2026-10-24 北京时间推送并验证）。
 
 ## 这是什么
 
@@ -40,8 +40,8 @@
 - 形态：`feeds/audio.xml`、`feeds/text.xml`、`feeds/video.xml`（本批 0 条，空 feed 是如实结果）
 - 生产形态（附加）：`feeds/ready-clip.xml`（2 条）
 
-仓库创建并推送后（预告，非现时可用）：
-- 仓库（建议，待用户决定）：`TikerBin/podcast-upstream`
+仓库创建并推送后（已生效）：
+- 仓库：`TikerBin/podcast-upstream`
 - 总 RSS：`https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/feed.xml`
 - 总 JSON：`https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/feed.json`
 - 分类 RSS：`https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/feeds/<science-space|ocean-environment|technology-ai|audio|video|text|ready-clip>.xml`
@@ -80,7 +80,6 @@
 
 ## 未完成（明确说未完成）
 
-- 未创建 GitHub 仓库，未推送任何文件，未有任何公开可订阅地址生效。
 - 未做 Facebook 发布（本任务明确不发布到社交平台）。
 - Houston Ep.424 音频未核实，未入库 audio feed。
 - 视频形态 0 条，未覆盖原因见 SOURCES.md。
