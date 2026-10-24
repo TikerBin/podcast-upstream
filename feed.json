@@ -3,9 +3,53 @@
  "title": "Podcast 素材上游 – 待制作",
  "home_page_url": "https://raw.githubusercontent.com/TikerBin/podcast-upstream/main",
  "feed_url": "https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/feed.json",
- "description": "待制作播客素材上游：每条 = 一份待制作内容，含可下载音频 enclosure 或完整文字稿至少一种。全部为美国政府官方播客（NASA / NOAA），公有领域、可剪辑但不得暗示官方背书。本批为小规模真实样本，未上传 GitHub 前 base-url 为占位地址，不可订阅。",
+ "description": "待制作播客素材上游 v2：每条 = 一份待制作内容。父集标 full-episode，片段为独立条目、仅标 ready-clip，两集合不相交。片段 enclosure 为仓库自托管 clips 直链，不依赖整集音频。全部为美国政府官方播客（NASA / NOAA），公有领域、可剪辑但不得暗示官方背书。",
  "language": "en",
  "items": [
+  {
+   "id": "urn:podcast:nasa.gov:curious-universe:encore-a-year-in-mars-dune-alpha:clip:window:224-255",
+   "url": "https://www.nasa.gov/podcasts/curious-universe/encore-a-year-in-mars-dune-alpha/",
+   "title": "Their Mars window is a TV — clip from Encore: A Year In Mars Dune Alpha",
+   "summary": "火星栖息舱的窗户其实是一台电视：播着舱外火星日出的视频，太阳升起、舱影、夜里星星，最后落到一句话——几乎就是火星。",
+   "content_text": "We have a window that we use,\nair quotes around the word window,\nthat it uses a TV with a video feed\nof the outside of our habitat.\nAnd we can see the Martian sunrise\nwith it out the window,\nand then the sun basically goes over our head\nand we eventually see the shadow of our habitat\non the ground and eventually,\nthroughout night we see the stars.\nAnd it's really pretty.\nIf I could sum up Chapea in just a couple of words,\nthe words would be, almost Mars.",
+   "date_published": "2026-10-20T13:40:00+00:00",
+   "tags": [
+    "science-space",
+    "form:audio",
+    "form:text",
+    "production:ready-clip"
+   ],
+   "_item_id": "nasa-curious-chapea-encore-clip-window",
+   "_show": "NASA's Curious Universe",
+   "_episode_id": "encore-a-year-in-mars-dune-alpha-clip-window",
+   "_theme": "science-space",
+   "_forms": [
+    "audio",
+    "text"
+   ],
+   "_production_kinds": [
+    "ready-clip"
+   ],
+   "_source_url": "https://www.nasa.gov/podcasts/curious-universe/encore-a-year-in-mars-dune-alpha/",
+   "_license": "Public domain",
+   "_rights_status": "reusable_with_no_endorsement_note",
+   "_collected_at_beijing": "2026-10-24",
+   "_transcript_word_count": 91,
+   "image": "https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png",
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/chapea-clip1-window.mp3",
+     "mime_type": "audio/mpeg",
+     "size_in_bytes": 551621,
+     "duration_in_seconds": 31.0
+    }
+   ],
+   "_parent_guid": "urn:podcast:nasa.gov:curious-universe:encore-a-year-in-mars-dune-alpha",
+   "_parent_id": "nasa-curious-chapea-encore",
+   "_clip_start_s": 224.0,
+   "_clip_end_s": 255.0,
+   "_clip_source_nature": "original_audio"
+  },
   {
    "id": "urn:podcast:nasa.gov:curious-universe:encore-a-year-in-mars-dune-alpha",
    "url": "https://www.nasa.gov/podcasts/curious-universe/encore-a-year-in-mars-dune-alpha/",
@@ -18,8 +62,7 @@
     "form:audio",
     "form:text",
     "production:full-episode",
-    "production:text-script",
-    "production:ready-clip"
+    "production:text-script"
    ],
    "_item_id": "nasa-curious-chapea-encore",
    "_show": "NASA's Curious Universe",
@@ -31,14 +74,14 @@
    ],
    "_production_kinds": [
     "full-episode",
-    "text-script",
-    "ready-clip"
+    "text-script"
    ],
    "_source_url": "https://www.nasa.gov/podcasts/curious-universe/encore-a-year-in-mars-dune-alpha/",
    "_license": "Public domain",
    "_rights_status": "reusable_with_no_endorsement_note",
    "_collected_at_beijing": "2026-10-24",
    "_transcript_word_count": 4177,
+   "image": "https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png",
    "attachments": [
     {
      "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION6420899881.mp3",
@@ -47,17 +90,8 @@
      "duration_in_seconds": 1626.122
     }
    ],
-   "_ready_clips": [
-    {
-     "bytes": 551621,
-     "duration_s": 31.0,
-     "end_s": 255.0,
-     "file": "clips/chapea-clip1-window.mp3",
-     "source_nature": "original_audio",
-     "source_note": "原集原声剪辑，未换音、未加 BGM；起止秒为原集时间轴，文件经 ffprobe 核为 31.000 秒，与 2026-10-24 播客工作流 manifest 一致",
-     "start_s": 224.0,
-     "title": "Their Mars window is a TV"
-    }
+   "_child_clip_guids": [
+    "urn:podcast:nasa.gov:curious-universe:encore-a-year-in-mars-dune-alpha:clip:window:224-255"
    ]
   },
   {
@@ -87,7 +121,7 @@
    "_rights_status": "reusable_with_no_endorsement_note",
    "_collected_at_beijing": "2026-10-24",
    "_transcript_word_count": 5521,
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/05/ep424-ai-at-nasa-thumbnail.png?w=300"
+   "image": "https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"
   },
   {
    "id": "urn:podcast:oceanservice.noaa.gov:podcast:dec23:nop71-coral-bleaching",
@@ -120,6 +154,7 @@
    "_rights_status": "reusable_with_no_endorsement_note",
    "_collected_at_beijing": "2026-10-24",
    "_transcript_word_count": 2060,
+   "image": "https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png",
    "attachments": [
     {
      "url": "https://cdn.oceanservice.noaa.gov/oceanserviceprod/podcast/dec23/nop71-coral-bleaching.m4a",
@@ -128,6 +163,50 @@
      "duration_in_seconds": 997.042
     }
    ]
+  },
+  {
+   "id": "urn:podcast:oceanservice.noaa.gov:podcast:june23:nop66-rip-currents:clip:335.1-380.9",
+   "url": "https://oceanservice.noaa.gov/podcast/june23/nop66-rip-currents.html",
+   "title": "Break the Grip of the Rip: swim parallel, not back — clip from Rip Currents (335.1-380.9s)",
+   "summary": "离岸流自救口令：别直游回岸、别跟水流硬拼，沿岸平行游出再斜着回岸；这套指引已让约 90% 受访海滩游客知晓，但每年仍约有 100 人因此溺亡。",
+   "content_text": "break the grip of the rip, you see an image of a rip current, and it gives guidance to people\non what to do if you're caught in a rip current, which is to stay calm, don't swim straight back\nto shore, don't fight the current, swim out of the current along the beach, you're out of the\ncurrent and then back to the beach at an angle. And that guidance has largely been pretty\nsuccessful. We did some surveys recently and found something like 90% of those surveyed,\nof those beach goers that we surveyed, were generally aware of rip currents and what to do\nif they're caught in one. But despite that success, as I mentioned, we're still seeing\nthe same number of rip current drownings every year, something like 100 rip current drownings per year.",
+   "date_published": "2023-06-28T00:00:00+00:00",
+   "tags": [
+    "ocean-environment",
+    "form:audio",
+    "form:text",
+    "production:ready-clip"
+   ],
+   "_item_id": "noaa-ocean-rip-currents-66-clip-335-381",
+   "_show": "NOAA Ocean Podcast",
+   "_episode_id": "nop66-clip-335-381",
+   "_theme": "ocean-environment",
+   "_forms": [
+    "audio",
+    "text"
+   ],
+   "_production_kinds": [
+    "ready-clip"
+   ],
+   "_source_url": "https://oceanservice.noaa.gov/podcast/june23/nop66-rip-currents.html",
+   "_license": "Public domain",
+   "_rights_status": "reusable_with_no_endorsement_note",
+   "_collected_at_beijing": "2026-10-24",
+   "_transcript_word_count": 138,
+   "image": "https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png",
+   "attachments": [
+    {
+     "url": "https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/noaa-rip-currents-clip-335-381.mp3",
+     "mime_type": "audio/mpeg",
+     "size_in_bytes": 693395,
+     "duration_in_seconds": 45.8
+    }
+   ],
+   "_parent_guid": "urn:podcast:oceanservice.noaa.gov:podcast:june23:nop66-rip-currents",
+   "_parent_id": "noaa-ocean-rip-currents-66",
+   "_clip_start_s": 335.1,
+   "_clip_end_s": 380.9,
+   "_clip_source_nature": "original_audio"
   },
   {
    "id": "urn:podcast:oceanservice.noaa.gov:podcast:june23:nop66-rip-currents",
@@ -141,8 +220,7 @@
     "form:audio",
     "form:text",
     "production:full-episode",
-    "production:text-script",
-    "production:ready-clip"
+    "production:text-script"
    ],
    "_item_id": "noaa-ocean-rip-currents-66",
    "_show": "NOAA Ocean Podcast",
@@ -154,14 +232,14 @@
    ],
    "_production_kinds": [
     "full-episode",
-    "text-script",
-    "ready-clip"
+    "text-script"
    ],
    "_source_url": "https://oceanservice.noaa.gov/podcast/june23/nop66-rip-currents.html",
    "_license": "Public domain",
    "_rights_status": "reusable_with_no_endorsement_note",
    "_collected_at_beijing": "2026-10-24",
    "_transcript_word_count": 2752,
+   "image": "https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png",
    "attachments": [
     {
      "url": "https://cdn.oceanservice.noaa.gov/oceanserviceprod/podcast/june23/nop66-rip-currents.m4a",
@@ -170,17 +248,8 @@
      "duration_in_seconds": 818.434
     }
    ],
-   "_ready_clips": [
-    {
-     "bytes": 693395,
-     "duration_s": 45.8,
-     "end_s": 380.9,
-     "file": "clips/noaa-rip-currents-clip-335-381.mp3",
-     "source_nature": "original_audio",
-     "source_note": "本批用 ffmpeg 从已验证的整集 M4A 原声截取 335.1-380.9 秒，未换音、未加 BGM；文件经 ffprobe 核为 45.800 秒；起止秒沿用 2026-10-24 离岸流 Remotion 工作流的同一原声段",
-     "start_s": 335.1,
-     "title": "Rip current segment 335.1-380.9s"
-    }
+   "_child_clip_guids": [
+    "urn:podcast:oceanservice.noaa.gov:podcast:june23:nop66-rip-currents:clip:335.1-380.9"
    ]
   },
   {
@@ -214,6 +283,7 @@
    "_rights_status": "reusable_with_no_endorsement_note",
    "_collected_at_beijing": "2026-10-24",
    "_transcript_word_count": 3005,
+   "image": "https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png",
    "attachments": [
     {
      "url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION3060455350.mp3?updated=1725385395",

@@ -5,8 +5,61 @@
 <link>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main</link>
 <description>形态 text 的待制作播客条目，GUID 与总 feed 完全一致。</description>
 <language>en</language>
-<lastBuildDate>Sat, 24 Oct 2026 13:37:32 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 14:07:24 +0000</lastBuildDate>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/feeds/text.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Their Mars window is a TV — clip from Encore: A Year In Mars Dune Alpha</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/encore-a-year-in-mars-dune-alpha/</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:encore-a-year-in-mars-dune-alpha:clip:window:224-255</guid>
+<pubDate>Tue, 20 Oct 2026 13:40:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/chapea-clip1-window.mp3" length="551621" type="audio/mpeg"/>
+<itunes:duration>31</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】火星栖息舱的窗户其实是一台电视：播着舱外火星日出的视频，太阳升起、舱影、夜里星星，最后落到一句话——几乎就是火星。
+【Reels 角度】他们的火星窗户是一台电视：先给画面，再给几乎是火星这句结尾。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; full-episode music cues do not appear in this speech segment.
+【来源】https://www.nasa.gov/podcasts/curious-universe/encore-a-year-in-mars-dune-alpha/
+【采集日（北京时间）】2026-10-24
+【发布时间精度】exact_encore（Inherits parent original publish date (Megaphone RSS Tue, 20 Oct 2026 13:40:00 -0000); clip itself was modelled 2026-10-24 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:encore-a-year-in-mars-dune-alpha
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/encore-a-year-in-mars-dune-alpha/
+【片段】原集 224.0-255.0 秒，31.0 秒，原声，未加 BGM，文件：clips/chapea-clip1-window.mp3]]></description>
+<content:encoded><![CDATA[We have a window that we use,
+air quotes around the word window,
+that it uses a TV with a video feed
+of the outside of our habitat.
+And we can see the Martian sunrise
+with it out the window,
+and then the sun basically goes over our head
+and we eventually see the shadow of our habitat
+on the ground and eventually,
+throughout night we see the stars.
+And it's really pretty.
+If I could sum up Chapea in just a couple of words,
+the words would be, almost Mars.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>encore-a-year-in-mars-dune-alpha-clip-window</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/encore-a-year-in-mars-dune-alpha/</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-10-24</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 31.000s / 551621 bytes + raw.githubusercontent HEAD 200 audio/mpeg 551621 bytes (already pushed in batch 1, re-verified 2026-10-24)</_audio_verified>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:encore-a-year-in-mars-dune-alpha</_parent_guid>
+<_parent_id>nasa-curious-chapea-encore</_parent_id>
+<_clip_start_s>224.0</_clip_start_s>
+<_clip_end_s>255.0</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
 <item>
 <title>Encore: A Year In Mars Dune Alpha</title>
 <link>https://www.nasa.gov/podcasts/curious-universe/encore-a-year-in-mars-dune-alpha/</link>
@@ -17,14 +70,14 @@
 <category>form:text</category>
 <category>production:full-episode</category>
 <category>production:text-script</category>
-<category>production:ready-clip</category>
 <language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
 <enclosure url="https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION6420899881.mp3" length="39402865" type="audio/mpeg"/>
 <itunes:duration>1626</itunes:duration>
 <description><![CDATA[【节目】NASA's Curious Universe
 【主题】science-space
 【形态】audio, text
-【生产形态】full-episode, text-script, ready-clip
+【生产形态】full-episode, text-script
 【摘要】一年火星模拟栖息舱 Mars Dune Alpha：四名乘员在 3D 打印舱里生活一年，窗户其实是播火星日出的电视、舱里几乎闻不到气味、VR + 跑步机模拟火星行走。三个现成短片段角度都已在 2026-10-24 工作流中验证。
 【Reels 角度】他们的火星窗户是一台电视：先给“几乎是火星”这个钩子，再切气味与 VR 两个备选。
 【许可证】Public domain：美国联邦政府作品（NASA 官方播客），一般不受版权保护
@@ -32,7 +85,7 @@
 【来源】https://www.nasa.gov/podcasts/curious-universe/encore-a-year-in-mars-dune-alpha/
 【采集日（北京时间）】2026-10-24
 【发布时间精度】exact_encore（NASA Curious Universe Megaphone RSS: Tue, 20 Oct 2026 13:40:00 -0000；页内注明本集最初发表于 2023 年）
-【ready-clip】Their Mars window is a TV：原集 224.0-255.0 秒，31.0 秒，原声，未加 BGM，文件：clips/chapea-clip1-window.mp3]]></description>
+【子片段 GUID】urn:podcast:nasa.gov:curious-universe:encore-a-year-in-mars-dune-alpha:clip:window:224-255]]></description>
 <content:encoded><![CDATA[HOST JACOB PINTER: This is NASA’s Curious Universe. I’m Jacob Pinter. NASA is making plans to send humans farther into space than ever before. Through the Artemis program, NASA astronauts will leave new bootprints on the Moon. NASA is building a Moon Base, humanity’s first-ever outpost on the Moon. And, as you’re about to hear, NASA is gathering data for crew health and performance by simulating year-long missions to Mars.
 In this encore presentation, we’re revisiting one of our favorite Curious Universe stories. It’s about a series of NASA missions called CHAPEA. In a minute, you’ll learn how NASA simulates Mars here on Earth and what NASA hopes to learn.
 This episode first came out in 2023, and there are a couple of updates you should know about. This episode focuses on CHAPEA 1, and now CHAPEA 2 is about to wrap up. Its crew is scheduled to leave their habitat and rejoin the rest of us on Earth at the end of October 2026. If you want to learn more about CHAPEA, you should also check out Houston We Have a Podcast. Houston We Have a Podcast is another official NASA podcast. They’ve published regular audio logs during the CHAPEA missions, and those logs are a great way to dive even deeper.
@@ -149,7 +202,7 @@ NATE: Yeah, NASA was kind enough to provide us with quite a few pictures of natu
 <_rights_status>reusable_with_no_endorsement_note</_rights_status>
 <_collected_at_beijing>2026-10-24</_collected_at_beijing>
 <_audio_verified>HEAD 跟随重定向得 audio/mpeg + 39402865 字节；与 2026-10-24 播客工作流本地文件字节数完全一致，ffprobe 时长 1626.122 秒</_audio_verified>
-<_ready_clip>clips/chapea-clip1-window.mp3|224.0-255.0s|31.0s|original_audio</_ready_clip>
+<_child_clip_guid>urn:podcast:nasa.gov:curious-universe:encore-a-year-in-mars-dune-alpha:clip:window:224-255</_child_clip_guid>
 </item>
 <item>
 <title>AI at NASA</title>
@@ -160,7 +213,7 @@ NATE: Yeah, NASA was kind enough to provide us with quite a few pictures of natu
 <category>form:text</category>
 <category>production:text-script</category>
 <language>en</language>
-<itunes:image href="https://www.nasa.gov/wp-content/uploads/2026/05/ep424-ai-at-nasa-thumbnail.png?w=300"/>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
 <description><![CDATA[【节目】Houston We Have a Podcast
 【主题】technology-ai
 【形态】text
@@ -313,6 +366,7 @@ Give us a rating and feedback on whatever platform you’re listening to us on, 
 <category>production:full-episode</category>
 <category>production:text-script</category>
 <language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
 <enclosure url="https://cdn.oceanservice.noaa.gov/oceanserviceprod/podcast/dec23/nop71-coral-bleaching.m4a" length="16134595" type="audio/mp4a-latm"/>
 <itunes:duration>997</itunes:duration>
 <description><![CDATA[【节目】NOAA Ocean Podcast
@@ -357,6 +411,54 @@ HOST: That's a great point you made about reducing your carbon footprint, so no 
 <_audio_verified>官方页音频地址 301 到 cdn.oceanservice.noaa.gov 永久地址；HEAD 得 audio/mp4a-latm + 16134595 字节；整文件下载后 ffprobe 时长 997.042 秒、字节数一致</_audio_verified>
 </item>
 <item>
+<title>Break the Grip of the Rip: swim parallel, not back — clip from Rip Currents (335.1-380.9s)</title>
+<link>https://oceanservice.noaa.gov/podcast/june23/nop66-rip-currents.html</link>
+<guid isPermaLink="false">urn:podcast:oceanservice.noaa.gov:podcast:june23:nop66-rip-currents:clip:335.1-380.9</guid>
+<pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+<category>ocean-environment</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/noaa-rip-currents-clip-335-381.mp3" length="693395" type="audio/mpeg"/>
+<itunes:duration>46</itunes:duration>
+<description><![CDATA[【节目】NOAA Ocean Podcast
+【主题】ocean-environment
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】离岸流自救口令：别直游回岸、别跟水流硬拼，沿岸平行游出再斜着回岸；这套指引已让约 90% 受访海滩游客知晓，但每年仍约有 100 人因此溺亡。
+【Reels 角度】被离岸流卷走先别慌：平行游出才是活路，配 90% 与每年约 100 起的数据钩子。
+【许可证】Public domain：Excerpt of a US federal government work (NOAA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NOAA endorsement implied.
+【来源】https://oceanservice.noaa.gov/podcast/june23/nop66-rip-currents.html
+【采集日（北京时间）】2026-10-24
+【发布时间精度】date_only（Inherits parent original publish date (NOAA list 28 Jun 2023, date only); clip itself was modelled 2026-10-24 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:oceanservice.noaa.gov:podcast:june23:nop66-rip-currents
+【父集链接】https://oceanservice.noaa.gov/podcast/june23/nop66-rip-currents.html
+【片段】原集 335.1-380.9 秒，45.8 秒，原声，未加 BGM，文件：clips/noaa-rip-currents-clip-335-381.mp3]]></description>
+<content:encoded><![CDATA[break the grip of the rip, you see an image of a rip current, and it gives guidance to people
+on what to do if you're caught in a rip current, which is to stay calm, don't swim straight back
+to shore, don't fight the current, swim out of the current along the beach, you're out of the
+current and then back to the beach at an angle. And that guidance has largely been pretty
+successful. We did some surveys recently and found something like 90% of those surveyed,
+of those beach goers that we surveyed, were generally aware of rip currents and what to do
+if they're caught in one. But despite that success, as I mentioned, we're still seeing
+the same number of rip current drownings every year, something like 100 rip current drownings per year.]]></content:encoded>
+<_show>NOAA Ocean Podcast</_show>
+<_episode_id>nop66-clip-335-381</_episode_id>
+<_source_url>https://oceanservice.noaa.gov/podcast/june23/nop66-rip-currents.html</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-10-24</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 45.800s / 693395 bytes (ffmpeg cut from verified full M4A in batch 1, re-verified 2026-10-24) + raw.githubusercontent HEAD 200 audio/mpeg 693395 bytes</_audio_verified>
+<_parent_guid>urn:podcast:oceanservice.noaa.gov:podcast:june23:nop66-rip-currents</_parent_guid>
+<_parent_id>noaa-ocean-rip-currents-66</_parent_id>
+<_clip_start_s>335.1</_clip_start_s>
+<_clip_end_s>380.9</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
 <title>Rip Currents: Preparedness and Prevention</title>
 <link>https://oceanservice.noaa.gov/podcast/june23/nop66-rip-currents.html</link>
 <guid isPermaLink="false">urn:podcast:oceanservice.noaa.gov:podcast:june23:nop66-rip-currents</guid>
@@ -366,14 +468,14 @@ HOST: That's a great point you made about reducing your carbon footprint, so no 
 <category>form:text</category>
 <category>production:full-episode</category>
 <category>production:text-script</category>
-<category>production:ready-clip</category>
 <language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
 <enclosure url="https://cdn.oceanservice.noaa.gov/oceanserviceprod/podcast/june23/nop66-rip-currents.m4a" length="16026456" type="audio/mp4"/>
 <itunes:duration>818</itunes:duration>
 <description><![CDATA[【节目】NOAA Ocean Podcast
 【主题】ocean-environment
 【形态】audio, text
-【生产形态】full-episode, text-script, ready-clip
+【生产形态】full-episode, text-script
 【摘要】离岸流自救：离岸流不是把人拉下水，而是把人拉离岸；美国每年约 100 人因此溺亡，超过龙卷风与闪电；正确做法是沿岸平行游出、不要直游回岸，NOAA 还有逐英里、逐小时、未来 6 天的离岸流预报模型。
 【Reels 角度】被离岸流卷走先别慌：它拉你离岸不拉你下沉，平行游出才是活路，配 90% 知晓率与每年约 100 起的数据钩子。
 【许可证】Public domain：美国联邦政府作品（NOAA 官方播客），一般不受版权保护
@@ -381,7 +483,7 @@ HOST: That's a great point you made about reducing your carbon footprint, so no 
 【来源】https://oceanservice.noaa.gov/podcast/june23/nop66-rip-currents.html
 【采集日（北京时间）】2026-10-24
 【发布时间精度】date_only（NOAA 官方单集列表：28 Jun 2023（仅到日，RSS 时间以当日 00:00 UTC 占位，精度字段已注明，不伪造具体时刻））
-【ready-clip】Rip current segment 335.1-380.9s：原集 335.1-380.9 秒，45.8 秒，原声，未加 BGM，文件：clips/noaa-rip-currents-clip-335-381.mp3]]></description>
+【子片段 GUID】urn:podcast:oceanservice.noaa.gov:podcast:june23:nop66-rip-currents:clip:335.1-380.9]]></description>
 <content:encoded><![CDATA[HOST: This is the NOAA Ocean Podcast. I’m Marissa Anderson. People who recreate at or work in coastal areas or the shores of the Great Lakes may be impacted by powerful, fast-moving channels of water known as rip currents. Rip currents can move faster than an Olympic swimmer, and every year lifeguards rescue tens of thousands of people in the U.S. who are caught in them. Today’s podcast discusses what rip currents are and how NOAA is helping to keep people safe from them. We’re joined by Gregory Dusek, senior scientist with NOAA’s National Ocean Service. Please note this podcast was recorded over the internet, and the audio may be a bit spotty at times. Let’s dive right in...
 HOST: So we're very excited to be able to talk to you today on the topic of rip currents and NOAA's rip current model. So to set the stage for our discussion, can we start with the basics on what a rip current is and clear up any misconceptions on them for our listeners? Just for an example, I grew up by the beach. And when I was first learning about what rip currents were, they were often referred to as rip tides, which is not the correct term. So can you please tell us what a rip current is, what causes them, and where do they typically occur?
 Dr. Gregory Dusek, senior scientist, NOAA’s National Ocean Service
@@ -414,7 +516,7 @@ HOST: This is the NOAA Ocean Podcast. Check out our show notes to learn more abo
 <_rights_status>reusable_with_no_endorsement_note</_rights_status>
 <_collected_at_beijing>2026-10-24</_collected_at_beijing>
 <_audio_verified>官方页音频地址 301 到 cdn.oceanservice.noaa.gov 永久地址；HEAD 得 audio/mp4 + 16026456 字节；整文件下载后 ffprobe 时长 818.434 秒（约 13:38，与第三方目录一致）、字节数一致</_audio_verified>
-<_ready_clip>clips/noaa-rip-currents-clip-335-381.mp3|335.1-380.9s|45.8s|original_audio</_ready_clip>
+<_child_clip_guid>urn:podcast:oceanservice.noaa.gov:podcast:june23:nop66-rip-currents:clip:335.1-380.9</_child_clip_guid>
 </item>
 <item>
 <title>Inside a Black Hole</title>
@@ -427,6 +529,7 @@ HOST: This is the NOAA Ocean Podcast. Check out our show notes to learn more abo
 <category>production:full-episode</category>
 <category>production:text-script</category>
 <language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
 <enclosure url="https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION3060455350.mp3?updated=1725385395" length="29380743" type="audio/mpeg"/>
 <itunes:duration>1204</itunes:duration>
 <description><![CDATA[【节目】NASA's Curious Universe

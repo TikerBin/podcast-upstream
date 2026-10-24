@@ -1,16 +1,18 @@
-feed.xml: XML OK, 5 items, GUID unique, all isPermaLink=false
-feeds/audio.xml: XML OK, 4 items, GUIDs all in total feed
-feeds/ocean-environment.xml: XML OK, 2 items, GUIDs all in total feed
-feeds/ready-clip.xml: XML OK, 2 items, GUIDs all in total feed
-feeds/science-space.xml: XML OK, 2 items, GUIDs all in total feed
-feeds/technology-ai.xml: XML OK, 1 items, GUIDs all in total feed
-feeds/text.xml: XML OK, 5 items, GUIDs all in total feed
-feeds/video.xml: XML OK, 0 items, GUIDs all in total feed
-nasa-curious-chapea-encore: enclosure length/type match items.json; HEAD -> status=200 type=audio/mpeg length=39402865 (items: audio/mpeg/39402865)
-nasa-hwhap-ai-at-nasa-424: no enclosure (text-only, OK: full transcript 5521 words)
-noaa-ocean-coral-bleaching-71: enclosure length/type match items.json; HEAD -> status=200 type=audio/mp4a-latm length=16134595 (items: audio/mp4a-latm/16134595)
-noaa-ocean-rip-currents-66: enclosure length/type match items.json; HEAD -> status=200 type=audio/mp4 length=16026456 (items: audio/mp4/16026456)
-nasa-curious-black-hole: enclosure length/type match items.json; HEAD -> status=200 type=audio/mpeg length=29380743 (items: audio/mpeg/29380743)
-feed.json: 5 items, GUID set matches feed.xml
-VALIDATION PASSED
-RERUN_CHECK: second build_feed run produced the same 5-GUID set, no duplicates (lastBuildDate naturally changes each run, so byte-identity is not the test; GUID set is).
+feed.xml: XML OK, 7 items, GUID set == items.json, all isPermaLink=false, all have itunes:image
+feeds/science-space.xml: XML OK, 3 items, exact filter set
+feeds/ocean-environment.xml: XML OK, 3 items, exact filter set
+feeds/technology-ai.xml: XML OK, 1 items, exact filter set
+feeds/audio.xml: XML OK, 6 items, exact filter set
+feeds/video.xml: XML OK, 0 items, exact filter set
+feeds/text.xml: XML OK, 7 items, exact filter set
+feeds/ready-clip.xml: XML OK, 2 items, exact filter set
+nasa-curious-chapea-encore-clip-window: enclosure match; HEAD 200 audio/mpeg 551621 (items audio/mpeg/551621)
+nasa-curious-chapea-encore-clip-window: clip OK, parent nasa-curious-chapea-encore, 31s, 551621 bytes, 91 words (< parent 4177 words)
+nasa-curious-chapea-encore: enclosure match; HEAD 200 audio/mpeg 39402865 (items audio/mpeg/39402865)
+noaa-ocean-coral-bleaching-71: enclosure match; HEAD 200 audio/mp4a-latm 16134595 (items audio/mp4a-latm/16134595)
+noaa-ocean-rip-currents-66-clip-335-381: enclosure match; HEAD 200 audio/mpeg 693395 (items audio/mpeg/693395)
+noaa-ocean-rip-currents-66-clip-335-381: clip OK, parent noaa-ocean-rip-currents-66, 45s, 693395 bytes, 138 words (< parent 2752 words)
+noaa-ocean-rip-currents-66: enclosure match; HEAD 200 audio/mp4 16026456 (items audio/mp4/16026456)
+nasa-curious-black-hole: enclosure match; HEAD 200 audio/mpeg 29380743 (items audio/mpeg/29380743)
+feed.json: 7 items, GUID set + content + attachments match feed.xml
+VALIDATION PASSED (no hardcoded total)

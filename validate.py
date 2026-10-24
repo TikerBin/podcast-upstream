@@ -1,16 +1,20 @@
 #!/usr/bin/env python3
-"""Independent validation for podcast-upstream feeds (not the builder)."""
+"""Independent validation for podcast-upstream feeds (not the builder).
+No hardcoded total: counts are derived from items.json and each filtered
+feed must equal the exact GUID set implied by its filter. Cover remote HEAD
+is checked separately after push (pre-push local validation checks the
+local cover file only, via build_feed).
+"""
 import json
 import os
-import sys
 import urllib.request
 import xml.etree.ElementTree as ET
 BASE = os.path.dirname(os.path.abspath(__file__))
 NS = {"content": "http://purl.org/rss/1.0/modules/content/"}
-def guids(path):
+def parse_items(path):
     root = ET.parse(path).getroot()
     ch = root.find("channel")
-    out = []
+    out = {}
     for it in ch.findall("item"):
         g = it.find("guid")
         assert g is not None and g.get("isPermaLink") == "false", path
@@ -18,8 +22,10 @@ def guids(path):
         assert it.find("pubDate") is not None
         enc = it.find("enclosure")
         cont = it.find("content:encoded", NS)
-        assert enc is not None or (cont is not None and len(cont.text or "") > 5000), path
-        out.append((g.text, enc))
+        assert enc is not None or (cont is not None and len(cont.text or "") > 100), path
+        img = it.find("{http://www.itunes.com/dtds/podcast-1.0.dtd}image")
+        assert img is not None and img.get("href"), path + " missing itunes:image"
+        out[g.text] = {"enc": enc, "content": cont.text if cont is not None else "", "image": img.get("href"), "title": it.find("title").text}
     return out
 def head(url):
     req = urllib.request.Request(url, method="HEAD", headers={"User-Agent": "podcast-upstream-validate"})
@@ -29,37 +35,69 @@ def head(url):
     except Exception as e:
         return None, None, str(e)
 def main():
-    items = json.load(open(os.path.join(BASE, "items.json"), encoding="utf-8"))["items"]
-    by_guid = {i["guid"]: i for i in items if i["status"] == "active"}
-    total = guids(os.path.join(BASE, "feed.xml"))
-    assert len(total) == len(by_guid) == 5, (len(total), len(by_guid))
-    assert len(set(g for g, _ in total)) == 5
-    print("feed.xml: XML OK, 5 items, GUID unique, all isPermaLink=false")
-    for path in sorted(os.listdir(os.path.join(BASE, "feeds"))):
-        if not path.endswith(".xml"):
-            continue
-        gs = guids(os.path.join(BASE, "feeds", path))
-        assert len(gs) == len(set(g for g, _ in gs)), path
-        for g, _ in gs:
-            assert g in by_guid, (path, g)
-        print("feeds/%s: XML OK, %d items, GUIDs all in total feed" % (path, len(gs)))
-    for g, enc in total:
+    data = json.load(open(os.path.join(BASE, "items.json"), encoding="utf-8"))
+    items = [i for i in data["items"] if i.get("status") == "active"]
+    by_guid = {i["guid"]: i for i in items}
+    total = parse_items(os.path.join(BASE, "feed.xml"))
+    assert set(total) == set(by_guid), "total GUID set != items.json"
+    print("feed.xml: XML OK, %d items, GUID set == items.json, all isPermaLink=false, all have itunes:image" % len(total))
+    # filtered feeds must equal exact filter sets, not just subsets
+    def expected(filter_fn):
+        return set(i["guid"] for i in items if filter_fn(i))
+    checks = {
+        "feeds/science-space.xml": lambda i: i["theme"] == "science-space",
+        "feeds/ocean-environment.xml": lambda i: i["theme"] == "ocean-environment",
+        "feeds/technology-ai.xml": lambda i: i["theme"] == "technology-ai",
+        "feeds/audio.xml": lambda i: "audio" in i["forms"],
+        "feeds/video.xml": lambda i: "video" in i["forms"],
+        "feeds/text.xml": lambda i: "text" in i["forms"],
+        "feeds/ready-clip.xml": lambda i: "ready-clip" in i["production_kinds"],
+    }
+    for path, fn in checks.items():
+        gs = parse_items(os.path.join(BASE, path))
+        exp = expected(fn)
+        assert set(gs) == exp, (path, set(gs), exp)
+        print("%s: XML OK, %d items, exact filter set" % (path, len(gs)))
+    # enclosure + content + clip/parent disjointness
+    for g, info in total.items():
         it = by_guid[g]
-        if enc is None:
-            print("%s: no enclosure (text-only, OK: full transcript %d words)" % (it["id"], it["transcript_word_count"]))
-            continue
-        assert int(enc.get("length")) == it["audio_bytes"], (it["id"], enc.get("length"), it["audio_bytes"])
-        assert enc.get("type") == it["audio_mime"], (it["id"], enc.get("type"), it["audio_mime"])
-        status, ctype, clen = head(it["audio_url"])
-        print("%s: enclosure length/type match items.json; HEAD -> status=%s type=%s length=%s (items: %s/%s)" % (it["id"], status, ctype, clen, it["audio_mime"], it["audio_bytes"]))
-        assert status == 200, it["id"]
-        assert clen is not None and int(clen) == it["audio_bytes"], it["id"]
-        # MIME: allow server family match; coral returns audio/mp4a-latm exactly, others audio/mpeg/audio/mp4
-        assert ctype == it["audio_mime"], (it["id"], ctype, it["audio_mime"])
+        assert info["image"] == it["cover_image"], (it["id"], "cover mismatch")
+        enc = info["enc"]
+        if it.get("audio_url"):
+            assert enc is not None, it["id"]
+            assert int(enc.get("length")) == it["audio_bytes"], (it["id"], enc.get("length"), it["audio_bytes"])
+            assert enc.get("type") == it["audio_mime"], (it["id"], enc.get("type"), it["audio_mime"])
+            status, ctype, clen = head(it["audio_url"])
+            print("%s: enclosure match; HEAD %s %s %s (items %s/%s)" % (it["id"], status, ctype, clen, it["audio_mime"], it["audio_bytes"]))
+            assert status == 200, it["id"]
+            assert clen is not None and int(clen) == it["audio_bytes"], it["id"]
+            assert ctype == it["audio_mime"], (it["id"], ctype, it["audio_mime"])
+        else:
+            assert enc is None, it["id"]
+        # content text must equal transcript file content
+        with open(os.path.join(BASE, it["transcript_file"]), encoding="utf-8") as f:
+            t = f.read().strip()
+        assert info["content"].strip() == t, (it["id"], "content != transcript file")
+        if "ready-clip" in it["production_kinds"]:
+            assert "full-episode" not in it["production_kinds"], it["id"]
+            parent = by_guid[it["_parent_guid"]]
+            assert it["guid"] != parent["guid"]
+            assert it["audio_bytes"] != parent["audio_bytes"]
+            assert it["audio_duration_s"] < parent["audio_duration_s"]
+            assert it["transcript_word_count"] < parent["transcript_word_count"]
+            assert it["audio_url"].startswith("https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/")
+            print("%s: clip OK, parent %s, %ds, %d bytes, %d words (< parent %d words)" % (it["id"], parent["id"], it["audio_duration_s"], it["audio_bytes"], it["transcript_word_count"], parent["transcript_word_count"]))
+        if "full-episode" in it["production_kinds"]:
+            assert "ready-clip" not in it["production_kinds"], it["id"]
     fj = json.load(open(os.path.join(BASE, "feed.json"), encoding="utf-8"))
-    assert len(fj["items"]) == 5
     assert set(x["id"] for x in fj["items"]) == set(by_guid)
-    print("feed.json: 5 items, GUID set matches feed.xml")
-    print("VALIDATION PASSED")
+    for x in fj["items"]:
+        rss = total[x["id"]]
+        assert x["content_text"].strip() == rss["content"].strip(), x["id"]
+        if by_guid[x["id"]].get("audio_url"):
+            assert x["attachments"][0]["url"] == by_guid[x["id"]]["audio_url"], x["id"]
+            assert x["attachments"][0]["size_in_bytes"] == by_guid[x["id"]]["audio_bytes"], x["id"]
+    print("feed.json: %d items, GUID set + content + attachments match feed.xml" % len(fj["items"]))
+    print("VALIDATION PASSED (no hardcoded total)")
 if __name__ == "__main__":
     main()

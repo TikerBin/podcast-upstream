@@ -5,8 +5,61 @@
 <link>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main</link>
 <description>主题 science-space（科学/太空）的待制作播客条目，GUID 与总 feed 完全一致。</description>
 <language>en</language>
-<lastBuildDate>Sat, 24 Oct 2026 13:37:32 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 14:07:24 +0000</lastBuildDate>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/feeds/science-space.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Their Mars window is a TV — clip from Encore: A Year In Mars Dune Alpha</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/encore-a-year-in-mars-dune-alpha/</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:encore-a-year-in-mars-dune-alpha:clip:window:224-255</guid>
+<pubDate>Tue, 20 Oct 2026 13:40:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/chapea-clip1-window.mp3" length="551621" type="audio/mpeg"/>
+<itunes:duration>31</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】火星栖息舱的窗户其实是一台电视：播着舱外火星日出的视频，太阳升起、舱影、夜里星星，最后落到一句话——几乎就是火星。
+【Reels 角度】他们的火星窗户是一台电视：先给画面，再给几乎是火星这句结尾。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; full-episode music cues do not appear in this speech segment.
+【来源】https://www.nasa.gov/podcasts/curious-universe/encore-a-year-in-mars-dune-alpha/
+【采集日（北京时间）】2026-10-24
+【发布时间精度】exact_encore（Inherits parent original publish date (Megaphone RSS Tue, 20 Oct 2026 13:40:00 -0000); clip itself was modelled 2026-10-24 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:encore-a-year-in-mars-dune-alpha
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/encore-a-year-in-mars-dune-alpha/
+【片段】原集 224.0-255.0 秒，31.0 秒，原声，未加 BGM，文件：clips/chapea-clip1-window.mp3]]></description>
+<content:encoded><![CDATA[We have a window that we use,
+air quotes around the word window,
+that it uses a TV with a video feed
+of the outside of our habitat.
+And we can see the Martian sunrise
+with it out the window,
+and then the sun basically goes over our head
+and we eventually see the shadow of our habitat
+on the ground and eventually,
+throughout night we see the stars.
+And it's really pretty.
+If I could sum up Chapea in just a couple of words,
+the words would be, almost Mars.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>encore-a-year-in-mars-dune-alpha-clip-window</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/encore-a-year-in-mars-dune-alpha/</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-10-24</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 31.000s / 551621 bytes + raw.githubusercontent HEAD 200 audio/mpeg 551621 bytes (already pushed in batch 1, re-verified 2026-10-24)</_audio_verified>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:encore-a-year-in-mars-dune-alpha</_parent_guid>
+<_parent_id>nasa-curious-chapea-encore</_parent_id>
+<_clip_start_s>224.0</_clip_start_s>
+<_clip_end_s>255.0</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
 <item>
 <title>Encore: A Year In Mars Dune Alpha</title>
 <link>https://www.nasa.gov/podcasts/curious-universe/encore-a-year-in-mars-dune-alpha/</link>
@@ -17,14 +70,14 @@
 <category>form:text</category>
 <category>production:full-episode</category>
 <category>production:text-script</category>
-<category>production:ready-clip</category>
 <language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
 <enclosure url="https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION6420899881.mp3" length="39402865" type="audio/mpeg"/>
 <itunes:duration>1626</itunes:duration>
 <description><![CDATA[【节目】NASA's Curious Universe
 【主题】science-space
 【形态】audio, text
-【生产形态】full-episode, text-script, ready-clip
+【生产形态】full-episode, text-script
 【摘要】一年火星模拟栖息舱 Mars Dune Alpha：四名乘员在 3D 打印舱里生活一年，窗户其实是播火星日出的电视、舱里几乎闻不到气味、VR + 跑步机模拟火星行走。三个现成短片段角度都已在 2026-10-24 工作流中验证。
 【Reels 角度】他们的火星窗户是一台电视：先给“几乎是火星”这个钩子，再切气味与 VR 两个备选。
 【许可证】Public domain：美国联邦政府作品（NASA 官方播客），一般不受版权保护
@@ -32,7 +85,7 @@
 【来源】https://www.nasa.gov/podcasts/curious-universe/encore-a-year-in-mars-dune-alpha/
 【采集日（北京时间）】2026-10-24
 【发布时间精度】exact_encore（NASA Curious Universe Megaphone RSS: Tue, 20 Oct 2026 13:40:00 -0000；页内注明本集最初发表于 2023 年）
-【ready-clip】Their Mars window is a TV：原集 224.0-255.0 秒，31.0 秒，原声，未加 BGM，文件：clips/chapea-clip1-window.mp3]]></description>
+【子片段 GUID】urn:podcast:nasa.gov:curious-universe:encore-a-year-in-mars-dune-alpha:clip:window:224-255]]></description>
 <content:encoded><![CDATA[HOST JACOB PINTER: This is NASA’s Curious Universe. I’m Jacob Pinter. NASA is making plans to send humans farther into space than ever before. Through the Artemis program, NASA astronauts will leave new bootprints on the Moon. NASA is building a Moon Base, humanity’s first-ever outpost on the Moon. And, as you’re about to hear, NASA is gathering data for crew health and performance by simulating year-long missions to Mars.
 In this encore presentation, we’re revisiting one of our favorite Curious Universe stories. It’s about a series of NASA missions called CHAPEA. In a minute, you’ll learn how NASA simulates Mars here on Earth and what NASA hopes to learn.
 This episode first came out in 2023, and there are a couple of updates you should know about. This episode focuses on CHAPEA 1, and now CHAPEA 2 is about to wrap up. Its crew is scheduled to leave their habitat and rejoin the rest of us on Earth at the end of October 2026. If you want to learn more about CHAPEA, you should also check out Houston We Have a Podcast. Houston We Have a Podcast is another official NASA podcast. They’ve published regular audio logs during the CHAPEA missions, and those logs are a great way to dive even deeper.
@@ -149,7 +202,7 @@ NATE: Yeah, NASA was kind enough to provide us with quite a few pictures of natu
 <_rights_status>reusable_with_no_endorsement_note</_rights_status>
 <_collected_at_beijing>2026-10-24</_collected_at_beijing>
 <_audio_verified>HEAD 跟随重定向得 audio/mpeg + 39402865 字节；与 2026-10-24 播客工作流本地文件字节数完全一致，ffprobe 时长 1626.122 秒</_audio_verified>
-<_ready_clip>clips/chapea-clip1-window.mp3|224.0-255.0s|31.0s|original_audio</_ready_clip>
+<_child_clip_guid>urn:podcast:nasa.gov:curious-universe:encore-a-year-in-mars-dune-alpha:clip:window:224-255</_child_clip_guid>
 </item>
 <item>
 <title>Inside a Black Hole</title>
@@ -162,6 +215,7 @@ NATE: Yeah, NASA was kind enough to provide us with quite a few pictures of natu
 <category>production:full-episode</category>
 <category>production:text-script</category>
 <language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
 <enclosure url="https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION3060455350.mp3?updated=1725385395" length="29380743" type="audio/mpeg"/>
 <itunes:duration>1204</itunes:duration>
 <description><![CDATA[【节目】NASA's Curious Universe

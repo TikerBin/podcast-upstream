@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """Build podcast upstream feeds from items.json + transcripts/*.txt.
-Mirrors fb-reels/fb360: items.json is the only source of truth.
+Model v2 (2026-10-24 fix): ready-clips are independent items, not parent
+items with a _ready_clip side field. Parents carry full-episode only
+(plus text-script where a full transcript exists); clips carry ready-clip
+only. The two production sets are disjoint.
 Usage: python3 build_feed.py [--base-url URL]
 """
 import argparse
@@ -11,6 +14,8 @@ from datetime import datetime, timezone
 from email.utils import format_datetime
 from xml.sax.saxutils import escape
 BASE = os.path.dirname(os.path.abspath(__file__))
+RAW_CLIPS_PREFIX = "https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/"
+DEFAULT_COVER = "https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"
 def load_items():
     with open(os.path.join(BASE, "items.json"), encoding="utf-8") as f:
         data = json.load(f)
@@ -30,6 +35,8 @@ def ffprobe_duration(path):
          "-of", "default=noprint_wrappers=1:nokey=1", path], text=True).strip()
     return float(out)
 def validate(items):
+    by_guid = {i["guid"]: i for i in items if i.get("status") == "active"}
+    by_id = {i["id"]: i for i in items if i.get("status") == "active"}
     seen_guid, seen_id = set(), set()
     for it in items:
         if it.get("status") != "active":
@@ -41,11 +48,19 @@ def validate(items):
             raise ValueError("duplicate/missing id: %r" % (iid,))
         seen_guid.add(gid)
         seen_id.add(iid)
+        if it.get("ready_clips"):
+            raise ValueError("%s: old ready_clips model retired, use independent clip items" % iid)
         if not it.get("title"):
             raise ValueError("%s: missing title" % iid)
+        if not it.get("cover_image"):
+            raise ValueError("%s: missing cover_image" % iid)
+        if it["cover_image"] == DEFAULT_COVER:
+            p = os.path.join(BASE, "images/default-cover.png")
+            if not os.path.exists(p):
+                raise ValueError("%s: default cover file missing" % iid)
         transcript = load_transcript(it)
         words = len(transcript.split())
-        if words < 1000:
+        if words < 50:
             raise ValueError("%s: transcript only %d words" % (iid, words))
         if it.get("transcript_word_count") != words:
             raise ValueError("%s: word count %s != file %d" % (iid, it.get("transcript_word_count"), words))
@@ -61,18 +76,43 @@ def validate(items):
                 raise ValueError("%s: audio_duration_s missing" % iid)
         if it.get("theme") not in ("science-space", "ocean-environment", "technology-ai"):
             raise ValueError("%s: unknown theme %r" % (iid, it.get("theme")))
-        for clip in it.get("ready_clips", []):
-            p = os.path.join(BASE, clip["file"])
-            if not os.path.exists(p):
-                raise ValueError("%s: ready_clip missing %s" % (iid, clip["file"]))
-            dur = ffprobe_duration(p)
-            expect = clip["end_s"] - clip["start_s"]
+        kinds = it.get("production_kinds", [])
+        if "full-episode" in kinds and "ready-clip" in kinds:
+            raise ValueError("%s: full-episode and ready-clip must be disjoint" % iid)
+        if "ready-clip" in kinds:
+            pg = it.get("_parent_guid")
+            if not pg or pg not in by_guid:
+                raise ValueError("%s: ready-clip parent guid missing/unknown" % iid)
+            if pg == gid:
+                raise ValueError("%s: clip guid equals parent guid" % iid)
+            parent = by_guid[pg]
+            if not it["audio_url"].startswith(RAW_CLIPS_PREFIX):
+                raise ValueError("%s: clip enclosure must be raw GitHub clips URL" % iid)
+            if it["audio_mime"] != "audio/mpeg":
+                raise ValueError("%s: clip mime must be audio/mpeg" % iid)
+            local = os.path.join(BASE, it["_clip_file"])
+            if not os.path.exists(local):
+                raise ValueError("%s: clip file missing %s" % iid)
+            if os.path.getsize(local) != it["audio_bytes"]:
+                raise ValueError("%s: clip local size != audio_bytes" % iid)
+            dur = ffprobe_duration(local)
+            expect = it["_clip_end_s"] - it["_clip_start_s"]
             if abs(dur - expect) > 0.2:
-                raise ValueError("%s: ready_clip %s != %s" % (iid, dur, expect))
-            if clip.get("source_nature") != "original_audio":
-                raise ValueError("%s: ready_clip must be original_audio" % iid)
-            if "ready-clip" not in it.get("production_kinds", []):
-                raise ValueError("%s: ready_clip without production kind" % iid)
+                raise ValueError("%s: clip duration %s != %s" % (iid, dur, expect))
+            if abs(dur - it["audio_duration_s"]) > 0.2:
+                raise ValueError("%s: clip duration != audio_duration_s" % iid)
+            parent_words = len(load_transcript(parent).split())
+            if words >= parent_words:
+                raise ValueError("%s: clip transcript must be shorter than parent" % iid)
+            if it["transcript_file"] == parent["transcript_file"]:
+                raise ValueError("%s: clip transcript file equals parent" % iid)
+            if it["audio_bytes"] == parent.get("audio_bytes"):
+                raise ValueError("%s: clip bytes equal parent bytes" % iid)
+        for cg in it.get("_child_clip_guids", []):
+            if cg not in by_guid:
+                raise ValueError("%s: child clip guid unknown %s" % (iid, cg))
+            if by_guid[cg].get("_parent_guid") != gid:
+                raise ValueError("%s: child clip parent mismatch" % iid)
 def cdata(text):
     return "<![CDATA[" + text.replace("]]>", "]]]]><![CDATA[>") + "]]>"
 def item_xml(it, base_url):
@@ -94,9 +134,10 @@ def item_xml(it, base_url):
         parts.append('<enclosure url="' + escape(it["audio_url"]) + '" length="' + str(it["audio_bytes"]) + '" type="' + escape(it["audio_mime"]) + '"/>')
         parts.append("<itunes:duration>" + str(int(round(it["audio_duration_s"]))) + "</itunes:duration>")
     desc = ("【节目】" + it["show"] + "\n【主题】" + it["theme"] + "\n【形态】" + ", ".join(it["forms"]) + "\n【生产形态】" + ", ".join(it["production_kinds"]) + "\n【摘要】" + it["summary_cn"] + "\n【Reels 角度】" + it["reels_angle"] + "\n【许可证】" + it["license"] + "：" + it["license_basis"] + "\n【权利说明】" + it["rights_note"] + "\n【来源】" + it["source_url"] + "\n【采集日（北京时间）】" + it["collected_at_beijing"] + "\n【发布时间精度】" + it["pub_date_precision"] + "（" + it["pub_date_source"] + "）")
-    if it.get("ready_clips"):
-        for c in it["ready_clips"]:
-            desc += ("\n【ready-clip】" + c["title"] + "：原集 " + str(c["start_s"]) + "-" + str(c["end_s"]) + " 秒，" + str(c["duration_s"]) + " 秒，原声，未加 BGM，文件：" + c["file"])
+    if it.get("_parent_guid"):
+        desc += ("\n【父集 GUID】" + it["_parent_guid"] + "\n【父集链接】" + it["_parent_source_url"] + "\n【片段】原集 " + str(it["_clip_start_s"]) + "-" + str(it["_clip_end_s"]) + " 秒，" + str(it["audio_duration_s"]) + " 秒，原声，未加 BGM，文件：" + it["_clip_file"])
+    if it.get("_child_clip_guids"):
+        desc += "\n【子片段 GUID】" + ", ".join(it["_child_clip_guids"])
     parts.append("<description>" + cdata(desc) + "</description>")
     parts.append("<content:encoded>" + cdata(transcript) + "</content:encoded>")
     parts.append("<_show>" + escape(it["show"]) + "</_show>")
@@ -106,10 +147,16 @@ def item_xml(it, base_url):
     parts.append("<_rights_status>" + escape(it["rights_status"]) + "</_rights_status>")
     parts.append("<_collected_at_beijing>" + escape(it["collected_at_beijing"]) + "</_collected_at_beijing>")
     if it.get("audio_url"):
-        parts.append("<_audio_verified>" + escape(it["audio_verified_method"]) + "</_audio_verified>")
-    if it.get("ready_clips"):
-        for c in it["ready_clips"]:
-            parts.append("<_ready_clip>" + escape("%s|%s-%ss|%ss|%s" % (c["file"], c["start_s"], c["end_s"], c["duration_s"], c["source_nature"])) + "</_ready_clip>")
+        parts.append("<_audio_verified>" + escape(it.get("audio_verified_method") or "") + "</_audio_verified>")
+    if it.get("_parent_guid"):
+        parts.append("<_parent_guid>" + escape(it["_parent_guid"]) + "</_parent_guid>")
+        parts.append("<_parent_id>" + escape(it["_parent_id"]) + "</_parent_id>")
+        parts.append("<_clip_start_s>" + str(it["_clip_start_s"]) + "</_clip_start_s>")
+        parts.append("<_clip_end_s>" + str(it["_clip_end_s"]) + "</_clip_end_s>")
+        parts.append("<_clip_source_nature>" + escape(it["_clip_source_nature"]) + "</_clip_source_nature>")
+    if it.get("_child_clip_guids"):
+        for cg in it["_child_clip_guids"]:
+            parts.append("<_child_clip_guid>" + escape(cg) + "</_child_clip_guid>")
     parts.append("</item>")
     return "\n".join(parts)
 def build_rss(items, base_url, title, description, self_path):
@@ -149,12 +196,18 @@ def item_json(it, base_url):
         "_collected_at_beijing": it["collected_at_beijing"],
         "_transcript_word_count": it["transcript_word_count"],
     }
-    if it.get("audio_url"):
-        out["attachments"] = [{"url": it["audio_url"], "mime_type": it["audio_mime"], "size_in_bytes": it["audio_bytes"], "duration_in_seconds": it["audio_duration_s"]}]
     if it.get("cover_image"):
         out["image"] = it["cover_image"]
-    if it.get("ready_clips"):
-        out["_ready_clips"] = it["ready_clips"]
+    if it.get("audio_url"):
+        out["attachments"] = [{"url": it["audio_url"], "mime_type": it["audio_mime"], "size_in_bytes": it["audio_bytes"], "duration_in_seconds": it["audio_duration_s"]}]
+    if it.get("_parent_guid"):
+        out["_parent_guid"] = it["_parent_guid"]
+        out["_parent_id"] = it["_parent_id"]
+        out["_clip_start_s"] = it["_clip_start_s"]
+        out["_clip_end_s"] = it["_clip_end_s"]
+        out["_clip_source_nature"] = it["_clip_source_nature"]
+    if it.get("_child_clip_guids"):
+        out["_child_clip_guids"] = it["_child_clip_guids"]
     return out
 def write(path, text):
     os.makedirs(os.path.dirname(path), exist_ok=True)
@@ -168,7 +221,7 @@ def main():
     items = [i for i in load_items() if i.get("status") == "active"]
     validate(items)
     items.sort(key=lambda i: (i["pub_date"], i["id"]), reverse=True)
-    total_desc = "待制作播客素材上游：每条 = 一份待制作内容，含可下载音频 enclosure 或完整文字稿至少一种。全部为美国政府官方播客（NASA / NOAA），公有领域、可剪辑但不得暗示官方背书。本批为小规模真实样本，未上传 GitHub 前 base-url 为占位地址，不可订阅。"
+    total_desc = "待制作播客素材上游 v2：每条 = 一份待制作内容。父集标 full-episode，片段为独立条目、仅标 ready-clip，两集合不相交。片段 enclosure 为仓库自托管 clips 直链，不依赖整集音频。全部为美国政府官方播客（NASA / NOAA），公有领域、可剪辑但不得暗示官方背书。"
     write(os.path.join(BASE, "feed.xml"), build_rss(items, base, "Podcast 素材上游 – 待制作", total_desc, "feed.xml"))
     feed_json = {
         "version": "https://jsonfeed.org/version/1.1",
@@ -193,8 +246,8 @@ def main():
             title = "Podcast 素材上游 – %s" % theme_names[kind]
             desc = "主题 %s（%s）的待制作播客条目，GUID 与总 feed 完全一致。" % (kind, theme_names[kind])
         elif kind == "ready-clip":
-            title = "Podcast 素材上游 – ready-clip（已选短片段）"
-            desc = "已实际截取并经 ffprobe 校验的 30-60 秒原声短片段条目；整集不得冒充短片段。"
+            title = "Podcast 素材上游 – ready-clip（已选短片段，独立条目）"
+            desc = "仅含独立片段条目：片段 enclosure 为仓库自托管 clips 直链，文案仅覆盖片段音频；整集不在此 feed，整集不得冒充短片段。"
         else:
             title = "Podcast 素材上游 – %s 形态" % kind
             if kind == "video" and not subset:
