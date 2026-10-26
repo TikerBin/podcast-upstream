@@ -7,7 +7,7 @@
 ## 每日流程（按顺序，不跳步）
 
 1. 锁：检查 `.daily.lock`（gitignore）。存在且未满 4 小时则退出；过期则删锁继续；结束必删锁。
-2. 候选：跑 `python3 daily_check.py`。它只读 items.json，对比已入库来源 URL，输出 Curious Universe RSS 与 NOAA 索引的候选短名单（各最多 5 条，按发布时间倒序）。候选存在不是失败；两个源都抓不到才算源站失败。
+2. 候选：跑 `python3 daily_check.py`。它只读 items.json，对比已入库来源 URL，输出 Curious Universe RSS 与 NOAA 索引的候选短名单（各最多 5 条，按发布时间倒序）。候选存在不是失败；两个源都抓不到才算源站失败。2026-10-26 修复：运行日一律用显式 `ZoneInfo("Asia/Shanghai")`，不依赖执行机本地时区；每源先按规范化来源 URL 再按 rss_guid 去重，再过滤持久 rejected，最后才截取短名单；rejected 匹配按规范化 URL 或 rss_guid（URL 改了、GUID 不变仍算同一条），过滤数与复查到期数单独上报；临时网络失败只进 failed_sources，绝不写成 rejected。记录拒绝用 `python3 daily_check.py --record-rejection --source-url URL --reason 原因 [--rss-guid ID] [--review-after YYYY-MM-DD]`，默认复查日为下月 1 日（北京时间）。本地验证见 `test_daily_check.py`（11 个测试，不依赖真实源站）。
 3. 门槛（逐条，不合格不入库，记 rejected 不重复上报）：
    - 公开、稳定、来源清楚；仅限美国政府官方播客（NASA/NOAA）公有领域，且不得暗示官方背书。
    - 必须有官方完整文字稿（不是摘要/简介）或稳定可下载音频 enclosure；音频须 HEAD + 下载 ffprobe 核对 MIME、字节数、时长。
