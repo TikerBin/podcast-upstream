@@ -1,2 +1,5 @@
 transcripts/raw/
 __pycache__/
+daily_state.local.json
+daily_runs.log
+.daily.lock

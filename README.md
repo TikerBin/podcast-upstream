@@ -1,6 +1,6 @@
 # Podcast 素材上游 – 待制作
 
-状态：**已上线。** 仓库为公开仓 `TikerBin/podcast-upstream`，下述 raw.githubusercontent 地址为真实可订阅地址。2026-10-24 修复后为 7 条（5 父集 + 2 独立片段），已推送并验证。
+状态：**已上线。** 仓库为公开仓 `TikerBin/podcast-upstream`，下述 raw.githubusercontent 地址为真实可订阅地址。2026-10-24 修复后为 7 条（5 父集 + 2 独立片段），已推送并验证。2026-10-26 起每日自动采集已启用，见“每日自动采集”。
 
 ## 这是什么
 
@@ -67,6 +67,13 @@
 本批全部为美国联邦政府官方播客（NASA / NOAA），一般不受版权保护，原则上可剪辑、转存、再分发，但不得暗示 NASA / NOAA 背书。
 整集文字稿中标有音乐 cue 的（如 CHAPEA 的歌曲 cue、AI 集的 Intro/Outro Music），正式发布前需逐项再核该片段是否含第三方音乐；ready-clip 本身已核为原声讲话段、未加 BGM。
 仅公开可听的商业播客、YouTube 仅链接、Spotify/小宇宙独占等，均单独列在 SOURCES.md 的“未入库”清单，不混进待制作 feed。
+
+## 每日自动采集（2026-10-26 启用）
+
+- 调度：Muse 定时任务 `podcast-daily-upstream`，每天 09:00 Asia/Shanghai（固定时区），已启用；下一次运行 2026-10-27 星期二 09:00 北京时间。
+- 运行手册：`DAILY.md`；只读候选检查：`daily_check.py`（Curious Universe Megaphone RSS + NOAA 索引，对比已入库来源 URL 去重）。
+- 规则：增量更新，保持现有订阅地址与 GUID；每天最多新入库 2 个父集（按发布时间倒序、过门槛者优先），其余候选留待次日；优先 ready-clip（实际截取、转写核对、独立片段 GUID、仓库 clips 直链），无合适片段时只收合格整集/全文；验证通过且确实有新增时才提交推送；无新增且无异常时不发消息、不做无意义提交；失败不覆盖最后一批可用 feed。
+- 试运行（2026-10-26 初始化/烟雾验证）：现有 7 条，Curious Universe RSS 110 条中候选 97 条（另 11 条无链接、无法按来源 URL 去重，不自动入库）、NOAA 索引候选 10 条，短名单最新为 Curious 2026-09-22 Roman Dark Side Encore 与 NOAA 2026-09 nop86；本次试运行新增 0 条、排重 7 条、失败 0 项，build+validate 两次 GUID 集合不变、0 重复，故无 feed 提交（仅提交本次实现文件）。
 
 ## 目录
 
