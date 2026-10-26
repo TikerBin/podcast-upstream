@@ -83,9 +83,13 @@ def main():
             srt_path = os.path.join(BASE, it["_clip_srt_file"])
             assert os.path.exists(srt_path), it["id"]
             srt_text = open(srt_path, encoding="utf-8").read()
-            ends = _re.findall(r"-->\s*\d+:\d+:(\d+\.\d+)", srt_text)
+            # SRT timestamps use a comma decimal separator: HH:MM:SS,mmm
+            ends = []
+            for _m in _re.finditer(r"-->\s*(\d+):(\d+):(\d+)[,.](\d+)", srt_text):
+                _h, _mi, _s, _ms = (int(_m.group(1)), int(_m.group(2)), int(_m.group(3)), int(_m.group(4)))
+                ends.append(_h * 3600 + _mi * 60 + _s + _ms / 1000.0)
             assert ends, it["id"]
-            assert float(max(ends)) <= it["audio_duration_s"] + 1.0, (it["id"], max(ends), it["audio_duration_s"])
+            assert max(ends) <= it["audio_duration_s"] + 1.0, (it["id"], max(ends), it["audio_duration_s"])
             print("%s: SRT OK, %s, last end %ss <= duration %ss" % (it["id"], it["_clip_srt_file"], max(ends), it["audio_duration_s"]))
         if "ready-clip" in it["production_kinds"]:
             assert "full-episode" not in it["production_kinds"], it["id"]
