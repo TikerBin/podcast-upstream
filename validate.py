@@ -78,6 +78,48 @@ def main():
         with open(os.path.join(BASE, it["transcript_file"]), encoding="utf-8") as f:
             t = f.read().strip()
         assert info["content"].strip() == t, (it["id"], "content != transcript file")
+        if it.get("_clip_srt_file") or it.get("_clip_words_file"):
+            # Clip text / SRT / word-level consistency: all three must carry
+            # the same words as the clip transcript file (normalised: lower,
+            # hyphens split, punctuation stripped, accents kept). This catches
+            # dropped words, proper-name errors (Hasler vs Hassler) and ASR
+            # artefacts (AUV2) while allowing punctuation/case/tokenisation
+            # differences. Word timestamps must stay inside the clip duration
+            # and be non-decreasing; split tokens may share an interval.
+            import re as _re
+            def _norm_words(text):
+                text = text.lower().replace("-", " ")
+                text = "".join(c if (c.isalnum() or c == "'" or c == " ") else " " for c in text)
+                return [w for w in text.split() if w]
+            with open(os.path.join(BASE, it["transcript_file"]), encoding="utf-8") as _tf:
+                _ref = _norm_words(_tf.read())
+            if it.get("_clip_srt_file"):
+                _srt_lines = []
+                for _line in open(os.path.join(BASE, it["_clip_srt_file"]), encoding="utf-8").read().splitlines():
+                    if _re.match(r"^\d+$", _line.strip()):
+                        continue
+                    if "-->" in _line:
+                        continue
+                    if _line.strip():
+                        _srt_lines.append(_line.strip())
+                assert _norm_words(" ".join(_srt_lines)) == _ref, (it["id"], "SRT words != clip transcript")
+                print("%s: SRT words == clip transcript, %d words" % (it["id"], len(_ref)))
+            if it.get("_clip_words_file"):
+                _wj = json.load(open(os.path.join(BASE, it["_clip_words_file"]), encoding="utf-8"))
+                _flat = [w["word"] for _seg in _wj for w in _seg["words"]]
+                assert _norm_words(" ".join(_flat)) == _ref, (it["id"], "words JSON != clip transcript")
+                assert "auv2" not in _norm_words(" ".join(_flat)), it["id"]
+                assert "hasler" not in _norm_words(" ".join(_flat)), it["id"]
+                _prev = -1.0
+                for _seg in _wj:
+                    for _w in _seg["words"]:
+                        assert 0 <= _w["start"] <= it["audio_duration_s"] + 1.0, (it["id"], _w)
+                        assert _w["start"] >= _prev - 0.01, (it["id"], _w, _prev)
+                        _prev = _w["start"]
+                print("%s: words JSON == clip transcript, %d words, timestamps in range" % (it["id"], len(_ref)))
+            if it.get("_clip_words_raw_file"):
+                assert os.path.exists(os.path.join(BASE, it["_clip_words_raw_file"])), it["id"]
+                print("%s: raw ASR audit file present, %s" % (it["id"], it["_clip_words_raw_file"]))
         if it.get("_clip_srt_file"):
             import re as _re
             srt_path = os.path.join(BASE, it["_clip_srt_file"])

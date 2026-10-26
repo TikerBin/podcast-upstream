@@ -45,11 +45,11 @@
 10. 片段：Monitor as a testbed: new 3D imaging can spread to other wrecks — clip from USS Monitor 3D Mapping（ocean-environment，audio+text，ready-clip 仅）
    独立 GUID `urn:podcast:oceanservice.noaa.gov:podcast:aug26:nop85-uss-monitor-3d-mapping:clip:testbed:559.7-604.5`，与父集 GUID 不同。
    片段 enclosure 为仓库直链 `https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/noaa-uss-monitor-3d-85-clip-testbed.mp3`，audio/mpeg，818,659 字节，44.8 秒，原集 559.7–604.5 秒，原声。
-   片段文案仅 140 词（NOAA 官方全文 HOST 提问 + TANE CASSERLEY 回答段落，经本地 faster-whisper small.en 转写片段音频核对；small.en 漏转的一句以 tiny.en 全集转写与官方全文为准，专名以官方为准：Monitor、Northrop Grumman、testbed），不是全文 4418 词，也不是摘要。另附时间戳 SRT 与词级转写 JSON，见 transcripts/ 同名 .srt / -words.json。
+   片段文案仅 140 词（NOAA 官方全文 HOST 提问 + TANE CASSERLEY 回答段落，经本地 faster-whisper small.en 转写片段音频核对；small.en 漏转的一句以 tiny.en 全集转写与官方全文为准，专名以官方为准：Monitor、Northrop Grumman、testbed），不是全文 4418 词，也不是摘要。另附时间戳 SRT 与词级转写 JSON，见 transcripts/ 同名 .srt / -words.json；词级 JSON 为校订版（与片段文案逐词一致），未校订的原始 small.en ASR 另存为同名 -words-raw.json 审计文件。
 11. 片段：Ferdinand Hassler: the first superintendent of the Coast Survey — clip from Origins of NOAA's National Ocean Service（ocean-environment，audio+text，ready-clip 仅）
    独立 GUID `urn:podcast:oceanservice.noaa.gov:podcast:sep26:nop86-nos-origins:clip:hassler:236.9-289.5`，与父集 GUID 不同。
    片段 enclosure 为仓库直链 `https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/noaa-nos-origins-86-clip-hassler.mp3`，audio/mpeg，819,324 字节，52.6 秒，原集 236.9–289.5 秒，原声。
-   片段文案仅 118 词（NOAA 官方全文 Mark Weber 段落，经本地 faster-whisper small.en 转写片段音频逐字核对，仅专名 Hassler 与 ASR 的 Hasler 不同），不是全文 8753 词，也不是摘要。另附时间戳 SRT 与词级转写 JSON，见 transcripts/ 同名 .srt / -words.json。
+   片段文案仅 118 词（NOAA 官方全文 Mark Weber 段落，经本地 faster-whisper small.en 转写片段音频逐字核对，仅专名 Hassler 与 ASR 的 Hasler 不同），不是全文 8753 词，也不是摘要。另附时间戳 SRT 与词级转写 JSON，见 transcripts/ 同名 .srt / -words.json；词级 JSON 为校订版（与片段文案逐词一致），未校订的原始 small.en ASR 另存为同名 -words-raw.json 审计文件。
 
 ## 订阅地址
 

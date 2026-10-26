@@ -89,7 +89,7 @@
  {
   "start": 6.28,
   "end": 11.12,
-  "text": "freshwater? Yeah, I hope by basically using monitor as a test bed. And that's one of the",
+  "text": "freshwater? Yeah, I hope by basically using Monitor as a testbed And that's one of the",
   "words": [
    {
     "start": 6.28,
@@ -129,7 +129,7 @@
    {
     "start": 9.42,
     "end": 9.7,
-    "word": " monitor"
+    "word": " Monitor"
    },
    {
     "start": 9.7,
@@ -143,13 +143,8 @@
    },
    {
     "start": 10.1,
-    "end": 10.32,
-    "word": " test"
-   },
-   {
-    "start": 10.32,
     "end": 10.58,
-    "word": " bed."
+    "word": " testbed"
    },
    {
     "start": 10.66,
@@ -181,7 +176,7 @@
  {
   "start": 11.12,
   "end": 17.12,
-  "text": "wonderful things about monitor that we're always been pushing technology innovation from 1862 to",
+  "text": "wonderful things about Monitor that where it's always been pushing technology innovation from 1862 to",
   "words": [
    {
     "start": 11.12,
@@ -201,7 +196,7 @@
    {
     "start": 11.88,
     "end": 12.22,
-    "word": " monitor"
+    "word": " Monitor"
    },
    {
     "start": 12.22,
@@ -211,7 +206,12 @@
    {
     "start": 12.6,
     "end": 13.32,
-    "word": " we're"
+    "word": " where"
+   },
+   {
+    "start": 12.6,
+    "end": 13.32,
+    "word": " it's"
    },
    {
     "start": 13.32,
@@ -345,7 +345,7 @@
  {
   "start": 20.96,
   "end": 29.22,
-  "text": "example of what we achieved on monitor with Northrop Grumman using this technology and how it",
+  "text": "example of what we achieved on Monitor with Northrop Grumman using this technology and how it",
   "words": [
    {
     "start": 20.96,
@@ -380,7 +380,7 @@
    {
     "start": 22.3,
     "end": 22.72,
-    "word": " monitor"
+    "word": " Monitor"
    },
    {
     "start": 22.72,
@@ -430,9 +430,91 @@
   ]
  },
  {
+  "start": 25.36,
+  "end": 29.32,
+  "text": "can now be used and applied to other sites as well you know whether that",
+  "words": [
+   {
+    "start": 25.36,
+    "end": 25.46,
+    "word": " can"
+   },
+   {
+    "start": 25.46,
+    "end": 25.62,
+    "word": " now"
+   },
+   {
+    "start": 25.62,
+    "end": 25.72,
+    "word": " be"
+   },
+   {
+    "start": 25.72,
+    "end": 25.98,
+    "word": " used"
+   },
+   {
+    "start": 25.98,
+    "end": 26.1,
+    "word": " and"
+   },
+   {
+    "start": 26.1,
+    "end": 26.48,
+    "word": " applied"
+   },
+   {
+    "start": 26.48,
+    "end": 27.12,
+    "word": " to"
+   },
+   {
+    "start": 27.12,
+    "end": 27.36,
+    "word": " other"
+   },
+   {
+    "start": 27.36,
+    "end": 27.7,
+    "word": " sites"
+   },
+   {
+    "start": 27.7,
+    "end": 28.06,
+    "word": " as"
+   },
+   {
+    "start": 28.06,
+    "end": 28.34,
+    "word": " well"
+   },
+   {
+    "start": 28.34,
+    "end": 28.7,
+    "word": " you"
+   },
+   {
+    "start": 28.7,
+    "end": 28.84,
+    "word": " know"
+   },
+   {
+    "start": 28.84,
+    "end": 29.04,
+    "word": " whether"
+   },
+   {
+    "start": 29.04,
+    "end": 29.32,
+    "word": " that"
+   }
+  ]
+ },
+ {
   "start": 29.22,
   "end": 34.34,
-  "text": "be shipwrecks. Maybe it's sunken aircraft, you know, maybe they're sunken indigenous sites,",
+  "text": "be shipwrecks. Maybe it's sunken aircraft, you know, maybe there's sunken indigenous sites,",
   "words": [
    {
     "start": 29.22,
@@ -482,7 +564,7 @@
    {
     "start": 32.56,
     "end": 33.26,
-    "word": " they're"
+    "word": " there's"
    },
    {
     "start": 33.26,
@@ -504,7 +586,7 @@
  {
   "start": 34.44,
   "end": 39.46,
-  "text": "you know, just the technology and the resolution we can see for these things is is mind-blowing.",
+  "text": "you know, just the technology and the resolution we can see for these things is mind-blowing.",
   "words": [
    {
     "start": 34.44,
@@ -582,11 +664,6 @@
     "word": " is"
    },
    {
-    "start": 38.44,
-    "end": 38.7,
-    "word": " is"
-   },
-   {
     "start": 38.7,
     "end": 39.02,
     "word": " mind"
@@ -601,7 +678,7 @@
  {
   "start": 40.06,
   "end": 44.48,
-  "text": "And the fact that we can collect that so quickly with the AUV2 is very special.",
+  "text": "And the fact that we can collect that so quickly with the AUV too is very special.",
   "words": [
    {
     "start": 40.06,
@@ -666,7 +743,12 @@
    {
     "start": 42.8,
     "end": 43.42,
-    "word": " AUV2"
+    "word": " AUV"
+   },
+   {
+    "start": 42.8,
+    "end": 43.42,
+    "word": " too"
    },
    {
     "start": 43.42,
