@@ -78,6 +78,15 @@ def main():
         with open(os.path.join(BASE, it["transcript_file"]), encoding="utf-8") as f:
             t = f.read().strip()
         assert info["content"].strip() == t, (it["id"], "content != transcript file")
+        if it.get("_clip_srt_file"):
+            import re as _re
+            srt_path = os.path.join(BASE, it["_clip_srt_file"])
+            assert os.path.exists(srt_path), it["id"]
+            srt_text = open(srt_path, encoding="utf-8").read()
+            ends = _re.findall(r"-->\s*\d+:\d+:(\d+\.\d+)", srt_text)
+            assert ends, it["id"]
+            assert float(max(ends)) <= it["audio_duration_s"] + 1.0, (it["id"], max(ends), it["audio_duration_s"])
+            print("%s: SRT OK, %s, last end %ss <= duration %ss" % (it["id"], it["_clip_srt_file"], max(ends), it["audio_duration_s"]))
         if "ready-clip" in it["production_kinds"]:
             assert "full-episode" not in it["production_kinds"], it["id"]
             parent = by_guid[it["_parent_guid"]]

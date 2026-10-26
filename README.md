@@ -1,20 +1,20 @@
 # Podcast 素材上游 – 待制作
 
-状态：**已上线。** 仓库为公开仓 `TikerBin/podcast-upstream`，下述 raw.githubusercontent 地址为真实可订阅地址。2026-10-24 修复后为 7 条（5 父集 + 2 独立片段），已推送并验证。2026-10-26 起每日自动采集已启用，见“每日自动采集”。
+状态：**已上线。** 仓库为公开仓 `TikerBin/podcast-upstream`，下述 raw.githubusercontent 地址为真实可订阅地址。2026-10-24 修复后为 7 条（5 父集 + 2 独立片段），已推送并验证。2026-10-26 手动采集轮新增 2 父集 + 2 独立片段，总计 11 条（7 父集 + 4 独立片段），见“条目一览”第 8–11 条。2026-10-26 起每日自动采集已启用，见“每日自动采集”。
 
 ## 这是什么
 
-每条 RSS 条目 = 一份待制作内容。入库最低标准：稳定唯一 GUID（isPermaLink=false）+ 标题 + 可下载音频 enclosure 或 content:encoded 完整文字稿至少一种；本批 7 条全部有文字稿，其中 6 条另有音频。2026-10-24 修复前 ready-clip 只是父集上的附带字段（ready-clip.xml 里仍是整集 enclosure），修复后片段是独立条目，见“条目一览”第 6、7 条。
+每条 RSS 条目 = 一份待制作内容。入库最低标准：稳定唯一 GUID（isPermaLink=false）+ 标题 + 可下载音频 enclosure 或 content:encoded 完整文字稿至少一种；本批 11 条全部有文字稿，其中 10 条另有音频。2026-10-24 修复前 ready-clip 只是父集上的附带字段（ready-clip.xml 里仍是整集 enclosure），修复后片段是独立条目，见“条目一览”第 6、7 条。
 
 一条目可兼有音频、文字，不重复建三条。视频形态本批 0 条，见下。
 
 ## 本批数量（2026-10-24 北京时间采集核验，修复后）
 
-- 总计：7 条 = 5 父集 + 2 独立片段
-- 按主题：science-space（科学/太空）3 条（父集 2 + 片段 1）；ocean-environment（海洋/环境）3 条（父集 2 + 片段 1）；technology-ai（科技/AI）1 条
-- 按形态：audio 6 条（父集 4 + 片段 2）；text 7 条；video 0 条
-- 按生产形态：full-episode 4 条；text-script 5 条（父集文字稿用途标签，与时长标签正交）；ready-clip 2 条（仅片段，父集不再标 ready-clip，full-episode 与 ready-clip 两集合不相交）
-- 来源：NASA 官方播客 3 父集；NOAA Ocean Podcast 2 父集；片段均出自上述父集，不另算来源
+- 总计：11 条 = 7 父集 + 4 独立片段
+- 按主题：science-space（科学/太空）3 条（父集 2 + 片段 1）；ocean-environment（海洋/环境）7 条（父集 4 + 片段 3）；technology-ai（科技/AI）1 条
+- 按形态：audio 10 条（父集 6 + 片段 4）；text 11 条；video 0 条
+- 按生产形态：full-episode 6 条；text-script 7 条（父集文字稿用途标签，与时长标签正交）；ready-clip 4 条（仅片段，父集不再标 ready-clip，full-episode 与 ready-clip 两集合不相交）
+- 来源：NASA 官方播客 3 父集；NOAA Ocean Podcast 4 父集；片段均出自上述父集，不另算来源
 
 ## 条目一览
 
@@ -38,6 +38,19 @@
    片段 enclosure 为仓库直链 `https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/noaa-rip-currents-clip-335-381.mp3`，audio/mpeg，693,395 字节，45.8 秒，原集 335.1–380.9 秒，原声（片段开头为原音频中断句，如实保留）。
    片段文案仅 138 词（本地 faster-whisper small.en 转写片段音频，与官方全文 Break the Grip / 90% / 每年约 100 起段落对应），不是全文 2752 词，也不是摘要。
 
+8. NOAA Ocean Podcast Ep.85 – USS Monitor, Part 2: Underwater 3D Mapping（ocean-environment，audio+text，full-episode+text-script）
+   原发布 2026-08-21（仅到日，NOAA 官方单集页 DC.date.created meta），MP3 34,107,812 字节，audio/mpeg，时长 1420.1 秒，文字稿 4418 词。子片段见第 10 条。
+9. NOAA Ocean Podcast Ep.86 – The Origins of NOAA's National Ocean Service（ocean-environment，audio+text，full-episode+text-script）
+   原发布 2026-09-21（仅到日，NOAA 官方单集页 DC.date.created meta），MP3 66,535,045 字节，audio/mpeg，时长 2771.3 秒，文字稿 8753 词。子片段见第 11 条。
+10. 片段：Monitor as a testbed: new 3D imaging can spread to other wrecks — clip from USS Monitor 3D Mapping（ocean-environment，audio+text，ready-clip 仅）
+   独立 GUID `urn:podcast:oceanservice.noaa.gov:podcast:aug26:nop85-uss-monitor-3d-mapping:clip:testbed:559.7-604.5`，与父集 GUID 不同。
+   片段 enclosure 为仓库直链 `https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/noaa-uss-monitor-3d-85-clip-testbed.mp3`，audio/mpeg，818,659 字节，44.8 秒，原集 559.7–604.5 秒，原声。
+   片段文案仅 140 词（NOAA 官方全文 HOST 提问 + TANE CASSERLEY 回答段落，经本地 faster-whisper small.en 转写片段音频核对；small.en 漏转的一句以 tiny.en 全集转写与官方全文为准，专名以官方为准：Monitor、Northrop Grumman、testbed），不是全文 4418 词，也不是摘要。另附时间戳 SRT 与词级转写 JSON，见 transcripts/ 同名 .srt / -words.json。
+11. 片段：Ferdinand Hassler: the first superintendent of the Coast Survey — clip from Origins of NOAA's National Ocean Service（ocean-environment，audio+text，ready-clip 仅）
+   独立 GUID `urn:podcast:oceanservice.noaa.gov:podcast:sep26:nop86-nos-origins:clip:hassler:236.9-289.5`，与父集 GUID 不同。
+   片段 enclosure 为仓库直链 `https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/noaa-nos-origins-86-clip-hassler.mp3`，audio/mpeg，819,324 字节，52.6 秒，原集 236.9–289.5 秒，原声。
+   片段文案仅 118 词（NOAA 官方全文 Mark Weber 段落，经本地 faster-whisper small.en 转写片段音频逐字核对，仅专名 Hassler 与 ASR 的 Hasler 不同），不是全文 8753 词，也不是摘要。另附时间戳 SRT 与词级转写 JSON，见 transcripts/ 同名 .srt / -words.json。
+
 ## 订阅地址
 
 本地文件（已生成、可直接读）：
@@ -59,7 +72,7 @@
 - GUID：基于来源稳定标识生成（例如 `urn:podcast:nasa.gov:curious-universe:inside-a-black-hole`），持久保存在 items.json；标题修改、重跑、跨主题/形态 feed 均不换 ID。片段 GUID = 父集稳定 ID + 固定片段 ID/时间边界（例如 `...:encore-a-year-in-mars-dune-alpha:clip:window:224-255`），不含采集时间、不随标题改变，与父集 GUID 不同。
 - pubDate：原发布时间；另存采集日（北京时间 2026-10-24）。仅到日的用当日 00:00 UTC 占位，并在 items.json 的 pub_date_precision 中注明，不伪造时刻。片段 pubDate 继承父集原发布时间，片段建模日另存在 _clip_created_beijing。
 - ready-clip：只有实际截取并经 ffprobe 校验的文件才能标；片段为独立条目，标准 enclosure 为仓库自托管 clips 直链（audio/mpeg、真实字节数、片段时长），content:encoded 仅为片段文案；记录父集 GUID、原集链接、起止秒、原声性质；整集仅标 full-episode，片段仅标 ready-clip，两集合不相交。
-- 封面：全部 7 条均使用仓库自托管默认封面 `images/default-cover.png`（1400×1400 PNG，43,530 字节，原创几何设计，不冒充 NASA/NOAA Logo；另有同设计 SVG 源文件）。原 NASA 缩略图因用户本机 429 不稳定，已不再作为任何条目的封面；无官方封面的条目同样用此兜底，itunes:image 均指向该 PNG。
+- 封面：全部 11 条均使用仓库自托管默认封面 `images/default-cover.png`（1400×1400 PNG，43,530 字节，原创几何设计，不冒充 NASA/NOAA Logo；另有同设计 SVG 源文件）。原 NASA 缩略图因用户本机 429 不稳定，已不再作为任何条目的封面；无官方封面的条目同样用此兜底，itunes:image 均指向该 PNG。
 - 不生成成片、不默认调用付费 TTS。语言、Logo、品牌色、默认封面、TTS 声音属于订阅级配置，不在每条重复。
 
 ## 权利规则（可听 ≠ 可重用）

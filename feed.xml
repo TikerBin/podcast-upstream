@@ -5,7 +5,7 @@
 <link>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main</link>
 <description>待制作播客素材上游 v2：每条 = 一份待制作内容。父集标 full-episode，片段为独立条目、仅标 ready-clip，两集合不相交。片段 enclosure 为仓库自托管 clips 直链，不依赖整集音频。全部为美国政府官方播客（NASA / NOAA），公有领域、可剪辑但不得暗示官方背书。</description>
 <language>en</language>
-<lastBuildDate>Sat, 24 Oct 2026 14:07:24 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 06:13:14 +0000</lastBuildDate>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Their Mars window is a TV — clip from Encore: A Year In Mars Dune Alpha</title>
@@ -203,6 +203,812 @@ NATE: Yeah, NASA was kind enough to provide us with quite a few pictures of natu
 <_collected_at_beijing>2026-10-24</_collected_at_beijing>
 <_audio_verified>HEAD 跟随重定向得 audio/mpeg + 39402865 字节；与 2026-10-24 播客工作流本地文件字节数完全一致，ffprobe 时长 1626.122 秒</_audio_verified>
 <_child_clip_guid>urn:podcast:nasa.gov:curious-universe:encore-a-year-in-mars-dune-alpha:clip:window:224-255</_child_clip_guid>
+</item>
+<item>
+<title>Ferdinand Hassler: the first superintendent of the Coast Survey — clip from Origins of NOAA's National Ocean Service (236.9-289.5s)</title>
+<link>https://oceanservice.noaa.gov/podcast/sep26/nop86-nos-origins.html</link>
+<guid isPermaLink="false">urn:podcast:oceanservice.noaa.gov:podcast:sep26:nop86-nos-origins:clip:hassler:236.9-289.5</guid>
+<pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+<category>ocean-environment</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/noaa-nos-origins-86-clip-hassler.mp3" length="819324" type="audio/mpeg"/>
+<itunes:duration>53</itunes:duration>
+<description><![CDATA[【节目】NOAA Ocean Podcast
+【主题】ocean-environment
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】首任局长 Hassler：学法律出身的瑞士移民，因测绘经验被杰斐逊看中，成了海岸测量局第一任局长。
+【Reels 角度】学法律的人怎么成了美国第一个海洋测量局长？瑞士移民 Hassler 的故事。
+【许可证】Public domain：Excerpt of a US federal government work (NOAA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NOAA endorsement implied.
+【来源】https://oceanservice.noaa.gov/podcast/sep26/nop86-nos-origins.html
+【采集日（北京时间）】2026-10-26
+【发布时间精度】date_only（Inherits parent original publish date (NOAA page DC.date.created 2026-9-21, date only); clip itself was modelled 2026-10-26 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:oceanservice.noaa.gov:podcast:sep26:nop86-nos-origins
+【父集链接】https://oceanservice.noaa.gov/podcast/sep26/nop86-nos-origins.html
+【片段】原集 236.9-289.5 秒，52.6 秒，原声，未加 BGM，文件：clips/noaa-nos-origins-86-clip-hassler.mp3]]></description>
+<content:encoded><![CDATA[That's right. So the first superintendent of the Coast Survey was a Swiss émigre named Ferdinand Hassler. And Hassler had studied law but then decided science was his passion. So he studied math. He had done a survey of one of the Cantons in Switzerland and had great experience. But he decided that he wanted to emigrate to the United States, and he felt that he had real skills to contribute to the development of the nation. And he was suggested to Thomas Jefferson. Jefferson, like many of the founding fathers, had a real scientific bent and saw a talented, experienced person who he could trust to establish this agency. He saw that in Hassler and appointed him.]]></content:encoded>
+<_show>NOAA Ocean Podcast</_show>
+<_episode_id>nop86-clip-hassler</_episode_id>
+<_source_url>https://oceanservice.noaa.gov/podcast/sep26/nop86-nos-origins.html</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-10-26</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 52.6s / 819324 bytes (ffmpeg cut from verified full MP3 in this run, 2026-10-26); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/noaa-nos-origins-86-clip-hassler.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/noaa-nos-origins-86-clip-hassler.srt</_clip_srt_url>
+<_clip_words_file>transcripts/noaa-nos-origins-86-clip-hassler-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/noaa-nos-origins-86-clip-hassler-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:oceanservice.noaa.gov:podcast:sep26:nop86-nos-origins</_parent_guid>
+<_parent_id>noaa-ocean-nos-origins-86</_parent_id>
+<_clip_start_s>236.9</_clip_start_s>
+<_clip_end_s>289.5</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>The Origins of NOAA's National Ocean Service</title>
+<link>https://oceanservice.noaa.gov/podcast/sep26/nop86-nos-origins.html</link>
+<guid isPermaLink="false">urn:podcast:oceanservice.noaa.gov:podcast:sep26:nop86-nos-origins</guid>
+<pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+<category>ocean-environment</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:full-episode</category>
+<category>production:text-script</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://cdn.oceanservice.noaa.gov/oceanserviceprod/podcast/sep26/nop86-nos-origins.mp3" length="66535045" type="audio/mpeg"/>
+<itunes:duration>2771</itunes:duration>
+<description><![CDATA[【节目】NOAA Ocean Podcast
+【主题】ocean-environment
+【形态】audio, text
+【生产形态】full-episode, text-script
+【摘要】NOAA 国家海洋局的起源：19 世纪初为绘制新国家海岸而设的小机构，如何从海岸测量局一步步长成今天的国家海洋局，首任局长、第一位女性科学岗位等历史线。
+【Reels 角度】美国国家海洋局是怎么来的：一个画海图的小机构，长成了今天的海洋局——首任局长竟然是学法律出身的瑞士移民。
+【许可证】Public domain：美国联邦政府作品（NOAA 官方播客），一般不受版权保护
+【权利说明】可剪辑/再分发，不得暗示 NOAA 背书；本集文字稿中未见第三方歌曲标注；片段为原声对话，无 BGM。
+【来源】https://oceanservice.noaa.gov/podcast/sep26/nop86-nos-origins.html
+【采集日（北京时间）】2026-10-26
+【发布时间精度】date_only（NOAA 官方单集页 DC.date.created meta：2026-9-21（仅到日，RSS 时间以当日 00:00 UTC 占位，精度字段已注明，不伪造具体时刻））
+【子片段 GUID】urn:podcast:oceanservice.noaa.gov:podcast:sep26:nop86-nos-origins:clip:hassler:236.9-289.5]]></description>
+<content:encoded><![CDATA[HOST: This is the NOAA Ocean Podcast. I’m your host, Allison Burrell. At the turn of
+the 19th century, a small scientific agency was established with one mission, to chart our new
+nation’s coasts and coastal waters so the many ships that traversed the Atlantic and Caribbean could
+arrive safely. Thomas Jefferson and Benjamin Franklin, two influential figures in U.S. history, knew
+the importance of maritime industry and scientific endeavor and spearheaded the nautical
+chart-making mission, which would grow over the years into NOAA’s National Ocean Service. We are
+joined in the studio by the historical curator at the NOAA Heritage Office, Mark Weber. With his
+knowledge, he will lead us through the ambitious origins of NOAA’s National Ocean Service. Now,
+let’s dive in… 
+I'd like to welcome Mark Weber, the curator of the NOAA Heritage Program. Thank you so much for
+joining us at the NOAA Ocean Podcast.
+Mark Weber: Thrilled to be here, Allison. Thanks for having me.
+HOST: So the NOAA Ocean Podcast is all about the National Ocean Service. But
+concerning the origin of the National Ocean Service, it wasn't always called that. If we go back to
+the early 19th century, what was it called? How did it start? 
+Mark Weber, Historical Curator with NOAA’s Heritage Office
+Mark Weber: Yeah, that's a great question. And the agency starts out in 1807 under
+the administration of Thomas Jefferson, and it was called the Coast Survey. It's had a number of
+different names over the years. 1836: it gets “U.S.” added to it, a little bit of that stamp of the
+federal government, and is known as the U.S. Coast Survey. And it operates under that name until
+1878, when it's changed to become the Coast and Geodetic Survey. And that agency becomes part of
+NOAA when NOAA was created in 1970. So a little bit of a timeline there, but it's important, I
+think, to realize that the creation of the Coast Survey, 1807, that's pretty early in the annals of
+our country, right? We're three decades out from the revolution, less than two decades out from the
+establishment of our Constitution, the third presidential administration. Why did they do this? Why
+did they create the nation's first physical science agency? The reason was commerce. If you think
+about that, in that era, taxes came from goods that were brought into the country. And you want to
+encourage trade. We want to have the natural products of our country that are desperately wanted
+overseas. We want to make those available, and we want the manufactured goods that are coming from
+Europe, the Caribbean, other places to come to our country. But to do this, you need safe ports. You
+need navigation that will be affordable. So insurance companies have to feel good that if their
+ships come into our ports, they're not going to crash. So there's a scientific enterprise that needs
+to be created to create this data, and it leads to things like charts and maps and lighthouses that
+engender that commerce. So that's perhaps why the agency ends up under the Treasury Department when
+it's first created. Yeah, that's the strange beginnings, I guess, of the National Ocean Service.
+HOST: I'm curious, in the beginning with Coast Survey, what are some examples of the
+work that they did? Like you were saying, the maps and the charting. These are groups of people
+going out and doing work.
+Mark Weber: That's right. So the first superintendent of the Coast Survey was a
+Swiss émigre named Ferdinand Hassler. And Hassler had studied law but then decided science was his
+passion. So he studied math. He had done a survey of one of the Cantons in Switzerland and had great
+experience. But he decided that he wanted to emigrate to the United States, and he felt that he had
+real skills to contribute to the development of the nation. And he was suggested to Thomas
+Jefferson. Jefferson, like many of the founding fathers, had a real scientific bent and saw a
+talented, experienced person who he could trust to establish this agency. He saw that in Hassler and
+appointed him.
+HOST: So Thomas Jefferson was president at the time the Office of Coast Survey was
+pulled together?
+Mark Weber: So, yeah, exactly. In 1807, Jefferson signed the legislation that
+created the Coast Survey, which leads to today's NOAA. So that's a proud, long history. And it's one
+that has had many twists and turns as we, in the NOAA Heritage Program, kind of look at our family
+tree, if you will, of the agency. There's a lot of different things woven in there over the years,
+different agencies and missions that come together in the modern NOAA.
+HOST: So what about the National Geodetic Survey? What are some of the early
+activities that went on with NGS?
+Mark Weber: You know, initially the work was focused, as the name would imply, on
+the coast of the United States, making sure that we had good charts of our harbors and waterways and
+that, you know, tied into that safe navigation that I was discussing earlier. As the nation grows
+and expands beyond the original 13 colonies, we've got a lot of inland territory and we realize that
+we need to have a better understanding of that. What did we just buy from the French with the
+Louisiana Purchase? What does that look like? So you have the exploration expeditions that Jefferson
+is famous for authorizing, the Lewis and Clark Expedition, and there were a number of others that
+went out into these wilderness areas to see what was there. What did we just buy? That leads to,
+well, we need maps of these things. We need to understand that. And that was not really coastal
+work. That becomes the geodesy, as it's called. The geodetic nature of the agency is given by
+mission in the 1870s. And then by 1878, the name of the agency is changed from the U.S. Coast Survey
+to the U.S. Coast and Geodetic Survey to recognize that important mission area. And this is really
+amazing work when you think about it.
+HOST: What was the first charting project that Hassler, as the first superintendent
+of Coast Survey, worked on?
+Mark Weber: Hassler, the first work he did was all around New York Harbor. If you
+look at, you know, we know Manhattan's an island, right? We have that vision in our minds as
+Americans. But what else is around it? You know, Long Island, Staten Island, Fire Island, all of
+these places, they were raw, untrammeled wilderness at that point. So Hassler needed a group of
+really stout men to lug all of this scientific equipment out onto a beach. And he's in a carriage
+that he had specially designed to carry the scientific equipment around in and then uses his office
+out there in the field. And some of his notes are preserved. Here's this guy in the middle of the
+wilderness doing calculus. I mean, you know, super complicated mathematical work, right? And I'm
+sure his laborers were just standing around completely mystified as to what he was about. But his
+plan was to use triangulation. So you as succinctly and as accurately as possible identify one
+point, mark that, and then you work out from there. Once you've got those three locations known,
+that triangle, you can make all the triangles that come out of that to help to do this survey work.
+So, you know, it's pretty amazing when you think about that. You know, a long career in history and
+one of the things I've always loved are these kind of aerial views that artists would do of a town
+or something. Like, well, how did they do this before they had a balloon or an airplane? You know,
+how did they imagine what that looked like from above? So there's that same kind of thing here, you
+know, science meeting imagination. And you're taking these complex things of a coastline and turning
+that into a chart.
+HOST: And not just coastlines, but elevations.
+Mark Weber: Exactly right. So, yeah, it's, you know, when you're coming in, in a
+ship, you know, there's obviously a lot of things under the water that could cause you grief. So you
+need to know the depth. You need to know the obstructions. And so if you look at these charts, there
+are so many little pieces of data represented on them, and these bodies of water, there'll be
+numbers everywhere. And that's the depth. So people had to go out in a boat and drop a lead line to
+the bottom and record how deep that was. They had to know exactly where they were in this grid that
+was going to create the chart. So you had that depth charted in exactly the right place. And, yeah,
+so it's pretty amazing work that they were doing. And as I reflect on what NOAA and its ancestors
+have done, I think of it as exacting science in unforgiving environments. The sea is an unforgiving
+environment. You can be the best mariner, have the greatest ship, but the sea can still take you
+down. You know, these are environments that are not going to give you a second chance if you do the
+wrong thing.
+HOST: So we just had an episode with the Coast Survey, and they have these teams
+called National Response Teams. They come out during or after a hurricane or some kind of event or
+natural disaster and make sure that the ports are clear for ships and the ship lanes are re-dredged
+to make sure that these ships can get in and out of the ports. So I'm curious, you were saying
+Geodetic Survey and Coast Survey were dropping lines down to see how deep these inlets were. When
+did they start being able to go down and dredge them and allow larger ships to come in and out of
+port?
+Mark Weber: Sure. You know, the technology for that develops over the centuries, and
+I guess the amount they can do changes, but it was long, hard work. If you think about something
+like creating the Erie Canal, you know, that's men with shovels digging a water highway across a
+huge portion of the country. So, you know, these kinds of civil engineering projects could be done,
+dredging a port, these things could be done. But certainly in the post-Civil War years, the advance
+of steam technology and machinery certainly helps make them more readily achievable.
+HOST: Are there locks in the Erie Canal?
+Mark Weber: Yes. Yes, there are. So those ships have a more complicated environment
+to navigate through now. You have to make sure your water level hasn't changed, the depth under your
+keel hasn't changed. You're not going to hit the bottom, but you also are not going to hit a bridge,
+hit a bridge over it. So that's, you know, things like the air gap, one of the programs managed by
+NOS that allows ships to have real-time information and know how much clearance they have as they're
+about to pass under a bridge. It's very important stuff. 
+HOST: So we talked about Thomas Jefferson. He's a notable historical figure. And we
+talked about, like you said, the first superintendent for Ferdinand Rudolph Hassler. Are there any
+other notable historical figures associated with the National Ocean Service?
+Mark Weber: Yeah, there certainly are. And, you know, when I think about the agency
+and how it comes to be, I go back to Benjamin Franklin, who's a scientific genius. He was the most
+famous American until George Washington. He was famous for science. He was a great party guest, fun
+person to be around, you know, a raconteur, all of those things that I think, you know, if you got
+to meet a historical character, he's high on my list. But he was so curious about the world, you
+know, a real Renaissance man, to use that kind of term. He would look at things in a different way
+and want to understand them. But it wasn't just for arcane satisfaction or a scientific paper to be
+presented. It was, for him, practical. He wanted to understand why things worked the way they did
+and solve them. But he also had a real amazing ethos of these discoveries belonging to the public.
+He invented the lightning rod, something that saved countless millions of dollars in property and
+human lives. He didn't monetize that. People thought, well, he should copyright this. He could sell
+them. No, he put it out there for the benefit of mankind. And I think that ethos is so much a part
+of the people who had this experiment in democracy that leads to the creation of the United States.
+So it's not surprising to me that ultimately they create a science agency to help improve and
+protect the country.
+HOST: Was it the first science agency?
+Mark Weber: It is, yeah. It's the first physical science agency of the United States
+government.
+But, to think, talk a little bit more about Franklin, he was not just about electricity. He was also
+very interested in the maritime environment as well. So if you think about how long it took to take
+a voyage in a ship in those days, he had ample opportunity to see what was going on and to
+understand. He was the postmaster in the colonial period, and he wanted to understand, well, why
+does it take a ship so much longer to go from this point to that point? That led him to naming what
+we now call the Gulf Stream and to understanding how that worked, those ocean currents. So he's very
+important in oceanography as well as the electricity that he's perhaps more famously known for.
+HOST: That's very significant.
+Mark Weber: It is. And, you know, when you look back at this, you think, all right,
+well, you tell Hassler, go measure the country. Like, well, what system are you going to use? We had
+to come up with a system. Are we going to use the English system? Are we going to use the metrics
+system?
+HOST: Oh, wait, wait. Did he decide we were going to use inches and feet and miles?
+Over the French metric system?
+Mark Weber: Well, I believe that Hassler and Jefferson would have chosen the French
+approach, and they did bring back a meter bar from France. And this is still preserved today at
+NIST, the National Institutes of Standards and Technology, which is a part of commerce and was part
+of NOAA's ancestor, the Coast and Geodetic Survey, until 1901 when it was spun off. So that
+organization counts Hassler as a founding father as well. But he thought, well, if we're going to
+measure things, we need to know what, you know, what tool are we going to use to measure it?
+So that goes to the weights and measures and things as well.
+Mark Weber: But, to think, talk a little bit more about Franklin, he was not just
+about electricity. He was also very interested in the maritime environment as well. So if you think
+about how long it took to take a voyage in a ship in those days, he had ample opportunity to see
+what was going on and to understand. He was the postmaster in the colonial period, and he wanted to
+understand, well, why does it take a ship so much longer to go from this point to that point? That
+led him to naming what we now call the Gulf Stream and to understanding how that worked, those ocean
+currents. So he's very important in oceanography as well as the electricity that he's perhaps more
+famously known for. 
+HOST: Wow, because he was a diplomat over in France, so he took many transatlantic
+voyages.
+Mark Weber: Yes, many ocean voyages. Yes, exactly, which could take, you know, a
+couple of months, right? So, and you were very much at the mercy of the wind, the waves, the
+weather, all of that. But, you know, so I think that ethos of Franklin to do this work for the
+public good really infuses what becomes NOAA, that this is for the public. It's exacting science, as
+I said. And his family obviously carried this ethos, so much so that three of his great-grandsons
+served in the agency in the early years, two of them as naval officers that commanded survey ships
+under the arrangement that the government had at that time. And both of them lost their lives in
+maritime incidents. So there was a real high cost to this service.
+HOST: Were their last names Franklin as well?
+Mark Weber: Their name was Bache. Yes, Franklin had a daughter, and the Bache
+family, very involved in early American politics, the revolution, and so forth. But Alexander Dallas
+Bache becomes the second superintendent of the Coast Survey after Hassler.
+HOST: And Alexander Dallas Bache is Ben Franklin’s Great-grandson.
+Mark Weber: So Hassler really kind of lays the foundation. He says, here's what
+we're going to do. We're going to do this science. We're going to do it without any charlatanism.
+We're going to hire people who are experts, who know their science. This is not a place for
+political appointees, which was very much the standard in the early part of the country. You know,
+we didn't have a civil service, and jobs could be seen as patronage to be given out by somebody who
+had maybe just won an election. And that could lead to people getting a job they weren't necessarily
+qualified for. But, you know, Hassler really stuck to his guns on that and made sure that the people
+who were doing this work for the agency were doing it with the highest scientific accuracy and
+integrity. Bache as superintendent really builds an agency that can handle this work and become an
+important part of the growing country. And he had gone to West Point and studied engineering there.
+So he also understood the military value of this work and was able for the agency to provide great
+support during the Civil War. And he was a trusted member of Abraham Lincoln's cabinet. And the
+Survey personnel would be embedded with the staff of the admirals and generals of the Union forces.
+They were out there under fire, being shot at, at risk of being captured, and performing really
+important service that led to the Union victory in the Civil War.
+But I think one of the other things that Bache and his contemporaries were so great with was that
+they helped to create a broader scientific infrastructure in the country. They weren't saying, hey,
+this is the sole purview of the government. We're here. We're going to run this whole thing. No,
+they knew that this needed to be a much more broader project that the country would be involved in.
+So Lieutenant George Mifflin-Bache had joined the Survey before his brother became the
+superintendent. He was a Navy officer. And in that era, that was a great labor pool for the Survey.
+We had the scientists, but we needed to get them places. So the Coast Survey would buy a ship or
+often get them from the Treasury Department partner, the Revenue Cutter Service, which becomes the
+Coast Guard. So we'd have a ship, but who's going to command it? Who's got the maritime knowledge to
+sail this? And where do we get the sailors to do it? So they were generally seconded from the Navy
+to the service. And in 1846, the ship, the Washington Coast Survey Brig, is exploring off the coast,
+looking into things like the Gulf Stream when they get caught in a hurricane. A terrible, terrible
+storm. Their masts snap off.
+HOST: These are tall ships.
+Mark Weber: Yeah, a brig is a two-masted sailing ship, square rig ship, and it's not
+a particularly big ship. So they're really at the mercy of this storm. So Bache knows as the masts
+snap off, now those are hanging over the side and threatening to pull the whole ship down. So he and
+10 of his men go out with axes and knives, and they've got to cut all this heavy rigging away before
+it pulls the whole ship down. And they saved the ship, but Bache and 10 men are washed overboard and
+never seen again. So to think about, you know, leading this agency of the Coast Survey, but knowing
+that your own brother had paid this ultimate price, they were really early American martyrs to
+science. The Treasury Department gave the crew a medal, and the medal says on it: "For gallantry and
+humanity." But the ship amazingly survived, limps back into port, and lives to sail on for another 20
+years. The ship itself is involved in the discovery of the slave ship Amistad . It is captured by the
+Confederates at the beginning of the Civil War and is taken into their service. We kind of lose the
+thread on what happens to it after 1861. But as a maritime specialist, these stories are so
+interesting to me, and I really love the opportunity to dig into them. And, you know, you would
+never think that this is going to be all connected to what seems like the simple act of making a
+navigational chart.
+HOST: So it's interesting, all of these superintendents of the original Coast
+Survey, and this went on for almost 200 years. Are there any other significant milestones within
+that 200 and some years?
+Mark Weber: Yeah, they, you know, I think as technology marches along with the
+development of the country, the expansion westward, we acquire in the Mexican War, we acquire
+California, the Pacific Coast, now as part of something we need to understand. So, again, small
+ships being sent out to California.
+HOST: What year was this?
+Mark Weber: So, this was in the 1840s, the starts, you know, and then pretty quickly
+you have the California gold rush. So, there's, oh, my gosh, we've got to get out there. We've got
+to understand this. We've got to be able to exploit this. We've got to be able to understand where
+the best place is to put a port. How do we develop someplace like San Francisco and understand the
+complicated waterways around there?
+HOST: Does this expand the Coast Survey?
+Mark Weber: It certainly does, yes. So, you know, as where I think initially, maybe
+they thought, oh, how long will it take? We're going to take a couple decades. We're going to make
+some maps. We're going to chart the coast. Over and done. But that doesn't allow for the dynamic
+changing nature of the Earth, right? A storm can quickly change the landscape, the waterscape, the
+seascape, those sorts of things, and you need to chart over again. Then you add new territories,
+right? So, the Louisiana Purchase, Texas, and then, but the Pacific Coast.
+So, to get ships out there, they have to go around South America. There's no Panama Canal. There's
+no easy way. And you look at some of these small ships and a pretty small crew. It's a very
+audacious thing to do that, to go around the Horn. And one of the ships did not make it. This was,
+in fact, the Thomas Jefferson . And it wrecks off of Patagonia. And the captain tries to
+save as much material from the ship as he can, but they have to be transported back on a merchant
+ship and come back saying, well, we lost the ship.
+But San Francisco is really one of the first big West Coast operations. And the man who was put in
+charge of this Pacific, this West Coast work for the Survey was George Davidson. He's a legendary
+surveyor. And, you know, really think about the disconnected nature. How long would it take you to
+get orders and instructions from Washington? So you had to have the right person for this job
+willing to kind of operate on their own, know what their orders were, know what the right thing to
+do was. But, you know, you couldn't be expecting a lot of handholding from Washington to carry that
+mission out.
+But that's nothing compared to the work that comes when we buy this crazy thing, Seward's Folly,
+Alaska. If you look at Alaska, the huge long chain of the Aleutians arcing out into the Pacific, the
+coast, the inlets, the just wild, rugged nature of Alaska. It's still a huge area for us to work in
+today.
+HOST: How fast did they build a shipbuilding port in California?
+Mark Weber: I mean, okay, we have this territory. It was completely, well,
+indigenous. I mean, there were, you know, there may have been some small amounts of infrastructure
+from the Spanish, the Mexican government, and so forth. But not much. Not much. And, you know, a big
+part of the San Francisco maritime story, it's amazing. You know, the ships would get there during
+the gold rush, and there was no place else to live. So a lot of them became floating hotels or
+dormitories. Eventually, they kind of sink and become buried under San Francisco. So, you know,
+there are a lot of ships hidden under there. But San Francisco is really one of the first big West
+Coast operations. And the man who was put in charge of this Pacific, this West Coast work for the
+survey was George Davidson. He's a legendary surveyor. And, you know, really think about the
+disconnected nature. How long would it take you to get orders and instructions from Washington? So
+you had to have the right person for this job willing to kind of operate on their own, know what
+their orders were, know what the right thing to do was. But, you know, you couldn't be expecting a
+lot of handholding from Washington to carry that mission out. So, but, yeah, the, you know, San
+Francisco, the ships would come in and the sailors were like, well, heck, I'm not making much as a
+sailor, but I'm going to jump ship and go inland and become a gold miner and maybe I'll make my
+fortune. And that becomes a real problem as well. And it actually became a problem for the Coast
+Survey. 
+But that's nothing compared to the work that comes when we buy this crazy thing, Seward's Folly,
+Alaska. If you look at Alaska, the huge long chain of the Aleutians arcing out into the Pacific, the
+coast, the inlets, the just wild, rugged nature of Alaska. It's still a huge area for us to work in
+today. 
+HOST: So when did that start?
+Mark Weber: So that's, that's again in that post-Civil War era. So, you know, a
+generation after, let's say, California, Oregon, huge, huge territory that requires survey work. And
+that coincides with one of those leaps in technology, aviation. So the early 20th century, they
+start to take a camera up there. So pretty quickly after the First World War, we start to work with
+partners in the Army and the Navy and these very early rickety aircraft and to try to put a giant
+camera in there and pilot a very straight line. So you have exacting photographs that can be used
+for survey work. And the Coast Survey does an amazing job with it. They really invent the way to do
+this. And during the Great Depression, an officer in the Survey, Captain Redding, creates a
+nine-lens camera. It was the only one like it in the world. It cost a million and a half dollars
+during the Depression. And it was just a valuable piece of equipment. And they quickly sent it to
+Alaska. And it was being used during the Second World War, flying in a Coast Guard aircraft. We
+didn't have any of our own aircraft at that time. And it crashes at Mount Moffat, Alaska. And a
+number of the crew were lost in that accident, including two of our first aviators in the Coast and
+Geodetic Survey. And the camera itself, though, was in pieces. But they went out and they picked
+those pieces up. And they spent two years putting it back together and finally get it reassembled at
+the end of World War II and put it into service again and use it into the 1960s.
+HOST: That's a fascinating story.
+Mark Weber: It is, I hope to see this camera. It's actually in the collection of the
+Smithsonian. They do have one of our later cameras on display at the Udvar-Hazy Center of the
+National Air and Space Museum, their annex that's out at Dulles Airport outside of Washington. We
+recently participated in an event there as the NOAA Heritage Team, and we were able to stand by that
+camera and tell people how it worked and show them these photos that were used for charting and
+mapping. And it was great to see it inspire young kids today looking at this.
+HOST: So what you're telling me is that after Seward's Folly and we acquired the
+Alaska Territory, that we really didn't map the coast until the early 20th century?
+Mark Weber: Well, they started working on it, yes. But it's just, again, it's a
+huge, huge enterprise. Again, Alaska is a big area of operation for our survey work. You know, of
+course, there's needs going on around the rest of the country for the Survey to do as well. But
+yeah, that was one of the huge mission areas. And if you were with the Coast and Geodetic Survey, in
+the early 20th century, you knew you were going to spend some time in Alaska. And again, it took a
+long time. It's remote. And you can only do it during the summer months, short though they may be.
+And it was very dangerous. You know, we talked earlier about, like, dropping a lead line down to
+know the depth in a place. But that can be really hard. What if there is a seamount? And if you
+think about these, they're sort of like a stalagmite that you might see in a cave, right, this kind
+of tall, narrow pinnacle of rock coming up from the bottom. You could completely miss that, doing
+survey work. But if your ship was unlucky enough to pass over it and the water between your keel and
+this seamount was not great enough, it could punch a hole in you and send you right to the bottom.
+And there's an amazing example of this happens in 1914 to a revenue cutter called the
+Tahoma 
+operating in Alaska. The revenue cutter service the next year in 1915 becomes the Coast Guard. The
+name people are familiar with that agency, but less so with the names they used before that. It's
+the beginning of the First World War. The United States is still a neutral power. So a lot of ships
+heard this message that the Tahoma had their hull breached and they were sinking and
+they're in such
+a remote area. Some ships hear this message and they think, well, this could potentially be a ruse
+of war. Maybe the Germans are up to something. And if we respond to this, we're going to get sunk.
+But Captain James Miller of the survey ship Patterson was like, nope, we're going to go get
+these
+guys. Easier said than done. He didn't have enough coal to reach where they were at. So he had to
+steam in through a huge storm to the port, load as much coal as he could on the ship. In fact, they
+loaded more coal than they could have safely kept. It was dangerously piled on the deck, affecting
+their stability. But they did it anyway, and they are able to rescue these Coast Guardsmen and bring
+them back to safety. So, you know, that's just an example, though, of that dangerous environment in
+Alaska.
+HOST: How many government employees and mariners could there have been operating in
+Alaska at that time?
+Mark Weber: Not too many. It's the beginning of the First World War. The United
+States is still a neutral power. So a lot of ships heard this message that the Tahoma had their hull
+breached and they were sinking and they're in such a remote area. The people who survived the
+sinking were not going to last long due to exposure from the environment. Some ships hear this
+message and they think, well, this could potentially be a ruse of war. Maybe the Germans are up to
+something. And if we respond to this, we're going to get sunk. But Captain James Miller of the
+survey ship Patterson was like, nope, we're going to go get these guys. Easier said than done. He
+didn't have enough coal to reach where they were at. So he had to steam in through a huge storm to
+the port, load as much coal as he could on the ship. In fact, they loaded more coal than they could
+have safely kept. It was dangerously piled on the deck, affecting their stability. And the Patterson
+had already been noted in annual reports to Washington as being last year's pumpkin. This was not a
+ship that you wanted to be in these unprotected waters in Alaska facing unknown dangers in. But they
+did it anyway, and they are able to rescue these Coast Guardsmen and bring them back to safety. 
+HOST: And the camaraderie between all of the officers.
+Mark Weber: Right. And the devotion to duty that these
+scientists and sailors had to have to execute these missions in these unforgiving places. So, you
+know, as the United States moves on through the Spanish-American War, we acquire overseas
+territories, including the Philippines. So that becomes the next big area of operations. More than a
+thousand islands. Complex environment. Far, far flung. So, again, the survey has to go and begin to
+do detailed charting and survey work there. The difference there is that the United States knew from
+the onset that the Philippines were on a path towards independence, commonwealth status, that led
+the survey to send American officers and scientists, but to train Philippine nationals as the crew
+of their ships. And the cadets who would learn this survey technology and then be able to do that
+for the Republic of the Philippines once they got their independence.
+HOST: What a great example of diplomacy.
+Mark Weber: Yeah, exactly. Exactly. And, again, the young officers knew you were
+going to be going to the Philippines. So this was a little bit of a dicey proposition in the early
+1900s. There were some groups in the Philippines that were not too happy to have this work there.
+Moro tribesmen were known to attack these survey parties, so they would have to have armed guards
+along with them. But the real dangers came from an unforgiving rainforest environment, people
+falling off of a cliff and dying. Or, you know, you figure you're surveying at sea, but to know
+these points, you have to erect a tower on the shore. So they're cutting down logs, creating a
+tower, doing things like that. All ample opportunities to just have an accident, but also to come in
+contact? with poisonous snakes. There's a famous story of one of our officers being attacked by a
+saltwater crocodile while they're in a shallow water doing some survey work. He survived that, but
+I'm sure he requested a transfer to New Jersey as soon as it was possible.
+HOST: This sounds like Jumanji.
+Mark Weber: Yeah, it really does. It really does.
+HOST: And so then is it after the Philippines that Hawaii comes into the picture?
+Mark Weber: So Hawaii comes in around the same time. A lot of the survey work in
+Hawaii was conducted by the Navy. But certainly the Coast and Geodetic Survey did much work there.
+That was a regular station. In fact, many of the ships that worked in Alaska got to go to Hawaiian
+waters during the winter. So they probably very much appreciated a little bit of tropical work after
+the, you know, I'm sure it was cold and stormy and unforgiving in Alaska even during the so-called
+summer months.
+HOST: But also traversing the Pacific Ocean must have been punishing.
+Mark Weber: Yeah, exactly, exactly, and, you know, making soundings and other
+observations all along that vast ocean is just, you know, what a daunting task. And I think one that
+really, you know, makes you seem small and insignificant against the size of these mighty oceans of
+our planet.
+HOST: Well, in addition to the ocean and the coast, the United States also has the
+Great Lakes.
+Mark Weber: Yes, in 1841, the government said, we need charts and maps of the Great
+Lakes. These are, again, super highways into the interior of the United States. You come in the St.
+Lawrence, the Hudson, all these waterways, you're feeding into the Great Lakes. And canals like the
+Welland Canal open up. You can now have a way to sail around Niagara Falls and get to the upper
+lakes. There are so many shipwrecks in the central basin of Lake Erie. So it shows how needed the
+charts were, how bad the weather could be, how unexpectedly it could change.
+HOST: Right, and the Office of National Marine Sanctuaries is another Program Office
+within the National Ocean Service.
+Mark Weber: Exactly, right. And these sanctuaries on the Great Lakes are really
+opening people's eyes to the time capsules that exist beneath the sea. It's just astounding. But now
+you realize how imperiled they were and how much they've improved due to the actions of conservation
+groups and government agencies and so forth.
+HOST: Well, and we know them as the Great Lakes, but they, in practice, act more
+like inland oceans of fresh water.
+Mark Weber: Exactly. Right, right. And when you're, you know, you're trying to
+traverse untrammeled wilderness, there's no roads or anything to speak of. And going on those
+waterways was much quicker. That was the way to do it, to send cargo and people. And, you know,
+there's huge resources of fish. So that became a great way to feed the country. But starting in the
+1840s, they do this survey and charting work on the Great Lakes. They did feel like they were done
+with the mission by 1888, and Congress said, okay, you're done. You've got everything mapped and
+charted, and it didn't take long. By 1901, they said, you know, enough has changed, we need to start
+this all over again. But that mission continued with the Army until the creation of NOAA. And in
+October of 1970, those ships and offices and personnel were one day working for the Army Corps of
+Engineers, and the next day they were working for this new group called NOAA. So that's how NOAA
+comes to the Great Lakes.
+HOST: Oh, that's so interesting. So it was the same mission, but one office was with
+the Army, and the other one was part of the Coast Survey and Geodetic Survey. So NOAA acquired all
+of these Coast Survey offices that were in the Great Lakes, and so it becomes all one: The ocean,
+the coast, and the Great Lakes.
+Mark Weber: That's right.
+HOST: The ocean, the coast, and the Great Lakes. 
+Mark Weber: Exactly, yeah. And I think that's part of the, you know, the
+inspirational understanding that leads to the creation of NOAA, right? That these academic
+disciplines of atmosphere or weather and oceans and oceanography and so forth, we understand the
+Earth more as a system where these things all relate. You know, there's not a hard border between
+them that what happens in the water affects the atmosphere and the reverse. So an organization like
+NOAA that brings all of this observation together is a revolutionary idea, but it's completely the
+one that makes sense.
+HOST: So when NOAA was brought together and created in 1970, is that when the
+National Ocean Service became the National Ocean Service?
+Mark Weber: Well, sort of. It had the same initials, but it was initially the
+National Ocean Survey. And then in 1983, it changes from survey to service, so it becomes the
+National Ocean Service in 1983.
+HOST: Are all of the core missions from the early Coast Survey still a part of the
+Ocean Service?
+Mark Weber:The Survey created the term aeronautical chart and pioneered that work.
+But as aviation becomes a bigger enterprise, more important to the commerce and culture of the
+country, we have different groups, government agencies that are created to handle that. So
+eventually that mission is spun off to the FAA. You know, so there are other examples of that. But I
+think most of those core missions of the early Coast Survey still live within the National Ocean
+Service.
+HOST: The National Marine Sanctuaries, which I know, I think, around 1972
+is when Congress enacted the National Marine Sanctuaries Act, which led to the first National Marine
+Sanctuary, which is the USS Monitor .
+Mark Weber: Exactly. Yeah. You know, humankind hasn't really had a good look under
+the waves for very long. You know, man's exploration of the sea was pretty fraught. And, you know,
+you think about a deep sea diver down there on the end of a line and not even understanding how long
+they could withstand those pressures and what returning to the surface would do to their body. But a
+coral reef or a shipwreck, those were nothing to be preserved. They were obstructions, you know. If
+they were in the way of your getting into your harbor or that shipwreck was interfering and possibly
+causing another shipwreck, those were things that came to the notice of the agency. They were marked
+on a chart. Sometimes they were destroyed, you know. But so, yeah, it's a very different
+understanding as we start to get that glimpse with scuba and technologies that allow more and more
+humans to see beneath the sea.
+HOST: Yeah, like the autonomous underwater vehicles that were imaging the
+Monitor .
+Mark Weber: Right. You know, the genius of the staff working for the agency, the
+personnel, the scientists, and their inventiveness is really brought home by some of the artifacts
+that we at NOAA Heritage manage. In our campus here in Silver Spring, we have a facility called the
+Science Center. And one of the pieces that's in there is a tide-predicting computer that was first
+envisioned in the 1890s, and when the people behind this idea first talked to their bosses, their
+bosses said, well, that might be interesting. You can work on that in your spare time. You don't
+have anything else going on. But they took that as a yes, and they took what the British had
+developed and improved on it. Because as they looked at these rugged environs of Alaska and some of
+the other parts of the United States coastline, the system that the British used wasn't really up to
+what we needed in terms of its capabilities. So they, two gentlemen, Fisher and Harris, worked on
+this, one a scientific genius and the other an instrument-making genius, and ultimately created what
+became known as Tide Prediction Machine No. 2. Not a really catchy name. And people love a catchy
+name, right? So the early news stories, you look at National Geographic and Scientific American,
+when this machine in the 1910s was really getting known.
+They would call it the machine that prophecies. And pretty quickly, the staff started calling it Old
+Brass Brains, and that's the name we lovingly refer to this machine with today.
+HOST: Old Brass Brains.
+Mark Weber: Old Brass Brains, it's about the size of a minivan. It is a steampunk
+contraption of gears and wires, and, you know, it's just astounding. This is something that, you
+know, involves celestial mechanics, the moon, and the orbit of the Earth, and theoretical
+mathematics. It could predict the tides at a given location for 100 years, given basic inputs of
+observations conducted by the Survey with a tide staff and tide gauge and things like that in a
+location. And this material is amazingly important, right? So we talk about the charts, but as we
+mentioned earlier, you know, you come in at the wrong time, the tide is low. There's all kinds of
+things under there that could cause you and your ship grief. So knowing the tides was very
+important. So these were published in tide tables that that ship captain could have as well to help
+them know about their safe navigation. This machine was used up until 1960. It was located in the
+basement of the main Commerce building downtown. And during the Second World War, it was so
+important to national security that it was kept under armed guard. It was running about 24 hours a
+day.
+HOST: Oh, my goodness.
+Mark Weber: As, you know, as we know, with huge amounts of the American male
+populace at war, there were real opportunities there for bright women to finally show what they
+could do. And they made a real contribution to the development of science and to the nation's war
+effort during the Second World War.
+HOST: When did women first work at the early Ocean Service?
+Mark Weber: The first we know of is in the 1840s is a woman named Mariah Mitchell.
+And she lived in Nantucket, was part of a Quaker family, and, uh, her father and mother were
+interested in libraries and science. And so she knew how to operate a sextant and a telescope. And
+she discovers a comet. It's given international acclaim and awards for Miss Mitchell's Comet. She
+comes to the attention of Bache, the superintendent, and she's hired to do astronomical calculations
+for the agency.
+HOST: Was Coast Survey the first government agency to employ a woman in a scientific
+role?
+Mark Weber: Definitely. Definitely.
+HOST: Wow.
+Mark Weber: That was her. She goes on to become a famous professor of astronomy at
+Vassar. And her telescope is in the collection of the Smithsonian. So, a really, legendary
+character. And one we hope to learn more about her, her contributions to the agency.
+HOST: Well, it's interesting, you know, a lot of firsts for the Coast Survey, first
+scientific
+agency, and now employing the first woman in a scientific role in the United States. That's
+significant.
+Mark Weber: Yeah, exactly. It sure is.
+HOST: In the 20th century, after the World Wars, the organization or the agency was
+still called the Coast Survey and Geodetic Survey?
+Mark Weber: Yeah, the U.S. Coast and Geodetic Survey exists under that name from
+1878 until 1970, when NOAA is created. It becomes, then, the National Ocean Service.
+HOST: Do you know what the driving force was to bring all these agencies together
+into one NOAA and, you know, combine them into the National Ocean Service as well?
+Mark Weber: I think in the post-World War II era, as there's so much new science
+there's a lot of scientific and technological advancement—and people start to realize that the ocean
+and the atmosphere, these are interconnected systems, right? It's one planet that we live on, that
+these are not—well, they may be studied as distinct scientific disciplines. In reality, we're all in
+this big terrarium together, right? And these systems affect one another. So that kind of
+revolutionary understanding, coupled with the burgeoning ecology movement, you know, the books like
+Rachel Carson's Silent Spring, as we were talking about earlier, those first glimpses
+underneath the sea, you know, scuba gear, Jacques Cousteau, that really opens up to man how much we
+don't know about this interconnected system that we have. So I think it's a pretty audacious idea to
+create a whole new agency to put these like-minded physical science agencies together. And, you
+know, that's part of the real genius of NOAA and how it continues to grow and evolve and serve the
+American public.
+HOST: Well, and it's interesting that, you know, we're talking about the origins of
+the National Ocean Service, early 19th century, working with mapping ports and charts and charting
+the coasts, and that all of this is still being used today.
+Mark Weber: That's right.
+HOST: And still being done and revised and new technologies are coming out of it,
+that these programs within the National Ocean Service are still as important to the country as they
+were when they started.
+Mark Weber: I agree. Yes, certainly. And, you know, the technology, sonar, aircraft,
+there's a lot of other tools that we bring to bear. But those are still getting us to the same kind
+of data, the same charts and maps and ways to understand our world.
+HOST: Oh, it's fascinating hearing about all the history—all the history that's come
+before to create what is now the National Ocean Service.
+Mark Weber: Yeah, it's a proud legacy. And I'm so thrilled to spend a little bit of
+time with you today to talk about these kind of unsung people and all that they've done for the
+country.
+HOST: How important is history?
+Mark Weber: Oh, well, you're asking the guy who's going to say it's the most
+important thing. But, yeah, it's how we get to where we're at today. And, you know, I'm passionate
+about sharing that with people, and particularly in museums, you know, taking objects that tell us
+something about the past and looking at those and using them to help us understand where we've come
+from and what the people who came before us contributed.
+Mark Weber: Yeah. Basically. So there's astronomical calculations that would be a
+part of that. But that's essentially what it did is, you know, predict out those tides.
+HOST: Well, and now we have a website. You can go to tidesandcurrents.noaa.gov .
+Mark Weber: Exactly. And, you know, one of the interesting things about this is
+before this machine, when I'm giving a tour or talking to people about it and I say, this is a
+computer. Well, it's not what they expect. You know, it's an analog machine. It's like a giant
+watch, gears and wheels and things. But I'll usually ask the group, say, well, you know, in 1890,
+what was a computer? And, uh, most times people have no, no answer to that. But the real answer is a
+computer was a smart person with a sharp pencil. This was a person who did complicated calculations.
+And, uh, that led to the inclusion of some very smart women into scientific work for the agency.
+HOST: When did women first work at the early Ocean Service?
+Mark Weber: The first we know of is in the 1840s is a woman named Mariah Mitchell.
+And she lived in Nantucket, was part of a Quaker family, and, uh, her father and mother were
+interested in libraries and science. And so she knew how to operate a sextant and a telescope. And
+she discovers a comet. It's given international acclaim and awards for Miss Mitchell's comet. She
+comes to the attention of Beish, the superintendent, and she's hired to do astronomical calculations
+for the agency.
+HOST: Was Coast Survey the first government agency to employ a woman in a scientific
+role? 
+HOST: This has been Allison Burrell with the NOAA Ocean Podcast. Thanks to our
+guest, Mark Weber, for this ocean history lesson, as the National Ocean Service steps into the
+future. The National Ocean Service continues to make history with our many programs that cover
+ocean- and coastal-related topics, from tides and currents to marine debris. For more details about
+the history of NOAA’s beginnings, click on the NOAA Heritage link on our website. Be sure to check
+out all our podcast episodes through the National Ocean Service website or wherever you get your
+podcasts. Thanks for listening. Let’s keep making waves.]]></content:encoded>
+<_show>NOAA Ocean Podcast</_show>
+<_episode_id>nop86</_episode_id>
+<_source_url>https://oceanservice.noaa.gov/podcast/sep26/nop86-nos-origins.html</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-10-26</_collected_at_beijing>
+<_audio_verified>官方页音频地址 301 到 cdn.oceanservice.noaa.gov 永久地址；HEAD 得 audio/mpeg + 66535045 字节；整文件下载后 ffprobe 时长 2771.334 秒、字节数一致</_audio_verified>
+<_child_clip_guid>urn:podcast:oceanservice.noaa.gov:podcast:sep26:nop86-nos-origins:clip:hassler:236.9-289.5</_child_clip_guid>
+</item>
+<item>
+<title>Monitor as a testbed: new 3D imaging can spread to other wrecks — clip from USS Monitor 3D Mapping (559.7-604.5s)</title>
+<link>https://oceanservice.noaa.gov/podcast/aug26/nop85-uss-monitor-3d-mapping.html</link>
+<guid isPermaLink="false">urn:podcast:oceanservice.noaa.gov:podcast:aug26:nop85-uss-monitor-3d-mapping:clip:testbed:559.7-604.5</guid>
+<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+<category>ocean-environment</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/noaa-uss-monitor-3d-85-clip-testbed.mp3" length="818659" type="audio/mpeg"/>
+<itunes:duration>45</itunes:duration>
+<description><![CDATA[【节目】NOAA Ocean Podcast
+【主题】ocean-environment
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】Monitor 当试验场：这套新成像技术不只拍 Monitor，还能用到更多沉船、沉没飞机甚至原住民遗址——关键是又快又准。
+【Reels 角度】沉船变试验场：1862 年的 Monitor 试成功的新成像，能复制到别的沉船上吗？答案是能，而且很快。
+【许可证】Public domain：Excerpt of a US federal government work (NOAA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NOAA endorsement implied.
+【来源】https://oceanservice.noaa.gov/podcast/aug26/nop85-uss-monitor-3d-mapping.html
+【采集日（北京时间）】2026-10-26
+【发布时间精度】date_only（Inherits parent original publish date (NOAA page DC.date.created 2026-8-21, date only); clip itself was modelled 2026-10-26 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:oceanservice.noaa.gov:podcast:aug26:nop85-uss-monitor-3d-mapping
+【父集链接】https://oceanservice.noaa.gov/podcast/aug26/nop85-uss-monitor-3d-mapping.html
+【片段】原集 559.7-604.5 秒，44.8 秒，原声，未加 BGM，文件：clips/noaa-uss-monitor-3d-85-clip-testbed.mp3]]></description>
+<content:encoded><![CDATA[Do you suppose this new imaging technology will be used on more shipwrecks? Like saltwater and freshwater? Yeah, I hope by basically using Monitor as a testbed, and that's one of the wonderful things about Monitor, that where it's always been pushing technology innovation from 1862 to today, bringing all those new technologies to bear. That, you know, people would look at the example of what we achieved on Monitor with Northrop Grumman using this technology and how it can now be used and applied to other sites as well. You know, whether that be shipwrecks, maybe it's sunken aircraft. You know, maybe there's sunken indigenous sites. You know, just the technology and the resolution we can see for these things is mind-blowing. And the fact that we can collect that so quickly with the AUV, too, is very special.]]></content:encoded>
+<_show>NOAA Ocean Podcast</_show>
+<_episode_id>nop85-clip-testbed</_episode_id>
+<_source_url>https://oceanservice.noaa.gov/podcast/aug26/nop85-uss-monitor-3d-mapping.html</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-10-26</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 44.8s / 818659 bytes (ffmpeg cut from verified full MP3 in this run, 2026-10-26); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/noaa-uss-monitor-3d-85-clip-testbed.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/noaa-uss-monitor-3d-85-clip-testbed.srt</_clip_srt_url>
+<_clip_words_file>transcripts/noaa-uss-monitor-3d-85-clip-testbed-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/noaa-uss-monitor-3d-85-clip-testbed-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:oceanservice.noaa.gov:podcast:aug26:nop85-uss-monitor-3d-mapping</_parent_guid>
+<_parent_id>noaa-ocean-uss-monitor-3d-85</_parent_id>
+<_clip_start_s>559.7</_clip_start_s>
+<_clip_end_s>604.5</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>USS Monitor, Part 2: Underwater 3D Mapping</title>
+<link>https://oceanservice.noaa.gov/podcast/aug26/nop85-uss-monitor-3d-mapping.html</link>
+<guid isPermaLink="false">urn:podcast:oceanservice.noaa.gov:podcast:aug26:nop85-uss-monitor-3d-mapping</guid>
+<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+<category>ocean-environment</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:full-episode</category>
+<category>production:text-script</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://cdn.oceanservice.noaa.gov/oceanserviceprod/podcast/aug26/nop85-uss-monitor-3d-mapping.mp3" length="34107812" type="audio/mpeg"/>
+<itunes:duration>1420</itunes:duration>
+<description><![CDATA[【节目】NOAA Ocean Podcast
+【主题】ocean-environment
+【形态】audio, text
+【生产形态】full-episode, text-script
+【摘要】沉没 1862 年的 USS Monitor 如今成了海洋保护区的人工礁，Northrop Grumman 的水下自主航行器声呐把它拍成了超高精度 3D 模型，公众能虚拟参观，科学家能以此为基线追踪船体变化。
+【Reels 角度】1862 年沉船变 3D 模型：不用潜水员下水，声呐 + 自主航行器把 Monitor 整船扫成可旋转的 3D 像，还能 3D 打印。
+【许可证】Public domain：美国联邦政府作品（NOAA 官方播客），一般不受版权保护
+【权利说明】可剪辑/再分发，不得暗示 NOAA 背书；本集文字稿中未见第三方歌曲标注；片段为原声对话，无 BGM。
+【来源】https://oceanservice.noaa.gov/podcast/aug26/nop85-uss-monitor-3d-mapping.html
+【采集日（北京时间）】2026-10-26
+【发布时间精度】date_only（NOAA 官方单集页 DC.date.created meta：2026-8-21（仅到日，RSS 时间以当日 00:00 UTC 占位，精度字段已注明，不伪造具体时刻））
+【子片段 GUID】urn:podcast:oceanservice.noaa.gov:podcast:aug26:nop85-uss-monitor-3d-mapping:clip:testbed:559.7-604.5]]></description>
+<content:encoded><![CDATA[HOST: This is the NOAA Ocean Podcast. I’m your host, Allison Burrell. Off the coast of North Carolina lies the remnants of the USS Monitor, now a protected National Marine Sanctuary. From its sinking in 1862 until now, it has developed into a bustling artificial reef. We are joined in the studio by Maritime Archaeologist, Tane Casserley, from the Office of National Marine Sanctuaries, whose specialties include 19th-century warships and deep-water archaeology. In this episode we discuss a new 3D imaging technology that’s virtually bringing the USS Monitor back to shore. 
+Now let’s dive in… 
+I am here again with Tane Casserley, who works with the Office of National Marine Sanctuaries. And today we're going to talk about the Monitor shipwreck again, but the next new thing that is happening, or that has happened, is this new imaging technology by Northrop Grumman. And I'm so interested in this underwater imaging. Has the Monitor been imaged before?
+TANE CASSERLEY: Yeah, well, that's a good question. So the Monitor, you know, over the years, we have looked at it with different types of sonar. You know, and sonar is a piece of equipment that really uses sound to image things on the seafloor. It's all different types of technologies. But what makes working with Northrop Grumman unique is the fine-scale resolution that they're able to bring to what we're doing. So I've been, you know, had the pleasure of working with our NOAA ships in the past, and they have multi-beam sonars that are hull mounted. They do a great job. But those are designed to do a very particular thing, right? They're imaging the seafloor. You know, we can get some pretty good images of shipwrecks and things, but they have a very particular mission. The mission of the Northrop Grumman equipment is really to look at much smaller, compact sites, where the NOAA mission is really, with the ships, large scale, right? They're looking at big swaths of the seafloor, as they should be. This Northrop Grumman microsynthetic aperture sonar they have is just phenomenal. So we were so lucky to partner with them and their technology for the conservation team to bring this to us. And this is the first time that technology has been used outside of the defense or aerospace industries. We're so excited to almost be unveiling it publicly for the first time. It's just incredible what we can see with it.
+HOST: So how does this new imaging technology work? 
+Tane Casserley, Marine Archaeologist
+TANE CASSERLEY: So the sonar that Northrop Grumman brought out to the Monitor is actually installed within an AUV, an autonomous underwater vehicle. This one happened to be one called a Remus 300, you know, sort of a smaller AUV. You know, you have four or five people actually to be able to recover it and put it in the water, deploy it. So it's mounted within this AUV. And what makes AUVs so unique is that you program them on the surface and then literally let them go on the side and they go off by themselves without a tether, without any of those kinds of things that would encumber it. And it goes off and does a survey and then pops back up and says, hey, I'm here. I finished the survey and you can download it. So you can do much more targeted surveys with an AUV. It could be smaller in scale. You don't have to have all the cables and all those kinds of things. So we were just very lucky to be able to work with this technology.
+HOST: So it's collecting information by itself, swimming around down there near the shipwreck. But are you getting anything real time?
+TANE CASSERLEY: Not real time. I think they could ping back and forth to it once it's on the surface. I think it can tell us if it accomplished the mission or what it had to do. And they can give it a new mission. So it really is pretty phenomenal.
+HOST: How long did it take from it entering the water to do the survey?
+TANE CASSERLEY: Oh, Lord. So we tried to go out for multiple days, but we did run into weather. So we got one really good day with it. We might have put it down maybe four or five times perhaps. And each time it went down was maybe for just over an hour. It was really incredible. And we have to remember, too, the Monitor site is quite small. The ship as built was only 173 feet long. So now it's a bit shorter, but it is a very small site. But yeah, and that's what made it so perfect is that we could do these little targeted surveys and get this phenomenal data.
+HOST: So what's the difference between an AUV and an ROV?
+TANE CASSERLEY: Right, well, an autonomous underwater vehicle, an AUV, and the difference between that and ROV, a remotely operated vehicle, is that the ROV has a tether. So think of it almost like a dog on a leash, right? So you're running out with your dog and it's got the leash on and the dog's running around a tree and then you both get bonked, right? Well, it's kind of analogous to what happens with an ROV is that you have to be very careful with that tether management. In a wreck, it can be challenging, especially North Carolina with the currents, that that tether can get pulled onto things, pulled in different directions. It could wrap around delicate artifacts or structure on the wreck. So if you can take that out of the equation, so you have something that's free swimming and you don't have to worry about the actual sensor itself and a tether, it's just that sensor, it really simplifies things in some ways. In other ways, it makes it more complicated, but I believe it's a bit safer way to work in these delicate sites.
+HOST: So that's why an ROV wouldn't work in the environment where the Monitor lies because of the high tides?
+TANE CASSERLEY: The current, we have used ROVs at Monitor, but really I think I feel the most effective way that an ROV works on a shipwreck is feeding you real-time video. You can put other sensors on it too, but you get that real-time feedback. But you can also, you can only actually move a certain distance from the ship. So if you want to move to a different part of the shipwreck, the entire ship has to move above it along with the tether, and that can be very complicated. So it can give you great real-time interactions, but it also has limitations.
+HOST: Once the AUV is deployed, how does it know where to go? Is there a program, like does it follow a grid pattern?
+TANE CASSERLEY: Yeah, so the engineers, they program the AUV, and traditionally, as we would do a sonar survey on the surface, a grid pattern is done. You call it mowing the lawn, and that gives what you hope to be is 100% or 120, 150% coverage of what you're looking at on the seafloor. And it basically goes up, a little bit over, and down, and then up and down, just like you're mowing the lawn, and that covers an area. So it gives you good data, but what can be limiting with it is that it's really just a downward view at different angles. But what's unique about the Northrop Grumman sensors and technology is that they do that, as well as circular surveys around the object at different levels. So now you're getting those different perspectives of the object you're imaging on the seafloor. So you get even a better picture, a resolution of that object. And that's what makes them so unique.
+HOST: Maybe we should start mowing our lawns in concentric circles.
+TANE CASSERLEY: It could be fun.
+HOST: Could be fun. So, your crew had to sail out to this shipwreck to release this AUV. And I know we have video documenting this trip, and it's shared on the Monitor website, which we'll link in our podcast episode page. Did you anchor nearby to stay close to the shipwreck?
+TANE CASSERLEY: No, no. And so it's almost the same techniques we use as scuba diving out there. Again, the currents are so strong, there's no sense in anchoring, because it can be difficult to recover, the anchor, you know, you can move out of the way, but you also need to respond quickly. So just like scuba diving out there, we would sort of free drift and free float, and we would just hover in the area on the surface around the wreck. And really, working in those kinds of conditions out there is probably the most effective way and the safest way to do it. But it is unique to the strong currents of North Carolina.
+HOST: And then you also had a videographer that came out there with you.
+TANE CASSERLEY: We did. We did from NOAA. So we are very pleased to have him out there. And he shot, you know, aerial shots with a drone. So we've got these beautiful shots of the AUV being deployed. So, you know, we can really demonstrate from start to finish what's it like to work with this type of equipment. And maybe we inspire some young kids that they want to follow in our footsteps.
+HOST: Was there any video taken with the AUV or was it just sonar?
+TANE CASSERLEY: We did experiment by putting a GoPro small camera on the AUV, but we did experiment. We didn't see anything other than some fish. But, you know, again, let's try. You never know what you might find by not just experimenting and theorizing.
+HOST: Has this technology been used before?
+TANE CASSERLEY: So this is a proven technology at Northrop Grumman. It's one of their newer technologies. But again, it's really only used in that defense or aerospace realm. So we were just so lucky that they brought it onto our project, which makes it a lot more public-facing. And I believe this is really the first time it's been used in this more public project where everybody can benefit from it.
+HOST: Do you suppose this new imaging technology will be used on more shipwrecks? Like saltwater and freshwater?
+TANE CASSERLEY: Yeah, I hope by basically using Monitor as a testbed, and that's one of the wonderful things about Monitor, that where it's always been pushing technology innovation from 1862 to today, bringing all those new technologies to bear. That, you know, people would look at the example of what we achieved on Monitor with Northrop Grumman using this technology and how it can now be used and applied to other sites as well. You know, whether that be shipwrecks, maybe it's sunken aircraft. You know, maybe there's sunken indigenous sites. You know, just the technology and the resolution we can see for these things is mind-blowing. And the fact that we can collect that so quickly with the AUV, too, is very special.
+HOST: So what's exciting about this is it's novelty, and you're able to share the imagery with the public. So someone could visit the wreck virtually. So what kind of products are able to be produced with all of this data that the AUV is collecting?
+TANE CASSERLEY: Yeah, well, that's a great question about what, you know, what does this data mean that we're going out with Northrop Grumman and collecting? Like, what does it do? What does it mean to me? Right? So for the sanctuary, it's wonderful because it gives us this hyper-accurate view of the Monitor . So I can see structurally, is it changing? Is it staying the same over time? What's happening? You know, this is really the first time we've collected with that much accuracy and precision. But for the public, you know, what a great way to interact with something in three dimensions. So you see that, and now you get a true sense of, like, what's the Monitor doing down there? What does it look like? What hull remains are there? We're working with Northrop Grumman to identify those different features on the wreck so you can see that in the sonar image and start understanding the wreck site. But what's also wonderful is that data has now been transformed into a three-dimensional model that you can see and manipulate and spin around to get an idea. And also, we're going to be getting a printed model of that, too, the 3D print. And so it just gives us an extra layer of interpretation to say, hey, this is Monitor today. So that incredible, you know, prototype of the pre-battleship and all the technology to that, now we're using the latest technology to see what that wreck looks like today.
+HOST: What scale is the 3D printed model going to be at?
+TANE CASSERLEY: Ha! I wish it was life-size, but it's about two feet long, two, three feet long.
+HOST: That'll still be really detailed.
+TANE CASSERLEY: Oh, yeah. The detail is phenomenal. Again, what another great tool that we have to share this heritage. I mean, we all are part of this heritage. Part of the, you know, living in the United States, being citizens, we own this heritage. So to be able to get it out there for folks to interact in different ways is what we should be doing.
+HOST: So with the data that's being collected with the AUV, scientifically, what are you doing with that?
+TANE CASSERLEY: Well, so Monitor, it is, you know, in some ways we image it, you know, with the photography of the video, but you only get a certain like 2D sense of what the wreck looks like. So you can look at it on video and be like, okay, it looks pretty good. But without having divers down there, which we have done and still do, but it can just be really difficult to get a sense of how is that wreck and the hull changing? What are the variations? You know, because if you're dropping measurements down to the seafloor, but the seafloor depth keeps changing because of the currents moving sediments, what do you use as a baseline to document change? How do you do that? So, by using this technology where now I can look at it in three dimensions and it is so hyper-accurate, but now going back and doing future surveys, I can say, hey, the hull is doing great right now. But maybe in 10 years' time, we've seen flexings and movements, but because this particular product created a baseline, I can track that. But before that, we didn't have that data. It was really just some of those visual datas or the, you know, the very quick measurements we got with our dive teams.
+HOST: Who went out on this ship with you to release the Northrop Grumman AUV? What types of jobs were involved in this project? Is this, is it an expedition?
+TANE CASSERLEY: Yeah, well, I like to call them all expeditions. Yeah.
+HOST: Expedition, this is an expedition. Yeah.
+TANE CASSERLEY: Yeah, absolutely. So we went out with Northrop Grumman and their team on their research vessel Discovery . Really, it was the engineering team, the engineering and their field teams. You know, they're the experts. They're the ones who work with this equipment day in, day out. So I was there representing NOAA and the archaeologists, but we also had biologists out there. So a group called Stantec, which is a partner with us, with Northrop Grumman, and they went out there as well. And, you know, we experimented with what happens if we try to sample for eDNA material out at Monitor . So it's pretty innovative.
+HOST: Environmental DNA.
+TANE CASSERLEY: Yeah. So we look at it as, you know, Monitor is always going to be a test bed. Let's experiment and try. We're already doing this sort of revolutionary sonar. If we experiment by attaching these sort of perforated balls that have a sponge-like substrate inside that will collect the seawater. So we tried that. You know, I wouldn't say we found anything unique, but, you know, we did, you know, the results showed us that it found species that are known to be up in North Carolina. And I think that's just a great start in a way as a foundation to build upon, that how sometimes you compare these different technologies to collect data. You know, it's the start, but, you know, Lord knows without some refinement what else it might be able to detect around different sites.
+HOST: So recently you premiered the results of the AUV imaging with an event at the USS Monitor Center. What are the next steps for the Monitor ? Will there be more analysis of the imaging collected? Will you go out, like you had said, oh, we were going to do two days and we only did one. Are you going to go out and collect more data?
+TANE CASSERLEY: Well, for this particular project, it's at a close. But the next part of the mission is let's get it out to the public, right? Let's start integrating this new imagery and technology into our educational programs. Let's get it on the website. We do, you know, several programs working with the local schools. Well, now let's integrate this new technology into that so now we can start inspiring that next generation of marine scientists to come out. So that's what I look at now is our mission is we have this wonderful data which cannot live just in a filing cabinet. It's upon us now to get it out there and make it meaningful. And it really is incredible. So that's the mission that I see next. We're always open for new ideas at the shipwreck site. But for this particular project, let's get it out. Let's make it meaningful. Let's get it in school kids' hands.
+HOST: There is a website associated with this expedition. What are some of the most exciting things that's coming out of that website?
+TANE CASSERLEY: Yeah, well, Northrop Grumman have built a web portal for us so you can click these buttons and you can explore what we did in 2025 with the AUV in the survey and see all that incredible data, right? And learn about it. You know, maybe you want to be, it inspires you to be an engineer or some other part of the technical aspects of surveys. But the other part they built on that website was they looked back at Monitor in 1862, which I'm particularly excited by. So, you know, the Northrop Grumman has so much capability, all these different facets of things they can do. So one of them was building 3D models. So I asked them, Monitor ’s deck layout changed three times in 1862 as they learned more and did improvements. Can you build us three different models to demonstrate that? And they said, yeah, we can absolutely do that. So one of the things on the website people are going to see now are these three separate and unique Monitor 3D models they can manipulate, move, and learn how Monitor changed over time, which is incredible. We've never had that before. The other exciting part is, you know, when we talk about the ship sinking and what that was like, what that went through, the storm and the incredible heroism of the men that were saved by the sailors of the Rhode Island . And that incredible night, they also created an animation of that sinking event for us. So we can work with the conservation team here at the Mariners Museum and Park, and we can look at what the artifacts told us about some of the damage and things we saw, these recovered items, like part of the Monitor skeg, the prop. You know, the damage that we see at the stern of the shipwreck.
+So how we believe the vessel sank by coming down by the stern, turning slightly to starboard, crashing into the seafloor, which crushes the stern of the vessel, which is the end of the vessel.
+And the right-hand side, it crushes that, and then everything flips upside down and lands on top.
+And I believe we've recaptured that in this animation, how NOAA thinks the vessel actually went down that night, December 31st of 1862.
+HOST: So you've collected all of these artifacts from the Monitor and brought them up. How do you conserve them and make sure that they don't just disintegrate when they come up to the surface?
+TANE CASSERLEY: Yeah, well, it's a great question. You know, people often think that, you know, you go out to a shipwreck or another site, you've recovered something, you bring it back to the surface, and everybody's celebrating, and that's the end of the story. So that is not the end of the story, right? So before we do anything like that with the national marine sanctuaries, is anybody who's really a responsible archaeologist that, okay, that's one part of the story, but now you're going to need to have funding in place to pay for this thing. Where is it going to go? Who's going to conserve it? This is its own expertise and discipline, right? You need to have the right people doing this. So we are so lucky to have partnered with the Mariners Museum and Park here in Newport News, Virginia. So their conservation team is incredible, dealing with all of this government-owned archaeological assemblage, right? So it's the science that goes into it is incredible. But what I find most exciting by watching these experts here is that they're not only saving our heritage, right, for all of us, but they're pioneering brand-new techniques. Because, as I mentioned, something at this scale has never been done for. So it's known how to conserve metals and things, but to this scale, it's never been done. So they're pioneering new ways and influencing the entire field of marine metal conservation for the better, all because of Monitor . How to do it safer? How to do it cheaper? You know, what can we do to accelerate the process but still ensure the safety of those artifacts, these incredible one-of-a-kind pieces? It is incredible what they've achieved here. And, again, it's all due to the Monitor .
+HOST: And is there a virtual way to visit the wreck?
+TANE CASSERLEY: Absolutely. So the final part that Northrop Grumman built for us was what we call the wreck-to-reef model. So this is the story we've been telling since the end of the large artifact recovery. So from 2003 till today, we're looking at the wreck historically, archaeologically, but as a thriving reef as well, which is important. So, we worked with the Northrop Grumman team, and we said we would love to see a model of the shipwreck on the seafloor, but let's put that marine life on it. The marine life, the species we know that we've documented on that site, can we put it on there? And they did. So we've got this gorgeous 3D model interaction of the wreck on the seafloor that you can zoom in on and spin around, and you'll see lionfish, you know, the invasive lionfish. You'll see sand tiger sharks. You'll see Atlantic spadefish. You'll see so much more. So, what an incredible way to also now add in that sort of marine biology ecological component, which is so much of what Monitor is today for the public.
+HOST: I love that the Monitor is still making history.
+TANE CASSERLEY: Yeah, it really is. You know, it sounds like, you know, we're all excited about saying that, but it absolutely is true. I mean, the way it influences things, and we look at, you know, what does the Monitor mean to us as a people? Why does it inspire people? Those same things that inspired people, you know, 100-plus years ago, 163 years ago, the same aesthetics of this little ship that rallied us as a nation, I think is still there today. You know, we have a lot we can learn from that.
+HOST: Well, and we’ve got so many firsts. The first iron clad. The first national marine sanctuary. The first public-facing Northrop Grumman AUV imagery. And who knows what the next first will be for this ship.
+TANE CASSERLEY: Yeah, exactly, that is what Monitor is known for. And we are open for that. Monitor is a test-bed. And we’re open to talking to new partners, to do new things, and bring in new technologies.
+HOST: And I'm also looking forward to seeing the future of this AUV technology and how it can help protect our coasts, our oceans, and our coasts.
+TANE CASSERLEY: Yeah, exactly. You know, it can't be so difficult to document and research and visit these deeper areas of the ocean. So technologies like this are bringing it to light. I can't wait to see what happens in the next five or ten years.
+HOST: Well, I am looking forward to hearing more from your investigation of the Monitor and unearthing interesting historical facts. This has been an absolutely fabulous conversation. Thank you so much, Tane.
+TANE CASSERLEY: Oh, I'm so happy to be here, and, you know, I'm so proud just to be able to talk about Monitor and all the ways it's affected us from 1862 to 2026. I mean, it really is an incredible story, and I hope the story keeps inspiring all of us, you know, as we move forward.
+HOST: This has been Allison Burrell with the NOAA Ocean Podcast. Thanks to our deep-water archaeology expert, Tane Casserley, whose stories and work on the USS Monitor have brought it back to life. Explore the new 3D images of this shipwreck through the National Marine Sanctuary website linked on the podcast page. Be sure to check out all our episodes through the National Ocean Service website or wherever you get your podcasts. Thanks for listening. Let’s keep making waves.]]></content:encoded>
+<_show>NOAA Ocean Podcast</_show>
+<_episode_id>nop85</_episode_id>
+<_source_url>https://oceanservice.noaa.gov/podcast/aug26/nop85-uss-monitor-3d-mapping.html</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-10-26</_collected_at_beijing>
+<_audio_verified>官方页音频地址 301 到 cdn.oceanservice.noaa.gov 永久地址；HEAD 得 audio/mpeg + 34107812 字节；整文件下载后 ffprobe 时长 1420.062 秒、字节数一致</_audio_verified>
+<_child_clip_guid>urn:podcast:oceanservice.noaa.gov:podcast:aug26:nop85-uss-monitor-3d-mapping:clip:testbed:559.7-604.5</_child_clip_guid>
 </item>
 <item>
 <title>AI at NASA</title>

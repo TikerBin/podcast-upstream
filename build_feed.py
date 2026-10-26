@@ -108,6 +108,10 @@ def validate(items):
                 raise ValueError("%s: clip transcript file equals parent" % iid)
             if it["audio_bytes"] == parent.get("audio_bytes"):
                 raise ValueError("%s: clip bytes equal parent bytes" % iid)
+            if it.get("_clip_srt_file") and not os.path.exists(os.path.join(BASE, it["_clip_srt_file"])):
+                raise ValueError("%s: clip SRT file missing %s" % (iid, it["_clip_srt_file"]))
+            if it.get("_clip_words_file") and not os.path.exists(os.path.join(BASE, it["_clip_words_file"])):
+                raise ValueError("%s: clip words file missing %s" % (iid, it["_clip_words_file"]))
         for cg in it.get("_child_clip_guids", []):
             if cg not in by_guid:
                 raise ValueError("%s: child clip guid unknown %s" % (iid, cg))
@@ -148,6 +152,12 @@ def item_xml(it, base_url):
     parts.append("<_collected_at_beijing>" + escape(it["collected_at_beijing"]) + "</_collected_at_beijing>")
     if it.get("audio_url"):
         parts.append("<_audio_verified>" + escape(it.get("audio_verified_method") or "") + "</_audio_verified>")
+    if it.get("_clip_srt_file"):
+        parts.append("<_clip_srt_file>" + escape(it["_clip_srt_file"]) + "</_clip_srt_file>")
+        parts.append("<_clip_srt_url>" + escape(base_url.rstrip("/") + "/" + it["_clip_srt_file"]) + "</_clip_srt_url>")
+    if it.get("_clip_words_file"):
+        parts.append("<_clip_words_file>" + escape(it["_clip_words_file"]) + "</_clip_words_file>")
+        parts.append("<_clip_words_url>" + escape(base_url.rstrip("/") + "/" + it["_clip_words_file"]) + "</_clip_words_url>")
     if it.get("_parent_guid"):
         parts.append("<_parent_guid>" + escape(it["_parent_guid"]) + "</_parent_guid>")
         parts.append("<_parent_id>" + escape(it["_parent_id"]) + "</_parent_id>")
@@ -200,6 +210,12 @@ def item_json(it, base_url):
         out["image"] = it["cover_image"]
     if it.get("audio_url"):
         out["attachments"] = [{"url": it["audio_url"], "mime_type": it["audio_mime"], "size_in_bytes": it["audio_bytes"], "duration_in_seconds": it["audio_duration_s"]}]
+    if it.get("_clip_srt_file"):
+        out["_clip_srt_file"] = it["_clip_srt_file"]
+        out["_clip_srt_url"] = base_url.rstrip("/") + "/" + it["_clip_srt_file"]
+    if it.get("_clip_words_file"):
+        out["_clip_words_file"] = it["_clip_words_file"]
+        out["_clip_words_url"] = base_url.rstrip("/") + "/" + it["_clip_words_file"]
     if it.get("_parent_guid"):
         out["_parent_guid"] = it["_parent_guid"]
         out["_parent_id"] = it["_parent_id"]

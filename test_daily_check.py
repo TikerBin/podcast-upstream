@@ -77,20 +77,28 @@ class TestDedup(unittest.TestCase):
         self.assertEqual(dc.norm_url("https://example.org/a/"), "https://example.org/a")
         self.assertEqual(dc.norm_url("  https://example.org/a  "), "https://example.org/a")
 class TestExistingFeed(unittest.TestCase):
-    def test_seven_items_and_clip_guids_distinct(self):
+    def test_feed_relationships_dynamic(self):
+        # Dynamic, not hardcoded to 7 items / 2 clips: after any real
+        # increment, parents + clips must still satisfy these relations.
         with open(os.path.join(BASE, "items.json"), encoding="utf-8") as f:
             data = json.load(f)
         items = [i for i in data["items"] if i.get("status") == "active"]
-        self.assertEqual(len(items), 7)
         guids = [i["guid"] for i in items]
-        self.assertEqual(len(set(guids)), 7)
+        self.assertEqual(len(set(guids)), len(guids))
+        self.assertGreaterEqual(len(items), 7)
         clips = [i for i in items if "ready-clip" in i["production_kinds"]]
         parents = {i["guid"]: i for i in items if "full-episode" in i["production_kinds"]}
-        self.assertEqual(len(clips), 2)
+        self.assertGreaterEqual(len(clips), 2)
+        self.assertGreaterEqual(len(parents), 4)
         for c in clips:
             self.assertIn(c["_parent_guid"], parents)
             self.assertNotEqual(c["guid"], c["_parent_guid"])
+            self.assertNotIn("full-episode", c["production_kinds"])
             self.assertTrue(c["audio_url"].startswith("https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/"))
+            self.assertLess(c["transcript_word_count"], parents[c["_parent_guid"]]["transcript_word_count"])
+            self.assertLess(c["audio_duration_s"], parents[c["_parent_guid"]]["audio_duration_s"])
+        for par in parents.values():
+            self.assertNotIn("ready-clip", par["production_kinds"])
     def test_failed_sources_never_become_rejections(self):
         # Rejection is only written via record_rejection; a failed fetch
         # leaves the rejected list untouched by construction.

@@ -1,0 +1,36 @@
+1
+00:00:00,000 --> 00:00:02,500
+Do you suppose this new imaging
+
+2
+00:00:02,500 --> 00:00:09,060
+technology will be used on more shipwrecks like saltwater and freshwater? Yeah I hope by basically
+
+3
+00:00:09,060 --> 00:00:13,700
+using Monitor as a testbed, and that's one of the wonderful things about Monitor, that where it's always
+
+4
+00:00:14,100 --> 00:00:19,060
+been pushing technology innovation from 1862 to today bringing all those new technologies to
+
+5
+00:00:19,060 --> 00:00:23,620
+bear that you know people would look at the example what we achieved on Monitor with Northrop Grumman
+
+6
+00:00:23,620 --> 00:00:28,820
+using this technology and how it can now be used and applied to other sites as well you know
+
+7
+00:00:28,820 --> 00:00:34,420
+whether that be shipwrecks maybe it's sunken aircraft you know maybe there's sunken indigenous sites
+
+8
+00:00:34,420 --> 00:00:40,100
+you know just the technology and the resolution we can see for these things is mind-blowing and
+
+9
+00:00:40,100 --> 00:00:44,800
+the fact that we can collect that so quickly with the AUV, too, is very special.
+
