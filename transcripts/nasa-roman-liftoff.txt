@@ -1,0 +1,104 @@
+HOST JACOB PINTER: This is NASA’s Curious Universe. I’m Jacob Pinter. NASA’s Nancy Grace Roman Space Telescope is in space, taking its next steps to explore the cosmos.
+LAUNCH ANNOUNCER 1: Ignition. And liftoff! Go Falcon Heavy and go Roman Space Telescope!
+LAUNCH ANNOUNCER 2: And liftoff of NASA’s Roman Space Telescope on a mission to revolutionize our understanding of the universe.
+JACOB: On August 30, at exactly 7:26 a.m. Eastern Time, NASA’s newest flagship observatory rose into the sky on a SpaceX Falcon Heavy rocket.
+In its first hours in space, Roman ticked off a few to-dos, including deploying its solar arrays, its sun shield, and communications dish and phoning home to mission control.
+Now Roman is on its way to a point in space more than a million miles from Earth. In other episodes of this series, we have much more detail about everything that has happened up until now: the years of building and testing that led to this point; the science goals that Roman will now start to carry out. You can find those stories just before this one in the Curious Universe podcast feed.
+In this episode: behind the scenes of Roman’s launch and what comes next. Our producer, Christian Elliott, embedded with the team at NASA’s Kennedy Space Center in Florida to cover the launch. He has a behind-the-scenes look at the final preparations for launch and the big emotions from people who have poured years of their lives into this mission. Here’s Christian.
+[Sound of door opening, cicadas]
+[Music: Oort Cloud by Al Lethbridge]
+CHRISTIAN ELLIOTT: OK, we’ll minimize time out here.
+DOMINIC BENFORD: No, no, it’s just the humidity. My glasses are immediately fogged.
+CHRISTIAN: At the launch site, I met up with Dominic Benford, Roman’s program scientist. He’s a slight guy in a wool suit and elaborately tied tie and these bright blue glasses.
+DOMINIC: Why did I not bring my summer weight wool suit instead of a winter weight wool suit? Not like I didn’t know that it was summer.
+CHRISTIAN: I follow him outside on a muggy, buggy, and very windy morning in the Florida swamp. Across the water ahead of us, slightly distorted by the humid air, was what we were braving the heat to see: a gleaming white rocket.
+DOMINIC: I’ve certainly seen rockets standing there before. I’ve never seen one that had such a personal connection to me. I’ve been working in one form or another on this mission for over 20 years. It is something that I have dedicated most of my career to, and it’s taken a surprisingly short—but also a surprisingly long—time.
+CHRISTIAN: “Long” because it’s been a bit of a winding path. There were many iterations of mission concepts and prototypes, back when NASA scientists first imagined a future wide-field infrared survey telescope that could probe the mysteries of dark matter and discover exoplanets with technologies that didn’t yet exist.
+And “short” because Roman faced so many obstacles on its way to the launch pad, including a global pandemic, and was still completed on budget and nine months ahead of schedule. Now it was a matter of hours before the telescope would fly into space and begin its mission at last.
+When we last saw Roman in this series, it was at NASA’s Goddard Space Flight Center in Maryland, where engineers had spent the last three years assembling and testing it in a giant clean room. In June, Roman left the nest on a long journey from Maryland to Florida on NASA’s Pegasus barge under the careful eye of its crew. In this moment, Dominic, like a lot of the scientists who’d worked on Roman since the early concept days more than two decades ago, found himself looking back.
+[to Dominic] It’s definitely one of the colder rooms here
+DOMINIC: It’s nice.
+CHISTIAN: Back in the air conditioning of the sound booth, I asked him how he was feeling.
+DOMINIC: The path of getting Roman from those pencil and paper sketches and whiteboards to something real to this amazing machine that we’ve made—that sits behind me on the launch pad right now, made manifest in aluminum and glass and silicon—it’s a journey unlike anything I’ve ever had in my career or ever will have. And coincidentally, it’s also about the span of my career as a father. My twins were born around the time I began working on this.
+CHRISTIAN: Dominic’s twins are now 21. When we spoke, they’d just arrived in Florida to watch the telescope that their dad had spent his entire career on finally launch.
+DOMINIC: So just as I was raising them for decades, I feel like in a way I was raising Roman. And like many parents who around this time of year are sending their children off to college and letting them be independent adults for the first time, I feel a little like I’m doing that with Roman. It has been mine to shepherd through to this point for such a long time that shortly I will no longer have that joy and burden in my life. I think every parent here who has kids in college knows that bittersweet moment, because you want your kids to go off and be their own people, but you still feel sad that they’re doing it. But that was the goal all along.
+[Music: Gene Sequencing by Al Lethbridge]
+CHRISTIAN: As Dominic and the other scientists waved to Roman at the college dorm drop-off line, the RAs took over—in this case, the launch services program team. They see this all the time.
+STEPHEN WAY: We understand that this is your baby. I, being a father myself, understand it’s not easy to ask someone to watch my daughters when I’m away, so I take that into consideration.
+CHRISTIAN: That’s Stephen Way. He’s a mission integration engineer on the launch services program at Kennedy Space Center.  He monitored the telescope on its journey by air-conditioned truck from the barge to a building called the Payload Hazardous Servicing Facility.
+STEPHEN: Of course, with the awesome Florida summer heat, it is a challenge to ensure that we maintain the environments that we need to. That facility is a big clean room like the one at Goddard where Roman was built. In there, crews in white bunny suits set to work unboxing the telescope, making sure it hadn’t been damaged during its long journey, removing all those little red fabric “remove before flight” tags you see on airplanes.
+They loaded Roman with 1,000 kg of hypergolic fuel, equivalent to 290 gallons. The crew has to wear what look like spacesuits to fill Roman’s tanks. It’s dangerous stuff. That takes a week itself. Then, it was time to encapsulate Roman in the rocket’s payload fairing. Picture two halves of a plastic easter egg closing around the telescope, except way bigger and more high-tech.
+STEPHEN: It’s a pretty magnificent sight when it came together, and we were getting ready to encapsulate.
+CHRISTIAN: It was a tight fit. Roman is so big, it almost touched the acoustic blankets on the inside of the fairing. And then it was sealed. The people in this room were the last to ever set human eyes on this telescope.
+STEPHEN: I was privileged to be one of the few that was allowed to be in the room for the final closeouts as things were being buttoned up, and it was emotional, I will tell you that.
+CHRISTIAN: Finally, Roman in its shell was mated to the Falcon Heavy rocket for launch. Now, beyond the heat and humidity, there’s something else that happens in Florida in the summer.
+[Sound of thunder]
+[on location] I hope I closed the windows on the car.
+[narration] The days leading up to launch were full of storms. We had to barricade the doors of the press building against the wind. To get to Lagrange point 2—which is a million miles away from Earth or 1.5 million kilometers—there’s a very narrow window for launch; about 30 seconds. It began at 7:26 a.m. on August 30. That’s not a lot of leeway if a storm comes in. The weather briefings said the odds of a launch were 50-50. As the storms thundered outside, I caught up with the scientists we’d spoken with in our series and met some new ones. Everyone was down in Florida for launch, and they were feeling a mixture of things.
+[Music: The Core by Al Lethbridge]
+BERTRAND MENNESSON: We’ve always talked about, Roman will launch in 10 years, in five years, in three years. You know, it’s always been in years, and it became months, and then weeks, and finally it’s tomorrow.
+JOSH SCHLIEDER: … a thing you’ve sunk years of your life into and then someone else refers to as getting it off the planet, which you know, that’s a good thing for us. But you can you can imagine that it’s not something you hear very often. [Laughter]
+MARK MELTON: We are putting it on a big, big fireball. But yeah, there’s always a little bit of nerves there.
+AMI CHOI: I’ve been so busy that it’s been kind of hard to actually think about what I’m feeling, but I am very excited. That’s for sure. A little bit nervous,  but mostly excited.
+JASON RHODES: We brought all of our Roman gear here to Florida to make sure we had the right things to wear to each of these launch events.
+CHRISTIAN: But then, it was launch day. It was muggy and cloudy, but there were no storms as the big day dawned. Well, not really “dawned”.
+[to himself] All right. It’s 3 a.m. It’s 82 degrees, and it’s time to go launch a rocket.
+[narration] I drove to the launch site at Kennedy Space Center, where I joined a long parade of hundreds of cars in the dark on the NASA Causeway. It’s a little strip of land that serves as a launch viewing location for NASA families and friends. There were all these volunteers in reflective vests directing traffic, mostly NASA retirees.
+[to the traffic director] Is this typical traffic for a launch out here?
+TRAFFIC DIRECTOR: No, this is very untypical. Very untypical. It’s crazy. I’ve never seen anything like it.
+CHRISTIAN: We could see the rocket lit up by floodlights across the water. The vibe was like tailgating a sports game or maybe setting up to watch fireworks. People had lawn chairs, blankets and coolers. They were sitting on the roofs of their cars. There was even a merch trailer selling t-shirts and plushies of Rise, the famous Moon mascot from Artemis II.
+[to a spectator] I see you’ve got a Rise.
+SPECTATOR 1: Yes of course, the baby.
+CHRISTIAN: You’ve got to get one of those.
+[narration] In line and everywhere I went, I found people who were pumped for this launch and this space telescope. People who’d seen quite a few rocket launches …
+[to the traffic director] Are you looking forward to this launch?
+TRAFFIC DIRECTOR: Always. Every launch. I’ve seen hundreds, but—
+CHRISTIAN: This should be a good one
+TRAFFIC DIRECTOR: They’re all different.
+CHRISTIAN: … And people who certainly had not.
+[to a spectator] Is this baby’s first rocket launch?
+SPECTATOR 2: Yes it is, definitely. She woke up early for it.
+[Music: Ancient Starlight by Al Lethbridge]
+CHRISTIAN: As we got closer, the live broadcast started. You could see Dominic Benford, the Roman program scientist, on stage as one of the commentators.
+[to himself, with launch broadcast in the background] After a lot of concern about the weather this morning in recent days, we just heard that we are 70 percent go. And SpaceX just said we were go for propellant load, which means the SpaceX Falcon Heavy rocket is about to be filled with fuel, and we’re getting closer to launch. We’re at T-1 hour or so.
+[narration] Then, the final countdown began. The Sun was just rising over the horizon. At the Causeway, thousands of people were looking out over the water, shielding their eyes with their hands. A few miles away, Dominic tore off his lapel microphone and ran out of the broadcast set, to catch the moment of liftoff.
+CROWD: 10, nine, eight, seven, six, five, four, three, two, one …
+MEGAN CRUZ: And liftoff!
+DOMINIC: There’s the deluge.
+SPECTATOR 3: You can’t even hear it.
+DOMINIC: You will in a few seconds.
+SPECTATOR 3: Oh there we go.
+CHRISTIAN: There’s a cell phone video of Dominic in that moment. And in it, you can see him looking up at the blue sky and the rocket lit up as bright as the Sun with tears running down his face.
+DOMINIC: I never actually thought about what this was going to be like.
+DAVE SIRAK: Congratulations.
+DOMINIC: Congratulations to the thousands of people who made this happen. This is our moment.
+CHRISTIAN: I headed back to the press building, where there were cheers when Dominic came back in the door. When the celebrations had died down a bit, I found Dominic.
+[to Dominic] So I’ve got you here with your glass of champagne.
+DOMINIC: It may look like a glass of champagne, but it’s actually sparkling water. This is what somebody found in the fridge.
+CHRISTIAN: And I asked him how he was feeling.
+DOMINIC: We just witnessed the most unbelievable, picture-perfect launch that I could ever imagine, and in a way—even though it’s been so many years—I never quite wrapped my head around the idea that someday this would happen. And watching Roman ascend into the sky was unlike anything I could explain or describe, because I could never convince myself that it was actually real, that we would manifest this amazing machine and get it into space. But we did. And now it’s there for everybody.
+CHRISTIAN: Dominic explained we’re now in the three-month period called commissioning, where scientists and engineers in the mission operations room power on and check out all its systems to make sure the telescope is in focus.
+DOMINIC: Roman had acquisition of signal as expected a few minutes after launch, and then there was separation, and we have been getting telemetry back from the observatory, so it’s on. It’s working. And we’ll begin the process of turning everything on, getting it all aligned and working and as spectacular as we intended it to be.
+CHRISTIAN: During that period, Roman will make its way to Lagrange Point 2, where it will join the James Webb Space Telescope in orbit. After that, the job of the engineers will be over, and it’ll be the moment the scientists have been waiting decades for: first light, images and data from Roman.
+There’d been a big meeting for the Roman science team at a hotel in Cocoa Beach a few days before launch. Hundreds of scientists from all over the world who study exoplanets and supernovae and dark matter and just about anything else cosmic you could think of, they were all crowded into this big conference room. And I was in the back, pressed up against a wall.
+[Music: Psyche Landings by Al Lethbridge]
+JULIE MCENERY: How I’m feeling is probably the same as everybody else is feeling, slightly astonished that we’ve arrived at this moment.
+[Applause]
+DOMINIC: And when I entered the room, I was struck and pleased in two ways. First, because there were a number of people there, some of whom I had not seen in many years but who had begun this journey with me similarly decades ago. And we’re all much older and grayer now, but we’re still here, seeing this through.
+CHRISTIAN: They stood out, hunched over a little, thick glasses, some playing with their grandchildren.
+DOMINIC: But not only them; there were so many young people in that room that I hadn’t even met before, and who are so excited about the prospect of this mission.
+CHRISTIAN: At the reception, I also met many of them. They were from Japan and  India and Italy and Serbia and Brazil, here for PhDs and postdoctoral fellowships, drawn in by Roman’s gravity. They talked to me in much more detail than I understood about dark energy and star formation and supernovae and dwarf galaxies and gravitational lensing. Roman promises to revolutionize all of their fields of science.
+DOMINIC: We were doing this for them, and I am happy to be able to hand the mantle off to them and let them make this observatory as spectacular as we designed it to be.
+CHRISTIAN: All these scientists, young and old, are waiting with bated breath for the moment when Roman opens its eyes and an ocean of unprecedented data pours down from the sky through its antenna. Roman’s data will be freely accessible for everyone immediately. That’s something Dominic fought hard for in the early planning days. There will be no proprietary periods when only some astronomers have access. Roman is for all of us—for you, for me. All the data it collects, in these huge volumes—in it, there will be exactly what many scientists have been waiting for years for, to answer their specific questions, big and small, about the universe.
+One of the people in this very room, maybe 10 or 20 years from now, bent over a computer, could discover something about our universe in that data that wins a Nobel Prize.
+JACOB: Christian Elliott is a producer for Curious Universe.
+So what happens next for Roman? The telescope has a three-month journey to its permanent home in space. Along the way, Roman goes through that commissioning process. Scientists and engineers turn on the systems inside Roman. They calibrate and adjust what they need to and make sure everything is ready for science observations to begin.
+The best way to find news and updates about Roman is by going to nasa.gov/roman. There is a page there with more details about commissioning and some helpful graphics that explain what happens, and when. There is also an interactive tool where you can explore Roman’s place in the solar system. Honestly it’s just a lot of fun to play around with. Again, that’s nasa.gov/roman.
+You’ll have to wait just a little longer to see Roman’s first images. Those are expected by early 2027.
+This is NASA’s Curious Universe, an official NASA podcast.
+This episode was written and produced by Christian Elliott. Our executive producer is Katie Konans. Wes Buchanan and Krystofer Kim designed the show art for this series. Our theme song is by SYSTEM Sounds.
+Special thanks to Claire Andreoli and Alise Fisher, as well as Leejay Lockhart, Dave Sirak, Leah Martin, Stephen Way, Josh Schlieder, Joe Leblanc, Ami Choi, Lucas Paganini, Mark Melton, Alina Kiessling, Jason Rhodes, Dominic Benford, Shawn Domagal-Goldman, and Bertrand Mennesson.
+You can find transcripts for every episode of Curious Universe and explore NASA’s other podcasts at nasa.gov/podcasts.
+If you enjoyed this episode of NASA’s Curious Universe, let us know! Leave us a review wherever you’re listening right now. Why not send a link to one of your friends. And you can follow NASA’s Curious Universe in your favorite podcast app to get a notification each time we post a new episode.
+NICKY FOX: You don’t have to raise a glass, but I would like, on three, an enormously loud “Go Roman.” Three, two, one.
+CROWD: Go Roman!

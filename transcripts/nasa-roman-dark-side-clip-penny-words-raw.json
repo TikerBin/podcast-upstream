@@ -1,0 +1,1214 @@
+[
+ {
+  "start": 0.0,
+  "end": 1.6,
+  "text": "And I can use an analogy here.",
+  "words": [
+   {
+    "word": " And",
+    "start": 0.0,
+    "end": 0.14,
+    "probability": 0.8219330906867981
+   },
+   {
+    "word": " I",
+    "start": 0.14,
+    "end": 0.3,
+    "probability": 0.9872795343399048
+   },
+   {
+    "word": " can",
+    "start": 0.3,
+    "end": 0.48,
+    "probability": 0.9966580867767334
+   },
+   {
+    "word": " use",
+    "start": 0.48,
+    "end": 0.72,
+    "probability": 0.998884379863739
+   },
+   {
+    "word": " an",
+    "start": 0.72,
+    "end": 0.86,
+    "probability": 0.9951176643371582
+   },
+   {
+    "word": " analogy",
+    "start": 0.86,
+    "end": 1.26,
+    "probability": 0.9997076392173767
+   },
+   {
+    "word": " here.",
+    "start": 1.26,
+    "end": 1.6,
+    "probability": 0.994453489780426
+   }
+  ]
+ },
+ {
+  "start": 1.84,
+  "end": 4.1,
+  "text": "Imagine you're standing on a very calm day",
+  "words": [
+   {
+    "word": " Imagine",
+    "start": 1.84,
+    "end": 1.92,
+    "probability": 0.9866098761558533
+   },
+   {
+    "word": " you're",
+    "start": 1.92,
+    "end": 2.28,
+    "probability": 0.9828110933303833
+   },
+   {
+    "word": " standing",
+    "start": 2.28,
+    "end": 2.6,
+    "probability": 0.9984222650527954
+   },
+   {
+    "word": " on",
+    "start": 2.6,
+    "end": 3.04,
+    "probability": 0.9854030609130859
+   },
+   {
+    "word": " a",
+    "start": 3.04,
+    "end": 3.18,
+    "probability": 0.999087929725647
+   },
+   {
+    "word": " very",
+    "start": 3.18,
+    "end": 3.4,
+    "probability": 0.9955209493637085
+   },
+   {
+    "word": " calm",
+    "start": 3.4,
+    "end": 3.72,
+    "probability": 0.9982314705848694
+   },
+   {
+    "word": " day",
+    "start": 3.72,
+    "end": 4.1,
+    "probability": 0.998053789138794
+   }
+  ]
+ },
+ {
+  "start": 4.52,
+  "end": 6.86,
+  "text": "in front of a very crystal clear pool,",
+  "words": [
+   {
+    "word": " in",
+    "start": 4.52,
+    "end": 4.76,
+    "probability": 0.8001782894134521
+   },
+   {
+    "word": " front",
+    "start": 4.76,
+    "end": 4.98,
+    "probability": 0.9995866417884827
+   },
+   {
+    "word": " of",
+    "start": 4.98,
+    "end": 5.26,
+    "probability": 0.9980334639549255
+   },
+   {
+    "word": " a",
+    "start": 5.26,
+    "end": 5.42,
+    "probability": 0.9983522891998291
+   },
+   {
+    "word": " very",
+    "start": 5.42,
+    "end": 5.66,
+    "probability": 0.9966689944267273
+   },
+   {
+    "word": " crystal",
+    "start": 5.66,
+    "end": 6.06,
+    "probability": 0.9946615099906921
+   },
+   {
+    "word": " clear",
+    "start": 6.06,
+    "end": 6.38,
+    "probability": 0.8972728252410889
+   },
+   {
+    "word": " pool,",
+    "start": 6.38,
+    "end": 6.86,
+    "probability": 0.9984588623046875
+   }
+  ]
+ },
+ {
+  "start": 7.28,
+  "end": 9.62,
+  "text": "and you throw a penny to the bottom of the pool.",
+  "words": [
+   {
+    "word": " and",
+    "start": 7.28,
+    "end": 7.72,
+    "probability": 0.9911853671073914
+   },
+   {
+    "word": " you",
+    "start": 7.72,
+    "end": 7.84,
+    "probability": 0.9989333748817444
+   },
+   {
+    "word": " throw",
+    "start": 7.84,
+    "end": 8.04,
+    "probability": 0.9973610043525696
+   },
+   {
+    "word": " a",
+    "start": 8.04,
+    "end": 8.2,
+    "probability": 0.9988287091255188
+   },
+   {
+    "word": " penny",
+    "start": 8.2,
+    "end": 8.4,
+    "probability": 0.9970664381980896
+   },
+   {
+    "word": " to",
+    "start": 8.4,
+    "end": 8.64,
+    "probability": 0.9930052161216736
+   },
+   {
+    "word": " the",
+    "start": 8.64,
+    "end": 8.76,
+    "probability": 0.9995918869972229
+   },
+   {
+    "word": " bottom",
+    "start": 8.76,
+    "end": 8.98,
+    "probability": 0.9996021389961243
+   },
+   {
+    "word": " of",
+    "start": 8.98,
+    "end": 9.18,
+    "probability": 0.999408483505249
+   },
+   {
+    "word": " the",
+    "start": 9.18,
+    "end": 9.34,
+    "probability": 0.9994840621948242
+   },
+   {
+    "word": " pool.",
+    "start": 9.34,
+    "end": 9.62,
+    "probability": 0.9990492463111877
+   }
+  ]
+ },
+ {
+  "start": 11.17,
+  "end": 13.33,
+  "text": "Now, you can't really see the water",
+  "words": [
+   {
+    "word": " Now,",
+    "start": 11.17,
+    "end": 11.37,
+    "probability": 0.9932385683059692
+   },
+   {
+    "word": " you",
+    "start": 11.45,
+    "end": 11.65,
+    "probability": 0.9988503456115723
+   },
+   {
+    "word": " can't",
+    "start": 11.65,
+    "end": 11.97,
+    "probability": 0.9981540739536285
+   },
+   {
+    "word": " really",
+    "start": 11.97,
+    "end": 12.25,
+    "probability": 0.9993695616722107
+   },
+   {
+    "word": " see",
+    "start": 12.25,
+    "end": 12.69,
+    "probability": 0.9957350492477417
+   },
+   {
+    "word": " the",
+    "start": 12.69,
+    "end": 12.93,
+    "probability": 0.9993600249290466
+   },
+   {
+    "word": " water",
+    "start": 12.93,
+    "end": 13.33,
+    "probability": 0.9996867179870605
+   }
+  ]
+ },
+ {
+  "start": 13.33,
+  "end": 14.97,
+  "text": "because it's crystal clear,",
+  "words": [
+   {
+    "word": " because",
+    "start": 13.33,
+    "end": 13.91,
+    "probability": 0.8541402816772461
+   },
+   {
+    "word": " it's",
+    "start": 13.91,
+    "end": 14.21,
+    "probability": 0.9972089231014252
+   },
+   {
+    "word": " crystal",
+    "start": 14.21,
+    "end": 14.59,
+    "probability": 0.9995158910751343
+   },
+   {
+    "word": " clear,",
+    "start": 14.59,
+    "end": 14.97,
+    "probability": 0.9957938194274902
+   }
+  ]
+ },
+ {
+  "start": 15.57,
+  "end": 17.77,
+  "text": "but you can see the penny at the bottom of the pool",
+  "words": [
+   {
+    "word": " but",
+    "start": 15.57,
+    "end": 15.75,
+    "probability": 0.9904175400733948
+   },
+   {
+    "word": " you",
+    "start": 15.75,
+    "end": 15.85,
+    "probability": 0.9989888072013855
+   },
+   {
+    "word": " can",
+    "start": 15.85,
+    "end": 16.03,
+    "probability": 0.9446641206741333
+   },
+   {
+    "word": " see",
+    "start": 16.03,
+    "end": 16.23,
+    "probability": 0.9992817044258118
+   },
+   {
+    "word": " the",
+    "start": 16.23,
+    "end": 16.39,
+    "probability": 0.9988215565681458
+   },
+   {
+    "word": " penny",
+    "start": 16.39,
+    "end": 16.61,
+    "probability": 0.9973329305648804
+   },
+   {
+    "word": " at",
+    "start": 16.61,
+    "end": 16.81,
+    "probability": 0.9989745616912842
+   },
+   {
+    "word": " the",
+    "start": 16.81,
+    "end": 16.95,
+    "probability": 0.999763548374176
+   },
+   {
+    "word": " bottom",
+    "start": 16.95,
+    "end": 17.19,
+    "probability": 0.9995459914207458
+   },
+   {
+    "word": " of",
+    "start": 17.19,
+    "end": 17.37,
+    "probability": 0.9995884299278259
+   },
+   {
+    "word": " the",
+    "start": 17.37,
+    "end": 17.49,
+    "probability": 0.9992777705192566
+   },
+   {
+    "word": " pool",
+    "start": 17.49,
+    "end": 17.77,
+    "probability": 0.9991592168807983
+   }
+  ]
+ },
+ {
+  "start": 17.77,
+  "end": 19.19,
+  "text": "and anyone who's done this",
+  "words": [
+   {
+    "word": " and",
+    "start": 17.77,
+    "end": 18.01,
+    "probability": 0.1524713933467865
+   },
+   {
+    "word": " anyone",
+    "start": 18.01,
+    "end": 18.29,
+    "probability": 0.9905169606208801
+   },
+   {
+    "word": " who's",
+    "start": 18.29,
+    "end": 18.65,
+    "probability": 0.983749270439148
+   },
+   {
+    "word": " done",
+    "start": 18.65,
+    "end": 18.83,
+    "probability": 0.999388575553894
+   },
+   {
+    "word": " this",
+    "start": 18.83,
+    "end": 19.19,
+    "probability": 0.996382474899292
+   }
+  ]
+ },
+ {
+  "start": 19.19,
+  "end": 22.19,
+  "text": "knows that you see a distorted view of that penny.",
+  "words": [
+   {
+    "word": " knows",
+    "start": 19.19,
+    "end": 19.59,
+    "probability": 0.9621611833572388
+   },
+   {
+    "word": " that",
+    "start": 19.59,
+    "end": 19.85,
+    "probability": 0.9973878264427185
+   },
+   {
+    "word": " you",
+    "start": 19.85,
+    "end": 19.99,
+    "probability": 0.9979548454284668
+   },
+   {
+    "word": " see",
+    "start": 19.99,
+    "end": 20.17,
+    "probability": 0.998894989490509
+   },
+   {
+    "word": " a",
+    "start": 20.17,
+    "end": 20.29,
+    "probability": 0.9988241791725159
+   },
+   {
+    "word": " distorted",
+    "start": 20.29,
+    "end": 20.75,
+    "probability": 0.9973832964897156
+   },
+   {
+    "word": " view",
+    "start": 20.75,
+    "end": 21.15,
+    "probability": 0.9995436072349548
+   },
+   {
+    "word": " of",
+    "start": 21.15,
+    "end": 21.65,
+    "probability": 0.9976676106452942
+   },
+   {
+    "word": " that",
+    "start": 21.65,
+    "end": 21.85,
+    "probability": 0.9991955161094666
+   },
+   {
+    "word": " penny.",
+    "start": 21.85,
+    "end": 22.19,
+    "probability": 0.9969174861907959
+   }
+  ]
+ },
+ {
+  "start": 22.35,
+  "end": 24.85,
+  "text": "It doesn't appear as it would just on the ground.",
+  "words": [
+   {
+    "word": " It",
+    "start": 22.35,
+    "end": 22.49,
+    "probability": 0.9972248077392578
+   },
+   {
+    "word": " doesn't",
+    "start": 22.49,
+    "end": 22.79,
+    "probability": 0.9994577765464783
+   },
+   {
+    "word": " appear",
+    "start": 22.79,
+    "end": 23.15,
+    "probability": 0.999629020690918
+   },
+   {
+    "word": " as",
+    "start": 23.15,
+    "end": 23.47,
+    "probability": 0.9947596192359924
+   },
+   {
+    "word": " it",
+    "start": 23.47,
+    "end": 23.59,
+    "probability": 0.9990710020065308
+   },
+   {
+    "word": " would",
+    "start": 23.59,
+    "end": 23.81,
+    "probability": 0.9974716901779175
+   },
+   {
+    "word": " just",
+    "start": 23.81,
+    "end": 24.15,
+    "probability": 0.9851444959640503
+   },
+   {
+    "word": " on",
+    "start": 24.15,
+    "end": 24.37,
+    "probability": 0.9976139068603516
+   },
+   {
+    "word": " the",
+    "start": 24.37,
+    "end": 24.51,
+    "probability": 0.9997721314430237
+   },
+   {
+    "word": " ground.",
+    "start": 24.51,
+    "end": 24.85,
+    "probability": 0.9998370409011841
+   }
+  ]
+ },
+ {
+  "start": 25.21,
+  "end": 26.93,
+  "text": "And that's because the light from the penny",
+  "words": [
+   {
+    "word": " And",
+    "start": 25.21,
+    "end": 25.37,
+    "probability": 0.985506534576416
+   },
+   {
+    "word": " that's",
+    "start": 25.37,
+    "end": 25.59,
+    "probability": 0.999303787946701
+   },
+   {
+    "word": " because",
+    "start": 25.59,
+    "end": 25.91,
+    "probability": 0.9990701079368591
+   },
+   {
+    "word": " the",
+    "start": 25.91,
+    "end": 26.23,
+    "probability": 0.9962277412414551
+   },
+   {
+    "word": " light",
+    "start": 26.23,
+    "end": 26.37,
+    "probability": 0.9987953901290894
+   },
+   {
+    "word": " from",
+    "start": 26.37,
+    "end": 26.57,
+    "probability": 0.999249279499054
+   },
+   {
+    "word": " the",
+    "start": 26.57,
+    "end": 26.69,
+    "probability": 0.9987012147903442
+   },
+   {
+    "word": " penny",
+    "start": 26.69,
+    "end": 26.93,
+    "probability": 0.9982221722602844
+   }
+  ]
+ },
+ {
+  "start": 26.93,
+  "end": 28.47,
+  "text": "is traveling through the water",
+  "words": [
+   {
+    "word": " is",
+    "start": 26.93,
+    "end": 27.37,
+    "probability": 0.9969691634178162
+   },
+   {
+    "word": " traveling",
+    "start": 27.37,
+    "end": 27.71,
+    "probability": 0.887643575668335
+   },
+   {
+    "word": " through",
+    "start": 27.71,
+    "end": 27.97,
+    "probability": 0.9992626309394836
+   },
+   {
+    "word": " the",
+    "start": 27.97,
+    "end": 28.13,
+    "probability": 0.9984502792358398
+   },
+   {
+    "word": " water",
+    "start": 28.13,
+    "end": 28.47,
+    "probability": 0.9998080134391785
+   }
+  ]
+ },
+ {
+  "start": 28.47,
+  "end": 30.53,
+  "text": "and the light is bent by the water.",
+  "words": [
+   {
+    "word": " and",
+    "start": 28.47,
+    "end": 29.01,
+    "probability": 0.58966064453125
+   },
+   {
+    "word": " the",
+    "start": 29.01,
+    "end": 29.13,
+    "probability": 0.9877283573150635
+   },
+   {
+    "word": " light",
+    "start": 29.13,
+    "end": 29.29,
+    "probability": 0.9923534989356995
+   },
+   {
+    "word": " is",
+    "start": 29.29,
+    "end": 29.51,
+    "probability": 0.9962133765220642
+   },
+   {
+    "word": " bent",
+    "start": 29.51,
+    "end": 29.71,
+    "probability": 0.9618675112724304
+   },
+   {
+    "word": " by",
+    "start": 29.71,
+    "end": 30.09,
+    "probability": 0.9967801570892334
+   },
+   {
+    "word": " the",
+    "start": 30.09,
+    "end": 30.21,
+    "probability": 0.9979945421218872
+   },
+   {
+    "word": " water.",
+    "start": 30.21,
+    "end": 30.53,
+    "probability": 0.9988371729850769
+   }
+  ]
+ },
+ {
+  "start": 31.13,
+  "end": 32.19,
+  "text": "So in this analogy,",
+  "words": [
+   {
+    "word": " So",
+    "start": 31.13,
+    "end": 31.35,
+    "probability": 0.9562344551086426
+   },
+   {
+    "word": " in",
+    "start": 31.35,
+    "end": 31.45,
+    "probability": 0.841474175453186
+   },
+   {
+    "word": " this",
+    "start": 31.45,
+    "end": 31.63,
+    "probability": 0.9991815686225891
+   },
+   {
+    "word": " analogy,",
+    "start": 31.63,
+    "end": 32.19,
+    "probability": 0.9977572560310364
+   }
+  ]
+ },
+ {
+  "start": 32.55,
+  "end": 34.69,
+  "text": "that penny is like the distant galaxy",
+  "words": [
+   {
+    "word": " that",
+    "start": 32.55,
+    "end": 32.77,
+    "probability": 0.9901354908943176
+   },
+   {
+    "word": " penny",
+    "start": 32.77,
+    "end": 33.05,
+    "probability": 0.9835801720619202
+   },
+   {
+    "word": " is",
+    "start": 33.05,
+    "end": 33.27,
+    "probability": 0.9981923699378967
+   },
+   {
+    "word": " like",
+    "start": 33.27,
+    "end": 33.51,
+    "probability": 0.9964715242385864
+   },
+   {
+    "word": " the",
+    "start": 33.51,
+    "end": 33.71,
+    "probability": 0.9930521249771118
+   },
+   {
+    "word": " distant",
+    "start": 33.71,
+    "end": 34.07,
+    "probability": 0.9884585738182068
+   },
+   {
+    "word": " galaxy",
+    "start": 34.07,
+    "end": 34.69,
+    "probability": 0.9927783608436584
+   }
+  ]
+ },
+ {
+  "start": 35.21,
+  "end": 38.29,
+  "text": "and the water is like the dark matter.",
+  "words": [
+   {
+    "word": " and",
+    "start": 35.21,
+    "end": 35.65,
+    "probability": 0.5389121770858765
+   },
+   {
+    "word": " the",
+    "start": 35.65,
+    "end": 36.05,
+    "probability": 0.9891322255134583
+   },
+   {
+    "word": " water",
+    "start": 36.05,
+    "end": 36.41,
+    "probability": 0.9990345239639282
+   },
+   {
+    "word": " is",
+    "start": 36.41,
+    "end": 36.99,
+    "probability": 0.9965875148773193
+   },
+   {
+    "word": " like",
+    "start": 36.99,
+    "end": 37.29,
+    "probability": 0.9983364939689636
+   },
+   {
+    "word": " the",
+    "start": 37.29,
+    "end": 37.77,
+    "probability": 0.9920365214347839
+   },
+   {
+    "word": " dark",
+    "start": 37.77,
+    "end": 37.99,
+    "probability": 0.9817422032356262
+   },
+   {
+    "word": " matter.",
+    "start": 37.99,
+    "end": 38.29,
+    "probability": 0.9994356036186218
+   }
+  ]
+ },
+ {
+  "start": 38.63,
+  "end": 40.33,
+  "text": "So we don't actually see the dark matter.",
+  "words": [
+   {
+    "word": " So",
+    "start": 38.63,
+    "end": 38.85,
+    "probability": 0.9763170480728149
+   },
+   {
+    "word": " we",
+    "start": 38.85,
+    "end": 38.97,
+    "probability": 0.959088921546936
+   },
+   {
+    "word": " don't",
+    "start": 38.97,
+    "end": 39.11,
+    "probability": 0.9971821010112762
+   },
+   {
+    "word": " actually",
+    "start": 39.11,
+    "end": 39.47,
+    "probability": 0.9983248114585876
+   },
+   {
+    "word": " see",
+    "start": 39.47,
+    "end": 39.69,
+    "probability": 0.9987157583236694
+   },
+   {
+    "word": " the",
+    "start": 39.69,
+    "end": 39.85,
+    "probability": 0.9973059892654419
+   },
+   {
+    "word": " dark",
+    "start": 39.85,
+    "end": 40.05,
+    "probability": 0.9985384941101074
+   },
+   {
+    "word": " matter.",
+    "start": 40.05,
+    "end": 40.33,
+    "probability": 0.9994383454322815
+   }
+  ]
+ },
+ {
+  "start": 40.51,
+  "end": 41.59,
+  "text": "You don't actually see the water,",
+  "words": [
+   {
+    "word": " You",
+    "start": 40.51,
+    "end": 40.59,
+    "probability": 0.9872751235961914
+   },
+   {
+    "word": " don't",
+    "start": 40.59,
+    "end": 40.69,
+    "probability": 0.9988474547863007
+   },
+   {
+    "word": " actually",
+    "start": 40.69,
+    "end": 40.99,
+    "probability": 0.9985633492469788
+   },
+   {
+    "word": " see",
+    "start": 40.99,
+    "end": 41.15,
+    "probability": 0.9992293119430542
+   },
+   {
+    "word": " the",
+    "start": 41.15,
+    "end": 41.29,
+    "probability": 0.9988362193107605
+   },
+   {
+    "word": " water,",
+    "start": 41.29,
+    "end": 41.59,
+    "probability": 0.9996368885040283
+   }
+  ]
+ },
+ {
+  "start": 41.93,
+  "end": 43.23,
+  "text": "but you know it's there.",
+  "words": [
+   {
+    "word": " but",
+    "start": 41.93,
+    "end": 42.21,
+    "probability": 0.9938762784004211
+   },
+   {
+    "word": " you",
+    "start": 42.21,
+    "end": 42.35,
+    "probability": 0.9816297292709351
+   },
+   {
+    "word": " know",
+    "start": 42.35,
+    "end": 42.61,
+    "probability": 0.998432457447052
+   },
+   {
+    "word": " it's",
+    "start": 42.61,
+    "end": 42.89,
+    "probability": 0.934032529592514
+   },
+   {
+    "word": " there.",
+    "start": 42.89,
+    "end": 43.23,
+    "probability": 0.9992976188659668
+   }
+  ]
+ },
+ {
+  "start": 43.61,
+  "end": 44.57,
+  "text": "You know the water is there",
+  "words": [
+   {
+    "word": " You",
+    "start": 43.61,
+    "end": 43.73,
+    "probability": 0.992621898651123
+   },
+   {
+    "word": " know",
+    "start": 43.73,
+    "end": 43.91,
+    "probability": 0.9988658428192139
+   },
+   {
+    "word": " the",
+    "start": 43.91,
+    "end": 44.05,
+    "probability": 0.9627389311790466
+   },
+   {
+    "word": " water",
+    "start": 44.05,
+    "end": 44.25,
+    "probability": 0.9561905264854431
+   },
+   {
+    "word": " is",
+    "start": 44.25,
+    "end": 44.39,
+    "probability": 0.5843169093132019
+   },
+   {
+    "word": " there",
+    "start": 44.39,
+    "end": 44.57,
+    "probability": 0.9994506239891052
+   }
+  ]
+ },
+ {
+  "start": 44.57,
+  "end": 46.71,
+  "text": "because you see a distorted view of the penny.",
+  "words": [
+   {
+    "word": " because",
+    "start": 44.57,
+    "end": 44.87,
+    "probability": 0.9518964886665344
+   },
+   {
+    "word": " you",
+    "start": 44.87,
+    "end": 45.03,
+    "probability": 0.9979898929595947
+   },
+   {
+    "word": " see",
+    "start": 45.03,
+    "end": 45.25,
+    "probability": 0.9981786012649536
+   },
+   {
+    "word": " a",
+    "start": 45.25,
+    "end": 45.37,
+    "probability": 0.9960065484046936
+   },
+   {
+    "word": " distorted",
+    "start": 45.37,
+    "end": 45.83,
+    "probability": 0.9985740184783936
+   },
+   {
+    "word": " view",
+    "start": 45.83,
+    "end": 46.15,
+    "probability": 0.9987308382987976
+   },
+   {
+    "word": " of",
+    "start": 46.15,
+    "end": 46.31,
+    "probability": 0.9989269375801086
+   },
+   {
+    "word": " the",
+    "start": 46.31,
+    "end": 46.45,
+    "probability": 0.9992724061012268
+   },
+   {
+    "word": " penny.",
+    "start": 46.45,
+    "end": 46.71,
+    "probability": 0.9982802867889404
+   }
+  ]
+ },
+ {
+  "start": 47.09,
+  "end": 48.37,
+  "text": "And we know the dark matter is there",
+  "words": [
+   {
+    "word": " And",
+    "start": 47.09,
+    "end": 47.21,
+    "probability": 0.9739369750022888
+   },
+   {
+    "word": " we",
+    "start": 47.21,
+    "end": 47.33,
+    "probability": 0.9981641173362732
+   },
+   {
+    "word": " know",
+    "start": 47.33,
+    "end": 47.49,
+    "probability": 0.9987253546714783
+   },
+   {
+    "word": " the",
+    "start": 47.49,
+    "end": 47.63,
+    "probability": 0.9120765328407288
+   },
+   {
+    "word": " dark",
+    "start": 47.63,
+    "end": 47.89,
+    "probability": 0.9991426467895508
+   },
+   {
+    "word": " matter",
+    "start": 47.89,
+    "end": 48.07,
+    "probability": 0.9568933248519897
+   },
+   {
+    "word": " is",
+    "start": 48.07,
+    "end": 48.23,
+    "probability": 0.8054714798927307
+   },
+   {
+    "word": " there",
+    "start": 48.23,
+    "end": 48.37,
+    "probability": 0.9987974166870117
+   }
+  ]
+ },
+ {
+  "start": 48.37,
+  "end": 50.01,
+  "text": "because we see a distorted image",
+  "words": [
+   {
+    "word": " because",
+    "start": 48.37,
+    "end": 48.65,
+    "probability": 0.9706730842590332
+   },
+   {
+    "word": " we",
+    "start": 48.65,
+    "end": 48.81,
+    "probability": 0.998306393623352
+   },
+   {
+    "word": " see",
+    "start": 48.81,
+    "end": 49.01,
+    "probability": 0.9980345368385315
+   },
+   {
+    "word": " a",
+    "start": 49.01,
+    "end": 49.13,
+    "probability": 0.9960330128669739
+   },
+   {
+    "word": " distorted",
+    "start": 49.13,
+    "end": 49.57,
+    "probability": 0.9990395903587341
+   },
+   {
+    "word": " image",
+    "start": 49.57,
+    "end": 50.01,
+    "probability": 0.9990864992141724
+   }
+  ]
+ },
+ {
+  "start": 50.01,
+  "end": 51.33,
+  "text": "of these background galaxies.",
+  "words": [
+   {
+    "word": " of",
+    "start": 50.01,
+    "end": 50.35,
+    "probability": 0.998599112033844
+   },
+   {
+    "word": " these",
+    "start": 50.35,
+    "end": 50.53,
+    "probability": 0.9861533641815186
+   },
+   {
+    "word": " background",
+    "start": 50.53,
+    "end": 50.95,
+    "probability": 0.9942647814750671
+   },
+   {
+    "word": " galaxies.",
+    "start": 50.95,
+    "end": 51.33,
+    "probability": 0.9864464998245239
+   }
+  ]
+ }
+]

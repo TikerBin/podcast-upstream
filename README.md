@@ -1,20 +1,20 @@
 # Podcast 素材上游 – 待制作
 
-状态：**已上线。** 仓库为公开仓 `TikerBin/podcast-upstream`，下述 raw.githubusercontent 地址为真实可订阅地址。2026-10-24 修复后为 7 条（5 父集 + 2 独立片段），已推送并验证。2026-10-26 手动采集轮新增 2 父集 + 2 独立片段，总计 11 条（7 父集 + 4 独立片段），见“条目一览”第 8–11 条。2026-10-26 起每日自动采集已启用，见“每日自动采集”。
+状态：**已上线。** 仓库为公开仓 `TikerBin/podcast-upstream`，下述 raw.githubusercontent 地址为真实可订阅地址。2026-10-24 修复后为 7 条（5 父集 + 2 独立片段），已推送并验证。2026-10-26 手动采集轮新增 2 父集 + 2 独立片段，总计 11 条（7 父集 + 4 独立片段），见“条目一览”第 8–11 条。2026-10-26 起每日自动采集已启用，见“每日自动采集”。2026-10-27 每日采集轮新增 2 父集 + 2 独立片段，总计 15 条（9 父集 + 6 独立片段），见“条目一览”第 12–15 条。
 
 ## 这是什么
 
-每条 RSS 条目 = 一份待制作内容。入库最低标准：稳定唯一 GUID（isPermaLink=false）+ 标题 + 可下载音频 enclosure 或 content:encoded 完整文字稿至少一种；本批 11 条全部有文字稿，其中 10 条另有音频。2026-10-24 修复前 ready-clip 只是父集上的附带字段（ready-clip.xml 里仍是整集 enclosure），修复后片段是独立条目，见“条目一览”第 6、7 条。
+每条 RSS 条目 = 一份待制作内容。入库最低标准：稳定唯一 GUID（isPermaLink=false）+ 标题 + 可下载音频 enclosure 或 content:encoded 完整文字稿至少一种；本批 15 条全部有文字稿，其中 14 条另有音频。2026-10-24 修复前 ready-clip 只是父集上的附带字段（ready-clip.xml 里仍是整集 enclosure），修复后片段是独立条目，见“条目一览”第 6、7 条。
 
 一条目可兼有音频、文字，不重复建三条。视频形态本批 0 条，见下。
 
 ## 本批数量（2026-10-24 北京时间采集核验，修复后）
 
-- 总计：11 条 = 7 父集 + 4 独立片段
-- 按主题：science-space（科学/太空）3 条（父集 2 + 片段 1）；ocean-environment（海洋/环境）7 条（父集 4 + 片段 3）；technology-ai（科技/AI）1 条
-- 按形态：audio 10 条（父集 6 + 片段 4）；text 11 条；video 0 条
-- 按生产形态：full-episode 6 条；text-script 7 条（父集文字稿用途标签，与时长标签正交）；ready-clip 4 条（仅片段，父集不再标 ready-clip，full-episode 与 ready-clip 两集合不相交）
-- 来源：NASA 官方播客 3 父集；NOAA Ocean Podcast 4 父集；片段均出自上述父集，不另算来源
+- 总计：15 条 = 9 父集 + 6 独立片段
+- 按主题：science-space（科学/太空）7 条（父集 4 + 片段 3）；ocean-environment（海洋/环境）7 条（父集 4 + 片段 3）；technology-ai（科技/AI）1 条
+- 按形态：audio 14 条（父集 8 + 片段 6）；text 15 条；video 0 条
+- 按生产形态：full-episode 8 条；text-script 9 条（父集文字稿用途标签，与时长标签正交）；ready-clip 6 条（仅片段，父集不再标 ready-clip，full-episode 与 ready-clip 两集合不相交）
+- 来源：NASA 官方播客 5 父集；NOAA Ocean Podcast 4 父集；片段均出自上述父集，不另算来源
 
 ## 条目一览
 
@@ -51,13 +51,26 @@
    片段 enclosure 为仓库直链 `https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/noaa-nos-origins-86-clip-hassler.mp3`，audio/mpeg，819,324 字节，52.6 秒，原集 236.9–289.5 秒，原声。
    片段文案仅 118 词（NOAA 官方全文 Mark Weber 段落，经本地 faster-whisper small.en 转写片段音频逐字核对，仅专名 Hassler 与 ASR 的 Hasler 不同），不是全文 8753 词，也不是摘要。另附时间戳 SRT 与词级转写 JSON，见 transcripts/ 同名 .srt / -words.json；词级 JSON 为校订版（与片段文案逐词一致），未校订的原始 small.en ASR 另存为同名 -words-raw.json 审计文件。
 
+12. NASA's Curious Universe – Encore: Welcome to the Dark Side（science-space，audio+text，full-episode+text-script）
+   Encore 发布 2026-09-22（最初 2023 年；Megaphone RSS 精确时刻 Tue, 22 Sep 2026 13:03:00 -0000），MP3 38,051,140 字节，audio/mpeg，时长 1573.5 秒，文字稿 4088 词。子片段见第 13 条。
+13. 片段：A penny in a clear pool: how we see dark matter — clip from Encore: Welcome to the Dark Side（science-space，audio+text，ready-clip 仅）
+   独立 GUID `urn:podcast:nasa.gov:curious-universe:roman-dark-side-encore:clip:penny:800.0-851.5`，与父集 GUID 不同。
+   片段 enclosure 为仓库直链 `https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-roman-dark-side-clip-penny.mp3`，audio/mpeg，1,478,597 字节，51.5 秒，原集 800.0–851.5 秒，原声。
+   片段文案仅 174 词（本地 faster-whisper small.en 转写片段音频，与官方全文引力透镜“水池硬币”段落逐词一致，仅撇号/标点分词不同），不是全文 4088 词，也不是摘要。另附时间戳 SRT 与词级转写 JSON，见 transcripts/ 同名 .srt / -words.json；未校订的原始 small.en ASR 另存为同名 -words-raw.json 审计文件（本片段无需校订）。
+14. NASA's Curious Universe – Roman Series: Liftoff!（science-space，audio+text，full-episode+text-script）
+   原发布 2026-09-05（Megaphone RSS 精确时刻 Sat, 05 Sep 2026 12:36:00 -0000），MP3 32,585,215 字节，audio/mpeg，时长 1345.8 秒，文字稿 3232 词。子片段见第 15 条。
+15. 片段：We just witnessed the most unbelievable, picture-perfect launch — clip from Roman Series: Liftoff!（science-space，audio+text，ready-clip 仅）
+   独立 GUID `urn:podcast:nasa.gov:curious-universe:roman-liftoff:clip:picture-perfect:920.0-958.6`，与父集 GUID 不同。
+   片段 enclosure 为仓库直链 `https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-roman-liftoff-clip-picture-perfect.mp3`，audio/mpeg，606,849 字节，38.6 秒，原集 920.0–958.6 秒，原声。
+   片段文案仅 85 词（本地 faster-whisper small.en 转写片段音频，与官方全文 Dominic Benford 升空后感言段落逐词一致；920.6 秒首切切掉了开头“We just”故废弃，改 920.0 秒起切后开头完整），不是全文 3232 词，也不是摘要。另附时间戳 SRT 与词级转写 JSON，见 transcripts/ 同名 .srt / -words.json；未校订的原始 small.en ASR 另存为同名 -words-raw.json 审计文件（本片段无需校订）。
+
 ## 订阅地址
 
 本地文件（已生成、可直接读）：
 - 总 feed：`feed.xml`，JSON 版：`feed.json`
 - 主题：`feeds/science-space.xml`、`feeds/ocean-environment.xml`、`feeds/technology-ai.xml`
 - 形态：`feeds/audio.xml`、`feeds/text.xml`、`feeds/video.xml`（本批 0 条，空 feed 是如实结果）
-- 生产形态（附加）：`feeds/ready-clip.xml`（2 条，仅独立片段，不含整集）
+- 生产形态（附加）：`feeds/ready-clip.xml`（6 条，仅独立片段，不含整集）
 
 仓库创建并推送后（已生效）：
 - 仓库：`TikerBin/podcast-upstream`
@@ -72,7 +85,7 @@
 - GUID：基于来源稳定标识生成（例如 `urn:podcast:nasa.gov:curious-universe:inside-a-black-hole`），持久保存在 items.json；标题修改、重跑、跨主题/形态 feed 均不换 ID。片段 GUID = 父集稳定 ID + 固定片段 ID/时间边界（例如 `...:encore-a-year-in-mars-dune-alpha:clip:window:224-255`），不含采集时间、不随标题改变，与父集 GUID 不同。
 - pubDate：原发布时间；另存采集日（北京时间 2026-10-24）。仅到日的用当日 00:00 UTC 占位，并在 items.json 的 pub_date_precision 中注明，不伪造时刻。片段 pubDate 继承父集原发布时间，片段建模日另存在 _clip_created_beijing。
 - ready-clip：只有实际截取并经 ffprobe 校验的文件才能标；片段为独立条目，标准 enclosure 为仓库自托管 clips 直链（audio/mpeg、真实字节数、片段时长），content:encoded 仅为片段文案；记录父集 GUID、原集链接、起止秒、原声性质；整集仅标 full-episode，片段仅标 ready-clip，两集合不相交。
-- 封面：全部 11 条均使用仓库自托管默认封面 `images/default-cover.png`（1400×1400 PNG，43,530 字节，原创几何设计，不冒充 NASA/NOAA Logo；另有同设计 SVG 源文件）。原 NASA 缩略图因用户本机 429 不稳定，已不再作为任何条目的封面；无官方封面的条目同样用此兜底，itunes:image 均指向该 PNG。
+- 封面：全部 15 条均使用仓库自托管默认封面 `images/default-cover.png`（1400×1400 PNG，43,530 字节，原创几何设计，不冒充 NASA/NOAA Logo；另有同设计 SVG 源文件）。原 NASA 缩略图因用户本机 429 不稳定，已不再作为任何条目的封面；无官方封面的条目同样用此兜底，itunes:image 均指向该 PNG。
 - 不生成成片、不默认调用付费 TTS。语言、Logo、品牌色、默认封面、TTS 声音属于订阅级配置，不在每条重复。
 
 ## 权利规则（可听 ≠ 可重用）

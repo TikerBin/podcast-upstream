@@ -1,0 +1,567 @@
+[
+ {
+  "start": 0.0,
+  "end": 7.0,
+  "text": "We just witnessed the most unbelievable, picture-perfect launch that I could ever imagine.",
+  "words": [
+   {
+    "word": " We",
+    "start": 0.0,
+    "end": 0.38,
+    "probability": 0.725859522819519
+   },
+   {
+    "word": " just",
+    "start": 0.38,
+    "end": 0.64,
+    "probability": 0.9547953009605408
+   },
+   {
+    "word": " witnessed",
+    "start": 0.64,
+    "end": 1.26,
+    "probability": 0.9909008741378784
+   },
+   {
+    "word": " the",
+    "start": 1.26,
+    "end": 1.66,
+    "probability": 0.9950049519538879
+   },
+   {
+    "word": " most",
+    "start": 1.66,
+    "end": 1.96,
+    "probability": 0.9969744682312012
+   },
+   {
+    "word": " unbelievable,",
+    "start": 1.96,
+    "end": 3.38,
+    "probability": 0.950600802898407
+   },
+   {
+    "word": " picture",
+    "start": 3.7,
+    "end": 4.12,
+    "probability": 0.9939320087432861
+   },
+   {
+    "word": "-perfect",
+    "start": 4.12,
+    "end": 4.58,
+    "probability": 0.8497714102268219
+   },
+   {
+    "word": " launch",
+    "start": 4.58,
+    "end": 5.12,
+    "probability": 0.9806077480316162
+   },
+   {
+    "word": " that",
+    "start": 5.12,
+    "end": 5.96,
+    "probability": 0.942395806312561
+   },
+   {
+    "word": " I",
+    "start": 5.96,
+    "end": 6.08,
+    "probability": 0.989654541015625
+   },
+   {
+    "word": " could",
+    "start": 6.08,
+    "end": 6.22,
+    "probability": 0.9944407343864441
+   },
+   {
+    "word": " ever",
+    "start": 6.22,
+    "end": 6.46,
+    "probability": 0.9891168475151062
+   },
+   {
+    "word": " imagine.",
+    "start": 6.46,
+    "end": 7.0,
+    "probability": 0.9931847453117371
+   }
+  ]
+ },
+ {
+  "start": 8.12,
+  "end": 11.18,
+  "text": "And in a way, even though it's been so many years,",
+  "words": [
+   {
+    "word": " And",
+    "start": 8.12,
+    "end": 8.22,
+    "probability": 0.9194409847259521
+   },
+   {
+    "word": " in",
+    "start": 8.22,
+    "end": 8.34,
+    "probability": 0.9213913083076477
+   },
+   {
+    "word": " a",
+    "start": 8.34,
+    "end": 8.52,
+    "probability": 0.9985799789428711
+   },
+   {
+    "word": " way,",
+    "start": 8.52,
+    "end": 8.9,
+    "probability": 0.9994664788246155
+   },
+   {
+    "word": " even",
+    "start": 9.26,
+    "end": 9.48,
+    "probability": 0.9961841702461243
+   },
+   {
+    "word": " though",
+    "start": 9.48,
+    "end": 9.64,
+    "probability": 0.9957310557365417
+   },
+   {
+    "word": " it's",
+    "start": 9.64,
+    "end": 9.8,
+    "probability": 0.9669555127620697
+   },
+   {
+    "word": " been",
+    "start": 9.8,
+    "end": 10.0,
+    "probability": 0.9987454414367676
+   },
+   {
+    "word": " so",
+    "start": 10.0,
+    "end": 10.6,
+    "probability": 0.992933988571167
+   },
+   {
+    "word": " many",
+    "start": 10.6,
+    "end": 10.84,
+    "probability": 0.9996968507766724
+   },
+   {
+    "word": " years,",
+    "start": 10.84,
+    "end": 11.18,
+    "probability": 0.9996423721313477
+   }
+  ]
+ },
+ {
+  "start": 11.6,
+  "end": 16.38,
+  "text": "I never quite wrapped my head around the idea that someday this would happen.",
+  "words": [
+   {
+    "word": " I",
+    "start": 11.6,
+    "end": 12.24,
+    "probability": 0.9974865913391113
+   },
+   {
+    "word": " never",
+    "start": 12.24,
+    "end": 12.48,
+    "probability": 0.993558943271637
+   },
+   {
+    "word": " quite",
+    "start": 12.48,
+    "end": 12.82,
+    "probability": 0.997251570224762
+   },
+   {
+    "word": " wrapped",
+    "start": 12.82,
+    "end": 13.14,
+    "probability": 0.9932906627655029
+   },
+   {
+    "word": " my",
+    "start": 13.14,
+    "end": 13.34,
+    "probability": 0.9986820816993713
+   },
+   {
+    "word": " head",
+    "start": 13.34,
+    "end": 13.58,
+    "probability": 0.9976277947425842
+   },
+   {
+    "word": " around",
+    "start": 13.58,
+    "end": 13.82,
+    "probability": 0.9973709583282471
+   },
+   {
+    "word": " the",
+    "start": 13.82,
+    "end": 14.0,
+    "probability": 0.9948404431343079
+   },
+   {
+    "word": " idea",
+    "start": 14.0,
+    "end": 14.26,
+    "probability": 0.9991686344146729
+   },
+   {
+    "word": " that",
+    "start": 14.26,
+    "end": 14.46,
+    "probability": 0.9945863485336304
+   },
+   {
+    "word": " someday",
+    "start": 14.46,
+    "end": 14.94,
+    "probability": 0.8112316131591797
+   },
+   {
+    "word": " this",
+    "start": 14.94,
+    "end": 15.72,
+    "probability": 0.7156583666801453
+   },
+   {
+    "word": " would",
+    "start": 15.72,
+    "end": 15.96,
+    "probability": 0.995893120765686
+   },
+   {
+    "word": " happen.",
+    "start": 15.96,
+    "end": 16.38,
+    "probability": 0.9989904761314392
+   }
+  ]
+ },
+ {
+  "start": 17.92,
+  "end": 23.6,
+  "text": "And watching Roman ascend into the sky was unlike anything I could explain or describe.",
+  "words": [
+   {
+    "word": " And",
+    "start": 17.92,
+    "end": 18.06,
+    "probability": 0.9607253670692444
+   },
+   {
+    "word": " watching",
+    "start": 18.06,
+    "end": 18.58,
+    "probability": 0.9941798448562622
+   },
+   {
+    "word": " Roman",
+    "start": 18.58,
+    "end": 19.1,
+    "probability": 0.8654521703720093
+   },
+   {
+    "word": " ascend",
+    "start": 19.1,
+    "end": 19.54,
+    "probability": 0.9880631566047668
+   },
+   {
+    "word": " into",
+    "start": 19.54,
+    "end": 20.08,
+    "probability": 0.9912545084953308
+   },
+   {
+    "word": " the",
+    "start": 20.08,
+    "end": 20.28,
+    "probability": 0.9988701939582825
+   },
+   {
+    "word": " sky",
+    "start": 20.28,
+    "end": 20.64,
+    "probability": 0.9992788434028625
+   },
+   {
+    "word": " was",
+    "start": 20.64,
+    "end": 21.18,
+    "probability": 0.9739913940429688
+   },
+   {
+    "word": " unlike",
+    "start": 21.18,
+    "end": 21.58,
+    "probability": 0.9976972937583923
+   },
+   {
+    "word": " anything",
+    "start": 21.58,
+    "end": 21.98,
+    "probability": 0.9960041642189026
+   },
+   {
+    "word": " I",
+    "start": 21.98,
+    "end": 22.26,
+    "probability": 0.9894133806228638
+   },
+   {
+    "word": " could",
+    "start": 22.26,
+    "end": 22.4,
+    "probability": 0.9974217414855957
+   },
+   {
+    "word": " explain",
+    "start": 22.4,
+    "end": 22.88,
+    "probability": 0.9318668842315674
+   },
+   {
+    "word": " or",
+    "start": 22.88,
+    "end": 23.1,
+    "probability": 0.9836828112602234
+   },
+   {
+    "word": " describe.",
+    "start": 23.1,
+    "end": 23.6,
+    "probability": 0.992895781993866
+   }
+  ]
+ },
+ {
+  "start": 24.69,
+  "end": 29.82,
+  "text": "Because I could never convince myself that it was actually real.",
+  "words": [
+   {
+    "word": " Because",
+    "start": 24.69,
+    "end": 25.41,
+    "probability": 0.9860634207725525
+   },
+   {
+    "word": " I",
+    "start": 25.41,
+    "end": 25.63,
+    "probability": 0.9909486174583435
+   },
+   {
+    "word": " could",
+    "start": 25.63,
+    "end": 25.79,
+    "probability": 0.9972654581069946
+   },
+   {
+    "word": " never",
+    "start": 25.79,
+    "end": 26.13,
+    "probability": 0.9991937279701233
+   },
+   {
+    "word": " convince",
+    "start": 26.13,
+    "end": 27.33,
+    "probability": 0.9871964454650879
+   },
+   {
+    "word": " myself",
+    "start": 27.62,
+    "end": 28.14,
+    "probability": 0.9990400671958923
+   },
+   {
+    "word": " that",
+    "start": 28.14,
+    "end": 28.6,
+    "probability": 0.9921269416809082
+   },
+   {
+    "word": " it",
+    "start": 28.6,
+    "end": 28.7,
+    "probability": 0.9944157600402832
+   },
+   {
+    "word": " was",
+    "start": 28.7,
+    "end": 28.84,
+    "probability": 0.9955196380615234
+   },
+   {
+    "word": " actually",
+    "start": 28.84,
+    "end": 29.36,
+    "probability": 0.9837574362754822
+   },
+   {
+    "word": " real.",
+    "start": 29.36,
+    "end": 29.82,
+    "probability": 0.9719599485397339
+   }
+  ]
+ },
+ {
+  "start": 29.82,
+  "end": 34.5,
+  "text": "That we would manifest this amazing machine and get it into space.",
+  "words": [
+   {
+    "word": " That",
+    "start": 29.82,
+    "end": 30.48,
+    "probability": 0.1434144377708435
+   },
+   {
+    "word": " we",
+    "start": 30.48,
+    "end": 30.66,
+    "probability": 0.9901718497276306
+   },
+   {
+    "word": " would",
+    "start": 30.66,
+    "end": 30.86,
+    "probability": 0.9951884746551514
+   },
+   {
+    "word": " manifest",
+    "start": 30.86,
+    "end": 31.5,
+    "probability": 0.996575653553009
+   },
+   {
+    "word": " this",
+    "start": 31.5,
+    "end": 31.9,
+    "probability": 0.9900762438774109
+   },
+   {
+    "word": " amazing",
+    "start": 31.9,
+    "end": 32.44,
+    "probability": 0.9983043670654297
+   },
+   {
+    "word": " machine",
+    "start": 32.44,
+    "end": 32.9,
+    "probability": 0.9914819002151489
+   },
+   {
+    "word": " and",
+    "start": 32.9,
+    "end": 33.64,
+    "probability": 0.8849605917930603
+   },
+   {
+    "word": " get",
+    "start": 33.64,
+    "end": 33.88,
+    "probability": 0.9977535605430603
+   },
+   {
+    "word": " it",
+    "start": 33.88,
+    "end": 34.02,
+    "probability": 0.9792485237121582
+   },
+   {
+    "word": " into",
+    "start": 34.02,
+    "end": 34.16,
+    "probability": 0.9828238487243652
+   },
+   {
+    "word": " space.",
+    "start": 34.16,
+    "end": 34.5,
+    "probability": 0.9868505001068115
+   }
+  ]
+ },
+ {
+  "start": 35.18,
+  "end": 38.4,
+  "text": "But we did. And now it's there for everybody.",
+  "words": [
+   {
+    "word": " But",
+    "start": 35.18,
+    "end": 35.34,
+    "probability": 0.9396381974220276
+   },
+   {
+    "word": " we",
+    "start": 35.34,
+    "end": 35.46,
+    "probability": 0.9731140732765198
+   },
+   {
+    "word": " did.",
+    "start": 35.46,
+    "end": 35.68,
+    "probability": 0.9962551593780518
+   },
+   {
+    "word": " And",
+    "start": 36.88,
+    "end": 37.0,
+    "probability": 0.88260817527771
+   },
+   {
+    "word": " now",
+    "start": 37.0,
+    "end": 37.22,
+    "probability": 0.9950443506240845
+   },
+   {
+    "word": " it's",
+    "start": 37.22,
+    "end": 37.42,
+    "probability": 0.9546565115451813
+   },
+   {
+    "word": " there",
+    "start": 37.42,
+    "end": 37.64,
+    "probability": 0.9927598237991333
+   },
+   {
+    "word": " for",
+    "start": 37.64,
+    "end": 38.08,
+    "probability": 0.9970741271972656
+   },
+   {
+    "word": " everybody.",
+    "start": 38.08,
+    "end": 38.4,
+    "probability": 0.9928355813026428
+   }
+  ]
+ }
+]

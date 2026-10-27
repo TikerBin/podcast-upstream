@@ -44,3 +44,22 @@
 ## 后续采集的门槛（复用）
 
 公开、稳定、来源清楚、适合 Facebook Reels 科普动画选题；音频 enclosure 必须是长期稳定、可直接下载、MIME 与字节数实测；文字稿必须是完整文字稿，不是摘要；GUID 稳定；权利必须明确可用于目标工作流，否则只进未入库清单。
+
+## 2026-10-27 每日采集轮（2 父集 + 2 独立片段，北京时间）
+
+- 候选：daily_check.py 当日输出——现有 11 条，Curious Universe RSS 110 条中候选 97 条、NOAA 索引候选 8 条，源站失败 0 项；按手册每日最多新入库 2 个父集、发布时间倒序、过门槛者优先，取最新两条 NASA Roman 单集（其余候选留待次日）。
+- 父集核验：
+
+| 条目 | 来源页 | 音频地址（enclosure） | HEAD / 下载核验 | 文字稿来源 |
+|---|---|---|---|---|
+| Encore: Welcome to the Dark Side | https://www.nasa.gov/podcasts/curious-universe/roman-dark-side-encore/ | https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8321387416.mp3 | 200，audio/mpeg，38,051,140 字节，ffprobe 1573.538 秒，ffmpeg 全量解码零报错 | NASA 官方页全文，4088 词（Megaphone RSS Tue, 22 Sep 2026 13:03:00 -0000；页内注明最初发表于 2023 年） |
+| Roman Series: Liftoff! | https://www.nasa.gov/podcasts/curious-universe/roman-launch-podcast/ | https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8243891295.mp3 | 200，audio/mpeg，32,585,215 字节，ffprobe 1345.828 秒，ffmpeg 全量解码零报错 | NASA 官方页全文，3232 词（Megaphone RSS Sat, 05 Sep 2026 12:36:00 -0000） |
+
+- 片段核验：
+
+| 片段 | 独立 GUID | enclosure（仓库直链） | 字节 / 时长 / MIME | 片段文案 |
+|---|---|---|---|---|
+| Dark Side 引力透镜“水池硬币” | urn:podcast:nasa.gov:curious-universe:roman-dark-side-encore:clip:penny:800.0-851.5 | https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-roman-dark-side-clip-penny.mp3 | 1,478,597 字节 / 51.5 秒 / audio/mpeg，本地 ffprobe 与原集起止一致 | 174 词，仅片段音频（faster-whisper small.en 转写，与官方全文引力透镜段落逐词一致；无音乐 cue 在片段内） |
+| Liftoff 升空后感言 | urn:podcast:nasa.gov:curious-universe:roman-liftoff:clip:picture-perfect:920.0-958.6 | https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-roman-liftoff-clip-picture-perfect.mp3 | 606,849 字节 / 38.6 秒 / audio/mpeg，本地 ffprobe 与原集起止一致 | 85 词，仅片段音频（faster-whisper small.en 转写，与官方全文 Dominic Benford 升空后感言段落逐词一致；920.6 秒首切切掉开头“We just”故废弃，改 920.0 秒起切后开头完整） |
+
+- 两集文字稿中均标有歌曲 cue，片段均选在连续讲话段内、无音乐；片段文案均为实际片段完整文案，不是整集或摘要。封面沿用仓库自托管默认封面，不冒充官方 Logo。

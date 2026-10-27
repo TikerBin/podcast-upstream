@@ -5,7 +5,7 @@
 <link>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main</link>
 <description>视频形态本批 0 条：无官方稳定 MP4 + 音频/文案双齐的视频播客，YouTube 仅链接的条目按规则不入库，空 feed 是如实结果，不是缺文件。</description>
 <language>en</language>
-<lastBuildDate>Sat, 24 Oct 2026 14:07:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 01:44:27 +0000</lastBuildDate>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/feeds/video.xml" rel="self" type="application/rss+xml"/>
 </channel>
 </rss>

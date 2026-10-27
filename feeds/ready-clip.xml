@@ -5,7 +5,7 @@
 <link>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main</link>
 <description>仅含独立片段条目：片段 enclosure 为仓库自托管 clips 直链，文案仅覆盖片段音频；整集不在此 feed，整集不得冒充短片段。</description>
 <language>en</language>
-<lastBuildDate>Mon, 26 Oct 2026 06:13:14 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 01:44:27 +0000</lastBuildDate>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/feeds/ready-clip.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Their Mars window is a TV — clip from Encore: A Year In Mars Dune Alpha</title>
@@ -61,6 +61,51 @@ the words would be, almost Mars.]]></content:encoded>
 <_clip_source_nature>original_audio</_clip_source_nature>
 </item>
 <item>
+<title>A penny in a clear pool: how we see dark matter — clip from Encore: Welcome to the Dark Side (800.0-851.5s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/roman-dark-side-encore/</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:roman-dark-side-encore:clip:penny:800.0-851.5</guid>
+<pubDate>Tue, 22 Sep 2026 13:03:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-roman-dark-side-clip-penny.mp3" length="1478597" type="audio/mpeg"/>
+<itunes:duration>52</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】看不见的暗物质怎么被看见：想象晴天里一池清水，池底的硬币看起来变了形——光被水弯折了；远方星系的光被暗物质弯折，也是同一个道理。
+【Reels 角度】看不见的东西怎么证明它存在？一枚池底的硬币告诉你：光被弯折的地方，就有暗物质。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; full-episode music cues do not appear in this speech segment.
+【来源】https://www.nasa.gov/podcasts/curious-universe/roman-dark-side-encore/
+【采集日（北京时间）】2026-10-27
+【发布时间精度】exact_encore（Inherits parent original publish date (Megaphone RSS Tue, 22 Sep 2026 13:03:00 -0000; episode originally published 2023); clip itself was modelled 2026-10-27 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:roman-dark-side-encore
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/roman-dark-side-encore/
+【片段】原集 800.0-851.5 秒，51.5 秒，原声，未加 BGM，文件：clips/nasa-roman-dark-side-clip-penny.mp3]]></description>
+<content:encoded><![CDATA[And I can use an analogy here. Imagine you're standing on a very calm day in front of a very crystal clear pool, and you throw a penny to the bottom of the pool. Now, you can't really see the water because it's crystal clear, but you can see the penny at the bottom of the pool and anyone who's done this knows that you see a distorted view of that penny. It doesn't appear as it would just on the ground. And that's because the light from the penny is traveling through the water and the light is bent by the water. So in this analogy, that penny is like the distant galaxy and the water is like the dark matter. So we don't actually see the dark matter. You don't actually see the water, but you know it's there. You know the water is there because you see a distorted view of the penny. And we know the dark matter is there because we see a distorted image of these background galaxies.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>roman-dark-side-encore-clip-penny</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/roman-dark-side-encore/</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-10-27</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 51.500s / 1478597 bytes (ffmpeg cut from verified full MP3 in this run, 2026-10-27); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-roman-dark-side-clip-penny.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-roman-dark-side-clip-penny.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-roman-dark-side-clip-penny-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-roman-dark-side-clip-penny-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:roman-dark-side-encore</_parent_guid>
+<_parent_id>nasa-curious-roman-dark-side-encore</_parent_id>
+<_clip_start_s>800.0</_clip_start_s>
+<_clip_end_s>851.5</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
 <title>Ferdinand Hassler: the first superintendent of the Coast Survey — clip from Origins of NOAA's National Ocean Service (236.9-289.5s)</title>
 <link>https://oceanservice.noaa.gov/podcast/sep26/nop86-nos-origins.html</link>
 <guid isPermaLink="false">urn:podcast:oceanservice.noaa.gov:podcast:sep26:nop86-nos-origins:clip:hassler:236.9-289.5</guid>
@@ -103,6 +148,51 @@ the words would be, almost Mars.]]></content:encoded>
 <_parent_id>noaa-ocean-nos-origins-86</_parent_id>
 <_clip_start_s>236.9</_clip_start_s>
 <_clip_end_s>289.5</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>We just witnessed the most unbelievable, picture-perfect launch — clip from Roman Series: Liftoff! (920.0-958.6s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/roman-launch-podcast/</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:roman-liftoff:clip:picture-perfect:920.0-958.6</guid>
+<pubDate>Sat, 05 Sep 2026 12:36:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-roman-liftoff-clip-picture-perfect.mp3" length="606849" type="audio/mpeg"/>
+<itunes:duration>39</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】等了二十多年，Roman 终于升空：科学家 Dominic 说，这次发射美得难以想象——曾经只存在于图纸上的机器，真的飞进了太空，现在它属于所有人。
+【Reels 角度】为一台望远镜等了二十多年，发射成功那一刻他只说了一句话：这简直不敢相信。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; full-episode music cues do not appear in this speech segment.
+【来源】https://www.nasa.gov/podcasts/curious-universe/roman-launch-podcast/
+【采集日（北京时间）】2026-10-27
+【发布时间精度】exact（Inherits parent original publish date (Megaphone RSS Sat, 05 Sep 2026 12:36:00 -0000); clip itself was modelled 2026-10-27 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:roman-liftoff
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/roman-launch-podcast/
+【片段】原集 920.0-958.6 秒，38.6 秒，原声，未加 BGM，文件：clips/nasa-roman-liftoff-clip-picture-perfect.mp3]]></description>
+<content:encoded><![CDATA[We just witnessed the most unbelievable, picture-perfect launch that I could ever imagine. And in a way, even though it's been so many years, I never quite wrapped my head around the idea that someday this would happen. And watching Roman ascend into the sky was unlike anything I could explain or describe. Because I could never convince myself that it was actually real. That we would manifest this amazing machine and get it into space. But we did. And now it's there for everybody.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>roman-liftoff-clip-picture-perfect</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/roman-launch-podcast/</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-10-27</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 38.600s / 606849 bytes (ffmpeg cut from verified full MP3 in this run, 2026-10-27); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-roman-liftoff-clip-picture-perfect.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-roman-liftoff-clip-picture-perfect.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-roman-liftoff-clip-picture-perfect-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-roman-liftoff-clip-picture-perfect-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:roman-liftoff</_parent_guid>
+<_parent_id>nasa-curious-roman-liftoff</_parent_id>
+<_clip_start_s>920.0</_clip_start_s>
+<_clip_end_s>958.6</_clip_end_s>
 <_clip_source_nature>original_audio</_clip_source_nature>
 </item>
 <item>

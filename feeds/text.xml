@@ -5,7 +5,7 @@
 <link>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main</link>
 <description>形态 text 的待制作播客条目，GUID 与总 feed 完全一致。</description>
 <language>en</language>
-<lastBuildDate>Mon, 26 Oct 2026 06:13:14 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 01:44:27 +0000</lastBuildDate>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/feeds/text.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Their Mars window is a TV — clip from Encore: A Year In Mars Dune Alpha</title>
@@ -203,6 +203,182 @@ NATE: Yeah, NASA was kind enough to provide us with quite a few pictures of natu
 <_collected_at_beijing>2026-10-24</_collected_at_beijing>
 <_audio_verified>HEAD 跟随重定向得 audio/mpeg + 39402865 字节；与 2026-10-24 播客工作流本地文件字节数完全一致，ffprobe 时长 1626.122 秒</_audio_verified>
 <_child_clip_guid>urn:podcast:nasa.gov:curious-universe:encore-a-year-in-mars-dune-alpha:clip:window:224-255</_child_clip_guid>
+</item>
+<item>
+<title>Encore: Welcome to the Dark Side</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/roman-dark-side-encore/</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:roman-dark-side-encore</guid>
+<pubDate>Tue, 22 Sep 2026 13:03:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:full-episode</category>
+<category>production:text-script</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8321387416.mp3" length="38051140" type="audio/mpeg"/>
+<itunes:duration>1574</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】full-episode, text-script
+【摘要】我们看得见的普通物质只占宇宙的 5%，其余 95% 是暗物质与暗能量：暗物质约占 25%，靠引力效应才被察觉；暗能量约占 70%，正在让宇宙加速膨胀。Roman 与 Euclid 两台新望远镜将绘制数十亿星系的三维图，用引力透镜与超新星等方法追踪暗宇宙；MACHOs 与 WIMPs 之争、以及测量结果与现有理论的张力，都可能指向新物理。
+【Reels 角度】你看得见的宇宙只有 5%：先给 5% 对 95% 的反差，再用“水池里看硬币变形的引力透镜”比喻讲清暗物质怎么被看见，最后落到 Roman 一次快门顶哈勃几百次拼接的仙女座。
+【许可证】Public domain：美国联邦政府作品（NASA 官方播客），一般不受版权保护
+【权利说明】可剪辑/再分发，不得暗示 NASA 背书；本集文字稿中标有若干歌曲 cue（如 Cloud Voyage、Curiosity 主题曲、Morning Hunt 等），正式发布前需逐项再核片段内音乐；本批 ready-clip 已核为原声讲话段、未加 BGM。
+【来源】https://www.nasa.gov/podcasts/curious-universe/roman-dark-side-encore/
+【采集日（北京时间）】2026-10-27
+【发布时间精度】exact_encore（NASA Curious Universe Megaphone RSS: Tue, 22 Sep 2026 13:03:00 -0000；页内注明本集最初发表于 2023 年）
+【子片段 GUID】urn:podcast:nasa.gov:curious-universe:roman-dark-side-encore:clip:penny:800.0-851.5]]></description>
+<content:encoded><![CDATA[JACOB PINTER: This is NASA’s Curious Universe. I’m Jacob Pinter, and if you’ve been listening to this show lately, you already know that NASA launched the Nancy Grace Roman Space Telescope. Roman will catalog more than a billion galaxies, and it will settle some essential questions that astronomers have about our universe. This episode is an encore presentation of one of our favorite Curious Universe stories. It’s all about dark matter and dark energy. These are huge, mysterious elements of our universe, and Roman is designed to give us more information about them, especially dark energy.
+One cool thing I want to highlight about this episode: It came out a few years ago, so you hear scientists talking about Roman in the future tense. Roman will launch. Roman will study dark energy. You get the idea. Well, now it’s happening. We have much more to say about Roman in other episodes of Curious Universe, and if you want updates about Roman or more info, you can head to nasa.gov/roman for the latest. That’s nasa.gov/roman.
+OK. Here’s your host, Padi Boyd, taking you to the dark side.
+[Song: Cloud Voyage by Ella Ryan]
+[ARCHIVAL AUDIO: Euclid launch
+Unidentified voice 1: LE, go for launch.
+Unidentified voice 2: And great news, all systems are go for launch of Falcon 9 and  Euclid Space Telescope.]
+JASON RHODES: So I was very lucky in that I got to go to Florida to watch Euclid launch on July 1, 2023.
+[Unidentified voice 1: T-minus 15 seconds and counting.]
+JASON: And I know exactly how close I was, because like any good physicist when the rocket launched—
+[Unidentified voice 1: Three, two, one. Engine ignition. Liftoff. (sound of rockets firing)]
+JASON: I could see the intensely bright light. And I started counting seconds in my head.
+HOST PADI BOYD: Jason Rhodes is a scientist at NASA’s Jet Propulsion Laboratory.  He’s an astrophysicist who studies what the universe is made of and how it’s structured. Like any physicist will tell you, on Earth, light travels faster than sound. So Jason watched the rocket ignite silently. Then he counted for about 20 seconds.
+JASON: … until I got hit with the shockwave and the sound and the rumbling.
+[Sound of rocket takeoff]
+JASON:  And I’m a physicist so I know the speed of sound in air, so I could figure out about how far I was away. It was about four and a half miles. And that’s probably about as close as I would have wanted to be because it was quite a rumbling and quite bright.
+PADI: This rocket carried a telescope called Euclid, made by the European Space Agency, with help from NASA and other scientists around the world. Euclid was headed to a point in space almost a million miles away from Earth. From there, it’s designed to make a 3-D map of the universe, including dark matter and dark energy—mysterious elements of the universe that we can detect. But we don’t know much about them.
+JASON: Euclid has its origins in part in a paper I wrote in 2004 with some colleagues. So we described this telescope in this paper. And then we started to go to space agencies and saying, Hey, we want the money to build this telescope. Now this is a long process. I, you know, pride myself on being a scientist and thinking of things sort of dispassionately and logically. And so I thought I was gonna watch this launch with that sort of sentiment. But I became very emotional. It’d been the better part of 20 years of my life and my career. But the other aspect of it for me was, I felt incredibly lucky to be part of this grand adventure that is astronomy launching a telescope into space. It’s one of, in my opinion, the proudest and most important human accomplishments is to be able to try to understand the universe that we live in.
+[Theme Song: Curiosity by SYSTEM Sounds]
+PADI: This is NASA’s Curious Universe. Our universe is a wild and wonderful place. I’m your host Padi Boyd and in this podcast, NASA is your tour guide.
+“Dark matter” and “dark energy” may sound like something Luke Skywalker had to fight off in Star Wars. Unlike The Force, they’re real. But we do notice them in galaxies far, far away. The stuff that we know here on Earth—the atoms and molecules that make up our bodies, our home planet, the moon and stars and everything else we can see—is only about five percent of the universe. The other 95 percent is dark matter and dark energy.
+In this episode, let’s explore the dark side of our universe. We’ll learn why cracking the secrets of dark matter involves a battle between MACHOs and WIMPs. And we’ll hear how a couple of new space telescopes could help us solve some of these  —or give us new questions to investigate.
+So let’s start at the beginning with a question that seems pretty straightforward: what is dark matter?
+AMI CHOI: Well, that’s a great question. I guess if we knew the exact answer to that we wouldn’t be sitting here today. Because, yeah, that problem would have been solved, and maybe I’d be studying something else.
+PADI: This is Ami Choi. She’s an astrophysicist based at NASA’s Goddard Space Flight Center.
+AMI: I study the universe on the largest scales—really just the biggest picture. I am interested in what the universe is made out of and then also the history of it and how it evolved to what we see today.
+PADI: We may not totally understand dark matter, but we do know there’s a lot of it.
+[Song: Morning Hunt by Cesar Gimeno Lavin]
+It makes up about 25 percent of the universe. But we can’t see dark matter, and it barely interacts with us here on Earth. We notice it when we look on the scale of galaxies including our own—or clusters made up of many galaxies.
+AMI: Dark matter is a type of matter that we indirectly observe through its gravitational effects. That’s the only way we really—that we know that it exists because it doesn’t emit light, and it doesn’t interact with light.
+PADI: As far back as the late 1800s, astronomers hypothesized some kind of matter they couldn’t see. In the 1930s, a Swiss astronomer named Fritz Zwicky was looking at a distant cluster of galaxies. He noticed the galaxies were moving a lot faster than he expected. The only way Zwicky could explain it, was that the galaxies had some kind of unseen mass.
+AMI: And so that was a clear evidence for dark matter, although at the time nobody believed him. He was considered an eccentric.
+PADI: Decades later, in the 1960s and 70s, an American astronomer named Vera Rubin confirmed that it existed. Since then, scientists have found dark matter all over the universe.
+JASON: So we know that there’s dark matter out there because we can see how things move in relation to each other, and we know that there’s this mass that’s causing them to move in a certain way. Dark matter is not dark in the sense that it absorbs things and it appears black. It doesn’t absorb light. So “clear matter” might have been a better name for it because the light passes right through. I don’t think it has the same cachet, though, or gives the same sense of mystery.
+PADI: By the time Jason started his career in the 1990s, astrophysicists thought they had a pretty good handle on the main building blocks of the universe.
+JASON: When I started graduate school in 1994, we thought—the scientific community thought—that the universe was made up of matter, dark matter, and gravity. And by the time I finished graduate school five years later, there had been a real revolution in which the whole understanding of cosmology was sort of upended.
+[Song: On the Brink by Paul Richard O’Brien and Theo Maximilian Goble]
+PADI: The culprit was dark energy. Now, dark energy and dark matter are two totally separate things. They’re not called “dark” because they’re related. They’re both “dark” because we just don’t know much about them.
+JASON: So dark energy is one of the biggest mysteries in all of science.
+PADI: The roots of this mystery go back about a hundred years. Back in the 1920s, astronomers were just beginning to realize that there were other galaxies out there, beyond the Milky Way.
+JASON: Well I’m sitting here in Southern California, in Los Angeles area. If I was outside, I could look up at the mountains and I could see Mount Wilson, which is the home of a very famous observatory where nearly 100 years ago an astronomer named Edwin Hubble was doing some observations.
+PADI: Edwin Hubble was a groundbreaking astronomer. In fact, his work inspired the Hubble Space Telescope, which has been orbiting our home planet and capturing pictures of the cosmos for more than 30 years.
+JASON: And Edwin Hubble, along with some other astronomers  at the time, found that the universe was expanding. It wasn’t static or staying the same size, as people had previously thought.
+PADI: Astronomers were pretty sure that in a universe full of matter and dark matter, eventually gravity would throw on the brakes. The universe may be expanding now, but all of those particles would be attracted to each other, and the expansion would have to slow down. Maybe it would even reverse, and the universe would shrink. And that’s what scientists were looking for in the 1990s.
+JASON: And so these two groups were trying to understand how much the expansion of the universe was slowing down. But instead they found a very surprising result, and that result was that the expansion of the universe is speeding up. That is, there’s something pushing the universe apart, causing it to expand faster and faster over time.
+PADI: Astronomers called that “something” dark energy. Today, we’ve calculated it makes up about 70 percent of the universe. But we can’t say what it is or where it comes from.
+JASON: And I like to say that “dark energy” is the name we give to our ignorance of what’s causing that accelerating expansion of the universe. So it’s sort of a catch-all term for a number of possible explanations.
+PADI: When astrophysicists look out into the universe, they see the effects of dark matter and dark energy everywhere. Ami says those effects are even imprinted into the shape of the universe itself. If you could zoom out and make a map of the entire universe, you’d see a cosmic web with tangles of galaxies connected by thin strands of matter.
+AMI: Dark matter, it has a gravitational force, and that’s an attractive force, it’s pulling things in. And then dark energy is something that makes the universe undergo an accelerated expansion, so it’s like a pulling-things-apart kind of force. And it’s really the interplay between these two forces that shape all of the universe that we can see, including all of the matter that does emit light.
+PADI: Even though we can’t directly see dark matter and dark energy, astronomers have come up with clever ways to detect them and even measure them.
+[Song: A Closer Look by David Wittman and Marc Aaron Jacobs]
+One technique that Jason and Ami both use is called gravitational lensing.
+AMI: And gravitational lensing is the phenomenon where light coming from very distant galaxies, on their way to us as the observer their path can be distorted by massive objects between us and where the light was emitted originally.
+PADI: This comes from one of the wrinkles of Albert Einstein’s general theory of relativity. Massive objects bend the fabric of space itself. Huge objects with lots of mass can warp space so much that light doesn’t travel in a straight line. It gets bent and distorted. When astronomers look at faraway galaxies, they can see dark matter bending and distorting the light headed toward Earth.
+JASON: And I can use an analogy here. Imagine you’re standing on a very calm day, in front of a very crystal clear pool, and you throw a penny to the bottom of the pool. Now, you can’t really see the water because it’s crystal clear, but you can see the penny at the bottom of the pool. And anyone who’s done this knows that you see a distorted view of that penny. It doesn’t appear as it would just on the ground. And that’s because the light from the penny is traveling through the water, and the light is bent by the water. So in this analogy, that penny is like the distant galaxy, and the water is like the dark matter. So we don’t actually see the dark matter. You don’t actually see the water. But you know it’s there. You know, the water is there because you see a distorted view of the penny. And we know the dark matter is there because we see a distorted image of these background galaxies.
+PADI: In fact, astronomers can measure this distortion throughout the universe by looking at millions of galaxies. With that information, they can see the effects of dark matter and dark energy. And that’s just one technique. The original discovery of dark energy came from  —the huge explosions caused by dying stars.
+JASON: Each time one of these supernova explodes, it gives off a very well-known amount of light over a very well-known amount of time. So by measuring that light, we can figure out how far away that supernova was.
+PADI: So imagine you and a friend are walking through the woods in the dark. It’s a still, quiet night. There’s not much of a moon, but you have flashlights to show the way. For some reason, your friend keeps running off on their own. But as long as you can see their flashlight, you know where they are. Since you know how bright the flashlight is, you can tell how far away they are. And you can see if they’re moving toward you or moving away. Supernovae give that same information to astronomers.
+JASON: And by measuring those distances and seeing how far away in time those distances are—because it takes time, billions of years for the light to reach us from these distant galaxies—we can measure the expansion history of the universe.
+PADI: With these techniques, scientists have gathered detailed information about our dark universe. Not bad for something they can’t see. Now, for dark matter in particular, Jason says we actually understand it pretty well in terms of how it behaves on large scales.
+JASON: However we don’t understand dark matter at what we call the particle level. We don’t know exactly what dark matter is made up of.
+[Song: Precise Timing by Paul Richard O’Brien and Theo Maximilian Goble]
+PADI: To explain dark matter, you might have thought about another mysterious object in the universe: black holes. After all, black holes have so much gravity that even light can’t escape them. So, they’re definitely dark . Astronomers have also wondered if black holes could explain dark matter—in other words, if they are the mass that is missing from the balance of the universe. Or maybe other objects, like a type of small, dim star called a brown dwarf.
+AMI: There are these different types of astronomical objects, which maybe are kind of dark in some sense. It makes it really hard for us to see them. So these are all examples of a type of objects which we call MACHOs. So, MACHOs are short for “Massive Compact Halo Object”.
+PADI: If MACHOs explained dark matter, that would mean it’s made of the same protons and electrons that make up everything around us. But experiments to detect MACHOs haven’t panned out. So, many scientists think that dark matter is made of something else—something a little more exotic.
+AMI: So we think maybe the dark matter could be a new type of elementary particle that hasn’t yet been detected but does have some of the properties that we’ve found in other ways from our astrophysical observations so that they do have some gravitational force and that they might be weakly interacting. And so the shorthand for this class of particles is WIMPs—so where WIMPs stands for “weakly interacting massive particles”. So you know, we have these WIMPs as the leading candidates. So they seem to have won out in this case over the MACHOs, which is kind of funny.
+PADI: In many ways, our research into dark matter and dark energy is just getting started. After all, we didn’t even know dark energy existed until 25 years ago. NASA and other space agencies have been building a new generation of space telescopes designed specifically to study the dark universe. First up is Euclid, the European Space Agency launch that Jason saw this summer.
+JASON: And the thing that’s really exciting about Euclid, is it’s got huge cameras. Lots and lots of pixels.
+PADI: Over a six-year mission, Euclid will show us billions of galaxies, looking back 10 billion years into the past.
+JASON: To give you some idea of how powerful Euclid is going to be, it doesn’t have as big a mirror as the Hubble Space Telescope, so it doesn’t have quite the resolution or the depth of a Hubble image. But it’s somewhat close. So every week it’s going to image as much of the sky as Hubble has in its 30 year history.
+PADI: All of that data will help Jason and other astronomers learn more about the expansion history of the universe. Then, they’ll be able to figure out the role played by dark matter and dark energy.
+[Song: Mystery Helper by Liam Joseph Hennessy]
+Meanwhile, at the Goddard Space Flight Center in Maryland, NASA is building a new mission to the dark side, with help from industry and international partners.
+AMI: I mean, this is a biased point of view. But I’m most excited about the Nancy Grace Roman Space Telescope, since this is the project that I’m working on here at NASA.
+PADI: The Roman Space Telescope is still a few years away. It’s scheduled to launch by May 2027. Like Euclid, one of the mission’s main goals is observing dark matter and dark energy. They will both make 3D maps of the universe. But the two telescopes have different strengths that can work together to create a powerful combination of observations. Euclid will take a wide survey of the universe in both infrared and visible light.
+In comparison, Roman’s area of study will be narrower but much deeper. It has a lot of other science goals besides the dark universe, like finding exoplanets and studying objects in the outskirts of our solar system. And Roman’s resolution is about the same as Hubble’s, but with a field of view 100 times wider.
+AMI: So we have pictures from Hubble of one of our neighbors, the Andromeda Galaxy. And Hubble, it takes many, many individual pointings and then you mosaic those pointings together to get the overall picture of this nearby galaxy. And Roman can do that very efficiently because of how much area it can capture in a single snapshot. And so it can do that sort of in two passes, where Hubble it might take hundreds of passes.
+PADI: Once it launches, Roman will fly to the same point in space as Euclid and the James Webb Space Telescope, about one million miles away from Earth. This new fleet of telescopes has a mix of capabilities that will allow them to tag-team with Hubble and other observatories, each of which has their own unique superpowers that help see the universe in different ways.
+AMI: Hopefully they’re all flying together at the same time. And you could think of things, for example, like finding interesting objects in the Roman field of view because you’re capturing so much area at one time, and you might then go try to look at it with Hubble and JWST and get a really even deeper  view on that particular object. So they’re super complimentary in that sense.
+PADI: You may have seen some of the stunning images captured by the James Webb Space telescope or Hubble. Like the colorful photos of huge clouds of gas and dust where newborn stars form. For astrophysicists, these space telescopes provide something even more valuable: data to feed into equations that describe the universe.
+JASON: And what we’ve found is those equations predict new observations that we haven’t done before. And sometimes those predictions pan out and are true, and sometimes they aren’t. And then when they aren’t, and then when they aren’t, we have to revise our vision of the universe.
+PADI: In fact, there are already tensions in how astronomers describe the cosmos. It might be time to re-evaluate those equations… and some fundamentals we think we know.
+[Song: Great and Small by Liam Joseph Hennessy]
+PADI: Based on what we know about dark matter and dark energy, our models of the early universe clash with what we understand about gravity. Something’s got to give.
+JASON: As we’ve taken better measurements, the problem has not gone away.
+AMI: Maybe there’s something that is new, that’s not accounted for in our current theories of general relativity, that means that the gravity behaves in a particular way that we haven’t currently accounted for.
+JASON: And in fact, if the problem persists after taking measurements with telescopes like Euclid and Roman, it will tell us that we either fundamentally don’t understand something about our measurements, or more interestingly, there’s new physics. Our understanding of physics is incomplete.
+PADI: This is why astrophysicists get out of bed in the morning. There’s always an opportunity to shatter the rules we think we know and come up with something even more interesting. Jason says it feels like that moment when he was a graduate student a few decades ago. Once again, astrophysics could get flipped on its head
+JASON: So we live in a time where there’s these hints of these tensions. And so for me, personally, I’m really excited to see if these tensions play out. And if they do, I want to know, what’s the new physics that describes the universe?
+PADI: Once Roman and Euclid are both in space, it will take scientists years to analyze their data . And it’s hard not to wonder, what are we going to learn? What secrets about dark matter and dark energy are out there, just out of reach?
+AMI: I definitely don’t think that in my lifetime, we will have answered, you know, all of the interesting questions. None of these missions are just going to all of a sudden, give us the particular definitive evidence for understanding the universe completely. We’ll continue to learn a lot of new things and things that I couldn’t even say what it is that we’ll see because they are allowing us to explore the universe in really new ways.
+PADI: With all of this new information, dark matter and dark energy may not just be mysteries waiting to be solved. They could also be hints that we need to ask different questions. Every time we launch a telescope and we start looking at the universe in a new way, we learn about things that we had no idea were even out there. I think that’s the most exciting part of where we are today.
+This is NASA’s Curious Universe. This episode was written and produced by Jacob Pinter. Our executive producer is Katie Konans. The Curious Universe team includes Christian Elliott, Maddie Olson, and Micheala Sosby.
+Our theme song was composed by Matt Russo and Andrew Santaguida of SYSTEM Sounds. Krystofer Kim designed our cover art. Special thanks to Claire Andreoli, Barb Mattson, Amber Straughn, Liz Landau, Colin McNutt, the European Space Agency, and SpaceX.
+If you liked this episode, please let us know by leaving us a review and sharing NASA’s Curious Universe with a friend.  And, remember, you can “follow” NASA’s Curious Universe in your favorite podcast app to get a notification each time we post a new episode.
+JASON: I have a two year old daughter and she’s starting to sing “Twinkle, Twinkle Little Star,” and the astrophysicist in me thinks, Well it’s not the star that’s twinkling. It’s the atmosphere that’s causing [it]!]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>roman-dark-side-encore</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/roman-dark-side-encore/</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-10-27</_collected_at_beijing>
+<_audio_verified>HEAD 跟随重定向得 audio/mpeg + 38051140 字节；整文件下载后 ffprobe 时长 1573.538 秒、字节数一致，ffmpeg 全量解码零报错</_audio_verified>
+<_child_clip_guid>urn:podcast:nasa.gov:curious-universe:roman-dark-side-encore:clip:penny:800.0-851.5</_child_clip_guid>
+</item>
+<item>
+<title>A penny in a clear pool: how we see dark matter — clip from Encore: Welcome to the Dark Side (800.0-851.5s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/roman-dark-side-encore/</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:roman-dark-side-encore:clip:penny:800.0-851.5</guid>
+<pubDate>Tue, 22 Sep 2026 13:03:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-roman-dark-side-clip-penny.mp3" length="1478597" type="audio/mpeg"/>
+<itunes:duration>52</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】看不见的暗物质怎么被看见：想象晴天里一池清水，池底的硬币看起来变了形——光被水弯折了；远方星系的光被暗物质弯折，也是同一个道理。
+【Reels 角度】看不见的东西怎么证明它存在？一枚池底的硬币告诉你：光被弯折的地方，就有暗物质。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; full-episode music cues do not appear in this speech segment.
+【来源】https://www.nasa.gov/podcasts/curious-universe/roman-dark-side-encore/
+【采集日（北京时间）】2026-10-27
+【发布时间精度】exact_encore（Inherits parent original publish date (Megaphone RSS Tue, 22 Sep 2026 13:03:00 -0000; episode originally published 2023); clip itself was modelled 2026-10-27 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:roman-dark-side-encore
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/roman-dark-side-encore/
+【片段】原集 800.0-851.5 秒，51.5 秒，原声，未加 BGM，文件：clips/nasa-roman-dark-side-clip-penny.mp3]]></description>
+<content:encoded><![CDATA[And I can use an analogy here. Imagine you're standing on a very calm day in front of a very crystal clear pool, and you throw a penny to the bottom of the pool. Now, you can't really see the water because it's crystal clear, but you can see the penny at the bottom of the pool and anyone who's done this knows that you see a distorted view of that penny. It doesn't appear as it would just on the ground. And that's because the light from the penny is traveling through the water and the light is bent by the water. So in this analogy, that penny is like the distant galaxy and the water is like the dark matter. So we don't actually see the dark matter. You don't actually see the water, but you know it's there. You know the water is there because you see a distorted view of the penny. And we know the dark matter is there because we see a distorted image of these background galaxies.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>roman-dark-side-encore-clip-penny</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/roman-dark-side-encore/</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-10-27</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 51.500s / 1478597 bytes (ffmpeg cut from verified full MP3 in this run, 2026-10-27); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-roman-dark-side-clip-penny.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-roman-dark-side-clip-penny.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-roman-dark-side-clip-penny-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-roman-dark-side-clip-penny-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:roman-dark-side-encore</_parent_guid>
+<_parent_id>nasa-curious-roman-dark-side-encore</_parent_id>
+<_clip_start_s>800.0</_clip_start_s>
+<_clip_end_s>851.5</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
 </item>
 <item>
 <title>Ferdinand Hassler: the first superintendent of the Coast Survey — clip from Origins of NOAA's National Ocean Service (236.9-289.5s)</title>
@@ -866,6 +1042,190 @@ podcasts. Thanks for listening. Let’s keep making waves.]]></content:encoded>
 <_collected_at_beijing>2026-10-26</_collected_at_beijing>
 <_audio_verified>官方页音频地址 301 到 cdn.oceanservice.noaa.gov 永久地址；HEAD 得 audio/mpeg + 66535045 字节；整文件下载后 ffprobe 时长 2771.334 秒、字节数一致</_audio_verified>
 <_child_clip_guid>urn:podcast:oceanservice.noaa.gov:podcast:sep26:nop86-nos-origins:clip:hassler:236.9-289.5</_child_clip_guid>
+</item>
+<item>
+<title>We just witnessed the most unbelievable, picture-perfect launch — clip from Roman Series: Liftoff! (920.0-958.6s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/roman-launch-podcast/</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:roman-liftoff:clip:picture-perfect:920.0-958.6</guid>
+<pubDate>Sat, 05 Sep 2026 12:36:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-roman-liftoff-clip-picture-perfect.mp3" length="606849" type="audio/mpeg"/>
+<itunes:duration>39</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】等了二十多年，Roman 终于升空：科学家 Dominic 说，这次发射美得难以想象——曾经只存在于图纸上的机器，真的飞进了太空，现在它属于所有人。
+【Reels 角度】为一台望远镜等了二十多年，发射成功那一刻他只说了一句话：这简直不敢相信。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; full-episode music cues do not appear in this speech segment.
+【来源】https://www.nasa.gov/podcasts/curious-universe/roman-launch-podcast/
+【采集日（北京时间）】2026-10-27
+【发布时间精度】exact（Inherits parent original publish date (Megaphone RSS Sat, 05 Sep 2026 12:36:00 -0000); clip itself was modelled 2026-10-27 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:roman-liftoff
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/roman-launch-podcast/
+【片段】原集 920.0-958.6 秒，38.6 秒，原声，未加 BGM，文件：clips/nasa-roman-liftoff-clip-picture-perfect.mp3]]></description>
+<content:encoded><![CDATA[We just witnessed the most unbelievable, picture-perfect launch that I could ever imagine. And in a way, even though it's been so many years, I never quite wrapped my head around the idea that someday this would happen. And watching Roman ascend into the sky was unlike anything I could explain or describe. Because I could never convince myself that it was actually real. That we would manifest this amazing machine and get it into space. But we did. And now it's there for everybody.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>roman-liftoff-clip-picture-perfect</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/roman-launch-podcast/</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-10-27</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 38.600s / 606849 bytes (ffmpeg cut from verified full MP3 in this run, 2026-10-27); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-roman-liftoff-clip-picture-perfect.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-roman-liftoff-clip-picture-perfect.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-roman-liftoff-clip-picture-perfect-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-roman-liftoff-clip-picture-perfect-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:roman-liftoff</_parent_guid>
+<_parent_id>nasa-curious-roman-liftoff</_parent_id>
+<_clip_start_s>920.0</_clip_start_s>
+<_clip_end_s>958.6</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>Roman Series: Liftoff!</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/roman-launch-podcast/</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:roman-liftoff</guid>
+<pubDate>Sat, 05 Sep 2026 12:36:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:full-episode</category>
+<category>production:text-script</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8243891295.mp3" length="32585215" type="audio/mpeg"/>
+<itunes:duration>1346</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】full-episode, text-script
+【摘要】Roman 太空望远镜发射实录：2026 年 8 月 30 日 7:26（美东时间），Roman 搭乘 SpaceX 猎鹰重型火箭升空。跟随在肯尼迪航天中心蹲守的制片人，听为这台望远镜工作了二十多年的科学家讲发射前夜的紧张与升空时的眼泪，以及接下来三个月调试期与 2027 年初首批图像的期待。
+【Reels 角度】为一台望远镜工作二十年，发射那天是什么感觉：先给 30 秒发射窗口的紧张，再切 Dominic“养大 Roman 又送它上大学”的比喻，最后落到“它现在属于所有人”。
+【许可证】Public domain：美国联邦政府作品（NASA 官方播客），一般不受版权保护
+【权利说明】可剪辑/再分发，不得暗示 NASA 背书；本集文字稿中标有若干音乐 cue（如 Curiosity 主题曲、Oort Cloud 等），正式发布前需逐项再核片段内音乐；本批 ready-clip 已核为原声讲话段、未加 BGM。
+【来源】https://www.nasa.gov/podcasts/curious-universe/roman-launch-podcast/
+【采集日（北京时间）】2026-10-27
+【发布时间精度】exact（NASA Curious Universe Megaphone RSS: Sat, 05 Sep 2026 12:36:00 -0000）
+【子片段 GUID】urn:podcast:nasa.gov:curious-universe:roman-liftoff:clip:picture-perfect:920.0-958.6]]></description>
+<content:encoded><![CDATA[HOST JACOB PINTER: This is NASA’s Curious Universe. I’m Jacob Pinter. NASA’s Nancy Grace Roman Space Telescope is in space, taking its next steps to explore the cosmos.
+LAUNCH ANNOUNCER 1: Ignition. And liftoff! Go Falcon Heavy and go Roman Space Telescope!
+LAUNCH ANNOUNCER 2: And liftoff of NASA’s Roman Space Telescope on a mission to revolutionize our understanding of the universe.
+JACOB: On August 30, at exactly 7:26 a.m. Eastern Time, NASA’s newest flagship observatory rose into the sky on a SpaceX Falcon Heavy rocket.
+In its first hours in space, Roman ticked off a few to-dos, including deploying its solar arrays, its sun shield, and communications dish and phoning home to mission control.
+Now Roman is on its way to a point in space more than a million miles from Earth. In other episodes of this series, we have much more detail about everything that has happened up until now: the years of building and testing that led to this point; the science goals that Roman will now start to carry out. You can find those stories just before this one in the Curious Universe podcast feed.
+In this episode: behind the scenes of Roman’s launch and what comes next. Our producer, Christian Elliott, embedded with the team at NASA’s Kennedy Space Center in Florida to cover the launch. He has a behind-the-scenes look at the final preparations for launch and the big emotions from people who have poured years of their lives into this mission. Here’s Christian.
+[Sound of door opening, cicadas]
+[Music: Oort Cloud by Al Lethbridge]
+CHRISTIAN ELLIOTT: OK, we’ll minimize time out here.
+DOMINIC BENFORD: No, no, it’s just the humidity. My glasses are immediately fogged.
+CHRISTIAN: At the launch site, I met up with Dominic Benford, Roman’s program scientist. He’s a slight guy in a wool suit and elaborately tied tie and these bright blue glasses.
+DOMINIC: Why did I not bring my summer weight wool suit instead of a winter weight wool suit? Not like I didn’t know that it was summer.
+CHRISTIAN: I follow him outside on a muggy, buggy, and very windy morning in the Florida swamp. Across the water ahead of us, slightly distorted by the humid air, was what we were braving the heat to see: a gleaming white rocket.
+DOMINIC: I’ve certainly seen rockets standing there before. I’ve never seen one that had such a personal connection to me. I’ve been working in one form or another on this mission for over 20 years. It is something that I have dedicated most of my career to, and it’s taken a surprisingly short—but also a surprisingly long—time.
+CHRISTIAN: “Long” because it’s been a bit of a winding path. There were many iterations of mission concepts and prototypes, back when NASA scientists first imagined a future wide-field infrared survey telescope that could probe the mysteries of dark matter and discover exoplanets with technologies that didn’t yet exist.
+And “short” because Roman faced so many obstacles on its way to the launch pad, including a global pandemic, and was still completed on budget and nine months ahead of schedule. Now it was a matter of hours before the telescope would fly into space and begin its mission at last.
+When we last saw Roman in this series, it was at NASA’s Goddard Space Flight Center in Maryland, where engineers had spent the last three years assembling and testing it in a giant clean room. In June, Roman left the nest on a long journey from Maryland to Florida on NASA’s Pegasus barge under the careful eye of its crew. In this moment, Dominic, like a lot of the scientists who’d worked on Roman since the early concept days more than two decades ago, found himself looking back.
+[to Dominic] It’s definitely one of the colder rooms here
+DOMINIC: It’s nice.
+CHISTIAN: Back in the air conditioning of the sound booth, I asked him how he was feeling.
+DOMINIC: The path of getting Roman from those pencil and paper sketches and whiteboards to something real to this amazing machine that we’ve made—that sits behind me on the launch pad right now, made manifest in aluminum and glass and silicon—it’s a journey unlike anything I’ve ever had in my career or ever will have. And coincidentally, it’s also about the span of my career as a father. My twins were born around the time I began working on this.
+CHRISTIAN: Dominic’s twins are now 21. When we spoke, they’d just arrived in Florida to watch the telescope that their dad had spent his entire career on finally launch.
+DOMINIC: So just as I was raising them for decades, I feel like in a way I was raising Roman. And like many parents who around this time of year are sending their children off to college and letting them be independent adults for the first time, I feel a little like I’m doing that with Roman. It has been mine to shepherd through to this point for such a long time that shortly I will no longer have that joy and burden in my life. I think every parent here who has kids in college knows that bittersweet moment, because you want your kids to go off and be their own people, but you still feel sad that they’re doing it. But that was the goal all along.
+[Music: Gene Sequencing by Al Lethbridge]
+CHRISTIAN: As Dominic and the other scientists waved to Roman at the college dorm drop-off line, the RAs took over—in this case, the launch services program team. They see this all the time.
+STEPHEN WAY: We understand that this is your baby. I, being a father myself, understand it’s not easy to ask someone to watch my daughters when I’m away, so I take that into consideration.
+CHRISTIAN: That’s Stephen Way. He’s a mission integration engineer on the launch services program at Kennedy Space Center.  He monitored the telescope on its journey by air-conditioned truck from the barge to a building called the Payload Hazardous Servicing Facility.
+STEPHEN: Of course, with the awesome Florida summer heat, it is a challenge to ensure that we maintain the environments that we need to. That facility is a big clean room like the one at Goddard where Roman was built. In there, crews in white bunny suits set to work unboxing the telescope, making sure it hadn’t been damaged during its long journey, removing all those little red fabric “remove before flight” tags you see on airplanes.
+They loaded Roman with 1,000 kg of hypergolic fuel, equivalent to 290 gallons. The crew has to wear what look like spacesuits to fill Roman’s tanks. It’s dangerous stuff. That takes a week itself. Then, it was time to encapsulate Roman in the rocket’s payload fairing. Picture two halves of a plastic easter egg closing around the telescope, except way bigger and more high-tech.
+STEPHEN: It’s a pretty magnificent sight when it came together, and we were getting ready to encapsulate.
+CHRISTIAN: It was a tight fit. Roman is so big, it almost touched the acoustic blankets on the inside of the fairing. And then it was sealed. The people in this room were the last to ever set human eyes on this telescope.
+STEPHEN: I was privileged to be one of the few that was allowed to be in the room for the final closeouts as things were being buttoned up, and it was emotional, I will tell you that.
+CHRISTIAN: Finally, Roman in its shell was mated to the Falcon Heavy rocket for launch. Now, beyond the heat and humidity, there’s something else that happens in Florida in the summer.
+[Sound of thunder]
+[on location] I hope I closed the windows on the car.
+[narration] The days leading up to launch were full of storms. We had to barricade the doors of the press building against the wind. To get to Lagrange point 2—which is a million miles away from Earth or 1.5 million kilometers—there’s a very narrow window for launch; about 30 seconds. It began at 7:26 a.m. on August 30. That’s not a lot of leeway if a storm comes in. The weather briefings said the odds of a launch were 50-50. As the storms thundered outside, I caught up with the scientists we’d spoken with in our series and met some new ones. Everyone was down in Florida for launch, and they were feeling a mixture of things.
+[Music: The Core by Al Lethbridge]
+BERTRAND MENNESSON: We’ve always talked about, Roman will launch in 10 years, in five years, in three years. You know, it’s always been in years, and it became months, and then weeks, and finally it’s tomorrow.
+JOSH SCHLIEDER: … a thing you’ve sunk years of your life into and then someone else refers to as getting it off the planet, which you know, that’s a good thing for us. But you can you can imagine that it’s not something you hear very often. [Laughter]
+MARK MELTON: We are putting it on a big, big fireball. But yeah, there’s always a little bit of nerves there.
+AMI CHOI: I’ve been so busy that it’s been kind of hard to actually think about what I’m feeling, but I am very excited. That’s for sure. A little bit nervous,  but mostly excited.
+JASON RHODES: We brought all of our Roman gear here to Florida to make sure we had the right things to wear to each of these launch events.
+CHRISTIAN: But then, it was launch day. It was muggy and cloudy, but there were no storms as the big day dawned. Well, not really “dawned”.
+[to himself] All right. It’s 3 a.m. It’s 82 degrees, and it’s time to go launch a rocket.
+[narration] I drove to the launch site at Kennedy Space Center, where I joined a long parade of hundreds of cars in the dark on the NASA Causeway. It’s a little strip of land that serves as a launch viewing location for NASA families and friends. There were all these volunteers in reflective vests directing traffic, mostly NASA retirees.
+[to the traffic director] Is this typical traffic for a launch out here?
+TRAFFIC DIRECTOR: No, this is very untypical. Very untypical. It’s crazy. I’ve never seen anything like it.
+CHRISTIAN: We could see the rocket lit up by floodlights across the water. The vibe was like tailgating a sports game or maybe setting up to watch fireworks. People had lawn chairs, blankets and coolers. They were sitting on the roofs of their cars. There was even a merch trailer selling t-shirts and plushies of Rise, the famous Moon mascot from Artemis II.
+[to a spectator] I see you’ve got a Rise.
+SPECTATOR 1: Yes of course, the baby.
+CHRISTIAN: You’ve got to get one of those.
+[narration] In line and everywhere I went, I found people who were pumped for this launch and this space telescope. People who’d seen quite a few rocket launches …
+[to the traffic director] Are you looking forward to this launch?
+TRAFFIC DIRECTOR: Always. Every launch. I’ve seen hundreds, but—
+CHRISTIAN: This should be a good one
+TRAFFIC DIRECTOR: They’re all different.
+CHRISTIAN: … And people who certainly had not.
+[to a spectator] Is this baby’s first rocket launch?
+SPECTATOR 2: Yes it is, definitely. She woke up early for it.
+[Music: Ancient Starlight by Al Lethbridge]
+CHRISTIAN: As we got closer, the live broadcast started. You could see Dominic Benford, the Roman program scientist, on stage as one of the commentators.
+[to himself, with launch broadcast in the background] After a lot of concern about the weather this morning in recent days, we just heard that we are 70 percent go. And SpaceX just said we were go for propellant load, which means the SpaceX Falcon Heavy rocket is about to be filled with fuel, and we’re getting closer to launch. We’re at T-1 hour or so.
+[narration] Then, the final countdown began. The Sun was just rising over the horizon. At the Causeway, thousands of people were looking out over the water, shielding their eyes with their hands. A few miles away, Dominic tore off his lapel microphone and ran out of the broadcast set, to catch the moment of liftoff.
+CROWD: 10, nine, eight, seven, six, five, four, three, two, one …
+MEGAN CRUZ: And liftoff!
+DOMINIC: There’s the deluge.
+SPECTATOR 3: You can’t even hear it.
+DOMINIC: You will in a few seconds.
+SPECTATOR 3: Oh there we go.
+CHRISTIAN: There’s a cell phone video of Dominic in that moment. And in it, you can see him looking up at the blue sky and the rocket lit up as bright as the Sun with tears running down his face.
+DOMINIC: I never actually thought about what this was going to be like.
+DAVE SIRAK: Congratulations.
+DOMINIC: Congratulations to the thousands of people who made this happen. This is our moment.
+CHRISTIAN: I headed back to the press building, where there were cheers when Dominic came back in the door. When the celebrations had died down a bit, I found Dominic.
+[to Dominic] So I’ve got you here with your glass of champagne.
+DOMINIC: It may look like a glass of champagne, but it’s actually sparkling water. This is what somebody found in the fridge.
+CHRISTIAN: And I asked him how he was feeling.
+DOMINIC: We just witnessed the most unbelievable, picture-perfect launch that I could ever imagine, and in a way—even though it’s been so many years—I never quite wrapped my head around the idea that someday this would happen. And watching Roman ascend into the sky was unlike anything I could explain or describe, because I could never convince myself that it was actually real, that we would manifest this amazing machine and get it into space. But we did. And now it’s there for everybody.
+CHRISTIAN: Dominic explained we’re now in the three-month period called commissioning, where scientists and engineers in the mission operations room power on and check out all its systems to make sure the telescope is in focus.
+DOMINIC: Roman had acquisition of signal as expected a few minutes after launch, and then there was separation, and we have been getting telemetry back from the observatory, so it’s on. It’s working. And we’ll begin the process of turning everything on, getting it all aligned and working and as spectacular as we intended it to be.
+CHRISTIAN: During that period, Roman will make its way to Lagrange Point 2, where it will join the James Webb Space Telescope in orbit. After that, the job of the engineers will be over, and it’ll be the moment the scientists have been waiting decades for: first light, images and data from Roman.
+There’d been a big meeting for the Roman science team at a hotel in Cocoa Beach a few days before launch. Hundreds of scientists from all over the world who study exoplanets and supernovae and dark matter and just about anything else cosmic you could think of, they were all crowded into this big conference room. And I was in the back, pressed up against a wall.
+[Music: Psyche Landings by Al Lethbridge]
+JULIE MCENERY: How I’m feeling is probably the same as everybody else is feeling, slightly astonished that we’ve arrived at this moment.
+[Applause]
+DOMINIC: And when I entered the room, I was struck and pleased in two ways. First, because there were a number of people there, some of whom I had not seen in many years but who had begun this journey with me similarly decades ago. And we’re all much older and grayer now, but we’re still here, seeing this through.
+CHRISTIAN: They stood out, hunched over a little, thick glasses, some playing with their grandchildren.
+DOMINIC: But not only them; there were so many young people in that room that I hadn’t even met before, and who are so excited about the prospect of this mission.
+CHRISTIAN: At the reception, I also met many of them. They were from Japan and  India and Italy and Serbia and Brazil, here for PhDs and postdoctoral fellowships, drawn in by Roman’s gravity. They talked to me in much more detail than I understood about dark energy and star formation and supernovae and dwarf galaxies and gravitational lensing. Roman promises to revolutionize all of their fields of science.
+DOMINIC: We were doing this for them, and I am happy to be able to hand the mantle off to them and let them make this observatory as spectacular as we designed it to be.
+CHRISTIAN: All these scientists, young and old, are waiting with bated breath for the moment when Roman opens its eyes and an ocean of unprecedented data pours down from the sky through its antenna. Roman’s data will be freely accessible for everyone immediately. That’s something Dominic fought hard for in the early planning days. There will be no proprietary periods when only some astronomers have access. Roman is for all of us—for you, for me. All the data it collects, in these huge volumes—in it, there will be exactly what many scientists have been waiting for years for, to answer their specific questions, big and small, about the universe.
+One of the people in this very room, maybe 10 or 20 years from now, bent over a computer, could discover something about our universe in that data that wins a Nobel Prize.
+JACOB: Christian Elliott is a producer for Curious Universe.
+So what happens next for Roman? The telescope has a three-month journey to its permanent home in space. Along the way, Roman goes through that commissioning process. Scientists and engineers turn on the systems inside Roman. They calibrate and adjust what they need to and make sure everything is ready for science observations to begin.
+The best way to find news and updates about Roman is by going to nasa.gov/roman. There is a page there with more details about commissioning and some helpful graphics that explain what happens, and when. There is also an interactive tool where you can explore Roman’s place in the solar system. Honestly it’s just a lot of fun to play around with. Again, that’s nasa.gov/roman.
+You’ll have to wait just a little longer to see Roman’s first images. Those are expected by early 2027.
+This is NASA’s Curious Universe, an official NASA podcast.
+This episode was written and produced by Christian Elliott. Our executive producer is Katie Konans. Wes Buchanan and Krystofer Kim designed the show art for this series. Our theme song is by SYSTEM Sounds.
+Special thanks to Claire Andreoli and Alise Fisher, as well as Leejay Lockhart, Dave Sirak, Leah Martin, Stephen Way, Josh Schlieder, Joe Leblanc, Ami Choi, Lucas Paganini, Mark Melton, Alina Kiessling, Jason Rhodes, Dominic Benford, Shawn Domagal-Goldman, and Bertrand Mennesson.
+You can find transcripts for every episode of Curious Universe and explore NASA’s other podcasts at nasa.gov/podcasts.
+If you enjoyed this episode of NASA’s Curious Universe, let us know! Leave us a review wherever you’re listening right now. Why not send a link to one of your friends. And you can follow NASA’s Curious Universe in your favorite podcast app to get a notification each time we post a new episode.
+NICKY FOX: You don’t have to raise a glass, but I would like, on three, an enormously loud “Go Roman.” Three, two, one.
+CROWD: Go Roman!]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>roman-liftoff</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/roman-launch-podcast/</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-10-27</_collected_at_beijing>
+<_audio_verified>HEAD 跟随重定向得 audio/mpeg + 32585215 字节；整文件下载后 ffprobe 时长 1345.828 秒、字节数一致，ffmpeg 全量解码零报错</_audio_verified>
+<_child_clip_guid>urn:podcast:nasa.gov:curious-universe:roman-liftoff:clip:picture-perfect:920.0-958.6</_child_clip_guid>
 </item>
 <item>
 <title>Monitor as a testbed: new 3D imaging can spread to other wrecks — clip from USS Monitor 3D Mapping (559.7-604.5s)</title>
