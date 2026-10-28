@@ -1,0 +1,1054 @@
+[
+ {
+  "start": 0.0,
+  "end": 1.22,
+  "text": "So I'm keeping an open mind.",
+  "words": [
+   {
+    "word": " So",
+    "start": 0.0,
+    "end": 0.16,
+    "probability": 0.530410885810852
+   },
+   {
+    "word": " I'm",
+    "start": 0.16,
+    "end": 0.42,
+    "probability": 0.9015034437179565
+   },
+   {
+    "word": " keeping",
+    "start": 0.42,
+    "end": 0.58,
+    "probability": 0.9922206997871399
+   },
+   {
+    "word": " an",
+    "start": 0.58,
+    "end": 0.72,
+    "probability": 0.9940330386161804
+   },
+   {
+    "word": " open",
+    "start": 0.72,
+    "end": 0.9,
+    "probability": 0.9980884194374084
+   },
+   {
+    "word": " mind.",
+    "start": 0.9,
+    "end": 1.22,
+    "probability": 0.9978883862495422
+   }
+  ]
+ },
+ {
+  "start": 1.74,
+  "end": 4.88,
+  "text": "I think when you build an observatory",
+  "words": [
+   {
+    "word": " I",
+    "start": 1.74,
+    "end": 1.74,
+    "probability": 0.9970988035202026
+   },
+   {
+    "word": " think",
+    "start": 1.74,
+    "end": 1.98,
+    "probability": 0.9994868040084839
+   },
+   {
+    "word": " when",
+    "start": 1.98,
+    "end": 2.24,
+    "probability": 0.9872831106185913
+   },
+   {
+    "word": " you",
+    "start": 2.24,
+    "end": 2.68,
+    "probability": 0.9995965361595154
+   },
+   {
+    "word": " build",
+    "start": 2.68,
+    "end": 3.4,
+    "probability": 0.9971482157707214
+   },
+   {
+    "word": " an",
+    "start": 3.4,
+    "end": 4.3,
+    "probability": 0.9949741363525391
+   },
+   {
+    "word": " observatory",
+    "start": 4.3,
+    "end": 4.88,
+    "probability": 0.9873248338699341
+   }
+  ]
+ },
+ {
+  "start": 4.88,
+  "end": 7.92,
+  "text": "that has profoundly new capabilities,",
+  "words": [
+   {
+    "word": " that",
+    "start": 4.88,
+    "end": 5.04,
+    "probability": 0.9923040270805359
+   },
+   {
+    "word": " has",
+    "start": 5.04,
+    "end": 5.5,
+    "probability": 0.9991311430931091
+   },
+   {
+    "word": " profoundly",
+    "start": 5.5,
+    "end": 6.52,
+    "probability": 0.9953508377075195
+   },
+   {
+    "word": " new",
+    "start": 6.52,
+    "end": 7.22,
+    "probability": 0.9979973435401917
+   },
+   {
+    "word": " capabilities,",
+    "start": 7.22,
+    "end": 7.92,
+    "probability": 0.9983489513397217
+   }
+  ]
+ },
+ {
+  "start": 9.18,
+  "end": 11.42,
+  "text": "the most exciting science is gonna be the thing",
+  "words": [
+   {
+    "word": " the",
+    "start": 9.18,
+    "end": 9.42,
+    "probability": 0.9507133960723877
+   },
+   {
+    "word": " most",
+    "start": 9.42,
+    "end": 9.66,
+    "probability": 0.9995409250259399
+   },
+   {
+    "word": " exciting",
+    "start": 9.66,
+    "end": 10.18,
+    "probability": 0.9992733597755432
+   },
+   {
+    "word": " science",
+    "start": 10.18,
+    "end": 10.6,
+    "probability": 0.9980820417404175
+   },
+   {
+    "word": " is",
+    "start": 10.6,
+    "end": 10.88,
+    "probability": 0.9982509016990662
+   },
+   {
+    "word": " gonna",
+    "start": 10.88,
+    "end": 11.0,
+    "probability": 0.09578962624073029
+   },
+   {
+    "word": " be",
+    "start": 11.0,
+    "end": 11.16,
+    "probability": 0.9984544515609741
+   },
+   {
+    "word": " the",
+    "start": 11.16,
+    "end": 11.26,
+    "probability": 0.998276948928833
+   },
+   {
+    "word": " thing",
+    "start": 11.26,
+    "end": 11.42,
+    "probability": 0.9968864321708679
+   }
+  ]
+ },
+ {
+  "start": 11.42,
+  "end": 12.22,
+  "text": "that you didn't expect.",
+  "words": [
+   {
+    "word": " that",
+    "start": 11.42,
+    "end": 11.58,
+    "probability": 0.9874743223190308
+   },
+   {
+    "word": " you",
+    "start": 11.58,
+    "end": 11.68,
+    "probability": 0.999467670917511
+   },
+   {
+    "word": " didn't",
+    "start": 11.68,
+    "end": 11.86,
+    "probability": 0.9995730519294739
+   },
+   {
+    "word": " expect.",
+    "start": 11.86,
+    "end": 12.22,
+    "probability": 0.9994644522666931
+   }
+  ]
+ },
+ {
+  "start": 12.42,
+  "end": 15.8,
+  "text": "So you want to approach what you're going to do",
+  "words": [
+   {
+    "word": " So",
+    "start": 12.42,
+    "end": 12.5,
+    "probability": 0.9919376969337463
+   },
+   {
+    "word": " you",
+    "start": 12.5,
+    "end": 12.6,
+    "probability": 0.9881494045257568
+   },
+   {
+    "word": " want",
+    "start": 12.6,
+    "end": 12.8,
+    "probability": 0.998779833316803
+   },
+   {
+    "word": " to",
+    "start": 12.8,
+    "end": 13.02,
+    "probability": 0.9994716048240662
+   },
+   {
+    "word": " approach",
+    "start": 13.02,
+    "end": 13.56,
+    "probability": 0.999584972858429
+   },
+   {
+    "word": " what",
+    "start": 13.56,
+    "end": 15.2,
+    "probability": 0.9876816272735596
+   },
+   {
+    "word": " you're",
+    "start": 15.2,
+    "end": 15.36,
+    "probability": 0.9989704191684723
+   },
+   {
+    "word": " going",
+    "start": 15.36,
+    "end": 15.46,
+    "probability": 0.9430652856826782
+   },
+   {
+    "word": " to",
+    "start": 15.46,
+    "end": 15.62,
+    "probability": 0.9982055425643921
+   },
+   {
+    "word": " do",
+    "start": 15.62,
+    "end": 15.8,
+    "probability": 0.9993786811828613
+   }
+  ]
+ },
+ {
+  "start": 15.8,
+  "end": 17.96,
+  "text": "with the observatory and how you're going to use it",
+  "words": [
+   {
+    "word": " with",
+    "start": 15.8,
+    "end": 16.06,
+    "probability": 0.9993951320648193
+   },
+   {
+    "word": " the",
+    "start": 16.06,
+    "end": 16.34,
+    "probability": 0.9996634721755981
+   },
+   {
+    "word": " observatory",
+    "start": 16.34,
+    "end": 16.96,
+    "probability": 0.9983497262001038
+   },
+   {
+    "word": " and",
+    "start": 16.96,
+    "end": 17.06,
+    "probability": 0.9415280222892761
+   },
+   {
+    "word": " how",
+    "start": 17.06,
+    "end": 17.22,
+    "probability": 0.9994702935218811
+   },
+   {
+    "word": " you're",
+    "start": 17.22,
+    "end": 17.38,
+    "probability": 0.9991955757141113
+   },
+   {
+    "word": " going",
+    "start": 17.38,
+    "end": 17.48,
+    "probability": 0.9858843684196472
+   },
+   {
+    "word": " to",
+    "start": 17.48,
+    "end": 17.62,
+    "probability": 0.998499870300293
+   },
+   {
+    "word": " use",
+    "start": 17.62,
+    "end": 17.84,
+    "probability": 0.999384880065918
+   },
+   {
+    "word": " it",
+    "start": 17.84,
+    "end": 17.96,
+    "probability": 0.9993164539337158
+   }
+  ]
+ },
+ {
+  "start": 17.96,
+  "end": 19.06,
+  "text": "with something of an open mind",
+  "words": [
+   {
+    "word": " with",
+    "start": 17.96,
+    "end": 18.08,
+    "probability": 0.7830069065093994
+   },
+   {
+    "word": " something",
+    "start": 18.08,
+    "end": 18.3,
+    "probability": 0.9982953667640686
+   },
+   {
+    "word": " of",
+    "start": 18.3,
+    "end": 18.48,
+    "probability": 0.997191846370697
+   },
+   {
+    "word": " an",
+    "start": 18.48,
+    "end": 18.56,
+    "probability": 0.9990443587303162
+   },
+   {
+    "word": " open",
+    "start": 18.56,
+    "end": 18.8,
+    "probability": 0.995940089225769
+   },
+   {
+    "word": " mind",
+    "start": 18.8,
+    "end": 19.06,
+    "probability": 0.9986892342567444
+   }
+  ]
+ },
+ {
+  "start": 19.06,
+  "end": 24.0,
+  "text": "so that we can pivot to following the surprises,",
+  "words": [
+   {
+    "word": " so",
+    "start": 19.06,
+    "end": 19.22,
+    "probability": 0.7861207723617554
+   },
+   {
+    "word": " that",
+    "start": 19.22,
+    "end": 19.32,
+    "probability": 0.9970025420188904
+   },
+   {
+    "word": " we",
+    "start": 19.32,
+    "end": 19.42,
+    "probability": 0.99944669008255
+   },
+   {
+    "word": " can",
+    "start": 19.42,
+    "end": 19.56,
+    "probability": 0.999247670173645
+   },
+   {
+    "word": " pivot",
+    "start": 19.56,
+    "end": 19.88,
+    "probability": 0.9969147443771362
+   },
+   {
+    "word": " to",
+    "start": 19.88,
+    "end": 20.72,
+    "probability": 0.9903953671455383
+   },
+   {
+    "word": " following",
+    "start": 20.72,
+    "end": 23.16,
+    "probability": 0.9591372013092041
+   },
+   {
+    "word": " the",
+    "start": 23.16,
+    "end": 23.5,
+    "probability": 0.9968084692955017
+   },
+   {
+    "word": " surprises,",
+    "start": 23.5,
+    "end": 24.0,
+    "probability": 0.9956641793251038
+   }
+  ]
+ },
+ {
+  "start": 24.26,
+  "end": 27.58,
+  "text": "following the things that are most impactful.",
+  "words": [
+   {
+    "word": " following",
+    "start": 24.26,
+    "end": 24.58,
+    "probability": 0.9989818930625916
+   },
+   {
+    "word": " the",
+    "start": 24.58,
+    "end": 24.84,
+    "probability": 0.998565137386322
+   },
+   {
+    "word": " things",
+    "start": 24.84,
+    "end": 25.08,
+    "probability": 0.999061644077301
+   },
+   {
+    "word": " that",
+    "start": 25.08,
+    "end": 25.3,
+    "probability": 0.9994351267814636
+   },
+   {
+    "word": " are",
+    "start": 25.3,
+    "end": 25.4,
+    "probability": 0.9958345890045166
+   },
+   {
+    "word": " most",
+    "start": 25.4,
+    "end": 25.84,
+    "probability": 0.9940329194068909
+   },
+   {
+    "word": " impactful.",
+    "start": 25.84,
+    "end": 27.58,
+    "probability": 0.8896616995334625
+   }
+  ]
+ },
+ {
+  "start": 28.18,
+  "end": 30.92,
+  "text": "With Roman, we're discovery space on steroids.",
+  "words": [
+   {
+    "word": " With",
+    "start": 28.18,
+    "end": 28.62,
+    "probability": 0.6133031249046326
+   },
+   {
+    "word": " Roman,",
+    "start": 28.62,
+    "end": 29.0,
+    "probability": 0.8559195399284363
+   },
+   {
+    "word": " we're",
+    "start": 29.32,
+    "end": 29.66,
+    "probability": 0.9517547190189362
+   },
+   {
+    "word": " discovery",
+    "start": 29.66,
+    "end": 29.98,
+    "probability": 0.5733802318572998
+   },
+   {
+    "word": " space",
+    "start": 29.98,
+    "end": 30.32,
+    "probability": 0.9802358150482178
+   },
+   {
+    "word": " on",
+    "start": 30.32,
+    "end": 30.54,
+    "probability": 0.9947459697723389
+   },
+   {
+    "word": " steroids.",
+    "start": 30.54,
+    "end": 30.92,
+    "probability": 0.9987230896949768
+   }
+  ]
+ },
+ {
+  "start": 31.72,
+  "end": 33.06,
+  "text": "Because we do large surveys,",
+  "words": [
+   {
+    "word": " Because",
+    "start": 31.72,
+    "end": 32.02,
+    "probability": 0.9897597432136536
+   },
+   {
+    "word": " we",
+    "start": 32.02,
+    "end": 32.24,
+    "probability": 0.998917818069458
+   },
+   {
+    "word": " do",
+    "start": 32.24,
+    "end": 32.38,
+    "probability": 0.9987478256225586
+   },
+   {
+    "word": " large",
+    "start": 32.38,
+    "end": 32.64,
+    "probability": 0.9927369356155396
+   },
+   {
+    "word": " surveys,",
+    "start": 32.64,
+    "end": 33.06,
+    "probability": 0.9987767338752747
+   }
+  ]
+ },
+ {
+  "start": 33.7,
+  "end": 36.58,
+  "text": "we're not picking a galaxy and going to study that galaxy.",
+  "words": [
+   {
+    "word": " we're",
+    "start": 33.7,
+    "end": 33.74,
+    "probability": 0.9951058030128479
+   },
+   {
+    "word": " not",
+    "start": 33.74,
+    "end": 33.94,
+    "probability": 0.9996459484100342
+   },
+   {
+    "word": " picking",
+    "start": 33.94,
+    "end": 34.48,
+    "probability": 0.9946377873420715
+   },
+   {
+    "word": " a",
+    "start": 34.48,
+    "end": 34.86,
+    "probability": 0.9973430037498474
+   },
+   {
+    "word": " galaxy",
+    "start": 34.86,
+    "end": 35.18,
+    "probability": 0.9895791411399841
+   },
+   {
+    "word": " and",
+    "start": 35.18,
+    "end": 35.52,
+    "probability": 0.9341531991958618
+   },
+   {
+    "word": " going",
+    "start": 35.52,
+    "end": 35.66,
+    "probability": 0.9976745247840881
+   },
+   {
+    "word": " to",
+    "start": 35.66,
+    "end": 35.82,
+    "probability": 0.9992519021034241
+   },
+   {
+    "word": " study",
+    "start": 35.82,
+    "end": 36.02,
+    "probability": 0.9988241791725159
+   },
+   {
+    "word": " that",
+    "start": 36.02,
+    "end": 36.2,
+    "probability": 0.9967986345291138
+   },
+   {
+    "word": " galaxy.",
+    "start": 36.2,
+    "end": 36.58,
+    "probability": 0.9958969354629517
+   }
+  ]
+ },
+ {
+  "start": 36.68,
+  "end": 38.54,
+  "text": "We're not picking a star to go and look at that star.",
+  "words": [
+   {
+    "word": " We're",
+    "start": 36.68,
+    "end": 36.76,
+    "probability": 0.996851772069931
+   },
+   {
+    "word": " not",
+    "start": 36.76,
+    "end": 36.84,
+    "probability": 0.9994899034500122
+   },
+   {
+    "word": " picking",
+    "start": 36.84,
+    "end": 37.06,
+    "probability": 0.9977949857711792
+   },
+   {
+    "word": " a",
+    "start": 37.06,
+    "end": 37.26,
+    "probability": 0.9987686276435852
+   },
+   {
+    "word": " star",
+    "start": 37.26,
+    "end": 37.5,
+    "probability": 0.9969176054000854
+   },
+   {
+    "word": " to",
+    "start": 37.5,
+    "end": 37.74,
+    "probability": 0.9864798188209534
+   },
+   {
+    "word": " go",
+    "start": 37.74,
+    "end": 37.84,
+    "probability": 0.9966854453086853
+   },
+   {
+    "word": " and",
+    "start": 37.84,
+    "end": 37.94,
+    "probability": 0.9560391902923584
+   },
+   {
+    "word": " look",
+    "start": 37.94,
+    "end": 38.04,
+    "probability": 0.9994230270385742
+   },
+   {
+    "word": " at",
+    "start": 38.04,
+    "end": 38.16,
+    "probability": 0.9992511868476868
+   },
+   {
+    "word": " that",
+    "start": 38.16,
+    "end": 38.28,
+    "probability": 0.9955728054046631
+   },
+   {
+    "word": " star.",
+    "start": 38.28,
+    "end": 38.54,
+    "probability": 0.9964578747749329
+   }
+  ]
+ },
+ {
+  "start": 38.68,
+  "end": 41.06,
+  "text": "We're mapping out large regions of the sky",
+  "words": [
+   {
+    "word": " We're",
+    "start": 38.68,
+    "end": 38.76,
+    "probability": 0.9964045584201813
+   },
+   {
+    "word": " mapping",
+    "start": 38.76,
+    "end": 39.04,
+    "probability": 0.998868465423584
+   },
+   {
+    "word": " out",
+    "start": 39.04,
+    "end": 39.34,
+    "probability": 0.9988227486610413
+   },
+   {
+    "word": " large",
+    "start": 39.34,
+    "end": 40.1,
+    "probability": 0.9942917823791504
+   },
+   {
+    "word": " regions",
+    "start": 40.1,
+    "end": 40.46,
+    "probability": 0.998999297618866
+   },
+   {
+    "word": " of",
+    "start": 40.46,
+    "end": 40.68,
+    "probability": 0.9993964433670044
+   },
+   {
+    "word": " the",
+    "start": 40.68,
+    "end": 40.84,
+    "probability": 0.9983986020088196
+   },
+   {
+    "word": " sky",
+    "start": 40.84,
+    "end": 41.06,
+    "probability": 0.998264491558075
+   }
+  ]
+ },
+ {
+  "start": 41.06,
+  "end": 42.96,
+  "text": "with extraordinary sensitivity.",
+  "words": [
+   {
+    "word": " with",
+    "start": 41.06,
+    "end": 41.38,
+    "probability": 0.9866222739219666
+   },
+   {
+    "word": " extraordinary",
+    "start": 41.38,
+    "end": 42.32,
+    "probability": 0.9981215596199036
+   },
+   {
+    "word": " sensitivity.",
+    "start": 42.32,
+    "end": 42.96,
+    "probability": 0.9985315799713135
+   }
+  ]
+ },
+ {
+  "start": 43.48,
+  "end": 45.18,
+  "text": "And we're gonna find all the things that are there.",
+  "words": [
+   {
+    "word": " And",
+    "start": 43.48,
+    "end": 43.56,
+    "probability": 0.7522733807563782
+   },
+   {
+    "word": " we're",
+    "start": 43.56,
+    "end": 43.68,
+    "probability": 0.9939829707145691
+   },
+   {
+    "word": " gonna",
+    "start": 43.68,
+    "end": 43.72,
+    "probability": 0.2759381830692291
+   },
+   {
+    "word": " find",
+    "start": 43.72,
+    "end": 43.94,
+    "probability": 0.9918057918548584
+   },
+   {
+    "word": " all",
+    "start": 43.94,
+    "end": 44.42,
+    "probability": 0.9977023005485535
+   },
+   {
+    "word": " the",
+    "start": 44.42,
+    "end": 44.56,
+    "probability": 0.9968896508216858
+   },
+   {
+    "word": " things",
+    "start": 44.56,
+    "end": 44.76,
+    "probability": 0.9996486902236938
+   },
+   {
+    "word": " that",
+    "start": 44.76,
+    "end": 44.9,
+    "probability": 0.9985585808753967
+   },
+   {
+    "word": " are",
+    "start": 44.9,
+    "end": 45.0,
+    "probability": 0.9986141920089722
+   },
+   {
+    "word": " there.",
+    "start": 45.0,
+    "end": 45.18,
+    "probability": 0.9990443587303162
+   }
+  ]
+ },
+ {
+  "start": 45.38,
+  "end": 46.86,
+  "text": "So we're gonna study the things that we know about",
+  "words": [
+   {
+    "word": " So",
+    "start": 45.38,
+    "end": 45.44,
+    "probability": 0.9891854524612427
+   },
+   {
+    "word": " we're",
+    "start": 45.44,
+    "end": 45.62,
+    "probability": 0.9459905922412872
+   },
+   {
+    "word": " gonna",
+    "start": 45.62,
+    "end": 45.62,
+    "probability": 0.7973909974098206
+   },
+   {
+    "word": " study",
+    "start": 45.62,
+    "end": 45.92,
+    "probability": 0.9976523518562317
+   },
+   {
+    "word": " the",
+    "start": 45.92,
+    "end": 46.1,
+    "probability": 0.9763878583908081
+   },
+   {
+    "word": " things",
+    "start": 46.1,
+    "end": 46.28,
+    "probability": 0.9991437196731567
+   },
+   {
+    "word": " that",
+    "start": 46.28,
+    "end": 46.42,
+    "probability": 0.9911638498306274
+   },
+   {
+    "word": " we",
+    "start": 46.42,
+    "end": 46.52,
+    "probability": 0.9993886947631836
+   },
+   {
+    "word": " know",
+    "start": 46.52,
+    "end": 46.64,
+    "probability": 0.9987517595291138
+   },
+   {
+    "word": " about",
+    "start": 46.64,
+    "end": 46.86,
+    "probability": 0.9836408495903015
+   }
+  ]
+ },
+ {
+  "start": 46.86,
+  "end": 48.04,
+  "text": "and we're gonna find the things",
+  "words": [
+   {
+    "word": " and",
+    "start": 46.86,
+    "end": 47.14,
+    "probability": 0.3831768035888672
+   },
+   {
+    "word": " we're",
+    "start": 47.14,
+    "end": 47.24,
+    "probability": 0.9962447881698608
+   },
+   {
+    "word": " gonna",
+    "start": 47.24,
+    "end": 47.34,
+    "probability": 0.8988553285598755
+   },
+   {
+    "word": " find",
+    "start": 47.34,
+    "end": 47.64,
+    "probability": 0.9983148574829102
+   },
+   {
+    "word": " the",
+    "start": 47.64,
+    "end": 47.8,
+    "probability": 0.9950921535491943
+   },
+   {
+    "word": " things",
+    "start": 47.8,
+    "end": 48.04,
+    "probability": 0.9992824196815491
+   }
+  ]
+ },
+ {
+  "start": 48.04,
+  "end": 49.98,
+  "text": "we didn't even know to look for.",
+  "words": [
+   {
+    "word": " we",
+    "start": 48.04,
+    "end": 48.2,
+    "probability": 0.9827051758766174
+   },
+   {
+    "word": " didn't",
+    "start": 48.2,
+    "end": 48.56,
+    "probability": 0.9988757371902466
+   },
+   {
+    "word": " even",
+    "start": 48.56,
+    "end": 48.86,
+    "probability": 0.9991113543510437
+   },
+   {
+    "word": " know",
+    "start": 48.86,
+    "end": 49.2,
+    "probability": 0.9970832467079163
+   },
+   {
+    "word": " to",
+    "start": 49.2,
+    "end": 49.42,
+    "probability": 0.9984644651412964
+   },
+   {
+    "word": " look",
+    "start": 49.42,
+    "end": 49.6,
+    "probability": 0.9996844530105591
+   },
+   {
+    "word": " for.",
+    "start": 49.6,
+    "end": 49.98,
+    "probability": 0.9976623058319092
+   }
+  ]
+ }
+]

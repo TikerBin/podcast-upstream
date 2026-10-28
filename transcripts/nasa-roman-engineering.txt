@@ -1,0 +1,253 @@
+[Music: Curiosity by SYSTEM Sounds]
+
+HOST JACOB PINTER: You’re listening to NASA’s Curious Universe. I’m Jacob Pinter. NASA is launching a new space telescope that will change the way we see the universe. It’s called the Nancy Grace Roman Space Telescope. Roman will study some of the biggest mysteries out there, answering questions about how the universe has changed over time, what’s driving its expansion, and the worlds that exist beyond our solar system.
+
+Roman has a unique ability to survey vast areas of space with incredible speed and detail. It will collect huge amounts of data, including more than a billion galaxies, and help discover thousands of planets orbiting distant stars. Roman will join other space telescopes, including Hubble and Webb. It builds on NASA’s technology and know-how that have shaped our view of the cosmos for decades.
+
+[Music: Innovative Design by Thomas Gallicani]
+
+In this episode: the technology inside Roman and how NASA prepares a telescope to go to space. We’ll visit a special test facility where NASA creates the cold vacuum of space right here on Earth, and we’ll get up close with Roman with a few of the engineers who make it possible.
+
+We’re going to start this story in summer 2025. Roman at this point is already years in the making. It’s almost fully assembled. For now, it’s in two pieces for the final stage of testing, and then those will be joined together. I typically only get to see Roman from afar, through a window, but I am allowed to get super close this time because I’m with an engineer named Ashley Wilhelm.
+
+ASHLEY WILHELM: I guess you’re probably recording me right now.
+
+JACOB: I am.
+
+ASHLEY: We can talk about … (fades out)
+
+JACOB: Ashley points out something most of us might take for granted: Roman is big.
+
+ASHLEY: Almost everything we have to do now is a big operation where we need scaffolding to work on the structure because it’s so big. I can’t just go up there and touch it—not because I can’t, but because I’m not tall enough.
+
+JACOB: Ashley is a mechanical engineer who helped design, build, and test parts of Roman. In its final form, Roman is about as long as a semi-truck trailer. It’s 42 feet long and 14 feet wide. Fully fueled, it weighs more than 20,000 pounds, at least until it becomes weightless in space.
+
+The part we’re looking at is sort of like Roman’s exoskeleton. Across the room, the other part has the telescope optics, science instruments, and other sensitive equipment. Mounted on this exoskeleton is an array of orange and black solar panels. On this day they’re arranged in a way that reminds me of a crown, framing the outside of Roman.
+
+This section of the telescope is on a work platform maybe 15 feet off the ground, so the whole thing looms over us.
+
+ASHLEY: Having to move something that weighs so much and is that large and that—I mean, we do several tests. I don’t want to say fragile—but like that important, people have put so much work into it, is definitely very interesting, and something I don’t know if I’ll ever be able to like experience again.
+
+JACOB: Ashley actually started working on Roman remotely. She was an intern during the summer of 2020, but even then, she was working on tests for individual components of Roman. She’s seen the telescope get bigger and bigger.
+
+ASHLEY: We can also walk around the whole thing, and I can like …
+
+JACOB: Yeah, can we?
+
+ASHLEY: Yeah.
+
+JACOB: I don’t want to go anywhere I’m not supposed to go.
+
+SOPHIA ROBERTS: Just don’t touch anything.
+
+JACOB: Oh, I’m not touching anything.
+
+ASHLEY: Yeah, OK. So this is the front … (fades out)
+
+[Music: Steady Pulse by Mathild Empereur]
+
+JACOB: Here is a very quick rundown of what’s going on inside Roman. Roman studies the universe by collecting light. Its primary mirror is exactly 7.9 feet across or 2.4 meters—the same size as Hubble’s mirror. Roman has two science instruments, and in other episodes of this series, we go into more detail about the science questions it is designed to answer. In addition to being a telescope, Roman is a spacecraft. It has a propulsion system and fuel tanks, as well as miles of cables for electricity and communication.
+
+Of course, Ashley sees it in much more detail than what I just described. NASA projects are full of acronyms. I like to think that I’m pretty good at decoding them. But talking to Ashley, I realize there are levels that I will just never reach.
+
+ASHLEY: So that’s comprised of OBA, which is the main structure of OSD …
+
+Then we have DAC. The main point of DAC is to kind of shield the light from the telescope …
+
+Then we have SASS, which are the main solar panels, which will also deploy later.
+
+Then we have SCIPA, which is sitting over …
+
+SCIPA has HGAS within it, which is the high gain antenna system …
+
+… and then the IC, which is holding both of our instruments and the telescope.
+
+JACOB: How long did it take you to learn all those acronyms?
+
+ASHLEY: Honestly, it really comes with time. And there’s some acronyms like the SSDIF that I still don’t know what it stands for, but it’s totally fine.
+
+JACOB: Now, there are going to be some acronyms throughout this episode. We’ll break them down as we go, starting with the one Ashley just said: “SSDIF”, spelled S-S-D-I-F. This is an important one because it is the formal name for the room where Ashley and I are talking. It stands for “Spacecraft Systems Development and Integration Facility”—I had to look it up. Most people just call it the clean room.
+
+Dust and dirt and contamination of all kinds are the enemies of a space telescope. There are actually a lot of materials that could damage the sensitive technology inside Roman, so there are tight rules around what you can bring into this room.
+
+ASHLEY: There’s a whole long list of these kind of things—even like your everyday paper or your everyday markers, they’re not coming into the clean room for a plethora of reasons. Some of them is, you know, if you rip your piece of paper, there’s going to be, like, particles coming off of that.
+
+[Music: Rich Formula by Theophile Laszio Moussouni]
+
+JACOB: The clean room where Roman was built at NASA’s Goddard Space Flight Center in Maryland is the largest clean room of its kind in the world. It is massive: eight stories tall, with enough floor space to fit two basketball courts. Inside this room it is exactly 68 degrees Fahrenheit and exactly 45 percent humidity. There’s a carefully calibrated air purifying system that is constantly circulating clean air. An entire wall of this room is an eight-story grid of air filters, which can filter out particles as small as a red blood cell.
+
+Every person who enters the clean room has to wear an outfit nicknamed a bunny suit. Any small fleck of skin or stray hair—or anything else that could come off of us—could be a hazard for something going to space. In a prep room on the way in, a few machines blast you with air to get off any loose particles, and then everyone in the clean room wears the same baggy white gown. There’s a hood covering your hair, a mask and gloves like a surgeon wears, and little booties that cover your street shoes.
+
+All of this was a little intimidating. I didn’t want to be the guy who broke the Roman Space Telescope. And even though Ashley is now a regular in the clean room, she also remembers her first time walking in here. Before her first real day of work, she did a recon trip, with another young engineer.
+
+ASHLEY: And we were so nervous coming in. We’re like, OK, we’re going to mess it up, or we’re going to forget a step, or somehow we’re going to be confused and like, left in the dark, even though we’ve done all the appropriate training. But it is kind of something that’s super exciting. It’s such a big room. You look up and you could get dizzy just staring upwards, almost. Just coming into such a big space to work is absolutely incredible. Being next all of these just massive structures and knowing that you’re going to be a part of putting them all together is pretty exciting.
+
+JACOB: Everything in this room is designed to make it easier to handle big, sensitive equipment, so the clean room has its own built-in cranes, two of them. Part of Ashley’s job is being a task conductor for crane lifts. These lifts are a team effort. When it’s time to use the crane, Ashley directs the team and helps them move as one unit.
+
+ASHLEY: So I’ll be telling people, OK, this is where we’re going to take the bolts out of its current mating surface. This is how we’re going to fly it over there, and this is how we’re going to bolt it back up together.
+
+JACOB: For Roman, Ashley was part of one memorable crane lift. One of the tests Roman goes through is in a facility called the Space Environment Simulator. Put a pin in that, because we’re also going to come back to it later.
+
+This is a large chamber, a few stories tall. But this part of Roman we’re looking at—the exoskeleton – is so big that it just barely fit inside. Ashley was there, talking everybody through it.
+
+ASHLEY: We had inches on—probably three different sides of the structure at any given time that were inches away from chamber wall, which, if you’ve ever worked with a crane, an inch isn’t that much. And just being able to stay calm as we’re moving the whole structure around so it doesn’t hit the wall. I mean, obviously you don’t want your whole space flight structure to hit the wall, and it didn’t, but it is kind of like a high stress situation that the whole team that you’re working with has to be very much on their game.
+
+[Music: The White Falcon by Paul Alkhallaf]
+
+JACOB: The huge task of putting together a space telescope is made up of lots of small moments like this: teams of people bringing their A-game and working together to deal with whatever problems get in the way. These teams build up kind of a funny rapport. In the clean room, everyone’s body is completely covered by the bunny suit, even their face. So you learn to recognize people by their eyes and the way they walk.
+
+Ashley says working in the clean room can get tiring, especially how dry the air is. After long days in here, she’ll have dry skin, and she has to remember to take water breaks. But it’s worth it.
+
+ASHLEY: Sometimes we’ll be in here for like, 12 hours a day, working, and it does get a little bit tiring, but I don’t want to take it for granted. It’s pretty cool.
+
+JACOB: Now, I can’t stress enough that every NASA mission is a huge team effort, especially something as complex as Roman. Just to give you an idea: one of Roman’s science instruments was built in Colorado. The other was built in California. A company in New York got that 7.9-foot mirror ready to go. And it was all assembled and tested in Maryland. There is a window that looks into the clean room, and people go look at Roman all the time.
+
+MARK MELTON: My office is just right outside the viewing area, the clean room window viewing area. And so every day I get to walk in and see it.
+
+JACOB: Mark Melton is the mission systems engineer for Roman.
+
+MARK: When those pieces all started coming in, and that clean room was packed. I mean, that’s a huge clean room, and it was packed! And you’re like, Wow, this is really coming together.
+
+JACOB: Mark has been involved with Roman from the very beginning: 2008. At that stage, NASA was still figuring out what this mission was going to be. There was a proposal to study dark energy. Dark energy is a mysterious force that shapes the structure of the universe. It’s one of the biggest mysteries that astronomers want to solve, and we go into much more detail about dark energy in another episode of this series.
+
+Anyway, at that stage, there were lots of meetings and Powerpoints. Scientists and engineers don’t necessarily speak the same language, but they had to work together to define requirements. What must the telescope be able to do? There wasn’t one clear path to take. They had to figure it out.
+
+MARK: We had lots of kind of one-on-one meetings with our internal scientists to help us understand how—you know, to translate a really technical science requirement that, you know, I have no idea what it really means initially—to first of all something that I could understand and understand what meeting that requirement might imply on how the hardware on the spacecraft and the instruments and telescope have to function.
+
+JACOB: Did you have a sense at the time, like, this is a big opportunity for me personally?
+
+MARK: Not necessarily. I wasn’t the lead in the beginning. You know, as an engineer working at NASA, you just want to do the best to get the best science for your scientists, right? I mean, everyone’s always awed by the images we see, and that’s super cool, but you know, they’re digging into that data and coming up with amazing understanding of how the universe functions. So that’s what we focus on.
+
+[Music: Grid Data by Christopher John White]
+
+JACOB: But even with that goal in mind, it takes patience to be in Mark’s shoes. NASA missions might be the ultimate example of “measure twice, cut once.” Roman will sit on top of a rocket, fly into space at tens of thousands of miles an hour, travel a million miles away, and all of its delicate systems have to stay intact. If something goes wrong, there are no second chances and no plans to go rescue it. So everything has been meticulously planned for years, and Mark was there the whole time.
+
+So I asked for his help understanding what makes Roman so powerful, starting with its detectors. These are essentially little cameras. They make it possible for Roman to capture its wide view of the universe. Roman has 18 of these detectors, and they combine to create the equivalent of a 300-megapixel camera.
+
+MARK: It’s not like these are a factory where you just have an assembly line and they’re just spitting them out, right? These are kind of custom built for us.
+
+JACOB: Roman’s detectors build on NASA technology that has gotten better over the years. The Hubble Space Telescope has detectors that are 1,000 pixels by 1,000 pixels. NASA’s James Webb Space Telescope is 2,000 by 2,000.
+
+MARK: Roman has scaled it up to 4000 by 4000 pixels in a package that’s a couple of square inches in area.
+
+JACOB: That means that the space between each of those pixels is just a fraction of the width a human hair. More pixels means more detail in the images Roman collects.
+
+MARK: An HDTV is 4K by 2K. We’re twice as many pixels as that in, like I said, a two to three square inch area, and we have 18 of those put together. So when you have 18 of those, you get this massive, massive field of view, and that’s really the game changer, is those detectors.
+
+[Music: New Ideas by Carl David Harms]
+
+JACOB: Next, to achieve its science goals, Roman needs to be super stable. Engineers have to minimize something called jitter. If you’ve ever tried to take a picture on your phone and you couldn’t hold it steady or someone bumped into you and the photo turned out bad, that’s jitter. One way Roman cuts down on jitter is with its solar panels. They don’t stick out very far, and they’re stiff.
+
+MARK: So a lot of people maybe have seen a satellite with huge long solar array sticking out the side. I mean, you can imagine if you move those, they’re going to like flap like bird’s wings, right? And that’s just going to, you know, induce kind of vibration into the satellite, so we minimize anything like that that can really vibrate.
+
+JACOB: In space, heat can also affect stability. Temperature changes can make things expand and contract. After it launches, Roman will not stay in Earth orbit. It will travel much farther away, even beyond the Moon, to a point in space called Lagrange point 2. This point is a million miles from Earth, and it’s kind of a gravity sweet spot where Roman can stay in a steady orbit. And that has some advantages over sticking close to Earth.
+
+MARK: When you go around the Earth, every 90 minutes you go in and out of the Earth’s shadow, so you’re dramatically changing your temperatures, which could make things shift. So we’re a million miles away where we don’t get any shadows, and then we have very fine temperature control, where we’re trying to control things to tenths of a degree, or in some cases, hundredths to thousandths of a degree.
+
+JACOB: With its super-HD detectors and that ultra-stable precision, Roman will not only see lots of the universe at once. It will be able to move quickly between observations. It will also collect a huge amount of data. Mark described a process that kind of sounds like auto-save. If Roman is supposed to be taking a picture every two minutes or so, it has a feature that actually takes a picture every two-and-a-half seconds, just in case. Getting all of that data back to Earth is its own challenge.
+
+MARK: We have a massive antenna. Our antenna is about five feet seven inches in diameter, and we’re just pumping data down.
+
+JACOB: Every single day, Roman will send us almost a terabyte-and-a-half of raw science data. Take a look at the hard drive on your computer and see how many days of Roman data you could fit on there. Probably not many. Throughout its five-year mission, Roman will collect more than 20,000 terabytes of data. I’ve heard someone on the Roman team say that this will be more data than the catalog of an entire music streaming website.
+
+[Music: Data Fusion by Claude Samard]
+
+Now, all of these engineering plans Mark just described – all of these technology marvels – they have been around as plans and computer models for a long time, but it was only in the past few years that Roman really took shape. September 2020: the primary mirror was finished. September 2023: Roman’s wide field camera is done. In 2025, technicians add a sunshade to keep unwanted light out of the telescope and solar panels for power. And then, on November 25, 2025, NASA completes construction. The final two pieces of the Roman Space Telescope are joined together.
+
+MARK: When those got put together, huge crowd outside watching that, and it was thrilling, so exciting. And I went back to my office, and I sat down, and I got a little tear in my eye, and I kind of choked up—like, wow, it’s actually together now, and it really just sunk in. Like after all these years, we have the one thing together now that we’ve been working on. It was kind of mind blowing to me.
+
+JACOB: Why was that powerful enough to make you cry, even?
+
+MARK: I mean, it’s been almost 20 years. It’s half my career on this one thing. And you know the excitement in the science community every time we talk to scientists, they’re just—they just can’t wait. It’s just thrilling to be able to get to a point where we can provide this, this tool for them to kind of—you know, it’s unlocking the mysteries of the universe. It sounds very grand, but that’s what they’re going to do. It’s crazy.
+
+[Music: Gene Sequencing by Al Lethbridge]
+
+JACOB: But even then, the work isn’t done. Because after they’ve built Roman, NASA engineers have to make sure it’s ready to survive in space.
+
+MARK: Putting it together is one thing, right? It takes a couple years to put it together, but then we take another couple of years to test it like crazy to make sure that it’s going to do everything that we expect and work hopefully well beyond the five years that we’ve designed it to do.
+
+JACOB: Now, we’re going to jump back in time a little bit, back before the telescope was fully constructed—back to the same era as when we met Ashley in the clean room with the telescope in two major pieces. And that’s when I meet another NASA engineer named Matt Stephens.
+
+MATT STEPHENS: OK, so we are right now in the Integration and Test Facility at Goddard Space Flight Center here in Greenbelt, Maryland … (fades out)
+
+JACOB: Matt is an aerospace engineer at NASA Goddard.
+
+MATT: And we’re heading down the facility to our large thermal vacuum test chamber. We call it “T-vac” for short.
+
+JACOB: How’d you get into this line of work? Have you always wanted to, you know, throw stuff into space?
+
+MATT: Short answer, yes.
+
+JACOB: While we walk, I’ll tell you a little about Matt. He’s one of those people who had a pivotal meeting with a guidance counselor that just changed the course of his whole life. In seventh grade, his counselor helped point him toward aerospace engineering. He started down that path and never looked back. Matt grew up not far from NASA’s launch site in Florida. He remembers that his teachers would take all the kids out on the playground to watch space shuttle launches, so the seed was planted early.
+
+MATT: And growing up in Florida, I thought that was normal. So it wasn’t till later in life that I found out how unique and really how amazing that was, that I got the ability to see that, to be exposed to that growing up.
+
+JACOB: This facility we’re walking in – the integration and test facility – must seem to an aerospace engineer like a candy store or Six Flags.
+
+[Music: The System by Sol Terrae]
+
+There are all kinds of huge, specialized tools that mimic extreme conditions a spacecraft must survive. There is a vibrational table, large enough that you can put an entire space telescope on it. It shakes in a way that mimics the vibrations from a rocket launch. Launches are also incredibly loud, so there is a test chamber for that. It’s a tall, rectangular room. The ceiling is a few stories high, and there is nothing on the walls, so they are extremely echoey, and then there are huge speaker cones mounted in the wall that blast the telescope with preposterously loud sound waves. Tests like these are the only chance to measure your spacecraft and make sure it’s really as good as you think it is before it goes out there for real.
+
+MATT: If you’re buying a car, that’s what you’re going to do, right? You’re going to go—the car dealership is going to give you the keys. They’re going to let you drive it around a neighborhood. They’re going to let you drive it on the highway. And you get the luxury of test driving that on a road, in the environment you’re going to use it in. But in space, we can’t do that. We can’t test drive a spacecraft in space. So what we do is we do these different tests here on ground to try to simulate that space environment.
+
+JACOB: The saying that you hear over and over from NASA engineers is, “Test like you fly. Fly like you test.” Every step of this process is designed to get as close as you can to what the spacecraft will experience, even though creating true space conditions is usually impossible. I’m here with Matt because Roman is going through a test as we speak. It’s inside a huge stainless steel chamber called the Space Environment Simulator.
+
+From the outside, the chamber is just a silver behemoth. It’s a few stories tall—so tall that it actually extends down into the basement below us. It’s shaped more or less like R2-D2, and it has all kinds of pipes sticking out of it. But inside, Roman is getting a taste of its life in space.
+
+MATT: So we’re going down to really cool temperatures. OK, for this test, we’re going down to about 140 Kelvin. That’s about -130 Celsius, about -200 Fahrenheit. I believe that’s colder than any place on Earth. So we’re talking about really low temperatures here, things you can only achieve in space.
+
+JACOB: As Matt talks, you can hear a lot of pumps whirring in the background. In a nutshell, this chamber’s job is to pull out air and energy and not let them back in. Once the part of the telescope being tested is lowered into the chamber through the same kinds of crane lifts we heard Ashley talk about earlier, the test starts by gradually pulling out the air.
+
+MATT: (fades in) … hooked up to a different type of vacuum pump. Some of them are roughing pumps. Some of them are turbo pumps … (fades out)
+
+JACOB: Then there are large metal plates with liquid nitrogen running through them. Those actually help radiate away energy from the telescope, which brings down the temperature.
+
+MATT: I mean, we’re artificially making space in there, right? We’re making a vacuum. We’re making the temperatures. We’re doing everything we can but turn off gravity, because we can’t do that, right?
+
+JACOB: Now, while one team is creating this space environment, another team is monitoring the telescope. For this test, engineers make sure Roman’s optics perform the way they expect. As Matt and I talk, we get about as close to the chamber as we’re allowed to. There are yellow lines and barriers marking the line we’re not supposed to cross. But Matt has been even closer to this chamber. He’s actually been inside. Not while it’s making space conditions, of course. But before a test starts, team members have to head inside the chamber to get things ready.
+
+MATT: And inside it’s pitch black because the black paint helps us absorb that radiation from the spacecraft and cool it down. So you walk into this room, you’re wearing a white clean room suit, and you’re standing in blackness, OK? And this chamber is made in to simulate space. So you’re standing in this chamber where you know in a few days, there’s going to be no air. You know it’s going to be -200 degrees Fahrenheit.
+
+[Music: Modern Rituals by Alexander Ryder McNair and Harry Gregson Williams]
+
+JACOB: This stage of the process, according to Matt, is super rewarding. He has seen computer models of Roman for years, and then all of a sudden it’s real. He can see it in front of him, and he gets to put Roman through its paces, making sure it’s ready to go explore the universe.
+
+Now, does every day feel like such a treat? Not necessarily. Working in the Space Environment Simulator can be uncomfortable. It’s tight quarters, and sometimes you have to shimmy around scaffolding and ladders.
+
+MATT: It’s ventilated for health reasons, but it’s not ventilated for comfort reasons, so it gets pretty hot in there. So after a few weeks of working in there, you start to lose the magic, and you start to get ready for that test to be ready and be out of the chamber. But every time you go in after, after you get ready for a new campaign, you get back in the chamber. There always is that initial kind of excitement there just about how amazing this step of the of the project is, and how you’re getting one step closer to that goal of getting it into space.
+
+JACOB: On the other side of this test, Mark Melton was also keeping a close eye on Roman. He was one of the people making sure the telescope performed well. This was a 24-hour-a-day job with teams of engineers rotating through, even at odd hours.
+
+MARK: We literally had probably 30 people at a time, at least, on shift 24/7. And yeah, so you just—”Sorry honey, here’s my schedule for the next two months.” You know, midnights are never fun, but you learn that’s part of the job, and you just—you roll with it.
+
+JACOB: After this testing campaign, NASA knows Roman is ready to go because engineers tested Roman like it’s going to fly, and they’re going to fly it like they tested it.
+
+MARK: We’re building one-of-a-kind satellites. It’s never been built before. No one’s going to build this again. And so you design—you do the best you can to design, you always find little things that don’t quite go the way you expected. Part of our testing, we like to say, is learning how the thing that we built works.
+
+[Music: Origins of Light by Philip Guyler]
+
+JACOB: Along with a testing program, NASA has a series of reviews throughout the life of the mission. These are check-ins to ask: is the plan still on track, and is the mission going to work? When I talked to Mark, he was looking ahead to one of Roman’s final reviews—the day when he would have to stand up in a meeting and report to NASA’s top leadership that Roman was ready. That after everything – the years of design and construction and testing and the many hands who touched it along the way – Roman’s time has come.
+
+MARK: We kind of affirm that we’re ready to go, that this mission, we’ve done all the right things. You know, any issues we’ve had, we’ve addressed. Whatever risks are remaining, we think we’ve reduced to as minimal as possible, and you know, we’re good to go.
+
+JACOB: Sounds like a big day.
+
+MARK: Yeah, I always joke with my deputy, I’m going to be sick that day. You’re going to have to do that meeting. I don’t know what day it is, but I’m going to be sick that day. But no, I mean—like I said, we’ve put the thing through its paces.
+
+JACOB: So when launch day comes—when it’s on the launch pad and the rocket begins to fire and there is no turning back—Roman will be ready.
+
+MARK: We’ve done everything we can to make sure this mission will be a success. So it’s a big thing to say, but you know, I believe it. We’ve done the work.
+
+[Music: Molecular Momentum by Philip Guyler]
+
+JACOB: For a few months after Roman launches, Mark will be on the team that brings it online. This stage is called commissioning. He’ll be a flight director, and there will be 24/7 staffing, so he might be back at work at midnight again. And then, when Roman starts sending back images, the hours get back to normal. And like the rest of us, Mark will be watching, waiting to see what Roman discovers in its wide field of view.
+
+MARK: Roman will probably be known for something 20, 30 years from now for something that we have—answering a question we haven’t even thought to ask yet, which is kind of crazy to me. So it’s kind of thrilling to be able to say I played some small part in answering some big science question.
+
+JACOB: This is NASA’s Curious Universe, an official NASA podcast. This episode was written and produced by me, Jacob Pinter. Our team also includes Christian Elliott. Our executive producer is Katie Konans.
+
+Wes Buchanan and Krystofer Kim designed the show art for this series. Our theme song is by SYSTEM Sounds. Special thanks to Claire Andreoli, Alise Fisher, Sophia Roberts, and Emma Brambila.
+
+You can find transcripts for every episode of Curious Universe and explore NASA’s other podcasts at nasa.gov/podcasts.
+
+If you enjoyed this episode of NASA’s Curious Universe, let us know! Leave us a review wherever you’re listening right now. Why not send a link to one of your friends. And you can follow NASA’s Curious Universe in your favorite podcast app to get a notification each time we post a new episode.

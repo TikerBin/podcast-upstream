@@ -5,7 +5,7 @@
 <link>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main</link>
 <description>仅含独立片段条目：片段 enclosure 为仓库自托管 clips 直链，文案仅覆盖片段音频；整集不在此 feed，整集不得冒充短片段。</description>
 <language>en</language>
-<lastBuildDate>Tue, 27 Oct 2026 01:44:27 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 01:43:15 +0000</lastBuildDate>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/feeds/ready-clip.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Their Mars window is a TV — clip from Encore: A Year In Mars Dune Alpha</title>
@@ -193,6 +193,96 @@ the words would be, almost Mars.]]></content:encoded>
 <_parent_id>nasa-curious-roman-liftoff</_parent_id>
 <_clip_start_s>920.0</_clip_start_s>
 <_clip_end_s>958.6</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>Keeping an open mind: the most exciting science is the thing you didn't expect — clip from Roman Series: Why NASA’s Roman Space Telescope Will Make Unexpected Discoveries (377.6-427.6s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/roman-deepdive-podcast/</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:roman-deepdive:clip:openmind:377.6-427.6</guid>
+<pubDate>Thu, 27 Aug 2026 12:59:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-roman-deepdive-clip-openmind.mp3" length="1078239" type="audio/mpeg"/>
+<itunes:duration>50</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】保持开放心态：造出能力全新的天文台时，最激动人心的科学一定是你没预料到的东西；Roman 不挑一颗星系、一颗恒星，而是以极高灵敏度扫过整片天区——研究已知的，也找到那些你根本没想到要找的东西。
+【Reels 角度】最激动人心的科学是你还没想到的：保持开放心态，跟着意外走——Roman 不是挑一颗星星看，而是把整片天区扫进来。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; the episode's only music cue (Curiosity theme) does not appear in this speech segment.
+【来源】https://www.nasa.gov/podcasts/curious-universe/roman-deepdive-podcast/
+【采集日（北京时间）】2026-10-28
+【发布时间精度】exact（Inherits parent original publish date (Megaphone RSS Thu, 27 Aug 2026 12:59:00 -0000); clip itself was modelled 2026-10-28 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:roman-deepdive
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/roman-deepdive-podcast/
+【片段】原集 377.6-427.6 秒，50.0 秒，原声，未加 BGM，文件：clips/nasa-roman-deepdive-clip-openmind.mp3]]></description>
+<content:encoded><![CDATA[So I'm keeping an open mind. I think when you build an observatory that has profoundly new capabilities, the most exciting science is going to be the thing that you didn't expect. So you want to approach what you're going to do with the observatory and how you're going to use it with something of an open mind so that we can pivot to following the surprises, following the things that are most impactful. With Roman, we're discovering space on steroids. Because we do large surveys, we're not picking a galaxy and going to study that galaxy. We're not picking a star to go and look at that star. We're mapping out large regions of the sky with extraordinary sensitivity. And we're going to find all the things that are there. So we're going to study the things that we know about and we're going to find the things we didn't even know to look for.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>roman-deepdive-clip-openmind</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/roman-deepdive-podcast/</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-10-28</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 50.000s / 1078239 bytes (ffmpeg cut from verified full MP3 in this run, 2026-10-28); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-roman-deepdive-clip-openmind.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-roman-deepdive-clip-openmind.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-roman-deepdive-clip-openmind-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-roman-deepdive-clip-openmind-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:roman-deepdive</_parent_guid>
+<_parent_id>nasa-curious-roman-deepdive</_parent_id>
+<_clip_start_s>377.6</_clip_start_s>
+<_clip_end_s>427.6</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>The largest clean room of its kind: eight stories tall, two basketball courts — clip from Roman Series: The Technology Inside NASA’s Newest Space Telescope (424.7-458.4s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/roman-engineering/</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:roman-engineering:clip:cleanroom:424.7-458.4</guid>
+<pubDate>Tue, 25 Aug 2026 12:59:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-roman-engineering-clip-cleanroom.mp3" length="747846" type="audio/mpeg"/>
+<itunes:duration>34</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】世界最大的无尘室：Roman 在戈达德航天中心 8 层楼高的无尘室里组装，面积可放两个篮球场，恒温 68 华氏度、湿度 45%；整面墙是 8 层楼高的滤网，能滤掉小至红细胞的微粒——因为一粒灰尘都可能毁掉一台太空望远镜。
+【Reels 角度】世界上最大的无尘室长什么样：8 层楼高、两个篮球场大、恒温恒湿，整面墙的滤网能拦住红细胞那么小的微粒。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; the episode's music cues (including the Rich Formula transition immediately before this speech segment) do not appear in this speech segment.
+【来源】https://www.nasa.gov/podcasts/curious-universe/roman-engineering/
+【采集日（北京时间）】2026-10-28
+【发布时间精度】exact（Inherits parent original publish date (Megaphone RSS Tue, 25 Aug 2026 12:59:00 -0000); clip itself was modelled 2026-10-28 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:roman-engineering
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/roman-engineering/
+【片段】原集 424.7-458.4 秒，33.7 秒，原声，未加 BGM，文件：clips/nasa-roman-engineering-clip-cleanroom.mp3]]></description>
+<content:encoded><![CDATA[The clean room where Roman was built at NASA's Goddard Space Flight Center in Maryland is the largest clean room of its kind in the world. It's massive, eight stories tall, with enough floor space to fit two basketball courts. Inside this room, it is exactly 68 degrees Fahrenheit and exactly 45 percent humidity. There's a carefully calibrated air purifying system that is constantly circulating clean air. An entire wall of this room is an eight-story grid of air filters, which can filter out particles as small as a red blood cell.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>roman-engineering-clip-cleanroom</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/roman-engineering/</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-10-28</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 33.700s / 747846 bytes (ffmpeg cut from verified full MP3 in this run, 2026-10-28); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-roman-engineering-clip-cleanroom.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-roman-engineering-clip-cleanroom.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-roman-engineering-clip-cleanroom-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-roman-engineering-clip-cleanroom-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:roman-engineering</_parent_guid>
+<_parent_id>nasa-curious-roman-engineering</_parent_id>
+<_clip_start_s>424.7</_clip_start_s>
+<_clip_end_s>458.4</_clip_end_s>
 <_clip_source_nature>original_audio</_clip_source_nature>
 </item>
 <item>

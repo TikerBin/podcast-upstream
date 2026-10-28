@@ -5,7 +5,7 @@
 <link>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main</link>
 <description>形态 audio 的待制作播客条目，GUID 与总 feed 完全一致。</description>
 <language>en</language>
-<lastBuildDate>Tue, 27 Oct 2026 01:44:27 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 01:43:15 +0000</lastBuildDate>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/feeds/audio.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Their Mars window is a TV — clip from Encore: A Year In Mars Dune Alpha</title>
@@ -1226,6 +1226,536 @@ CROWD: Go Roman!]]></content:encoded>
 <_collected_at_beijing>2026-10-27</_collected_at_beijing>
 <_audio_verified>HEAD 跟随重定向得 audio/mpeg + 32585215 字节；整文件下载后 ffprobe 时长 1345.828 秒、字节数一致，ffmpeg 全量解码零报错</_audio_verified>
 <_child_clip_guid>urn:podcast:nasa.gov:curious-universe:roman-liftoff:clip:picture-perfect:920.0-958.6</_child_clip_guid>
+</item>
+<item>
+<title>Keeping an open mind: the most exciting science is the thing you didn't expect — clip from Roman Series: Why NASA’s Roman Space Telescope Will Make Unexpected Discoveries (377.6-427.6s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/roman-deepdive-podcast/</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:roman-deepdive:clip:openmind:377.6-427.6</guid>
+<pubDate>Thu, 27 Aug 2026 12:59:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-roman-deepdive-clip-openmind.mp3" length="1078239" type="audio/mpeg"/>
+<itunes:duration>50</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】保持开放心态：造出能力全新的天文台时，最激动人心的科学一定是你没预料到的东西；Roman 不挑一颗星系、一颗恒星，而是以极高灵敏度扫过整片天区——研究已知的，也找到那些你根本没想到要找的东西。
+【Reels 角度】最激动人心的科学是你还没想到的：保持开放心态，跟着意外走——Roman 不是挑一颗星星看，而是把整片天区扫进来。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; the episode's only music cue (Curiosity theme) does not appear in this speech segment.
+【来源】https://www.nasa.gov/podcasts/curious-universe/roman-deepdive-podcast/
+【采集日（北京时间）】2026-10-28
+【发布时间精度】exact（Inherits parent original publish date (Megaphone RSS Thu, 27 Aug 2026 12:59:00 -0000); clip itself was modelled 2026-10-28 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:roman-deepdive
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/roman-deepdive-podcast/
+【片段】原集 377.6-427.6 秒，50.0 秒，原声，未加 BGM，文件：clips/nasa-roman-deepdive-clip-openmind.mp3]]></description>
+<content:encoded><![CDATA[So I'm keeping an open mind. I think when you build an observatory that has profoundly new capabilities, the most exciting science is going to be the thing that you didn't expect. So you want to approach what you're going to do with the observatory and how you're going to use it with something of an open mind so that we can pivot to following the surprises, following the things that are most impactful. With Roman, we're discovering space on steroids. Because we do large surveys, we're not picking a galaxy and going to study that galaxy. We're not picking a star to go and look at that star. We're mapping out large regions of the sky with extraordinary sensitivity. And we're going to find all the things that are there. So we're going to study the things that we know about and we're going to find the things we didn't even know to look for.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>roman-deepdive-clip-openmind</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/roman-deepdive-podcast/</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-10-28</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 50.000s / 1078239 bytes (ffmpeg cut from verified full MP3 in this run, 2026-10-28); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-roman-deepdive-clip-openmind.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-roman-deepdive-clip-openmind.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-roman-deepdive-clip-openmind-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-roman-deepdive-clip-openmind-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:roman-deepdive</_parent_guid>
+<_parent_id>nasa-curious-roman-deepdive</_parent_id>
+<_clip_start_s>377.6</_clip_start_s>
+<_clip_end_s>427.6</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>Roman Series: Why NASA’s Roman Space Telescope Will Make Unexpected Discoveries</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/roman-deepdive-podcast/</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:roman-deepdive</guid>
+<pubDate>Thu, 27 Aug 2026 12:59:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:full-episode</category>
+<category>production:text-script</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8660783502.mp3" length="67032918" type="audio/mpeg"/>
+<itunes:duration>1669</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】full-episode, text-script
+【摘要】Roman 首席科学家 Julie McEnery 深挖这台望远镜的科学：宇宙约 20% 是暗物质、75% 是暗能量、仅 5% 是普通物质；Roman 将以引力透镜绘制暗物质三维图、用 Ia 型超新星追踪暗能量，并以凌星与微引力透镜在 6 万到 20 万颗系外行星间普查；日冕仪将首次在太空验证变形镜直接成像技术，相当于在华盛顿看洛杉矶灯塔旁的萤火虫；最大巡天以全分辨率显示需要超过 50 万台 4K 电视，相当于铺满 45 个街区。
+【Reels 角度】最激动人心的科学是你没预料到的：先给暗物质暗能量 20%/75%/5% 的宇宙配比，再用日冕仪“灯塔旁的萤火虫”讲直接成像，最后落到半百万台 4K 电视拼出的巡天。
+【许可证】Public domain：美国联邦政府作品（NASA 官方播客），一般不受版权保护
+【权利说明】可剪辑/再分发，不得暗示 NASA 背书；本集文字稿中仅标有一处主题曲 cue（Curiosity by SYSTEM Sounds），正式发布前需逐项再核片段内音乐；本批 ready-clip 已核为原声讲话段、未加 BGM。
+【来源】https://www.nasa.gov/podcasts/curious-universe/roman-deepdive-podcast/
+【采集日（北京时间）】2026-10-28
+【发布时间精度】exact（NASA Curious Universe Megaphone RSS: Thu, 27 Aug 2026 12:59:00 -0000）
+【子片段 GUID】urn:podcast:nasa.gov:curious-universe:roman-deepdive:clip:openmind:377.6-427.6]]></description>
+<content:encoded><![CDATA[HOST SOPHIA ROBERTS: Dark matter, dark energy—these things we don’t know how to define just yet. Can you just give us a quick intro on those two topics?
+
+JULIE MCENERY: So you’re asking for the 10-second description of how the universe entirely works? [laughs]
+
+[Music: Curiosity by SYSTEM Sounds]
+
+SOPHIA: This is NASA’s Curious Universe. I’m Sophia Roberts. NASA is launching a new space telescope that will change the way we see the universe. It’s called the Nancy Grace Roman Space Telescope. Roman will study some of the biggest mysteries out there. It will answer questions about how the universe has changed over time, what’s driving the expansion, and the worlds that exist beyond our solar system. Roman has the unique ability to survey vast areas of space with incredible speed and detail. It will collect huge amounts of data, including more than a billion galaxies, and help discover thousands of planets orbiting distant stars. Roman will join other telescopes, including Hubble and Webb. It builds on NASA’s technology and know-how, and carries on NASA’s legacy of light that has shaped our view of the cosmos over decades.
+
+I have been in the clean room watching this telescope come to life over the last few years. I have interviewed plenty of people who are testing it and constructing it, and I am personally so excited to see the universe through Roman’s eyes. In this episode, we’re going to dive deep into Roman with Julie McEnery. She’s a senior project scientist. Hi Julie.
+
+JULIE: Hello.
+
+SOPHIA: Let’s start from the beginning. Roman has been years in the making. Talk to me about where the journey began.
+
+JULIE: In some senses, the journey for Roman began at the end of the last millennium. In the late nineties, we realized that the universe was behaving much more strangely than we imagined, and that instead of coasting out at the constant speed forever or slowing down, it in fact is accelerating. Huge, unexpected mystery. Many scientists wanted to figure out what can we do to take the next step to understand the fundamental nature of our universe?
+
+JENNIFER WISEMAN: I would like to know what—from all of you what you think the next steps are. I mean, should we study more stars in the galactic bulge to find out more? What what’s the next step for the planet finding quest?
+
+JULIE: That led to groups of scientists developing ideas for mission concepts. At the same time, another group of scientists were thinking, Oh, you know, we would really like to have an observatory that can find planets around other stars using this fairly new technique called microlensing. And then finally, there were a third group of scientists who were interested in, What if we could do really large surveys and just explore the fantastic astrophysics that you would have from surveying large regions of the sky with exquisite sensitivity? And that combined mission, the mission that does it all, was called WFIRST and then later was renamed to the Nancy Grace Roman Space Telescope.
+
+SOPHIA: So it all starts with the science questions.
+
+JULIE: Of course.
+
+SOPHIA: And then you have to figure out how to do it.
+
+JULIE: That’s half the fun. It’s exhilarating that we’re making so much progress so fast. I’d forgotten how, as you get closer to launch, everything just keeps on coming at you, that it’s test after test after test. And, you know, we’ve passed all of the tests, but that’s not to say there haven’t been some little bumps on the way. I mean we’ve identified things that we’ve needed to address that we’ve needed to fix. So it’s not like we’re sitting back like watching these tests all getting done, and it’s all like hunky dory. It takes real work to make a cutting-edge observatory reach its full potential.
+
+SOPHIA: Did you always want to study space, even from childhood? How did you get into this field?
+
+JULIE: So, I passionately care how the universe works—not how the things in it work but how the universe itself works. So the there are two directions that you can go with that. I mean, one place to fundamentally understand how the universe works is to look at the very small, the fundamental nature of particles and matter, the kinds of things that are studied by particle physicists. That’s of extreme interest to me. And the other area is the study of the very big. What is the property of the universe we live in? How did it start? How has it evolved? Where is it going to go? You know, what is the fundamental nature of the underlying physical laws that drive that? And through my career, I’ve touched on both of those things, the very small and the very large. With Roman, we focus on the very, very large, and we do an enormous amount of really cool astrophysics as part of that journey.
+
+SOPHIA: And what are you personally hoping to study or have revealed over the course of the mission?
+
+JULIE: So I’m keeping an open mind. I think when you build an observatory that has profoundly new capabilities, the most exciting science is going to be the thing that you didn’t expect. So you want to approach what you’re going to do with the observatory and how you’re going to use it with something of an open mind so that we can pivot to following the surprises, following the things that are most impactful. With Roman, we’re discovering space on steroids. Because we do large surveys, we’re not picking a galaxy and going to study that galaxy. We’re not picking a star to go and look at that star. We’re mapping out large regions of the sky with extraordinary sensitivity, and we’re going to find all the things that are there. So we’re going to study the things that we know about, and we’re going to find the things we didn’t even know to look for.
+
+SOPHIA: That I love. But are there big questions that maybe keep you up at night?
+
+JULIE: I mentioned towards the beginning of our conversation that one of the motivations for Roman was the discovery that our universe is not just expanding, but that expansion is accelerating. That was crazy. I mean, it’s like if you were to throw a ball in the air, and instead of the ball coming back down, it just keeps shooting away. So that itself is surprising. But you know, cosmologists are clever people. There is a model, Lambda-CDM, where Lambda is the cosmological constant. It describes the property of the universe that that pushes the universe to accelerate, and this model is spectacular. It’s really good at taking all the things we measure in the early universe, and accurately predicting all the things that we are measuring around the current time in the universe that surrounds us today. But in recent years, a couple of cracks have appeared. So all of that is pointing to, there’s something really fundamental that we don’t understand about the nature of our universe itself, and Roman is purpose-built to address and provide the data that we need to address these questions. So I’m very, very excited that we happen to have the right observatory to address what I think is one of—the grand challenge scientific question of our time.
+
+SOPHIA: Those are one of wonderful goals that Roman has, because one of its major jobs is to investigate dark matter, dark energy, these things we don’t know how to define just yet. Can you just give us a quick intro on those two topics?
+
+JULIE: Sure. So you’re asking for the 10 second description of how the universe entirely works? [laughs] If you make a pie chart of what makes up the content of the universe, you know, just over 20 percent is this quantity, dark matter. It’s actual matter. You can see where it exists because of its gravitational impact on objects that we can see, but otherwise seems invisible. Dark energy makes up about 75 percent, and dark energy describes the phenomenon of space-time that drives the acceleration of the universe. And then you’ve got like four to five percent of the universe that is ordinary matter, which that’s stars, planets, us, everything else in the galaxy. So the things that we actually observe is a small fraction of what the universe itself actually is.
+
+SOPHIA: So if we can’t see dark matter, for example, how are we going to study it with a telescope?
+
+JULIE: You know, if you take our own galaxy, there are streams of stars that are moving across the galaxy, and as those stars are moving, if they pass by a little clump of dark matter, the gravitational force of that clump of dark matter is going to perturb this stream of moving stars, and we can see that, and we can measure it. We can measure how much dark matter is in a galaxy by looking at how fast the stars on the outside of that galaxy are moving. One of the things that we’re planning to do with Roman is to study dark matter on sort of large scales of the universe, and what we do is we measure millions and millions of galaxies, hundreds of millions of galaxies. And as the light from those galaxies passes through the universe to get to us, as it passes through matter—which, as I’ve just said, is mostly dark matter—the light gets bent a little bit, and it slightly changes the shape that the galaxy appears to us. Those galaxies are acting like lenses. So we will be measuring this from those millions of galaxies and using that to create a 3D map of the dark matter in our universe, and the distribution of that dark matter will tell us a lot about the nature of the dark matter itself.
+
+SOPHIA: How do you hope to learn about dark energy?
+
+JULIE: So dark energy drives the expansion of the universe. We have several different ways that we can measure the expansion history. One of them is to look for what’s called a Type Ia supernova, and that explosion always happens at the same mass, so it has the same brightness, or can be made to be the same brightness. So they are like a standard candle. So if we know how bright something is, and we know how bright it appears to be, we can figure out how far away it is, and that gives us a way to measure the expansion rate of the universe. So when we measure the expansion history of the universe, when we measure the rate of acceleration, when we measure how that acceleration is changing with time, that is the information that we need to better understand the nature of dark energy itself.
+
+SOPHIA: And we can only do that with something that has a huge view, right?
+
+JULIE: We can best do that with something that has a huge view because when you’re measuring the property of a large chunk of the sky, you can be reasonably confident you’re understanding how the universe itself is behaving, rather than the vagaries of a particular small group of galaxies in one particular spot.
+
+SOPHIA: Roman will be studying exoplanets, and these are the planets that are orbiting other stars. How will Roman teach us about more exoplanets?
+
+JULIE: In short, by finding an awful lot of them. We expect with Roman to find somewhere between 60,000 and 200,000 exoplanets, which is a lot. The way that we do this is we’re going to be pointing our telescope close to the center of our galaxy, where there’s lots and lots of stars. We will be really precisely measuring the brightness of a few hundred million stars every 12-and-a-half minutes for months. And when we look at that data, we can use that data to find new planets. And there are two ways we can do this. The first is the more traditional way. If you have a planet that is close to its companion star and if that planet is pretty big, when the planet goes in front of the star, the apparent brightness of the star dims. That’s what’s known as the transit technique, and that’s where most of the exoplanets that we know today have—how they’ve been found. The second technique is to use microlensing, and microlensing—it’s actually really cool. You have a star that you’re looking at, and then you have another star somewhere between us and the background star. And as we move around—”we” being our solar system—moves around the galaxy, every now and again, there is a chance alignment between a background star and a foreground star, and when that happens, the gravitational potential from the foreground star acts as a lens for the light from the background star. So what you see is the brightness of the star increasing and then decreasing as the foreground star passes in front of the background star. If the foreground star has a planet around it, what you see is an increase and a decrease caused by the star. But then there’s a little blip that is a smaller, shorter increase caused by the gravitational potential of the planet itself. And the reason this is so important is this allows us to find planets that are further away from the host star, and it’s opening our eyes to the distribution of planets all the way from close to the star right out to the equivalent of the outer solar system and beyond. And so with Roman, we’re going to have a complete picture of how many stars? How many planets are around stars, at what distances? What masses are those stars? And we can use that to really hone our ideas and models and understanding of how planetary systems, including our own, form in the first place.
+
+SOPHIA: And then let’s talk about how this instrument that’s going to be doing this, the coronagraph, is setting us up for future missions.
+
+JULIE: The previous two techniques, we find the planets by their impact on the brightness of a star. But what if you want to measure the planet directly? Then the brightness of the star is the problem, right? You need to figure out a way of blocking the brightness of the star so that you’re not dazzled and you can see the planet sitting next to it. So what we do with the coronagraph is we put some sort of a mask in front of the bright star, and if we just put a circle on it, it wouldn’t really work because—I think of it doing magic with physics. Light behaves like a wave. So you have a property known as diffraction that means that even if you fully blocked out the star, some light will still get past. So what we do is we have a sequence of masks that combine the light together in a way that causes destructive interference and turns it off. And when that happens, then you’re able to see the really faint planets next to it. So what we’re going to be able to do with Roman is the equivalent of seeing a firefly next to a lighthouse in Los Angeles, observed from D.C. And that isn’t quite as enough to get you to seeing an Earth-like planet around a Sun-like star, because that would be trying to find a bioluminescent algae and not just a firefly. But it’s still really hard. So to do this, we have to have mirrors that deform so that we can have exactly the right alignment and optical prescription to get this zeroing working. And what Roman is going to do is to test these deformable mirrors for coronagraphy in space for the first time. We’re going to test extraordinarily sensitive low-noise detectors, and we’re going to develop and test and use state-of-the-art processing algorithms to go from a bright star to a direct measurement of a planet.
+
+SOPHIA: What sets Roman apart from other telescopes that NASA has?
+
+JULIE: Roman is set apart from other telescopes by having huge numbers of things. We are going to have several billion galaxies. We’re going to see tens of billions of stars. We’re going to see tens of thousands of planets around other stars, and so it’s just sheer numbers of things. And it’s not—I mean, just seeing sheer numbers of things—yeah, yeah, yeah, we’re seeing more things. That by itself is not interesting. It’s what you can do because you have numbers of things. I mean, we are going to be able to tell you what kind of planets form around what kind of stars and in different regions of the galaxy, and that will give us a completely new handle on understanding how planetary systems form. You know, we can survey the sky extremely quickly and efficiently, and we actually survey the sky with the sensitivity and performance of Hubble, but a thousand times faster.
+
+SOPHIA: Can you tell me what happens after launch? What is the science team up to? What is it like choosing the first images, or what are the first things that you hope that the telescope will be up to?
+
+JULIE: So, the first few months of the mission, we are focusing on understanding the observatory, and that’s a lot less boring than it sounds. So Roman’s observing program, most of our observations are on three really large, you know, completely phenomenal surveys. The beginning part of the mission is going to be to collect data that will allow us to determine whether what we plan to do with those surveys is actually going to work. So we’re going to collect data on a deep field, and the Roman deep field will have the same depth as the Hubble Deep Field, but it’s going to be over 1,500 times larger, completely blow your socks off. There’s going to be enormous science and potential there.
+
+SOPHIA: So I guess you can’t give us a hint of what the first images might be.
+
+JULIE: I mean, we know what the different details are. We’re going to go and look there. You know, Roman is less the big reveal because what we plan to do with our observations has been extensively discussed across the community. However, obviously, we may spend a little time choosing to go to places on the sky that we know look really cool, so that we can have a debut to the world that says, “Here we are. Here’s some cool pictures. It’s the teeny tiniest taste of what’s to come.
+
+SOPHIA: And it’s going to be tough to even show them because they’re going to be so huge.
+
+JULIE: So you could think of it as, if I take one Roman field of view, how many 4K TVs is needed to display that image at full resolution? And the answer is, it takes 36. Well that’s —you know, fine. But Roman doesn’t observe in a mode with just one field of view. We map out huge region of the sky, so you could ask the question, OK, well how many 4K TVs would I need to fully display our largest survey? And that’s over half a million 4K TVs. And, you know, most of us, myself included, don’t have a picture of what a half a million 4K TVs are like. It’s the equivalent of covering 45 city blocks. You know, you can think about Mount Rushmore, but Mount Rushmore is too small. You would need to fully cover El Capitán with 4K TVs to fully display Roman’s largest survey. I don’t think we should do that, but it gives you a sense of how amazing this survey is going to be.
+
+SOPHIA: Just trying to think of how to even, like, view any of that.
+
+JULIE: Well, you know what you’d have to do is you’d have to give people a telescope so that they could view the images that were on the 4K TVs that were on El Capitán. [laughs]
+
+SOPHIA: OK, looking out into five years’ time, what are you hoping that Roman will have done, contributed?
+
+JULIE: In five years’ time, we will have definitively addressed whether the model I talked about earlier—Lambda-CDM, our standard model of the universe—is broken, and we will have provided the data to tell us, or at least put us on the path for knowing what’s correct. We’ll have increased the number of known planets by a factor of 40. We will have measured more supernovae to greater distances than has ever been done before, and we’ll combine all of that into, you know, the data to understand the universe. We’ll find surprises, the things that go bump in the night. We’ll find the things that go bump in the night that we know about—afterglows from gamma ray bursts, which are stars that are exploding and turning into black holes. We’ll find tidal disruption events, which is where a star is swept into a supermassive black hole at the center of the galaxy. And then we’re also going to find surprises. We’re going to find the things we didn’t know to look for. We’re going to detect several billion galaxies, so we’re going to find the unusual galaxies. We’re going to find the unusual galaxies that allow us to understand how galaxies themselves form and evolve from the earliest time to now.
+
+SOPHIA: Do you hope that it changes our understanding of physics?
+
+JULIE: I don’t think I hope that. I think I know that.
+
+SOPHIA: On to Nancy herself.
+
+JULIE: OK.
+
+SOPHIA: Did you know her?
+
+JULIE: I mean, I wouldn’t say I knew her very well, but I certainly encountered her several times. She was in the audience twice when I gave a presentation, and sometimes in pretty small environments. And she was wonderful. She had a background in science and engineering and technical management that she could ask questions about all of what we’re doing. She was extremely sharp, extremely insightful, and very intolerant of occasionally people assuming she might be less sharp than she actually was. I didn’t ever make that mistake, but I’ve seen it happen, and she is quite good at correcting that kind of misconception.
+
+SOPHIA: Good for her. What does it mean to you that this telescope that you are leading is named after her?
+
+JULIE: I think it’s fantastic to be associated with an observatory that is named after a person you admire. I’m proud to work on an observatory that is named after Nancy Grace Roman, and I think that’s really nice. I think it’s really important. I think we can strive to try and do things in the way that she would have liked to have seen them done. I think she might be proud about what we’re doing too.
+
+SOPHIA: We are so close to launch. So many things have happened leading up to now. You’re sort of helming this whole thing, but what is it like for you to be so close to the science that you’ve been reaching for, for honestly, the last decade, I guess?
+
+JULIE: It’s somewhere between exhilarating and terrifying. I’m incredibly excited at being this close to sort of realizing the dream of getting these observations, but I also really feel the pressure and responsibility of all of the other scientists who have been along with us on this journey, who have been working on Roman, developing the ideas, developing the theories that we’re going to test. You know, the algorithms that we’re going to use to process the data. And I’m—you know, there’s a chunk of me that I really want to make sure that I don’t mess things up. I can’t by myself make things successful. But I sometimes worry I have a potential to be able to single handedly mess it all up, and I don’t want to do that.
+
+SOPHIA: It’s a team effort.
+
+JULIE: Yes. In the moments where I have time to take a deep breath, I feel proud, but mostly I’m just running to keep up. I mean—and this is very exciting, right? This close to launch, it’s exhilarating. Everything’s coming out at us really, really fast, and this is going to continue. We’re going to get to launch, and then the fun really. So, when I might feel proud is probably about six months from now when we can take a big deep breath, and we’ve built it, we’ve launched it, we’ve made it work, we’ve started to do science. We’re going.
+
+SOPHIA: Julie is the senior project scientist for NASA’s Nancy Grace Roman Space Telescope, and thank you very much for joining us here today.
+
+JULIE: Thank you. It was a pleasure.
+
+SOPHIA: Go Roman. The Nancy Grace Roman Space Telescope will launch no earlier than August 30. I hope you’re as excited as we are. We’ll be there in Florida to cover the launch, and we’ll be back in your podcast feed soon with more about Roman.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>roman-deepdive</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/roman-deepdive-podcast/</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-10-28</_collected_at_beijing>
+<_audio_verified>HEAD 跟随重定向得 audio/mpeg + 67032918 字节；整文件下载后 ffprobe 时长 1668.754 秒、字节数一致，ffmpeg 全量解码零报错</_audio_verified>
+<_child_clip_guid>urn:podcast:nasa.gov:curious-universe:roman-deepdive:clip:openmind:377.6-427.6</_child_clip_guid>
+</item>
+<item>
+<title>The largest clean room of its kind: eight stories tall, two basketball courts — clip from Roman Series: The Technology Inside NASA’s Newest Space Telescope (424.7-458.4s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/roman-engineering/</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:roman-engineering:clip:cleanroom:424.7-458.4</guid>
+<pubDate>Tue, 25 Aug 2026 12:59:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-roman-engineering-clip-cleanroom.mp3" length="747846" type="audio/mpeg"/>
+<itunes:duration>34</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】世界最大的无尘室：Roman 在戈达德航天中心 8 层楼高的无尘室里组装，面积可放两个篮球场，恒温 68 华氏度、湿度 45%；整面墙是 8 层楼高的滤网，能滤掉小至红细胞的微粒——因为一粒灰尘都可能毁掉一台太空望远镜。
+【Reels 角度】世界上最大的无尘室长什么样：8 层楼高、两个篮球场大、恒温恒湿，整面墙的滤网能拦住红细胞那么小的微粒。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; the episode's music cues (including the Rich Formula transition immediately before this speech segment) do not appear in this speech segment.
+【来源】https://www.nasa.gov/podcasts/curious-universe/roman-engineering/
+【采集日（北京时间）】2026-10-28
+【发布时间精度】exact（Inherits parent original publish date (Megaphone RSS Tue, 25 Aug 2026 12:59:00 -0000); clip itself was modelled 2026-10-28 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:roman-engineering
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/roman-engineering/
+【片段】原集 424.7-458.4 秒，33.7 秒，原声，未加 BGM，文件：clips/nasa-roman-engineering-clip-cleanroom.mp3]]></description>
+<content:encoded><![CDATA[The clean room where Roman was built at NASA's Goddard Space Flight Center in Maryland is the largest clean room of its kind in the world. It's massive, eight stories tall, with enough floor space to fit two basketball courts. Inside this room, it is exactly 68 degrees Fahrenheit and exactly 45 percent humidity. There's a carefully calibrated air purifying system that is constantly circulating clean air. An entire wall of this room is an eight-story grid of air filters, which can filter out particles as small as a red blood cell.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>roman-engineering-clip-cleanroom</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/roman-engineering/</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-10-28</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 33.700s / 747846 bytes (ffmpeg cut from verified full MP3 in this run, 2026-10-28); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-roman-engineering-clip-cleanroom.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-roman-engineering-clip-cleanroom.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-roman-engineering-clip-cleanroom-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-roman-engineering-clip-cleanroom-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:roman-engineering</_parent_guid>
+<_parent_id>nasa-curious-roman-engineering</_parent_id>
+<_clip_start_s>424.7</_clip_start_s>
+<_clip_end_s>458.4</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>Roman Series: The Technology Inside NASA’s Newest Space Telescope</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/roman-engineering/</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:roman-engineering</guid>
+<pubDate>Tue, 25 Aug 2026 12:59:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:full-episode</category>
+<category>production:text-script</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION5630499129.mp3" length="46718383" type="audio/mpeg"/>
+<itunes:duration>1935</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】full-episode, text-script
+【摘要】掀开 Roman 望远镜的盖子看工程：42 英尺长、逾 2 万磅，2.4 米主镜与 18 块 4000×4000 像素探测器组成 3 亿像素相机；戈达德 8 层楼高的全球最大无尘室里 68 华氏度恒温恒湿、过滤小至红细胞的微粒；太阳能板收拢防抖、拉格朗日 L2 点控温到千分之一度；每天回传近 1.5 TB 数据、五年逾 2 万 TB；在零下 200 华氏度的空间环境模拟器里做真空低温测试，验证“像飞一样测、像测一样飞”。
+【Reels 角度】造一台望远镜要先在地球上造出太空：先给 8 层楼高无尘室与 42 英尺镜筒的体量，再切零下 200 华氏度真空舱的测试，最后落到“像飞一样测、像测一样飞”。
+【许可证】Public domain：美国联邦政府作品（NASA 官方播客），一般不受版权保护
+【权利说明】可剪辑/再分发，不得暗示 NASA 背书；本集文字稿中标有若干音乐 cue（如 Curiosity 主题曲、Innovative Design、Steady Pulse、Rich Formula、The White Falcon、Grid Data、New Ideas、Data Fusion、Gene Sequencing、The System、Modern Rituals、Origins of Light、Molecular Momentum），正式发布前需逐项再核片段内音乐；本批 ready-clip 已核为原声讲话段、未加 BGM。
+【来源】https://www.nasa.gov/podcasts/curious-universe/roman-engineering/
+【采集日（北京时间）】2026-10-28
+【发布时间精度】exact（NASA Curious Universe Megaphone RSS: Tue, 25 Aug 2026 12:59:00 -0000）
+【子片段 GUID】urn:podcast:nasa.gov:curious-universe:roman-engineering:clip:cleanroom:424.7-458.4]]></description>
+<content:encoded><![CDATA[[Music: Curiosity by SYSTEM Sounds]
+
+HOST JACOB PINTER: You’re listening to NASA’s Curious Universe. I’m Jacob Pinter. NASA is launching a new space telescope that will change the way we see the universe. It’s called the Nancy Grace Roman Space Telescope. Roman will study some of the biggest mysteries out there, answering questions about how the universe has changed over time, what’s driving its expansion, and the worlds that exist beyond our solar system.
+
+Roman has a unique ability to survey vast areas of space with incredible speed and detail. It will collect huge amounts of data, including more than a billion galaxies, and help discover thousands of planets orbiting distant stars. Roman will join other space telescopes, including Hubble and Webb. It builds on NASA’s technology and know-how that have shaped our view of the cosmos for decades.
+
+[Music: Innovative Design by Thomas Gallicani]
+
+In this episode: the technology inside Roman and how NASA prepares a telescope to go to space. We’ll visit a special test facility where NASA creates the cold vacuum of space right here on Earth, and we’ll get up close with Roman with a few of the engineers who make it possible.
+
+We’re going to start this story in summer 2025. Roman at this point is already years in the making. It’s almost fully assembled. For now, it’s in two pieces for the final stage of testing, and then those will be joined together. I typically only get to see Roman from afar, through a window, but I am allowed to get super close this time because I’m with an engineer named Ashley Wilhelm.
+
+ASHLEY WILHELM: I guess you’re probably recording me right now.
+
+JACOB: I am.
+
+ASHLEY: We can talk about … (fades out)
+
+JACOB: Ashley points out something most of us might take for granted: Roman is big.
+
+ASHLEY: Almost everything we have to do now is a big operation where we need scaffolding to work on the structure because it’s so big. I can’t just go up there and touch it—not because I can’t, but because I’m not tall enough.
+
+JACOB: Ashley is a mechanical engineer who helped design, build, and test parts of Roman. In its final form, Roman is about as long as a semi-truck trailer. It’s 42 feet long and 14 feet wide. Fully fueled, it weighs more than 20,000 pounds, at least until it becomes weightless in space.
+
+The part we’re looking at is sort of like Roman’s exoskeleton. Across the room, the other part has the telescope optics, science instruments, and other sensitive equipment. Mounted on this exoskeleton is an array of orange and black solar panels. On this day they’re arranged in a way that reminds me of a crown, framing the outside of Roman.
+
+This section of the telescope is on a work platform maybe 15 feet off the ground, so the whole thing looms over us.
+
+ASHLEY: Having to move something that weighs so much and is that large and that—I mean, we do several tests. I don’t want to say fragile—but like that important, people have put so much work into it, is definitely very interesting, and something I don’t know if I’ll ever be able to like experience again.
+
+JACOB: Ashley actually started working on Roman remotely. She was an intern during the summer of 2020, but even then, she was working on tests for individual components of Roman. She’s seen the telescope get bigger and bigger.
+
+ASHLEY: We can also walk around the whole thing, and I can like …
+
+JACOB: Yeah, can we?
+
+ASHLEY: Yeah.
+
+JACOB: I don’t want to go anywhere I’m not supposed to go.
+
+SOPHIA ROBERTS: Just don’t touch anything.
+
+JACOB: Oh, I’m not touching anything.
+
+ASHLEY: Yeah, OK. So this is the front … (fades out)
+
+[Music: Steady Pulse by Mathild Empereur]
+
+JACOB: Here is a very quick rundown of what’s going on inside Roman. Roman studies the universe by collecting light. Its primary mirror is exactly 7.9 feet across or 2.4 meters—the same size as Hubble’s mirror. Roman has two science instruments, and in other episodes of this series, we go into more detail about the science questions it is designed to answer. In addition to being a telescope, Roman is a spacecraft. It has a propulsion system and fuel tanks, as well as miles of cables for electricity and communication.
+
+Of course, Ashley sees it in much more detail than what I just described. NASA projects are full of acronyms. I like to think that I’m pretty good at decoding them. But talking to Ashley, I realize there are levels that I will just never reach.
+
+ASHLEY: So that’s comprised of OBA, which is the main structure of OSD …
+
+Then we have DAC. The main point of DAC is to kind of shield the light from the telescope …
+
+Then we have SASS, which are the main solar panels, which will also deploy later.
+
+Then we have SCIPA, which is sitting over …
+
+SCIPA has HGAS within it, which is the high gain antenna system …
+
+… and then the IC, which is holding both of our instruments and the telescope.
+
+JACOB: How long did it take you to learn all those acronyms?
+
+ASHLEY: Honestly, it really comes with time. And there’s some acronyms like the SSDIF that I still don’t know what it stands for, but it’s totally fine.
+
+JACOB: Now, there are going to be some acronyms throughout this episode. We’ll break them down as we go, starting with the one Ashley just said: “SSDIF”, spelled S-S-D-I-F. This is an important one because it is the formal name for the room where Ashley and I are talking. It stands for “Spacecraft Systems Development and Integration Facility”—I had to look it up. Most people just call it the clean room.
+
+Dust and dirt and contamination of all kinds are the enemies of a space telescope. There are actually a lot of materials that could damage the sensitive technology inside Roman, so there are tight rules around what you can bring into this room.
+
+ASHLEY: There’s a whole long list of these kind of things—even like your everyday paper or your everyday markers, they’re not coming into the clean room for a plethora of reasons. Some of them is, you know, if you rip your piece of paper, there’s going to be, like, particles coming off of that.
+
+[Music: Rich Formula by Theophile Laszio Moussouni]
+
+JACOB: The clean room where Roman was built at NASA’s Goddard Space Flight Center in Maryland is the largest clean room of its kind in the world. It is massive: eight stories tall, with enough floor space to fit two basketball courts. Inside this room it is exactly 68 degrees Fahrenheit and exactly 45 percent humidity. There’s a carefully calibrated air purifying system that is constantly circulating clean air. An entire wall of this room is an eight-story grid of air filters, which can filter out particles as small as a red blood cell.
+
+Every person who enters the clean room has to wear an outfit nicknamed a bunny suit. Any small fleck of skin or stray hair—or anything else that could come off of us—could be a hazard for something going to space. In a prep room on the way in, a few machines blast you with air to get off any loose particles, and then everyone in the clean room wears the same baggy white gown. There’s a hood covering your hair, a mask and gloves like a surgeon wears, and little booties that cover your street shoes.
+
+All of this was a little intimidating. I didn’t want to be the guy who broke the Roman Space Telescope. And even though Ashley is now a regular in the clean room, she also remembers her first time walking in here. Before her first real day of work, she did a recon trip, with another young engineer.
+
+ASHLEY: And we were so nervous coming in. We’re like, OK, we’re going to mess it up, or we’re going to forget a step, or somehow we’re going to be confused and like, left in the dark, even though we’ve done all the appropriate training. But it is kind of something that’s super exciting. It’s such a big room. You look up and you could get dizzy just staring upwards, almost. Just coming into such a big space to work is absolutely incredible. Being next all of these just massive structures and knowing that you’re going to be a part of putting them all together is pretty exciting.
+
+JACOB: Everything in this room is designed to make it easier to handle big, sensitive equipment, so the clean room has its own built-in cranes, two of them. Part of Ashley’s job is being a task conductor for crane lifts. These lifts are a team effort. When it’s time to use the crane, Ashley directs the team and helps them move as one unit.
+
+ASHLEY: So I’ll be telling people, OK, this is where we’re going to take the bolts out of its current mating surface. This is how we’re going to fly it over there, and this is how we’re going to bolt it back up together.
+
+JACOB: For Roman, Ashley was part of one memorable crane lift. One of the tests Roman goes through is in a facility called the Space Environment Simulator. Put a pin in that, because we’re also going to come back to it later.
+
+This is a large chamber, a few stories tall. But this part of Roman we’re looking at—the exoskeleton – is so big that it just barely fit inside. Ashley was there, talking everybody through it.
+
+ASHLEY: We had inches on—probably three different sides of the structure at any given time that were inches away from chamber wall, which, if you’ve ever worked with a crane, an inch isn’t that much. And just being able to stay calm as we’re moving the whole structure around so it doesn’t hit the wall. I mean, obviously you don’t want your whole space flight structure to hit the wall, and it didn’t, but it is kind of like a high stress situation that the whole team that you’re working with has to be very much on their game.
+
+[Music: The White Falcon by Paul Alkhallaf]
+
+JACOB: The huge task of putting together a space telescope is made up of lots of small moments like this: teams of people bringing their A-game and working together to deal with whatever problems get in the way. These teams build up kind of a funny rapport. In the clean room, everyone’s body is completely covered by the bunny suit, even their face. So you learn to recognize people by their eyes and the way they walk.
+
+Ashley says working in the clean room can get tiring, especially how dry the air is. After long days in here, she’ll have dry skin, and she has to remember to take water breaks. But it’s worth it.
+
+ASHLEY: Sometimes we’ll be in here for like, 12 hours a day, working, and it does get a little bit tiring, but I don’t want to take it for granted. It’s pretty cool.
+
+JACOB: Now, I can’t stress enough that every NASA mission is a huge team effort, especially something as complex as Roman. Just to give you an idea: one of Roman’s science instruments was built in Colorado. The other was built in California. A company in New York got that 7.9-foot mirror ready to go. And it was all assembled and tested in Maryland. There is a window that looks into the clean room, and people go look at Roman all the time.
+
+MARK MELTON: My office is just right outside the viewing area, the clean room window viewing area. And so every day I get to walk in and see it.
+
+JACOB: Mark Melton is the mission systems engineer for Roman.
+
+MARK: When those pieces all started coming in, and that clean room was packed. I mean, that’s a huge clean room, and it was packed! And you’re like, Wow, this is really coming together.
+
+JACOB: Mark has been involved with Roman from the very beginning: 2008. At that stage, NASA was still figuring out what this mission was going to be. There was a proposal to study dark energy. Dark energy is a mysterious force that shapes the structure of the universe. It’s one of the biggest mysteries that astronomers want to solve, and we go into much more detail about dark energy in another episode of this series.
+
+Anyway, at that stage, there were lots of meetings and Powerpoints. Scientists and engineers don’t necessarily speak the same language, but they had to work together to define requirements. What must the telescope be able to do? There wasn’t one clear path to take. They had to figure it out.
+
+MARK: We had lots of kind of one-on-one meetings with our internal scientists to help us understand how—you know, to translate a really technical science requirement that, you know, I have no idea what it really means initially—to first of all something that I could understand and understand what meeting that requirement might imply on how the hardware on the spacecraft and the instruments and telescope have to function.
+
+JACOB: Did you have a sense at the time, like, this is a big opportunity for me personally?
+
+MARK: Not necessarily. I wasn’t the lead in the beginning. You know, as an engineer working at NASA, you just want to do the best to get the best science for your scientists, right? I mean, everyone’s always awed by the images we see, and that’s super cool, but you know, they’re digging into that data and coming up with amazing understanding of how the universe functions. So that’s what we focus on.
+
+[Music: Grid Data by Christopher John White]
+
+JACOB: But even with that goal in mind, it takes patience to be in Mark’s shoes. NASA missions might be the ultimate example of “measure twice, cut once.” Roman will sit on top of a rocket, fly into space at tens of thousands of miles an hour, travel a million miles away, and all of its delicate systems have to stay intact. If something goes wrong, there are no second chances and no plans to go rescue it. So everything has been meticulously planned for years, and Mark was there the whole time.
+
+So I asked for his help understanding what makes Roman so powerful, starting with its detectors. These are essentially little cameras. They make it possible for Roman to capture its wide view of the universe. Roman has 18 of these detectors, and they combine to create the equivalent of a 300-megapixel camera.
+
+MARK: It’s not like these are a factory where you just have an assembly line and they’re just spitting them out, right? These are kind of custom built for us.
+
+JACOB: Roman’s detectors build on NASA technology that has gotten better over the years. The Hubble Space Telescope has detectors that are 1,000 pixels by 1,000 pixels. NASA’s James Webb Space Telescope is 2,000 by 2,000.
+
+MARK: Roman has scaled it up to 4000 by 4000 pixels in a package that’s a couple of square inches in area.
+
+JACOB: That means that the space between each of those pixels is just a fraction of the width a human hair. More pixels means more detail in the images Roman collects.
+
+MARK: An HDTV is 4K by 2K. We’re twice as many pixels as that in, like I said, a two to three square inch area, and we have 18 of those put together. So when you have 18 of those, you get this massive, massive field of view, and that’s really the game changer, is those detectors.
+
+[Music: New Ideas by Carl David Harms]
+
+JACOB: Next, to achieve its science goals, Roman needs to be super stable. Engineers have to minimize something called jitter. If you’ve ever tried to take a picture on your phone and you couldn’t hold it steady or someone bumped into you and the photo turned out bad, that’s jitter. One way Roman cuts down on jitter is with its solar panels. They don’t stick out very far, and they’re stiff.
+
+MARK: So a lot of people maybe have seen a satellite with huge long solar array sticking out the side. I mean, you can imagine if you move those, they’re going to like flap like bird’s wings, right? And that’s just going to, you know, induce kind of vibration into the satellite, so we minimize anything like that that can really vibrate.
+
+JACOB: In space, heat can also affect stability. Temperature changes can make things expand and contract. After it launches, Roman will not stay in Earth orbit. It will travel much farther away, even beyond the Moon, to a point in space called Lagrange point 2. This point is a million miles from Earth, and it’s kind of a gravity sweet spot where Roman can stay in a steady orbit. And that has some advantages over sticking close to Earth.
+
+MARK: When you go around the Earth, every 90 minutes you go in and out of the Earth’s shadow, so you’re dramatically changing your temperatures, which could make things shift. So we’re a million miles away where we don’t get any shadows, and then we have very fine temperature control, where we’re trying to control things to tenths of a degree, or in some cases, hundredths to thousandths of a degree.
+
+JACOB: With its super-HD detectors and that ultra-stable precision, Roman will not only see lots of the universe at once. It will be able to move quickly between observations. It will also collect a huge amount of data. Mark described a process that kind of sounds like auto-save. If Roman is supposed to be taking a picture every two minutes or so, it has a feature that actually takes a picture every two-and-a-half seconds, just in case. Getting all of that data back to Earth is its own challenge.
+
+MARK: We have a massive antenna. Our antenna is about five feet seven inches in diameter, and we’re just pumping data down.
+
+JACOB: Every single day, Roman will send us almost a terabyte-and-a-half of raw science data. Take a look at the hard drive on your computer and see how many days of Roman data you could fit on there. Probably not many. Throughout its five-year mission, Roman will collect more than 20,000 terabytes of data. I’ve heard someone on the Roman team say that this will be more data than the catalog of an entire music streaming website.
+
+[Music: Data Fusion by Claude Samard]
+
+Now, all of these engineering plans Mark just described – all of these technology marvels – they have been around as plans and computer models for a long time, but it was only in the past few years that Roman really took shape. September 2020: the primary mirror was finished. September 2023: Roman’s wide field camera is done. In 2025, technicians add a sunshade to keep unwanted light out of the telescope and solar panels for power. And then, on November 25, 2025, NASA completes construction. The final two pieces of the Roman Space Telescope are joined together.
+
+MARK: When those got put together, huge crowd outside watching that, and it was thrilling, so exciting. And I went back to my office, and I sat down, and I got a little tear in my eye, and I kind of choked up—like, wow, it’s actually together now, and it really just sunk in. Like after all these years, we have the one thing together now that we’ve been working on. It was kind of mind blowing to me.
+
+JACOB: Why was that powerful enough to make you cry, even?
+
+MARK: I mean, it’s been almost 20 years. It’s half my career on this one thing. And you know the excitement in the science community every time we talk to scientists, they’re just—they just can’t wait. It’s just thrilling to be able to get to a point where we can provide this, this tool for them to kind of—you know, it’s unlocking the mysteries of the universe. It sounds very grand, but that’s what they’re going to do. It’s crazy.
+
+[Music: Gene Sequencing by Al Lethbridge]
+
+JACOB: But even then, the work isn’t done. Because after they’ve built Roman, NASA engineers have to make sure it’s ready to survive in space.
+
+MARK: Putting it together is one thing, right? It takes a couple years to put it together, but then we take another couple of years to test it like crazy to make sure that it’s going to do everything that we expect and work hopefully well beyond the five years that we’ve designed it to do.
+
+JACOB: Now, we’re going to jump back in time a little bit, back before the telescope was fully constructed—back to the same era as when we met Ashley in the clean room with the telescope in two major pieces. And that’s when I meet another NASA engineer named Matt Stephens.
+
+MATT STEPHENS: OK, so we are right now in the Integration and Test Facility at Goddard Space Flight Center here in Greenbelt, Maryland … (fades out)
+
+JACOB: Matt is an aerospace engineer at NASA Goddard.
+
+MATT: And we’re heading down the facility to our large thermal vacuum test chamber. We call it “T-vac” for short.
+
+JACOB: How’d you get into this line of work? Have you always wanted to, you know, throw stuff into space?
+
+MATT: Short answer, yes.
+
+JACOB: While we walk, I’ll tell you a little about Matt. He’s one of those people who had a pivotal meeting with a guidance counselor that just changed the course of his whole life. In seventh grade, his counselor helped point him toward aerospace engineering. He started down that path and never looked back. Matt grew up not far from NASA’s launch site in Florida. He remembers that his teachers would take all the kids out on the playground to watch space shuttle launches, so the seed was planted early.
+
+MATT: And growing up in Florida, I thought that was normal. So it wasn’t till later in life that I found out how unique and really how amazing that was, that I got the ability to see that, to be exposed to that growing up.
+
+JACOB: This facility we’re walking in – the integration and test facility – must seem to an aerospace engineer like a candy store or Six Flags.
+
+[Music: The System by Sol Terrae]
+
+There are all kinds of huge, specialized tools that mimic extreme conditions a spacecraft must survive. There is a vibrational table, large enough that you can put an entire space telescope on it. It shakes in a way that mimics the vibrations from a rocket launch. Launches are also incredibly loud, so there is a test chamber for that. It’s a tall, rectangular room. The ceiling is a few stories high, and there is nothing on the walls, so they are extremely echoey, and then there are huge speaker cones mounted in the wall that blast the telescope with preposterously loud sound waves. Tests like these are the only chance to measure your spacecraft and make sure it’s really as good as you think it is before it goes out there for real.
+
+MATT: If you’re buying a car, that’s what you’re going to do, right? You’re going to go—the car dealership is going to give you the keys. They’re going to let you drive it around a neighborhood. They’re going to let you drive it on the highway. And you get the luxury of test driving that on a road, in the environment you’re going to use it in. But in space, we can’t do that. We can’t test drive a spacecraft in space. So what we do is we do these different tests here on ground to try to simulate that space environment.
+
+JACOB: The saying that you hear over and over from NASA engineers is, “Test like you fly. Fly like you test.” Every step of this process is designed to get as close as you can to what the spacecraft will experience, even though creating true space conditions is usually impossible. I’m here with Matt because Roman is going through a test as we speak. It’s inside a huge stainless steel chamber called the Space Environment Simulator.
+
+From the outside, the chamber is just a silver behemoth. It’s a few stories tall—so tall that it actually extends down into the basement below us. It’s shaped more or less like R2-D2, and it has all kinds of pipes sticking out of it. But inside, Roman is getting a taste of its life in space.
+
+MATT: So we’re going down to really cool temperatures. OK, for this test, we’re going down to about 140 Kelvin. That’s about -130 Celsius, about -200 Fahrenheit. I believe that’s colder than any place on Earth. So we’re talking about really low temperatures here, things you can only achieve in space.
+
+JACOB: As Matt talks, you can hear a lot of pumps whirring in the background. In a nutshell, this chamber’s job is to pull out air and energy and not let them back in. Once the part of the telescope being tested is lowered into the chamber through the same kinds of crane lifts we heard Ashley talk about earlier, the test starts by gradually pulling out the air.
+
+MATT: (fades in) … hooked up to a different type of vacuum pump. Some of them are roughing pumps. Some of them are turbo pumps … (fades out)
+
+JACOB: Then there are large metal plates with liquid nitrogen running through them. Those actually help radiate away energy from the telescope, which brings down the temperature.
+
+MATT: I mean, we’re artificially making space in there, right? We’re making a vacuum. We’re making the temperatures. We’re doing everything we can but turn off gravity, because we can’t do that, right?
+
+JACOB: Now, while one team is creating this space environment, another team is monitoring the telescope. For this test, engineers make sure Roman’s optics perform the way they expect. As Matt and I talk, we get about as close to the chamber as we’re allowed to. There are yellow lines and barriers marking the line we’re not supposed to cross. But Matt has been even closer to this chamber. He’s actually been inside. Not while it’s making space conditions, of course. But before a test starts, team members have to head inside the chamber to get things ready.
+
+MATT: And inside it’s pitch black because the black paint helps us absorb that radiation from the spacecraft and cool it down. So you walk into this room, you’re wearing a white clean room suit, and you’re standing in blackness, OK? And this chamber is made in to simulate space. So you’re standing in this chamber where you know in a few days, there’s going to be no air. You know it’s going to be -200 degrees Fahrenheit.
+
+[Music: Modern Rituals by Alexander Ryder McNair and Harry Gregson Williams]
+
+JACOB: This stage of the process, according to Matt, is super rewarding. He has seen computer models of Roman for years, and then all of a sudden it’s real. He can see it in front of him, and he gets to put Roman through its paces, making sure it’s ready to go explore the universe.
+
+Now, does every day feel like such a treat? Not necessarily. Working in the Space Environment Simulator can be uncomfortable. It’s tight quarters, and sometimes you have to shimmy around scaffolding and ladders.
+
+MATT: It’s ventilated for health reasons, but it’s not ventilated for comfort reasons, so it gets pretty hot in there. So after a few weeks of working in there, you start to lose the magic, and you start to get ready for that test to be ready and be out of the chamber. But every time you go in after, after you get ready for a new campaign, you get back in the chamber. There always is that initial kind of excitement there just about how amazing this step of the of the project is, and how you’re getting one step closer to that goal of getting it into space.
+
+JACOB: On the other side of this test, Mark Melton was also keeping a close eye on Roman. He was one of the people making sure the telescope performed well. This was a 24-hour-a-day job with teams of engineers rotating through, even at odd hours.
+
+MARK: We literally had probably 30 people at a time, at least, on shift 24/7. And yeah, so you just—”Sorry honey, here’s my schedule for the next two months.” You know, midnights are never fun, but you learn that’s part of the job, and you just—you roll with it.
+
+JACOB: After this testing campaign, NASA knows Roman is ready to go because engineers tested Roman like it’s going to fly, and they’re going to fly it like they tested it.
+
+MARK: We’re building one-of-a-kind satellites. It’s never been built before. No one’s going to build this again. And so you design—you do the best you can to design, you always find little things that don’t quite go the way you expected. Part of our testing, we like to say, is learning how the thing that we built works.
+
+[Music: Origins of Light by Philip Guyler]
+
+JACOB: Along with a testing program, NASA has a series of reviews throughout the life of the mission. These are check-ins to ask: is the plan still on track, and is the mission going to work? When I talked to Mark, he was looking ahead to one of Roman’s final reviews—the day when he would have to stand up in a meeting and report to NASA’s top leadership that Roman was ready. That after everything – the years of design and construction and testing and the many hands who touched it along the way – Roman’s time has come.
+
+MARK: We kind of affirm that we’re ready to go, that this mission, we’ve done all the right things. You know, any issues we’ve had, we’ve addressed. Whatever risks are remaining, we think we’ve reduced to as minimal as possible, and you know, we’re good to go.
+
+JACOB: Sounds like a big day.
+
+MARK: Yeah, I always joke with my deputy, I’m going to be sick that day. You’re going to have to do that meeting. I don’t know what day it is, but I’m going to be sick that day. But no, I mean—like I said, we’ve put the thing through its paces.
+
+JACOB: So when launch day comes—when it’s on the launch pad and the rocket begins to fire and there is no turning back—Roman will be ready.
+
+MARK: We’ve done everything we can to make sure this mission will be a success. So it’s a big thing to say, but you know, I believe it. We’ve done the work.
+
+[Music: Molecular Momentum by Philip Guyler]
+
+JACOB: For a few months after Roman launches, Mark will be on the team that brings it online. This stage is called commissioning. He’ll be a flight director, and there will be 24/7 staffing, so he might be back at work at midnight again. And then, when Roman starts sending back images, the hours get back to normal. And like the rest of us, Mark will be watching, waiting to see what Roman discovers in its wide field of view.
+
+MARK: Roman will probably be known for something 20, 30 years from now for something that we have—answering a question we haven’t even thought to ask yet, which is kind of crazy to me. So it’s kind of thrilling to be able to say I played some small part in answering some big science question.
+
+JACOB: This is NASA’s Curious Universe, an official NASA podcast. This episode was written and produced by me, Jacob Pinter. Our team also includes Christian Elliott. Our executive producer is Katie Konans.
+
+Wes Buchanan and Krystofer Kim designed the show art for this series. Our theme song is by SYSTEM Sounds. Special thanks to Claire Andreoli, Alise Fisher, Sophia Roberts, and Emma Brambila.
+
+You can find transcripts for every episode of Curious Universe and explore NASA’s other podcasts at nasa.gov/podcasts.
+
+If you enjoyed this episode of NASA’s Curious Universe, let us know! Leave us a review wherever you’re listening right now. Why not send a link to one of your friends. And you can follow NASA’s Curious Universe in your favorite podcast app to get a notification each time we post a new episode.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>roman-engineering</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/roman-engineering/</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-10-28</_collected_at_beijing>
+<_audio_verified>HEAD 跟随重定向得 audio/mpeg + 46718383 字节；整文件下载后 ffprobe 时长 1934.811 秒、字节数一致，ffmpeg 全量解码零报错</_audio_verified>
+<_child_clip_guid>urn:podcast:nasa.gov:curious-universe:roman-engineering:clip:cleanroom:424.7-458.4</_child_clip_guid>
 </item>
 <item>
 <title>Monitor as a testbed: new 3D imaging can spread to other wrecks — clip from USS Monitor 3D Mapping (559.7-604.5s)</title>

@@ -1,0 +1,48 @@
+1
+00:00:00,000 --> 00:00:01,480
+The clean room where Roman was built
+
+2
+00:00:01,480 --> 00:00:03,880
+at NASA's Goddard Space Flight Center in Maryland
+
+3
+00:00:04,280 --> 00:00:06,960
+is the largest clean room of its kind in the world.
+
+4
+00:00:08,180 --> 00:00:10,120
+It's massive, eight stories tall,
+
+5
+00:00:10,380 --> 00:00:12,940
+with enough floor space to fit two basketball courts.
+
+6
+00:00:14,060 --> 00:00:17,520
+Inside this room, it is exactly 68 degrees Fahrenheit
+
+7
+00:00:17,520 --> 00:00:20,100
+and exactly 45 percent humidity.
+
+8
+00:00:21,120 --> 00:00:23,760
+There's a carefully calibrated air purifying system
+
+9
+00:00:23,760 --> 00:00:26,020
+that is constantly circulating clean air.
+
+10
+00:00:26,760 --> 00:00:29,240
+An entire wall of this room is an eight-story grid
+
+11
+00:00:29,240 --> 00:00:31,580
+of air filters, which can filter out particles
+
+12
+00:00:31,580 --> 00:00:33,620
+as small as a red blood cell.
+
