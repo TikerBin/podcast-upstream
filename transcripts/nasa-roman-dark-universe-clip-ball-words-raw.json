@@ -1,0 +1,926 @@
+[
+ {
+  "start": 0.0,
+  "end": 2.84,
+  "text": "We have basically no idea what's making that happen,",
+  "words": [
+   {
+    "word": " We",
+    "start": 0.0,
+    "end": 0.18,
+    "probability": 0.7722868919372559
+   },
+   {
+    "word": " have",
+    "start": 0.18,
+    "end": 0.3,
+    "probability": 0.958600640296936
+   },
+   {
+    "word": " basically",
+    "start": 0.3,
+    "end": 0.74,
+    "probability": 0.9794932007789612
+   },
+   {
+    "word": " no",
+    "start": 0.74,
+    "end": 1.22,
+    "probability": 0.9902915358543396
+   },
+   {
+    "word": " idea",
+    "start": 1.22,
+    "end": 1.62,
+    "probability": 0.9996998310089111
+   },
+   {
+    "word": " what's",
+    "start": 1.62,
+    "end": 1.94,
+    "probability": 0.9836203455924988
+   },
+   {
+    "word": " making",
+    "start": 1.94,
+    "end": 2.1,
+    "probability": 0.9969993829727173
+   },
+   {
+    "word": " that",
+    "start": 2.1,
+    "end": 2.36,
+    "probability": 0.9967871904373169
+   },
+   {
+    "word": " happen,",
+    "start": 2.36,
+    "end": 2.84,
+    "probability": 0.998299777507782
+   }
+  ]
+ },
+ {
+  "start": 3.02,
+  "end": 5.66,
+  "text": "but we had to put some kind of label on it,",
+  "words": [
+   {
+    "word": " but",
+    "start": 3.02,
+    "end": 3.62,
+    "probability": 0.9904884099960327
+   },
+   {
+    "word": " we",
+    "start": 3.62,
+    "end": 3.72,
+    "probability": 0.9989211559295654
+   },
+   {
+    "word": " had",
+    "start": 3.72,
+    "end": 3.94,
+    "probability": 0.9893918037414551
+   },
+   {
+    "word": " to",
+    "start": 3.94,
+    "end": 4.04,
+    "probability": 0.9956728219985962
+   },
+   {
+    "word": " put",
+    "start": 4.04,
+    "end": 4.16,
+    "probability": 0.9981277585029602
+   },
+   {
+    "word": " some",
+    "start": 4.16,
+    "end": 4.38,
+    "probability": 0.9992033839225769
+   },
+   {
+    "word": " kind",
+    "start": 4.38,
+    "end": 4.6,
+    "probability": 0.9925859570503235
+   },
+   {
+    "word": " of",
+    "start": 4.6,
+    "end": 4.78,
+    "probability": 0.9995735287666321
+   },
+   {
+    "word": " label",
+    "start": 4.78,
+    "end": 5.04,
+    "probability": 0.9955556988716125
+   },
+   {
+    "word": " on",
+    "start": 5.04,
+    "end": 5.3,
+    "probability": 0.9986644983291626
+   },
+   {
+    "word": " it,",
+    "start": 5.3,
+    "end": 5.66,
+    "probability": 0.9988609552383423
+   }
+  ]
+ },
+ {
+  "start": 5.8,
+  "end": 7.46,
+  "text": "and that's dark energy.",
+  "words": [
+   {
+    "word": " and",
+    "start": 5.8,
+    "end": 6.0,
+    "probability": 0.997198224067688
+   },
+   {
+    "word": " that's",
+    "start": 6.0,
+    "end": 6.52,
+    "probability": 0.9985368847846985
+   },
+   {
+    "word": " dark",
+    "start": 6.52,
+    "end": 6.88,
+    "probability": 0.8917909264564514
+   },
+   {
+    "word": " energy.",
+    "start": 6.88,
+    "end": 7.46,
+    "probability": 0.9992477893829346
+   }
+  ]
+ },
+ {
+  "start": 8.32,
+  "end": 10.68,
+  "text": "There's an analogy that you can kind of think of.",
+  "words": [
+   {
+    "word": " There's",
+    "start": 8.32,
+    "end": 8.38,
+    "probability": 0.9620392024517059
+   },
+   {
+    "word": " an",
+    "start": 8.38,
+    "end": 8.5,
+    "probability": 0.9889729619026184
+   },
+   {
+    "word": " analogy",
+    "start": 8.5,
+    "end": 8.96,
+    "probability": 0.9967124462127686
+   },
+   {
+    "word": " that",
+    "start": 8.96,
+    "end": 9.66,
+    "probability": 0.9772958159446716
+   },
+   {
+    "word": " you",
+    "start": 9.66,
+    "end": 9.8,
+    "probability": 0.9993911981582642
+   },
+   {
+    "word": " can",
+    "start": 9.8,
+    "end": 9.98,
+    "probability": 0.9962604641914368
+   },
+   {
+    "word": " kind",
+    "start": 9.98,
+    "end": 10.14,
+    "probability": 0.9654024839401245
+   },
+   {
+    "word": " of",
+    "start": 10.14,
+    "end": 10.28,
+    "probability": 0.9990471005439758
+   },
+   {
+    "word": " think",
+    "start": 10.28,
+    "end": 10.44,
+    "probability": 0.9976626634597778
+   },
+   {
+    "word": " of.",
+    "start": 10.44,
+    "end": 10.68,
+    "probability": 0.9965311884880066
+   }
+  ]
+ },
+ {
+  "start": 10.76,
+  "end": 12.52,
+  "text": "If you imagine yourself holding a ball",
+  "words": [
+   {
+    "word": " If",
+    "start": 10.76,
+    "end": 10.84,
+    "probability": 0.9884918928146362
+   },
+   {
+    "word": " you",
+    "start": 10.84,
+    "end": 10.94,
+    "probability": 0.9989330172538757
+   },
+   {
+    "word": " imagine",
+    "start": 10.94,
+    "end": 11.1,
+    "probability": 0.7919536828994751
+   },
+   {
+    "word": " yourself",
+    "start": 11.1,
+    "end": 11.54,
+    "probability": 0.996138870716095
+   },
+   {
+    "word": " holding",
+    "start": 11.54,
+    "end": 11.92,
+    "probability": 0.997697651386261
+   },
+   {
+    "word": " a",
+    "start": 11.92,
+    "end": 12.28,
+    "probability": 0.998921275138855
+   },
+   {
+    "word": " ball",
+    "start": 12.28,
+    "end": 12.52,
+    "probability": 0.9963731169700623
+   }
+  ]
+ },
+ {
+  "start": 13.0,
+  "end": 14.6,
+  "text": "and you throw the ball up in the air",
+  "words": [
+   {
+    "word": " and",
+    "start": 13.0,
+    "end": 13.4,
+    "probability": 0.7559020519256592
+   },
+   {
+    "word": " you",
+    "start": 13.4,
+    "end": 13.66,
+    "probability": 0.9984024167060852
+   },
+   {
+    "word": " throw",
+    "start": 13.66,
+    "end": 13.88,
+    "probability": 0.9982709884643555
+   },
+   {
+    "word": " the",
+    "start": 13.88,
+    "end": 14.04,
+    "probability": 0.9967061877250671
+   },
+   {
+    "word": " ball",
+    "start": 14.04,
+    "end": 14.16,
+    "probability": 0.99741530418396
+   },
+   {
+    "word": " up",
+    "start": 14.16,
+    "end": 14.32,
+    "probability": 0.9862194657325745
+   },
+   {
+    "word": " in",
+    "start": 14.32,
+    "end": 14.42,
+    "probability": 0.9925605654716492
+   },
+   {
+    "word": " the",
+    "start": 14.42,
+    "end": 14.5,
+    "probability": 0.9983465671539307
+   },
+   {
+    "word": " air",
+    "start": 14.5,
+    "end": 14.6,
+    "probability": 0.9992383718490601
+   }
+  ]
+ },
+ {
+  "start": 14.6,
+  "end": 15.8,
+  "text": "and you know that it's gonna come back",
+  "words": [
+   {
+    "word": " and",
+    "start": 14.6,
+    "end": 14.74,
+    "probability": 0.8221144080162048
+   },
+   {
+    "word": " you",
+    "start": 14.74,
+    "end": 14.88,
+    "probability": 0.9874775409698486
+   },
+   {
+    "word": " know",
+    "start": 14.88,
+    "end": 15.0,
+    "probability": 0.9989216327667236
+   },
+   {
+    "word": " that",
+    "start": 15.0,
+    "end": 15.12,
+    "probability": 0.9871001243591309
+   },
+   {
+    "word": " it's",
+    "start": 15.12,
+    "end": 15.32,
+    "probability": 0.9971487820148468
+   },
+   {
+    "word": " gonna",
+    "start": 15.32,
+    "end": 15.4,
+    "probability": 0.12000706046819687
+   },
+   {
+    "word": " come",
+    "start": 15.4,
+    "end": 15.64,
+    "probability": 0.9958699345588684
+   },
+   {
+    "word": " back",
+    "start": 15.64,
+    "end": 15.8,
+    "probability": 0.9989500641822815
+   }
+  ]
+ },
+ {
+  "start": 15.8,
+  "end": 16.72,
+  "text": "and land in your hand.",
+  "words": [
+   {
+    "word": " and",
+    "start": 15.8,
+    "end": 15.96,
+    "probability": 0.9880620241165161
+   },
+   {
+    "word": " land",
+    "start": 15.96,
+    "end": 16.12,
+    "probability": 0.9960522651672363
+   },
+   {
+    "word": " in",
+    "start": 16.12,
+    "end": 16.28,
+    "probability": 0.9967696666717529
+   },
+   {
+    "word": " your",
+    "start": 16.28,
+    "end": 16.42,
+    "probability": 0.9989725351333618
+   },
+   {
+    "word": " hand.",
+    "start": 16.42,
+    "end": 16.72,
+    "probability": 0.9977787137031555
+   }
+  ]
+ },
+ {
+  "start": 17.28,
+  "end": 18.68,
+  "text": "So this is originally what people thought",
+  "words": [
+   {
+    "word": " So",
+    "start": 17.28,
+    "end": 17.36,
+    "probability": 0.9883784651756287
+   },
+   {
+    "word": " this",
+    "start": 17.36,
+    "end": 17.52,
+    "probability": 0.8775901794433594
+   },
+   {
+    "word": " is",
+    "start": 17.52,
+    "end": 17.66,
+    "probability": 0.9980469942092896
+   },
+   {
+    "word": " originally",
+    "start": 17.66,
+    "end": 18.0,
+    "probability": 0.9932107329368591
+   },
+   {
+    "word": " what",
+    "start": 18.0,
+    "end": 18.22,
+    "probability": 0.9969537258148193
+   },
+   {
+    "word": " people",
+    "start": 18.22,
+    "end": 18.44,
+    "probability": 0.9987668991088867
+   },
+   {
+    "word": " thought",
+    "start": 18.44,
+    "end": 18.68,
+    "probability": 0.9982977509498596
+   }
+  ]
+ },
+ {
+  "start": 18.68,
+  "end": 19.72,
+  "text": "was happening with the universe,",
+  "words": [
+   {
+    "word": " was",
+    "start": 18.68,
+    "end": 18.82,
+    "probability": 0.996310293674469
+   },
+   {
+    "word": " happening",
+    "start": 18.82,
+    "end": 19.1,
+    "probability": 0.9991710186004639
+   },
+   {
+    "word": " with",
+    "start": 19.1,
+    "end": 19.3,
+    "probability": 0.9968211650848389
+   },
+   {
+    "word": " the",
+    "start": 19.3,
+    "end": 19.4,
+    "probability": 0.994502067565918
+   },
+   {
+    "word": " universe,",
+    "start": 19.4,
+    "end": 19.72,
+    "probability": 0.9311167001724243
+   }
+  ]
+ },
+ {
+  "start": 19.72,
+  "end": 21.9,
+  "text": "that it would expand out and it would come back down again.",
+  "words": [
+   {
+    "word": " that",
+    "start": 19.72,
+    "end": 19.98,
+    "probability": 0.9957519769668579
+   },
+   {
+    "word": " it",
+    "start": 19.98,
+    "end": 20.08,
+    "probability": 0.9973381161689758
+   },
+   {
+    "word": " would",
+    "start": 20.08,
+    "end": 20.18,
+    "probability": 0.9977612495422363
+   },
+   {
+    "word": " expand",
+    "start": 20.18,
+    "end": 20.54,
+    "probability": 0.9964009523391724
+   },
+   {
+    "word": " out",
+    "start": 20.54,
+    "end": 20.8,
+    "probability": 0.9974316954612732
+   },
+   {
+    "word": " and",
+    "start": 20.8,
+    "end": 20.92,
+    "probability": 0.9325127601623535
+   },
+   {
+    "word": " it",
+    "start": 20.92,
+    "end": 20.98,
+    "probability": 0.49126335978507996
+   },
+   {
+    "word": " would",
+    "start": 20.98,
+    "end": 21.08,
+    "probability": 0.6974626779556274
+   },
+   {
+    "word": " come",
+    "start": 21.08,
+    "end": 21.26,
+    "probability": 0.9966554641723633
+   },
+   {
+    "word": " back",
+    "start": 21.26,
+    "end": 21.42,
+    "probability": 0.9991426467895508
+   },
+   {
+    "word": " down",
+    "start": 21.42,
+    "end": 21.64,
+    "probability": 0.999101996421814
+   },
+   {
+    "word": " again.",
+    "start": 21.64,
+    "end": 21.9,
+    "probability": 0.9981874823570251
+   }
+  ]
+ },
+ {
+  "start": 22.92,
+  "end": 25.56,
+  "text": "But what we found was that the universe",
+  "words": [
+   {
+    "word": " But",
+    "start": 22.92,
+    "end": 23.12,
+    "probability": 0.9948976635932922
+   },
+   {
+    "word": " what",
+    "start": 23.12,
+    "end": 23.3,
+    "probability": 0.9935637712478638
+   },
+   {
+    "word": " we",
+    "start": 23.3,
+    "end": 23.66,
+    "probability": 0.9993131160736084
+   },
+   {
+    "word": " found",
+    "start": 23.66,
+    "end": 24.02,
+    "probability": 0.9986383318901062
+   },
+   {
+    "word": " was",
+    "start": 24.02,
+    "end": 24.66,
+    "probability": 0.9871723055839539
+   },
+   {
+    "word": " that",
+    "start": 24.66,
+    "end": 24.96,
+    "probability": 0.9930970072746277
+   },
+   {
+    "word": " the",
+    "start": 24.96,
+    "end": 25.14,
+    "probability": 0.9987610578536987
+   },
+   {
+    "word": " universe",
+    "start": 25.14,
+    "end": 25.56,
+    "probability": 0.9962896108627319
+   }
+  ]
+ },
+ {
+  "start": 25.56,
+  "end": 28.5,
+  "text": "was expanding faster and faster.",
+  "words": [
+   {
+    "word": " was",
+    "start": 25.56,
+    "end": 26.2,
+    "probability": 0.9985879063606262
+   },
+   {
+    "word": " expanding",
+    "start": 26.2,
+    "end": 27.14,
+    "probability": 0.9975117444992065
+   },
+   {
+    "word": " faster",
+    "start": 27.14,
+    "end": 27.78,
+    "probability": 0.9650917053222656
+   },
+   {
+    "word": " and",
+    "start": 27.78,
+    "end": 28.18,
+    "probability": 0.9978179931640625
+   },
+   {
+    "word": " faster.",
+    "start": 28.18,
+    "end": 28.5,
+    "probability": 0.99956876039505
+   }
+  ]
+ },
+ {
+  "start": 28.5,
+  "end": 30.66,
+  "text": "And so that's like if you throw a ball up in the air",
+  "words": [
+   {
+    "word": " And",
+    "start": 28.5,
+    "end": 28.72,
+    "probability": 0.42314809560775757
+   },
+   {
+    "word": " so",
+    "start": 28.72,
+    "end": 28.86,
+    "probability": 0.9824159145355225
+   },
+   {
+    "word": " that's",
+    "start": 28.86,
+    "end": 29.1,
+    "probability": 0.946714848279953
+   },
+   {
+    "word": " like",
+    "start": 29.1,
+    "end": 29.26,
+    "probability": 0.9091181755065918
+   },
+   {
+    "word": " if",
+    "start": 29.26,
+    "end": 29.4,
+    "probability": 0.8429895043373108
+   },
+   {
+    "word": " you",
+    "start": 29.4,
+    "end": 29.52,
+    "probability": 0.9988711476325989
+   },
+   {
+    "word": " throw",
+    "start": 29.52,
+    "end": 29.7,
+    "probability": 0.9974478483200073
+   },
+   {
+    "word": " a",
+    "start": 29.7,
+    "end": 29.84,
+    "probability": 0.9899663925170898
+   },
+   {
+    "word": " ball",
+    "start": 29.84,
+    "end": 29.98,
+    "probability": 0.9826169610023499
+   },
+   {
+    "word": " up",
+    "start": 29.98,
+    "end": 30.16,
+    "probability": 0.9973408579826355
+   },
+   {
+    "word": " in",
+    "start": 30.16,
+    "end": 30.28,
+    "probability": 0.9985029697418213
+   },
+   {
+    "word": " the",
+    "start": 30.28,
+    "end": 30.4,
+    "probability": 0.9996259212493896
+   },
+   {
+    "word": " air",
+    "start": 30.4,
+    "end": 30.66,
+    "probability": 0.9973456263542175
+   }
+  ]
+ },
+ {
+  "start": 30.66,
+  "end": 32.74,
+  "text": "and then it shoots away from you",
+  "words": [
+   {
+    "word": " and",
+    "start": 30.66,
+    "end": 31.5,
+    "probability": 0.7048704624176025
+   },
+   {
+    "word": " then",
+    "start": 31.5,
+    "end": 31.62,
+    "probability": 0.9923475980758667
+   },
+   {
+    "word": " it",
+    "start": 31.62,
+    "end": 31.76,
+    "probability": 0.9966226816177368
+   },
+   {
+    "word": " shoots",
+    "start": 31.76,
+    "end": 32.02,
+    "probability": 0.9967573285102844
+   },
+   {
+    "word": " away",
+    "start": 32.02,
+    "end": 32.34,
+    "probability": 0.9992263317108154
+   },
+   {
+    "word": " from",
+    "start": 32.34,
+    "end": 32.56,
+    "probability": 0.998581051826477
+   },
+   {
+    "word": " you",
+    "start": 32.56,
+    "end": 32.74,
+    "probability": 0.9969658255577087
+   }
+  ]
+ },
+ {
+  "start": 32.74,
+  "end": 34.12,
+  "text": "faster and faster and faster.",
+  "words": [
+   {
+    "word": " faster",
+    "start": 32.74,
+    "end": 33.08,
+    "probability": 0.7685433030128479
+   },
+   {
+    "word": " and",
+    "start": 33.08,
+    "end": 33.32,
+    "probability": 0.9179264903068542
+   },
+   {
+    "word": " faster",
+    "start": 33.32,
+    "end": 33.58,
+    "probability": 0.9985162615776062
+   },
+   {
+    "word": " and",
+    "start": 33.58,
+    "end": 33.8,
+    "probability": 0.96988844871521
+   },
+   {
+    "word": " faster.",
+    "start": 33.8,
+    "end": 34.12,
+    "probability": 0.9988744854927063
+   }
+  ]
+ },
+ {
+  "start": 34.46,
+  "end": 35.96,
+  "text": "It's very counterintuitive.",
+  "words": [
+   {
+    "word": " It's",
+    "start": 34.46,
+    "end": 34.66,
+    "probability": 0.9956015646457672
+   },
+   {
+    "word": " very",
+    "start": 34.66,
+    "end": 35.16,
+    "probability": 0.9992043375968933
+   },
+   {
+    "word": " counterintuitive.",
+    "start": 35.16,
+    "end": 35.96,
+    "probability": 0.8419506847858429
+   }
+  ]
+ },
+ {
+  "start": 36.22,
+  "end": 37.8,
+  "text": "People weren't expecting this result.",
+  "words": [
+   {
+    "word": " People",
+    "start": 36.22,
+    "end": 36.34,
+    "probability": 0.9976598024368286
+   },
+   {
+    "word": " weren't",
+    "start": 36.34,
+    "end": 36.76,
+    "probability": 0.9976340234279633
+   },
+   {
+    "word": " expecting",
+    "start": 36.76,
+    "end": 37.2,
+    "probability": 0.9995675683021545
+   },
+   {
+    "word": " this",
+    "start": 37.2,
+    "end": 37.5,
+    "probability": 0.9985713958740234
+   },
+   {
+    "word": " result.",
+    "start": 37.5,
+    "end": 37.8,
+    "probability": 0.9934013485908508
+   }
+  ]
+ }
+]

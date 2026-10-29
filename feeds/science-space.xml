@@ -5,7 +5,7 @@
 <link>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main</link>
 <description>主题 science-space（科学/太空）的待制作播客条目，GUID 与总 feed 完全一致。</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 01:43:15 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 01:23:30 +0000</lastBuildDate>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/feeds/science-space.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Their Mars window is a TV — clip from Encore: A Year In Mars Dune Alpha</title>
@@ -1093,6 +1093,423 @@ If you enjoyed this episode of NASA’s Curious Universe, let us know! Leave us 
 <_collected_at_beijing>2026-10-28</_collected_at_beijing>
 <_audio_verified>HEAD 跟随重定向得 audio/mpeg + 46718383 字节；整文件下载后 ffprobe 时长 1934.811 秒、字节数一致，ffmpeg 全量解码零报错</_audio_verified>
 <_child_clip_guid>urn:podcast:nasa.gov:curious-universe:roman-engineering:clip:cleanroom:424.7-458.4</_child_clip_guid>
+</item>
+<item>
+<title>Dark energy, explained with a thrown ball — clip from Roman Series: NASA’s New View of the Dark Universe (1363.9-1401.8s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/roman-series-nasas-new-view-of-the-dark-universe/</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:roman-dark-universe:clip:ball:1363.9-1401.8</guid>
+<pubDate>Tue, 11 Aug 2026 13:08:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-roman-dark-universe-clip-ball.mp3" length="849743" type="audio/mpeg"/>
+<itunes:duration>38</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】我们对暗能量几乎一无所知，只好先给它贴个标签：想象把球抛向空中，本以为它会落回手中——这就是人们原以为宇宙会做的事；结果却是宇宙越胀越快，球越飞越远、越来越快。这很反直觉，也出乎所有人意料。
+【Reels 角度】暗能量先贴标签、再用抛球讲清：本以为抛出去会落回，结果越飞越快——反直觉，才是关键。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; none of the episode's music cues appears in this speech segment (between Pressurization Trailer and Tentative Surge cues in the official transcript).
+【来源】https://www.nasa.gov/podcasts/curious-universe/roman-series-nasas-new-view-of-the-dark-universe/
+【采集日（北京时间）】2026-10-29
+【发布时间精度】exact（Inherits parent original publish date (Megaphone RSS Tue, 11 Aug 2026 13:08:00 -0000); clip itself was modelled 2026-10-29 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:roman-dark-universe
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/roman-series-nasas-new-view-of-the-dark-universe/
+【片段】原集 1363.9-1401.8 秒，37.9 秒，原声，未加 BGM，文件：clips/nasa-roman-dark-universe-clip-ball.mp3]]></description>
+<content:encoded><![CDATA[We have basically no idea what's making that happen, but we had to put some kind of label on it, and that's dark energy. There's an analogy that you can kind of think of. If you imagine yourself holding a ball and you throw the ball up in the air and you know that it's going to come back and land in your hand. So this is originally what people thought was happening with the universe, that it would expand out and it would come back down again. But what we found was that the universe was expanding faster and faster. And so that's like if you throw a ball up in the air and then it shoots away from you faster and faster and faster. It's very counterintuitive. People weren't expecting this result.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>roman-dark-universe-clip-ball</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/roman-series-nasas-new-view-of-the-dark-universe/</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-10-29</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 37.900s / 849743 bytes (ffmpeg cut from verified full MP3 in this run, 2026-10-29); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-roman-dark-universe-clip-ball.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-roman-dark-universe-clip-ball.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-roman-dark-universe-clip-ball-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-roman-dark-universe-clip-ball-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:roman-dark-universe</_parent_guid>
+<_parent_id>nasa-curious-roman-dark-universe</_parent_id>
+<_clip_start_s>1363.9</_clip_start_s>
+<_clip_end_s>1401.8</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>Roman Series: NASA’s New View of the Dark Universe</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/roman-series-nasas-new-view-of-the-dark-universe/</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:roman-dark-universe</guid>
+<pubDate>Tue, 11 Aug 2026 13:08:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:full-episode</category>
+<category>production:text-script</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION4133606527.mp3" length="55723277" type="audio/mpeg"/>
+<itunes:duration>2310</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】full-episode, text-script
+【摘要】以 Nancy Grace Roman 的生平开场（从被劝阻学数学的女生到 NASA 首任天文主管、推动哈勃上天，被称为“哈勃之母”），再讲 Roman 望远镜本身：视场是哈勃 100 倍、巡天速度约 1000 倍，将观测逾 10 亿个星系、编目数千颗系外行星；核心科学是暗能量之谜——宇宙膨胀在加速（Alina Kiessling 的抛球比喻），Roman 将用超新星、引力透镜与原初声波印记做三维宇宙图，检验暗能量是否随时间变化；OpenUniverse 超算模拟宇宙先行排练；结尾落到“发现机器”：20 亿个星系中必有百万分之一的意外。
+【Reels 角度】先给“视场 100 倍、巡天速度约 1000 倍”的体量，再用抛球比喻讲清暗能量（本以为会减速回落，结果越胀越快），最后落到 20 亿个星系里的意外发现。
+【许可证】Public domain：美国联邦政府作品（NASA 官方播客），一般不受版权保护
+【权利说明】可剪辑/再分发，不得暗示 NASA 背书；本集文字稿中标有音乐 cue（Curiosity 主题曲、New Development、Great Expectations、Social Progress、Goals and Objectives、Scientific Progress、A Delicate Machine、Machines Made This、Pressurization Trailer、Tentative Surge、Gene Sequencing、Ancient Starlight、Beyond Our Imagination、Points of Light），正式发布前需逐项再核片段内音乐；本批 ready-clip 已核为原声讲话段、未加 BGM。
+【来源】https://www.nasa.gov/podcasts/curious-universe/roman-series-nasas-new-view-of-the-dark-universe/
+【采集日（北京时间）】2026-10-29
+【发布时间精度】exact（NASA Curious Universe Megaphone RSS: Tue, 11 Aug 2026 13:08:00 -0000）
+【子片段 GUID】urn:podcast:nasa.gov:curious-universe:roman-dark-universe:clip:ball:1363.9-1401.8]]></description>
+<content:encoded><![CDATA[[Music: Curiosity by SYSTEM Sounds]
+
+HOST PADI BOYD: You’re listening to NASA’s Curious Universe. I’m Padi Boyd.
+
+HOST JACOB PINTER: And I’m Jacob Pinter. NASA is launching a new space telescope that will change the way we see the universe. It’s called the Nancy Grace Roman Space Telescope.
+
+PADI: Roman will study some of the biggest mysteries out there, answering questions about how the universe has changed over time, what’s driving its expansion, and the worlds that exist beyond our solar system. Roman has a unique ability to survey vast areas of space with incredible speed and detail. It will collect huge amounts of data, including more than a billion galaxies, and help discover thousands of planets orbiting distant stars. Roman will join other space telescopes, including Hubble and Webb. It builds on NASA’s technology and know-how that have shaped our view of the cosmos for decades.
+
+[Music: New Development by Frederic Sans]
+
+JACOB: In this episode: what Roman will see with its wide view of the universe. We’ll dive into dark energy, which is a huge puzzle for scientists. Roman is designed to look for answers. And we’ll meet the woman who literally got NASA astronomy off the ground. Now her name is on NASA’s new telescope.
+
+At first, the Roman Space Telescope was not named “Roman”. It had a different name: WFIRST, an acronym for Wide Field Infrared Survey Telescope, which basically describes what it can do. In 2020, NASA officials announced that it was getting a new name.
+
+THOMAS ZURBUCHEN (Former Associate Administrator, NASA Science Mission Directorate): The person we want to rename this after is a person who had huge influence in all of astronomy and space. It's a person who imagined the influence of space astronomy before others even thought that that's possible. And that's why today I'm so excited that we can rename this telescope, for it to become the Nancy Grace Roman Space Telescope.
+
+To set the stage for Roman, the telescope, we’re going to spend some time learning about Nancy Grace Roman, the person.
+
+INTERVIEWER: This oral history is being conducted with Dr. Nancy Roman in her home in Chevy Chase, Maryland ... (fades out)
+
+PADI: She was a trailblazer. She joined NASA at the ground floor, at the very beginning. And for decades, she worked behind the scenes to make the Hubble Space Telescope a reality and to show us the universe in ways we had never seen it before.
+
+INTERVIEWER: You’ve had such a distinguished career with NASA. We want to hear about all those times and experiences that you’ve had. But we’d like to start today by you providing us some of your background and how you got started.
+
+NANCY GRACE ROMAN: OK. To start with, I’m trying to use my double name again, Nancy Grace. I will answer either way, and I have to admit most people don’t use it. But I’m trying.
+
+[Music: Great Expectations by Brice Davoli]
+
+PADI: Nancy Grace Roman was born in 1925. When she was growing up, her family moved around. In Michigan she saw the northern lights. At their house in Nevada, Roman learned constellations from her mother.
+
+ROMAN: We were the last house on the street. There were no houses across from us, an empty lot behind us, a ranch on the other side of us. So we had a really clear, dark sky, and I wouldn’t be surprised if that had a major influence on my being interested in astronomy. I don’t really know when I started. Most kids, or at least many kids, are interested in astronomy at the age of, oh, 11 or 12, and I just never outgrew it. It was as simple as that.
+
+PADI: When Roman was going to school in the 1930s and ‘40s, there were not many women in astronomy. Plenty of people told her she shouldn’t even bother.
+
+JACOB: In high school, Roman took Latin for years. Going into her senior year, she told her guidance counselor that she wanted to add algebra and skip a fifth year of Latin. And she never forgot the counselor’s reaction.
+
+ROMAN: And the guidance counselor looked at me. My memory of—visions of her, I’m sure is exaggerated, but she seemed about ten feet tall, looked down her nose at me. “What lady would take mathematics instead of Latin?” which was about as obvious as you could get. [Laughter]
+
+PADI: But Roman took algebra and kept taking math. She earned a bachelor’s degree, a Ph.D., and then a research position at a famous observatory. And it was not always easy. Even when her professors or colleagues had a kind word for Roman, sometimes it came as a backhand compliment.
+
+ROMAN: The first encouragement that I got was in my junior year at college when the head of the physics department came up to me in lab one day and said, “You know, I usually try to talk women out of going into physics, but I think maybe you might make it.” That was my first encouragement.
+
+JACOB: In her first job, which was part of a university physics department, Roman learned the men she worked with made more money than she did—a lot more. She also didn’t think she would get tenure, so she left.
+
+PADI: She joined the government as an astronomer at the Naval Research Laboratory, and Nancy Grace Roman’s hard work began to pay off. Her research on a particular kind of star caught the attention of scientists around the world.
+
+JACOB: Many years later, an interviewer asked Roman if being stubborn kept her going.
+
+INTERVIEWER: Would you have considered yourself stubborn, and that's why you just kept persevering, or ... ?
+
+ROMAN: Yes. I think if I hadn't been stubborn, I'd been talked out of it years earlier.
+
+[Music: Social Progress by Brice Davoli]
+
+JACOB: A few years later, a new door opened.
+
+NARRATOR OF “25 YEARS OF PROGRESS”: The Space Act is signed into law by President Eisenhower on July 29, 1958, and on October 1, 1958, NASA comes into being.
+
+PADI: The U.S. government wanted to explore space, so it created the National Aeronautics and Space Administration: NASA.
+
+UNIDENTIFIED VOICE: They simply said that we were to pursue the development of activities in space for the benefit of all mankind.
+
+JACOB: Now, you know what came next.
+
+PADI: Moon landings. Space telescopes. Rovers on Mars.
+
+JACOB: But try to imagine what it felt like to be there at the very beginning. There was an office, a big dream, and a whole lot of work to do.
+
+PADI: A former colleague asked Nancy Grace Roman if she would be interested in creating NASA’s astronomy program. She wasn’t sold—not at first.
+
+ROMAN: But I finally decided that the challenge of starting with a completely clean slate and mapping out a program that would influence astronomy for fifty years was just more than I could turn down.
+
+PADI: That’s how Nancy Grace Roman became NASA’s first chief of astronomy and its first female executive. From the beginning, scientists saw huge opportunities with NASA. You can learn a lot about the universe from telescopes on the ground, but there are limits. Roman says looking through Earth’s atmosphere is something like looking through a stained glass window.
+
+ROMAN: The window has dust on it, so the background is kind of scattered and bright. Next, the glass is colored so that you only see certain colors through it. You only see certain colors through the atmosphere. And we were anxious to see some of the other colors from the universe. And finally, the atmosphere—the glass has defects in it, and that sort of keeps you from getting a sharp picture.
+
+NARRATOR OF “SEAS OF INFINITY”: Yes, it is beyond the air that we must go if we seek a clearer image of the heavens.
+
+JACOB: In the 1960s and ‘70s, NASA made its first attempts to put a telescope in space. It launched a series of four telescopes in a program called OAO: Orbiting Astronomical Observatory.
+
+NARRATOR OF “SEAS OF INFINITY”: When it has been placed in an orbit 500 miles beyond the Earth, this space observatory will give us eyes to see into regions until now invisible to man.
+
+JACOB: The very first OAO satellite, launched in 1966, actually failed once it reached space. But two of the four satellites were successful. They took valuable measurements, especially in ultraviolet light, which Earth’s atmosphere mostly blocks from telescopes on the ground.
+
+PADI: NASA learned a lot from these early space telescopes, and astronomers began to dream even bigger. They wanted to put a more powerful telescope in space. This would eventually become the Hubble Space Telescope, and Nancy Grace Roman was right there from the beginning.
+
+[Music: Goals and Objectives by Eric Chevalier]
+
+ROMAN: My role in Hubble was as program scientist, and that means that I basically tried to sell the program. Did other things too, but my major effort was trying to convince people that it was very well worth doing
+
+PADI: This all started in the sixties, when a group of scientists suggested building a big space telescope.
+
+JACOB: Actually, at the beginning the name of the project was just “Large Space Telescope”. And the details took some ironing out. Some NASA officials saw this as an opportunity for astronauts. They imagined astronauts riding along with the telescope, looking into it and reporting back to Earth.
+
+PADI: Scientists did not like this idea. For one, the astronaut would need to breathe air. The whole point was to put the telescope where there was no air.
+
+ROMAN: Secondly, the man would wiggle. And I don't care how much he tried to stay still, no man or woman is going to sit for an hour without moving. And once he moves in a satellite, the telescope is going to move in the opposite direction. So I definitely knew that the astronomers did not want the man to ride around with it.
+
+PADI: Over the years, the telescope took shape. There were constantly questions to answer and hurdles to get past.
+
+JACOB: How big would the telescope be? Where would the money come from? Who would handle the data and share them with scientists? Behind the scenes, Nancy Grace Roman was a steady hand, keeping the mission moving forward.
+
+ROMAN: So what I did was to bring together a collection of astronomers from all over the country and some NASA engineers and get them to sit down together and come up with something that the engineers thought would work and that the astronomers thought would do their job.
+
+JACOB: Nancy Grace Roman retired as NASA’s chief of astronomy in 1979. At the time, she was taking care of her mother, and she needed to spend more time at home.
+
+PADI: By that point, Hubble was well on its way to the launch pad. And in 1990 ...
+
+[Music: Scientific Progress by Thomas Gallicani]
+
+LAUNCH ANNOUNCER: ... And liftoff of the space shuttle Discovery with the Hubble Space Telescope, our window on the universe.
+
+UNIDENTIFIED VOICE: Congratulations on a super mission. And the world is looking forward to reaping the benefits of your good work over the next 15 years.
+
+JACOB: That was actually 36 years ago.
+
+PADI: Since then, Hubble has changed our fundamental understanding of the universe. Its data have been cited in tens of thousands of research papers and counting.
+
+JACOB: And even for those of us without Ph.D.s, Hubble images spark our imaginations and make us wonder what’s out there.
+
+CHARLES BOLDEN: My favorite image is the deep field image.
+
+JENNIFER WISEMAN: My imagination goes wild. I wonder what it would be like to visit ...
+
+BOLDEN: Galaxies with billions of stars and billions of planets ...
+
+MICHELLE THALLER: Spiral galaxies or kind of blobby elliptical galaxies. They’re actually beautiful little galaxies in and of themselves ...
+
+BOLDEN: ... because it’s one that tells an incredible story about our universe.
+
+PADI: Inside the space agency, people didn’t forget who made it happen. Another NASA official who led the Hubble program nicknamed Nancy Grace Roman “the mother of Hubble”.
+
+JACOB: Years ago, when a senator was asking tough questions about Hubble’s budget, Roman did some quick math to explain why it was worthwhile.
+
+ROMAN: My answer was that for the cost of a night at the movies, every American taxpayer would have 15 years of exciting discoveries. And I may have been off by a factor of three or four, but even if it ended up being one night at the movies every year, I think Hubble has been worth it.
+
+[Music: A Delicate Machine by Jay Price]
+
+JACOB: Nancy Grace Roman died in 2018. She was 93 years old. She left behind a huge legacy. A few years ago, she was even made into a Lego for a “women of NASA” set.
+
+PADI: That happened during her lifetime, and I actually got to celebrate with her and the entire Hubble team. There are still legendary stories about Roman taking copious notes, asking difficult questions, and even knitting during meetings.
+
+JACOB: Outside the clean room where the Roman Space Telescope was built, there’s a photo of Nancy Grace Roman.
+
+PADI: We see her from behind. She has striking white hair, and she’s wearing a beautiful dark blue dress.
+
+JACOB: She’s looking up at NASA’s James Webb Space Telescope, right into its huge, gold mirrors. I always wonder what she was thinking right then, standing so close to one of the telescopes that would carry on Hubble’s legacy and continue to reveal new details about the universe. I do know how she felt about Hubble. Late in her life, Roman recalled seeing one of Hubble’s many, many images of space.
+
+ROMAN: And this was a picture that was taken for engineering purposes. It was not a science picture at all. And just looking at that—with the various colored stars and the whole field just covered with these little colored dots—just blew my mind. That's about all I can say about it.
+
+JOSH SCHLIEDER: When the name became the Nancy Grace Roman Space Telescope, it really took me back, and I was like, "Oh, I recognize that name.”
+
+PADI: This is Josh Schlieder. He’s a NASA scientist.
+
+JOSH: I got my Ph.D. in 2011, trying to identify new nearby young stars in the local part of the galaxy. But in the process I had actually read papers that Nancy Grace Roman wrote in, like, the 1940s and 1950s because she, too, studied nearby young stars.
+
+JACOB: Today, Josh is on the project science team for the Roman Space Telescope. He’s going to help us understand what Roman can do. But he says scientists today—and really, all of us who are curious about the universe—owe a debt to the woman whose name is on the telescope.
+
+JOSH: Without Dr. Nancy Grace Roman and her time at NASA Headquarters and really pushing for NASA to become an agency that prioritizes and works on putting large telescopes in space to do science, we would not be anywhere near where we are today in terms of our general understanding of the universe at large and our place within it.
+
+PADI: To understand what makes Roman special—the secret sauce that sets it apart from other telescopes—let’s go back to its original name. Before it was Roman, it was called the Wide Field Infrared Survey Telescope. Roman’s view of the universe is not only deep. It’s wide. Roman will see large parts of the sky, all at once.
+
+JOSH: So if there's anything that I want you and the listeners out there to take away from this conversation about the Roman Space Telescope, it is that Roman is a survey telescope. It's designed to do large scale surveys.
+
+PADI: Roman will lift off from Earth’s surface and travel about a million miles into space. From there, it will spend much of its time methodically scanning parts of the sky.
+
+JACOB: You might have done something similar, if you’ve ever tried to take a panoramic photo. If something is in front of you that’s too big to fit in your camera frame, you can take a photo of a small piece of it. Then move your camera and take another photo, and keep repeating until you have a series of images that you can combine into one complete picture.
+
+PADI: That’s what Roman will be doing in space. What makes Roman so powerful is that its field of view is at least 100 times larger than Hubble’s, and it can also move between observations more quickly than Hubble can.
+
+JOSH: It means that Roman can perform surveys and tile over the sky at a rate—it's about a thousand times faster than Hubble could do it. So we're not talking about Roman doing science that is, you know, just bigger field of view, more sky in one shot than Hubble can do. It's really designed to do science that Hubble can't do.
+
+[Music: Machines Made This by Brian Colin Burrows]
+
+JACOB: Now, Hubble is not going anywhere. Roman is designed to work together with NASA’s other telescopes. Roman has two instruments on board, and it will constantly send us images and an absurd amount of data. Josh is the deputy senior project scientist for Roman’s Wide Field Instrument. With that wide field of view, Roman will give us new information about our own Milky Way Galaxy.
+
+JOSH: And so Roman’s Wide Field Instrument will perform a survey looking toward the center of our galaxy, where there's a very, very large density of stars ...
+
+JACOB: Roman will look for planets in an area with about 200 million stars. And it won’t just look once. It will measure those stars every 12 minutes to look for changes over time that otherwise we wouldn’t see.
+
+JOSH: ... to construct a plot of brightness versus time, and then you can look ...
+
+PADI: Roman will also look beyond our own Milky Way galaxy, to everything else out there.
+
+JOSH: ... where we're observing large numbers of galaxies to measure their properties ...
+
+PADI: ... which is expected to shed light on one of the biggest mysteries in all of physics. More on that in a second.
+
+JACOB: Roman will also survey nearby galaxies and replicate one of Hubble’s most famous images by just staring into the cosmos for a long time.
+
+JOSH: And, you know, other flavors of astrophysics that are really well suited to Roman's wide field survey capability.
+
+PADI: In all, Roman is expected to observe more than a billion galaxies. It will catalog thousands of planets beyond our solar system.
+
+JACOB: There’s a really crazy analogy to put into perspective just how much detail Roman will see. Imagine a 4K TV. A really big one—like, the biggest one you’ve ever seen. No matter what you’re imagining, it’s still not big enough. To fully display Roman’s largest survey, you would need a 4K TV as big as 45 city blocks or big enough to cover El Capitán in Yosemite National Park.
+
+JOSH: What we get out of that is every single image is like a sky panorama with all kinds of interesting things to take a look at.
+
+PADI: So you can see why scientists are excited. All of that data will help us puzzle out some of our biggest questions about the universe.
+
+JACOB: In another episode of this series, we explain more about what it means for exoplanet research, the study of planets outside our solar system, that orbit faraway stars.
+
+PADI: One major mystery that Roman is designed to answer involves the structure of the universe. When scientists map the cosmos, they see that galaxies are not randomly distributed across the sky. There are huge sheets of matter connected by thin strands called filaments.
+
+JOSH: To paint a picture, if you could step way, way back and just look at the universe and see the distribution of galaxies, it kind of looks like a cobweb that you would see up in the corner of your attic or your basement, and we call it literally the cosmic web.
+
+JACOB: The driving forces behind that structure are called dark matter and dark energy.
+
+[Music: Pressurization Trailer by JC Lemay]
+
+If you don’t understand what those are, don’t worry. You’re not alone. To make sense of this dark universe, I called a NASA scientist named Alina Kiessling.
+
+[to Alina] Dark energy is just so strange for most of us that I want to start really at like square zero, if that's OK.
+
+ALINA KIESSLING: Absolutely.
+
+JACOB: What is dark energy? Or what isn't dark energy? Like, I'm not even sure what the right first question is to ask.
+
+ALINA: So dark energy is the name that we give to our ignorance of what is causing the universe to accelerate in its expansion.
+
+JACOB: Scientists have known for about a hundred years that the universe is expanding. That’s not something that affects your daily life, but if you want to know how the universe began—and how it will ultimately end in billions of years—it’s something you need to know. So, we can see regular matter, which is what makes up stars and planets and you and me.
+
+PADI: We can also detect dark matter. Even though it doesn’t interact with normal matter, it has gravity. We can see those effects.
+
+JACOB: For a long time, scientists assumed that the gravity from all the normal matter and dark matter would make the expansion of the universe slow down.
+
+PADI: In the 1990s, they learned that is not the case. The universe is not only expanding—the expansion is getting faster. We have basically no idea what’s making that happen, but we had to put some kind of label on it. And that’s dark energy.
+
+ALINA: There's an analogy that you can kind of think of. If you imagine yourself holding a ball and you throw the ball up in the air and you know that it's going to come back and land in your hand—so this is originally what people thought was happening with the universe, that it would expand out and it would come back down again. But what we found was that the universe was expanding faster and faster, and so that's like if you throw a ball up in the air and then it shoots away from you faster and faster and faster. It's very counterintuitive. People weren't expecting this result.
+
+JACOB: This was so ground-breaking that it led to a Nobel Prize in Physics for two teams of scientists who figured it out at the same time. The Hubble Space Telescope was also a key player, although they don’t give medals to telescopes. Hubble observations of a particular type of exploding star helped astronomers measure the distances to faraway galaxies, and with those measurements they could figure out how much the universe was expanding. Before Hubble, dark energy was something nobody expected. Now it’s a huge priority for people like Alina.
+
+ALINA: We just know so little about it. We understand what it's doing. We understand that it's causing the universe to accelerate in its expansion, to get faster and faster as it's expanding, but we really know nothing else. So, while you asked me to start at ground zero and give you the five-minute introduction, I think you and your listeners now know as much about dark energy as most of the scientists.
+
+PADI: Roman will shed some light on dark energy in a few ways.
+
+[Music: Tentative Surge by Jan Telegra]
+
+It will measure the same types of exploding stars that led to the discovery of dark energy in the first place—but boatloads more. It will take advantage of wrinkles in the fabric of space-time, which magnify galaxies that are really far away. And it will detect the imprint of primordial sound waves that have lingered almost from the birth of the universe itself.
+
+With all of that information, Roman will make detailed, 3D maps of the universe. One of the big questions about dark energy is, has it changed and is it still changing over time? Roman will help us get closer to that answer. There are already signs that dark energy might clash with our existing standard model of the universe. Physicists might have to go back to the drawing board and figure out a new model—a new way of describing really basic properties of the universe. This is the kind of thing that astronomers get jazzed about.
+
+ALINA: I think universally all the scientists that I work with are very excited by the prospect of there being something that we don't yet understand. So I'm not saying that we'll definitely find this. There's still a chance that we would find that dark energy is constant, that the standard model of cosmology is actually correct. But if we do find something that is not the standard model, that's super exciting, potentially Nobel Prize-winning science.
+
+JACOB: At this point, I should tell you a little more about Alina Kiessling. She works at NASA’s Jet Propulsion Laboratory in California, and she is a particular type of astronomer called a cosmologist. Those are the folks who look at the structure of the universe and how it began and how it will ultimately end.
+
+For a project as big as Roman, it really takes a village. Alina is part of a whole community of scientists who have been preparing for years. She started working on Roman in 2012. Once Roman launches, all those scientists will have years’ more work ahead of them. The survey data will reveal objects that are so far away or so hard to detect that scientists can just barely make them out.
+
+ALINA: We have to measure these very, very tiny galaxies. These are a couple of pixels that are kind of fuzzy at best on the sky, and we're trying to measure the shape of these galaxies exceptionally precisely.
+
+JACOB: Think back to that gigantic 4K screen—the one as big as the side of a mountain. Scientists will comb through every pixel, squeezing out as much information as they can.
+
+ALINA: And so it takes a really long time for the scientists to—what's the word—perfect the techniques to do these analyses.
+
+[Music: Gene Sequencing by Al Lethbridge]
+
+PADI: Alina is the principal investigator for a project called OpenUniverse, which is one of the tools to practice these techniques. OpenUniverse uses a supercomputer to simulate the entire universe—or at least what we know so far.
+
+ALINA: Including everything that we know about what galaxies look like, how they're distributed on the sky, and all the time we're updating and improving the models of what the universe looks like, so that those simulations of the galaxy catalogs look as close to reality as possible.
+
+JACOB: Once they have their supercomputer universe, scientists rehearse looking at it. They use the specs and technical details from Roman to understand exactly how their simulated universe would look through the telescope’s eyes.
+
+ALINA: And this is really important part, because the telescopes introduce distortions or changes to the image in ways that we have to understand when we're trying to make these very, very precise measurements. And so we're able to do that, they can—the telescope optics, like the mirrors, can actually change the colors of things that we're seeing, or the shapes, so we really need to understand what's going on there.
+
+PADI: The OpenUniverse team has published some of its simulated images. You can go on NASA’s website and see videos with five years of simulated observations.
+
+JACOB: Another scientist who worked on the project called it “the largest, deepest, most realistic synthetic survey of a mock universe available today.”
+
+PADI: But no matter how good the simulation is, it will soon be overshadowed by the real thing. After years of preparation, Roman will show us surprises in the real universe that the simulation could never predict.
+
+ALINA: It's very surreal. So, how does it feel to work on something that almost feels theoretical? Because I'm not physically touching any of the hardware, I'm just thinking about the science. And it's very strange to think of this shift that we're going to have from “Theoretically what is Roman going to see?” to “This is what Roman sees.”
+
+JACOB: Whenever I hear people talk about their work on these NASA projects that take years or decades of their career, I always think, “I don't know if I could do that.” Like, I don't know if I'm built for that. Do you ever have moments when it's just hard to keep that focus or you even get discouraged or frustrated or anything like that?
+
+ALINA: This is such a dynamically changing field that it's really easy to stay engaged for long periods of time, and also you get to know the people that you're working with across the world really well, and so you're working with a huge cohort of people that become your really great friends, and you have really lively debates about what to do next. There are times when you have a particularly challenging problem that takes you weeks, months to solve, and it can become a little discouraging, but it's also the payoff when you resolve that problem. You just feel so elated that it's why you keep going.
+
+[Music: Ancient Starlight by Al Lethbridge]
+
+JACOB: Alina is one half of a NASA power couple. So when she talks about making bonds with other astronomers, she really means it. Her husband Jason is also a cosmologist. He also works at NASA's Jet Propulsion Laboratory, and he also works on Roman. In fact, if you want a Curious Universe deep cut, you can hear him talking about dark matter and dark energy in an episode from a few years ago.
+
+As Roman was about to be packed up and sent to the launch site, there was a friends and family day where people who worked on the mission could give it one last look. Alina and Jason have one-year-old twins. Alina stayed home with them, and Jason went to say goodbye to Roman.
+
+ALINA: My husband was able to take our five-year-old. They've got such lovely photos of the two of them in front of the telescope. I mean, you can't be in the clean room. It was in the viewing gallery, which the five-year-old was deeply incensed about. She thought she was going to be allowed to go up and touch it.
+
+JACOB: [laughs]
+
+ALINA: Yeah.
+
+JACOB: Alina and Jason first met working together on another space telescope. That one is called Euclid. Euclid was built by the European Space Agency with NASA contributions, and it launched in 2023. Alina has actually been working for that one even longer. She started in 2006. We don’t have time to fully go into Euclid here, but it is also a powerful telescope that will work closely with Roman to investigate dark energy and other big mysteries. Anyway, seeing Euclid leave this planet was a powerful experience.
+
+[Music: Beyond Our Imagination by Timothy James Cornick and Matthew Jacob Loveridge]
+
+ALINA: It was probably one of the more emotional things that I've ever experienced in my life. It's visceral. It's very physical. You're miles away. You can't get super close, but the sound is physical. It just washed through your whole body. It was very, very loud, and you could feel your whole body vibrating. And watching it go up, honestly I had tears in my eyes. This telescope, Euclid, that I'd been working on for about 20 years had had gone up into space and successfully launched, and it was a beautiful moment. So everybody should try to watch a rocket launch one day.
+
+JACOB: For Roman, Alina expects to feel that all over again. She and Jason are both traveling to the launch, and they will not be alone.
+
+ALINA: We're planning on taking the whole family down. My five-year-old's old enough now to understand what's going on, and so we'll be able to bring our five-year-old along and really share that experience, and we can tell the one-year-olds about it later. (laughs)
+
+PADI: Now, at the time this episode comes out, launch of the Roman Space Telescope is so close. It’s coming, but it’s not here yet. And for the people working on this telescope, including Josh Schlieder, it’s not time to celebrate just yet.
+
+JACOB: What does it feel like to be kind of in this moment right now?
+
+JOSH: I mean, if I'm brutally honest: tired. It feels tiring. But it's also like there's a lot of anticipation.
+
+JACOB: Even in the home stretch before launch, the Roman team is not sitting still. When I talked to Josh, he was fresh off a test that rehearsed the process of bringing Roman online once it’s in space.
+
+PADI: Roman will be the latest tool in NASA’s toolbox, but it won’t work alone. Roman will tag-team with other observatories, including Hubble and the James Webb Space Telescope.  We’ll uncover a clearer picture of the universe from this fleet of telescopes, including the survey data coming from Roman.
+
+JOSH: We can feed that back into Hubble. We can go observe it in the ultraviolet, where Roman has no sensitivity. We can feed it into the James Webb Space Telescope, which goes deeper into the infrared, beyond Roman's wavelength range, and has a larger aperture to get much more sensitive measurements. And both Hubble and Webb, and many other telescopes on the ground and in space—they have these complementary capabilities that I think Roman will really be a discovery machine, and finding interesting things out there in the universe, and then those interesting things will filter down and become targets for individual study with all these other observatories.
+
+JACOB: On another level, Roman’s images will be beautiful.
+
+[Music: Points of Light by Jay Woods]
+
+Hubble and Webb have the power to spark our imaginations, even if most of us don’t understand all the science contained in those images. What will it mean when we see images that are 100 times wider than Hubble? Even though we have simulations, we won’t know until we see the real thing.
+
+JOSH: Every single image is going to be a sea of stars and galaxies. And we kind of have a sense of what that will look like, but I think seeing the real thing will just touch a different nerve. It'll be the real deal. It'll be a real image of something out there in the universe, a real sky scene, and you know it'll be the first time we've ever seen it in this way.
+
+PADI: Roman will try to answer science questions from the telescopes that came before it, but it will surely find new questions to ask. Somewhere in those thousands of exoplanets and billions of galaxies are details scientists could never predict.
+
+JOSH: If you just think about the numbers, if you have 2 billion galaxies that you've detected, and you can say, "OK, I've measured the brightness and these bands for these 2 billion galaxies,” that means that within that part of the sky, there's 2,000 things that are one in a million in that survey.
+
+JACOB: That’s pretty cool.
+
+JOSH: That's how I like to think about the power of this observatory. That's the kind of thing that I think is really cool, that I think is really going to give people new opportunities to think about our universe and really learn something new, is the unexpected.
+
+JACOB: This is NASA’s Curious Universe, an official NASA podcast. This episode was written and produced by me, Jacob Pinter. Our team also includes Christian Elliott. Our executive producer is Katie Konans.
+
+Wes Buchanan and Krystofer Kim designed the show art for this series. Our theme song is by SYSTEM Sounds. Special thanks to Claire Andreoli, Calla Cofield, Alise Fisher, and Colin McNutt.
+
+Some of the clips of Nancy Grace Roman came from an oral history that belongs to the NASA History Office. Special thanks to Sandra Johnson for providing the audio. The NASA History Office is an incredible resource, and you can find much more, including more oral histories, at nasa.gov/history.
+
+We also had research help from the Niels Bohr Library and Archives at the American Institute of Physics and the Annual Review of Astronomy and Astrophysics.
+
+You can find transcripts for every episode of Curious Universe and explore NASA’s other podcasts at nasa.gov/podcasts.
+
+If you enjoyed this episode of NASA’s Curious Universe … let us know! Leave us a review wherever you’re listening right now. Why not send a link to one of your friends. And you can follow NASA’s Curious Universe in your favorite podcast app to get a notification each time we post a new episode.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>roman-dark-universe</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/roman-series-nasas-new-view-of-the-dark-universe/</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-10-29</_collected_at_beijing>
+<_audio_verified>HEAD 跟随重定向得 audio/mpeg + 55723277 字节；整文件下载后 ffprobe 时长 2310.008 秒、字节数一致，ffmpeg 全量解码零报错</_audio_verified>
+<_child_clip_guid>urn:podcast:nasa.gov:curious-universe:roman-dark-universe:clip:ball:1363.9-1401.8</_child_clip_guid>
 </item>
 <item>
 <title>Inside a Black Hole</title>

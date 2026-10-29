@@ -5,7 +5,7 @@
 <link>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main</link>
 <description>仅含独立片段条目：片段 enclosure 为仓库自托管 clips 直链，文案仅覆盖片段音频；整集不在此 feed，整集不得冒充短片段。</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 01:43:15 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 01:23:30 +0000</lastBuildDate>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/feeds/ready-clip.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Their Mars window is a TV — clip from Encore: A Year In Mars Dune Alpha</title>
@@ -328,6 +328,51 @@ the words would be, almost Mars.]]></content:encoded>
 <_parent_id>noaa-ocean-uss-monitor-3d-85</_parent_id>
 <_clip_start_s>559.7</_clip_start_s>
 <_clip_end_s>604.5</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>Dark energy, explained with a thrown ball — clip from Roman Series: NASA’s New View of the Dark Universe (1363.9-1401.8s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/roman-series-nasas-new-view-of-the-dark-universe/</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:roman-dark-universe:clip:ball:1363.9-1401.8</guid>
+<pubDate>Tue, 11 Aug 2026 13:08:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-roman-dark-universe-clip-ball.mp3" length="849743" type="audio/mpeg"/>
+<itunes:duration>38</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】我们对暗能量几乎一无所知，只好先给它贴个标签：想象把球抛向空中，本以为它会落回手中——这就是人们原以为宇宙会做的事；结果却是宇宙越胀越快，球越飞越远、越来越快。这很反直觉，也出乎所有人意料。
+【Reels 角度】暗能量先贴标签、再用抛球讲清：本以为抛出去会落回，结果越飞越快——反直觉，才是关键。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; none of the episode's music cues appears in this speech segment (between Pressurization Trailer and Tentative Surge cues in the official transcript).
+【来源】https://www.nasa.gov/podcasts/curious-universe/roman-series-nasas-new-view-of-the-dark-universe/
+【采集日（北京时间）】2026-10-29
+【发布时间精度】exact（Inherits parent original publish date (Megaphone RSS Tue, 11 Aug 2026 13:08:00 -0000); clip itself was modelled 2026-10-29 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:roman-dark-universe
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/roman-series-nasas-new-view-of-the-dark-universe/
+【片段】原集 1363.9-1401.8 秒，37.9 秒，原声，未加 BGM，文件：clips/nasa-roman-dark-universe-clip-ball.mp3]]></description>
+<content:encoded><![CDATA[We have basically no idea what's making that happen, but we had to put some kind of label on it, and that's dark energy. There's an analogy that you can kind of think of. If you imagine yourself holding a ball and you throw the ball up in the air and you know that it's going to come back and land in your hand. So this is originally what people thought was happening with the universe, that it would expand out and it would come back down again. But what we found was that the universe was expanding faster and faster. And so that's like if you throw a ball up in the air and then it shoots away from you faster and faster and faster. It's very counterintuitive. People weren't expecting this result.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>roman-dark-universe-clip-ball</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/roman-series-nasas-new-view-of-the-dark-universe/</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-10-29</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 37.900s / 849743 bytes (ffmpeg cut from verified full MP3 in this run, 2026-10-29); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-roman-dark-universe-clip-ball.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-roman-dark-universe-clip-ball.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-roman-dark-universe-clip-ball-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-roman-dark-universe-clip-ball-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:roman-dark-universe</_parent_guid>
+<_parent_id>nasa-curious-roman-dark-universe</_parent_id>
+<_clip_start_s>1363.9</_clip_start_s>
+<_clip_end_s>1401.8</_clip_end_s>
 <_clip_source_nature>original_audio</_clip_source_nature>
 </item>
 <item>
