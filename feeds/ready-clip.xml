@@ -5,7 +5,7 @@
 <link>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main</link>
 <description>仅含独立片段条目：片段 enclosure 为仓库自托管 clips 直链，文案仅覆盖片段音频；整集不在此 feed，整集不得冒充短片段。</description>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 01:23:30 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 01:40:56 +0000</lastBuildDate>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/feeds/ready-clip.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Their Mars window is a TV — clip from Encore: A Year In Mars Dune Alpha</title>
@@ -331,6 +331,51 @@ the words would be, almost Mars.]]></content:encoded>
 <_clip_source_nature>original_audio</_clip_source_nature>
 </item>
 <item>
+<title>A galactic census: 100,000 new exoplanets — clip from Roman Series: Jupiters Around Other Suns (669.0-713.2s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/roman-exoplanets/</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:roman-exoplanets:clip:census:669.0-713.2</guid>
+<pubDate>Tue, 18 Aug 2026 13:33:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-roman-exoplanets-clip-census.mp3" length="717695" type="audio/mpeg"/>
+<itunes:duration>44</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】Roman 一旦升空，就会把广角相机对准银河系中心巡天：一次成像就能看到数十万颗恒星，用凌星法和微引力透镜法同时搜寻它们周围的行星；大多数恒星都有行星，所以这次普查预计将新增多达 10 万颗系外行星。
+【Reels 角度】银河普查：Roman 将盯住银河系中心，一次成像看数十万颗恒星，预计新增 10 万颗系外行星——太阳系到底常不常见，答案就在这次普查里。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; none of the episode's music cues appears in this speech segment (between Dots and Dashes and Tentative Surge cues in the official transcript).
+【来源】https://www.nasa.gov/podcasts/curious-universe/roman-exoplanets/
+【采集日（北京时间）】2026-10-30
+【发布时间精度】exact（Inherits parent original publish date (Megaphone RSS Tue, 18 Aug 2026 13:33:00 -0000); clip itself was modelled 2026-10-30 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:roman-exoplanets
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/roman-exoplanets/
+【片段】原集 669.0-713.2 秒，44.2 秒，原声，未加 BGM，文件：clips/nasa-roman-exoplanets-clip-census.mp3]]></description>
+<content:encoded><![CDATA[Once Roman launches, the science team is going to turn the Wide Field Instrument towards the core of the Milky Way galaxy and scan for exoplanets. The wide field instrument is going to stare towards the center of our galaxy where it can see literally hundreds of thousands of stars in a single image at once. And it can use one of these two indirect detection methods, the transit method or the microlensing method, to search for planets around hundreds of thousands of stars at once. We know that most stars have planets. And so it's probably no surprise then that that with these surveys, the Wide Field Instrument will detect perhaps 100,000 planets.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>roman-exoplanets-clip-census</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/roman-exoplanets/</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-10-30</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 44.200s / 717695 bytes (ffmpeg cut from verified full MP3 in this run, 2026-10-30); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-roman-exoplanets-clip-census.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-roman-exoplanets-clip-census.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-roman-exoplanets-clip-census-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-roman-exoplanets-clip-census-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:roman-exoplanets</_parent_guid>
+<_parent_id>nasa-curious-roman-exoplanets</_parent_id>
+<_clip_start_s>669.0</_clip_start_s>
+<_clip_end_s>713.2</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
 <title>Dark energy, explained with a thrown ball — clip from Roman Series: NASA’s New View of the Dark Universe (1363.9-1401.8s)</title>
 <link>https://www.nasa.gov/podcasts/curious-universe/roman-series-nasas-new-view-of-the-dark-universe/</link>
 <guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:roman-dark-universe:clip:ball:1363.9-1401.8</guid>
@@ -373,6 +418,51 @@ the words would be, almost Mars.]]></content:encoded>
 <_parent_id>nasa-curious-roman-dark-universe</_parent_id>
 <_clip_start_s>1363.9</_clip_start_s>
 <_clip_end_s>1401.8</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>One photon at a time: seeing exoplanet atmospheres — clip from Launching Soon: NASA’s Roman Space Telescope (159.0-206.5s)</title>
+<link>https://www.nasa.gov/podcasts/nasa-podcasts/launching-soon-nasas-roman-space-telescope/</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:roman-launching-soon:clip:photon:159.0-206.5</guid>
+<pubDate>Tue, 04 Aug 2026 13:25:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-roman-launching-soon-clip-photon.mp3" length="1022665" type="audio/mpeg"/>
+<itunes:duration>48</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】在遥远恒星周围，科学家已发现数千颗系外行星；Roman 将看向银河系中心，一次成像就能看到数十万颗恒星，预计还会发现数千颗；更重要的是，它将用前沿技术看清行星细节——这些行星暗到来自它们的光子每几秒甚至每分钟才抵达相机一个，科学家只能从一个小光斑里推测大气成分。
+【Reels 角度】从“已发现数千颗系外行星”到“一次看数十万颗恒星”，最后落到最动人的细节：来自一颗行星的光子，每几秒甚至每分钟才抵达相机一个。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; none of the episode's music cues appears in this speech segment (between Case Notes and Dots and Dashes cues in the official transcript).
+【来源】https://www.nasa.gov/podcasts/nasa-podcasts/launching-soon-nasas-roman-space-telescope/
+【采集日（北京时间）】2026-10-30
+【发布时间精度】exact（Inherits parent original publish date (Megaphone RSS Tue, 04 Aug 2026 13:25:00 -0000); clip itself was modelled 2026-10-30 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:roman-launching-soon
+【父集链接】https://www.nasa.gov/podcasts/nasa-podcasts/launching-soon-nasas-roman-space-telescope/
+【片段】原集 159.0-206.5 秒，47.5 秒，原声，未加 BGM，文件：clips/nasa-roman-launching-soon-clip-photon.mp3]]></description>
+<content:encoded><![CDATA[Far away from us, around distant stars, scientists have already found thousands of these exoplanets. Roman will look toward the center of our own Milky Way. Where it can see literally hundreds of thousands of stars in a single image at once. We know that most stars have planets. Which means Roman will detect thousands more exoplanets out there. With a cutting-edge piece of technology, Roman will see far more detail of some planets than we've ever seen before. These planets are so incredibly faint that you get one photon, one particle of light. Arriving at our camera from one of those planets once every few seconds or maybe even once every minute. So we are getting one little smudge to try to tease out what the atmosphere might be made of.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>roman-launching-soon-clip-photon</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/nasa-podcasts/launching-soon-nasas-roman-space-telescope/</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-10-30</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 47.500s / 1022665 bytes (ffmpeg cut from verified full MP3 in this run, 2026-10-30); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-roman-launching-soon-clip-photon.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-roman-launching-soon-clip-photon.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-roman-launching-soon-clip-photon-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-roman-launching-soon-clip-photon-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:roman-launching-soon</_parent_guid>
+<_parent_id>nasa-curious-roman-launching-soon</_parent_id>
+<_clip_start_s>159.0</_clip_start_s>
+<_clip_end_s>206.5</_clip_end_s>
 <_clip_source_nature>original_audio</_clip_source_nature>
 </item>
 <item>

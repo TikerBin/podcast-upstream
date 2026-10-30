@@ -1,0 +1,919 @@
+[
+  {
+    "start": 0.0,
+    "end": 1.94,
+    "text": "Far away from us, around distant stars,",
+    "words": [
+      {
+        "word": " Far",
+        "start": 0.0,
+        "end": 0.1,
+        "probability": 0.6930244565010071
+      },
+      {
+        "word": " away",
+        "start": 0.1,
+        "end": 0.36,
+        "probability": 0.9859039187431335
+      },
+      {
+        "word": " from",
+        "start": 0.36,
+        "end": 0.56,
+        "probability": 0.9991363883018494
+      },
+      {
+        "word": " us,",
+        "start": 0.56,
+        "end": 0.78,
+        "probability": 0.9986177682876587
+      },
+      {
+        "word": " around",
+        "start": 1.06,
+        "end": 1.06,
+        "probability": 0.9985634684562683
+      },
+      {
+        "word": " distant",
+        "start": 1.06,
+        "end": 1.5,
+        "probability": 0.9962726831436157
+      },
+      {
+        "word": " stars,",
+        "start": 1.5,
+        "end": 1.94,
+        "probability": 0.9981780052185059
+      }
+    ]
+  },
+  {
+    "start": 2.96,
+    "end": 6.18,
+    "text": "scientists have already found thousands of these exoplanets.",
+    "words": [
+      {
+        "word": " scientists",
+        "start": 2.96,
+        "end": 2.98,
+        "probability": 0.9875556826591492
+      },
+      {
+        "word": " have",
+        "start": 2.98,
+        "end": 3.24,
+        "probability": 0.9982175230979919
+      },
+      {
+        "word": " already",
+        "start": 3.24,
+        "end": 3.52,
+        "probability": 0.9931574463844299
+      },
+      {
+        "word": " found",
+        "start": 3.52,
+        "end": 3.96,
+        "probability": 0.9984866380691528
+      },
+      {
+        "word": " thousands",
+        "start": 3.96,
+        "end": 4.6,
+        "probability": 0.9945153594017029
+      },
+      {
+        "word": " of",
+        "start": 4.6,
+        "end": 4.98,
+        "probability": 0.9985112547874451
+      },
+      {
+        "word": " these",
+        "start": 4.98,
+        "end": 5.14,
+        "probability": 0.9987030029296875
+      },
+      {
+        "word": " exoplanets.",
+        "start": 5.14,
+        "end": 6.18,
+        "probability": 0.9965010682741801
+      }
+    ]
+  },
+  {
+    "start": 7.26,
+    "end": 9.58,
+    "text": "Roman will look toward the center of our own Milky Way.",
+    "words": [
+      {
+        "word": " Roman",
+        "start": 7.26,
+        "end": 7.36,
+        "probability": 0.859737753868103
+      },
+      {
+        "word": " will",
+        "start": 7.36,
+        "end": 7.62,
+        "probability": 0.9940165281295776
+      },
+      {
+        "word": " look",
+        "start": 7.62,
+        "end": 7.8,
+        "probability": 0.9984021782875061
+      },
+      {
+        "word": " toward",
+        "start": 7.8,
+        "end": 7.98,
+        "probability": 0.9491503834724426
+      },
+      {
+        "word": " the",
+        "start": 7.98,
+        "end": 8.16,
+        "probability": 0.9992062449455261
+      },
+      {
+        "word": " center",
+        "start": 8.16,
+        "end": 8.44,
+        "probability": 0.9499945044517517
+      },
+      {
+        "word": " of",
+        "start": 8.44,
+        "end": 8.66,
+        "probability": 0.9991161227226257
+      },
+      {
+        "word": " our",
+        "start": 8.66,
+        "end": 8.8,
+        "probability": 0.9982299208641052
+      },
+      {
+        "word": " own",
+        "start": 8.8,
+        "end": 9.0,
+        "probability": 0.9968394041061401
+      },
+      {
+        "word": " Milky",
+        "start": 9.0,
+        "end": 9.24,
+        "probability": 0.9024615287780762
+      },
+      {
+        "word": " Way.",
+        "start": 9.24,
+        "end": 9.58,
+        "probability": 0.9970346689224243
+      }
+    ]
+  },
+  {
+    "start": 10.2,
+    "end": 13.2,
+    "text": "Where it can see literally hundreds of thousands of stars",
+    "words": [
+      {
+        "word": " Where",
+        "start": 10.2,
+        "end": 10.28,
+        "probability": 0.8043266534805298
+      },
+      {
+        "word": " it",
+        "start": 10.28,
+        "end": 10.72,
+        "probability": 0.9809929728507996
+      },
+      {
+        "word": " can",
+        "start": 10.72,
+        "end": 10.94,
+        "probability": 0.998379111289978
+      },
+      {
+        "word": " see",
+        "start": 10.94,
+        "end": 11.26,
+        "probability": 0.9929713606834412
+      },
+      {
+        "word": " literally",
+        "start": 11.26,
+        "end": 11.72,
+        "probability": 0.9511228799819946
+      },
+      {
+        "word": " hundreds",
+        "start": 11.72,
+        "end": 12.04,
+        "probability": 0.9919386506080627
+      },
+      {
+        "word": " of",
+        "start": 12.04,
+        "end": 12.3,
+        "probability": 0.9950548410415649
+      },
+      {
+        "word": " thousands",
+        "start": 12.3,
+        "end": 12.6,
+        "probability": 0.9950985312461853
+      },
+      {
+        "word": " of",
+        "start": 12.6,
+        "end": 12.86,
+        "probability": 0.9987401366233826
+      },
+      {
+        "word": " stars",
+        "start": 12.86,
+        "end": 13.2,
+        "probability": 0.9988546371459961
+      }
+    ]
+  },
+  {
+    "start": 13.64,
+    "end": 15.2,
+    "text": "in a single image at once.",
+    "words": [
+      {
+        "word": " in",
+        "start": 13.64,
+        "end": 13.92,
+        "probability": 0.9264466166496277
+      },
+      {
+        "word": " a",
+        "start": 13.92,
+        "end": 14.06,
+        "probability": 0.9985230565071106
+      },
+      {
+        "word": " single",
+        "start": 14.06,
+        "end": 14.28,
+        "probability": 0.9998922348022461
+      },
+      {
+        "word": " image",
+        "start": 14.28,
+        "end": 14.54,
+        "probability": 0.9990594983100891
+      },
+      {
+        "word": " at",
+        "start": 14.54,
+        "end": 14.72,
+        "probability": 0.9776579141616821
+      },
+      {
+        "word": " once.",
+        "start": 14.72,
+        "end": 15.2,
+        "probability": 0.9991651773452759
+      }
+    ]
+  },
+  {
+    "start": 15.6,
+    "end": 18.14,
+    "text": "We know that most stars have planets.",
+    "words": [
+      {
+        "word": " We",
+        "start": 15.6,
+        "end": 15.92,
+        "probability": 0.9954684972763062
+      },
+      {
+        "word": " know",
+        "start": 15.92,
+        "end": 16.22,
+        "probability": 0.9992789626121521
+      },
+      {
+        "word": " that",
+        "start": 16.22,
+        "end": 16.94,
+        "probability": 0.9845476746559143
+      },
+      {
+        "word": " most",
+        "start": 16.94,
+        "end": 17.28,
+        "probability": 0.9980688691139221
+      },
+      {
+        "word": " stars",
+        "start": 17.28,
+        "end": 17.54,
+        "probability": 0.9981069564819336
+      },
+      {
+        "word": " have",
+        "start": 17.54,
+        "end": 17.76,
+        "probability": 0.9995425939559937
+      },
+      {
+        "word": " planets.",
+        "start": 17.76,
+        "end": 18.14,
+        "probability": 0.9991699457168579
+      }
+    ]
+  },
+  {
+    "start": 18.8,
+    "end": 20.68,
+    "text": "Which means Roman will detect thousands",
+    "words": [
+      {
+        "word": " Which",
+        "start": 18.8,
+        "end": 18.98,
+        "probability": 0.9908937215805054
+      },
+      {
+        "word": " means",
+        "start": 18.98,
+        "end": 19.22,
+        "probability": 0.9979766011238098
+      },
+      {
+        "word": " Roman",
+        "start": 19.22,
+        "end": 19.54,
+        "probability": 0.8491095304489136
+      },
+      {
+        "word": " will",
+        "start": 19.54,
+        "end": 19.72,
+        "probability": 0.9985917210578918
+      },
+      {
+        "word": " detect",
+        "start": 19.72,
+        "end": 20.08,
+        "probability": 0.9987974166870117
+      },
+      {
+        "word": " thousands",
+        "start": 20.08,
+        "end": 20.68,
+        "probability": 0.9985566735267639
+      }
+    ]
+  },
+  {
+    "start": 20.68,
+    "end": 22.66,
+    "text": "more exoplanets out there.",
+    "words": [
+      {
+        "word": " more",
+        "start": 20.68,
+        "end": 21.26,
+        "probability": 0.9971166849136353
+      },
+      {
+        "word": " exoplanets",
+        "start": 21.26,
+        "end": 22.04,
+        "probability": 0.9983689785003662
+      },
+      {
+        "word": " out",
+        "start": 22.04,
+        "end": 22.22,
+        "probability": 0.9964303374290466
+      },
+      {
+        "word": " there.",
+        "start": 22.22,
+        "end": 22.66,
+        "probability": 0.9990856647491455
+      }
+    ]
+  },
+  {
+    "start": 23.16,
+    "end": 25.02,
+    "text": "With a cutting-edge piece of technology,",
+    "words": [
+      {
+        "word": " With",
+        "start": 23.16,
+        "end": 23.42,
+        "probability": 0.9949270486831665
+      },
+      {
+        "word": " a",
+        "start": 23.42,
+        "end": 23.58,
+        "probability": 0.8502728939056396
+      },
+      {
+        "word": " cutting",
+        "start": 23.58,
+        "end": 23.82,
+        "probability": 0.9994184970855713
+      },
+      {
+        "word": "-edge",
+        "start": 23.82,
+        "end": 24.02,
+        "probability": 0.8187195360660553
+      },
+      {
+        "word": " piece",
+        "start": 24.02,
+        "end": 24.28,
+        "probability": 0.9985283613204956
+      },
+      {
+        "word": " of",
+        "start": 24.28,
+        "end": 24.44,
+        "probability": 0.9995819926261902
+      },
+      {
+        "word": " technology,",
+        "start": 24.44,
+        "end": 25.02,
+        "probability": 0.9992362260818481
+      }
+    ]
+  },
+  {
+    "start": 25.32,
+    "end": 28.24,
+    "text": "Roman will see far more detail of some planets",
+    "words": [
+      {
+        "word": " Roman",
+        "start": 25.32,
+        "end": 25.48,
+        "probability": 0.9929215312004089
+      },
+      {
+        "word": " will",
+        "start": 25.48,
+        "end": 25.74,
+        "probability": 0.9978463649749756
+      },
+      {
+        "word": " see",
+        "start": 25.74,
+        "end": 25.98,
+        "probability": 0.999035120010376
+      },
+      {
+        "word": " far",
+        "start": 25.98,
+        "end": 26.44,
+        "probability": 0.9979694485664368
+      },
+      {
+        "word": " more",
+        "start": 26.44,
+        "end": 26.74,
+        "probability": 0.9995176792144775
+      },
+      {
+        "word": " detail",
+        "start": 26.74,
+        "end": 27.28,
+        "probability": 0.9921907782554626
+      },
+      {
+        "word": " of",
+        "start": 27.28,
+        "end": 27.54,
+        "probability": 0.9978212118148804
+      },
+      {
+        "word": " some",
+        "start": 27.54,
+        "end": 27.86,
+        "probability": 0.9992645382881165
+      },
+      {
+        "word": " planets",
+        "start": 27.86,
+        "end": 28.24,
+        "probability": 0.9970218539237976
+      }
+    ]
+  },
+  {
+    "start": 28.24,
+    "end": 29.88,
+    "text": "than we've ever seen before.",
+    "words": [
+      {
+        "word": " than",
+        "start": 28.24,
+        "end": 28.6,
+        "probability": 0.9377809166908264
+      },
+      {
+        "word": " we've",
+        "start": 28.6,
+        "end": 28.96,
+        "probability": 0.9936989545822144
+      },
+      {
+        "word": " ever",
+        "start": 28.96,
+        "end": 29.18,
+        "probability": 0.996208667755127
+      },
+      {
+        "word": " seen",
+        "start": 29.18,
+        "end": 29.42,
+        "probability": 0.9984951019287109
+      },
+      {
+        "word": " before.",
+        "start": 29.42,
+        "end": 29.88,
+        "probability": 0.9990596175193787
+      }
+    ]
+  },
+  {
+    "start": 30.48,
+    "end": 32.68,
+    "text": "These planets are so incredibly faint",
+    "words": [
+      {
+        "word": " These",
+        "start": 30.48,
+        "end": 30.54,
+        "probability": 0.9789790511131287
+      },
+      {
+        "word": " planets",
+        "start": 30.54,
+        "end": 30.9,
+        "probability": 0.9976479411125183
+      },
+      {
+        "word": " are",
+        "start": 30.9,
+        "end": 31.24,
+        "probability": 0.9993304014205933
+      },
+      {
+        "word": " so",
+        "start": 31.24,
+        "end": 31.72,
+        "probability": 0.9904208183288574
+      },
+      {
+        "word": " incredibly",
+        "start": 31.72,
+        "end": 32.22,
+        "probability": 0.9968904852867126
+      },
+      {
+        "word": " faint",
+        "start": 32.22,
+        "end": 32.68,
+        "probability": 0.9985509514808655
+      }
+    ]
+  },
+  {
+    "start": 32.68,
+    "end": 36.28,
+    "text": "that you get one photon, one particle of light.",
+    "words": [
+      {
+        "word": " that",
+        "start": 32.68,
+        "end": 33.36,
+        "probability": 0.8790076375007629
+      },
+      {
+        "word": " you",
+        "start": 33.36,
+        "end": 33.62,
+        "probability": 0.9990912675857544
+      },
+      {
+        "word": " get",
+        "start": 33.62,
+        "end": 33.84,
+        "probability": 0.9985228180885315
+      },
+      {
+        "word": " one",
+        "start": 33.84,
+        "end": 34.3,
+        "probability": 0.9946743249893188
+      },
+      {
+        "word": " photon,",
+        "start": 34.3,
+        "end": 34.7,
+        "probability": 0.9892237186431885
+      },
+      {
+        "word": " one",
+        "start": 34.88,
+        "end": 35.04,
+        "probability": 0.9987217783927917
+      },
+      {
+        "word": " particle",
+        "start": 35.04,
+        "end": 35.6,
+        "probability": 0.9983735084533691
+      },
+      {
+        "word": " of",
+        "start": 35.6,
+        "end": 35.96,
+        "probability": 0.915202796459198
+      },
+      {
+        "word": " light.",
+        "start": 35.96,
+        "end": 36.28,
+        "probability": 0.999025821685791
+      }
+    ]
+  },
+  {
+    "start": 36.96,
+    "end": 39.3,
+    "text": "Arriving at our camera from one of those planets",
+    "words": [
+      {
+        "word": " Arriving",
+        "start": 36.96,
+        "end": 37.42,
+        "probability": 0.9753014147281647
+      },
+      {
+        "word": " at",
+        "start": 37.42,
+        "end": 37.56,
+        "probability": 0.9618844985961914
+      },
+      {
+        "word": " our",
+        "start": 37.56,
+        "end": 37.7,
+        "probability": 0.9980520009994507
+      },
+      {
+        "word": " camera",
+        "start": 37.7,
+        "end": 38.0,
+        "probability": 0.9990008473396301
+      },
+      {
+        "word": " from",
+        "start": 38.0,
+        "end": 38.3,
+        "probability": 0.9825761318206787
+      },
+      {
+        "word": " one",
+        "start": 38.3,
+        "end": 38.68,
+        "probability": 0.7933984398841858
+      },
+      {
+        "word": " of",
+        "start": 38.68,
+        "end": 38.8,
+        "probability": 0.9967445135116577
+      },
+      {
+        "word": " those",
+        "start": 38.8,
+        "end": 38.96,
+        "probability": 0.9891890287399292
+      },
+      {
+        "word": " planets",
+        "start": 38.96,
+        "end": 39.3,
+        "probability": 0.9981942772865295
+      }
+    ]
+  },
+  {
+    "start": 39.3,
+    "end": 42.16,
+    "text": "once every few seconds or maybe even once every minute.",
+    "words": [
+      {
+        "word": " once",
+        "start": 39.3,
+        "end": 39.62,
+        "probability": 0.8868335485458374
+      },
+      {
+        "word": " every",
+        "start": 39.62,
+        "end": 39.9,
+        "probability": 0.9948534369468689
+      },
+      {
+        "word": " few",
+        "start": 39.9,
+        "end": 40.12,
+        "probability": 0.998538613319397
+      },
+      {
+        "word": " seconds",
+        "start": 40.12,
+        "end": 40.42,
+        "probability": 0.9982469081878662
+      },
+      {
+        "word": " or",
+        "start": 40.42,
+        "end": 40.64,
+        "probability": 0.7328928709030151
+      },
+      {
+        "word": " maybe",
+        "start": 40.64,
+        "end": 40.78,
+        "probability": 0.9926438927650452
+      },
+      {
+        "word": " even",
+        "start": 40.78,
+        "end": 41.1,
+        "probability": 0.9851791262626648
+      },
+      {
+        "word": " once",
+        "start": 41.1,
+        "end": 41.36,
+        "probability": 0.9966350197792053
+      },
+      {
+        "word": " every",
+        "start": 41.36,
+        "end": 41.7,
+        "probability": 0.9981551766395569
+      },
+      {
+        "word": " minute.",
+        "start": 41.7,
+        "end": 42.16,
+        "probability": 0.9984482526779175
+      }
+    ]
+  },
+  {
+    "start": 42.88,
+    "end": 44.9,
+    "text": "So we are getting one little smudge",
+    "words": [
+      {
+        "word": " So",
+        "start": 42.88,
+        "end": 43.06,
+        "probability": 0.9780477285385132
+      },
+      {
+        "word": " we",
+        "start": 43.06,
+        "end": 43.22,
+        "probability": 0.9005210995674133
+      },
+      {
+        "word": " are",
+        "start": 43.22,
+        "end": 43.34,
+        "probability": 0.9826253652572632
+      },
+      {
+        "word": " getting",
+        "start": 43.34,
+        "end": 43.64,
+        "probability": 0.9990381002426147
+      },
+      {
+        "word": " one",
+        "start": 43.64,
+        "end": 44.12,
+        "probability": 0.9982763528823853
+      },
+      {
+        "word": " little",
+        "start": 44.12,
+        "end": 44.38,
+        "probability": 0.9985131621360779
+      },
+      {
+        "word": " smudge",
+        "start": 44.38,
+        "end": 44.9,
+        "probability": 0.9977824091911316
+      }
+    ]
+  },
+  {
+    "start": 44.9,
+    "end": 47.42,
+    "text": "to try to tease out what the atmosphere might be made of.",
+    "words": [
+      {
+        "word": " to",
+        "start": 44.9,
+        "end": 45.32,
+        "probability": 0.9748666882514954
+      },
+      {
+        "word": " try",
+        "start": 45.32,
+        "end": 45.48,
+        "probability": 0.9955345392227173
+      },
+      {
+        "word": " to",
+        "start": 45.48,
+        "end": 45.64,
+        "probability": 0.9789051413536072
+      },
+      {
+        "word": " tease",
+        "start": 45.64,
+        "end": 45.86,
+        "probability": 0.9993320107460022
+      },
+      {
+        "word": " out",
+        "start": 45.86,
+        "end": 46.1,
+        "probability": 0.9972435235977173
+      },
+      {
+        "word": " what",
+        "start": 46.1,
+        "end": 46.3,
+        "probability": 0.9964147806167603
+      },
+      {
+        "word": " the",
+        "start": 46.3,
+        "end": 46.42,
+        "probability": 0.9982501864433289
+      },
+      {
+        "word": " atmosphere",
+        "start": 46.42,
+        "end": 46.76,
+        "probability": 0.9994950294494629
+      },
+      {
+        "word": " might",
+        "start": 46.76,
+        "end": 46.96,
+        "probability": 0.9895176291465759
+      },
+      {
+        "word": " be",
+        "start": 46.96,
+        "end": 47.12,
+        "probability": 0.9986051917076111
+      },
+      {
+        "word": " made",
+        "start": 47.12,
+        "end": 47.24,
+        "probability": 0.9992689490318298
+      },
+      {
+        "word": " of.",
+        "start": 47.24,
+        "end": 47.42,
+        "probability": 0.9955819249153137
+      }
+    ]
+  }
+]

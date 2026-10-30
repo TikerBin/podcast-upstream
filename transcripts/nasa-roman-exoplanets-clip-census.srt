@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:03,420
+Once Roman launches, the science team is going to turn the Wide Field Instrument
+
+2
+00:00:03,420 --> 00:00:07,120
+towards the core of the Milky Way galaxy and scan for exoplanets.
+
+3
+00:00:07,620 --> 00:00:15,460
+The wide field instrument is going to stare towards the center of our galaxy where it can see
+
+4
+00:00:15,460 --> 00:00:22,590
+literally hundreds of thousands of stars in a single image at once. And it can use one of
+
+5
+00:00:22,590 --> 00:00:27,790
+these two indirect detection methods, the transit method or the microlensing method,
+
+6
+00:00:28,420 --> 00:00:32,170
+to search for planets around hundreds of thousands of stars at once.
+
+7
+00:00:33,130 --> 00:00:38,890
+We know that most stars have planets. And so it's probably no surprise then that that
+
+8
+00:00:38,890 --> 00:00:44,050
+with these surveys, the Wide Field Instrument will detect perhaps 100,000 planets.
+

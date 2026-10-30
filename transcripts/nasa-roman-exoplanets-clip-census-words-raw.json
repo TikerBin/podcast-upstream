@@ -1,0 +1,748 @@
+[
+  {
+    "start": 0.0,
+    "end": 3.42,
+    "text": "Once Roman launches, the science team is going to turn the wide field instrument",
+    "words": [
+      {
+        "word": " Once",
+        "start": 0.0,
+        "end": 0.32,
+        "probability": 0.6378158926963806
+      },
+      {
+        "word": " Roman",
+        "start": 0.32,
+        "end": 0.54,
+        "probability": 0.8249846696853638
+      },
+      {
+        "word": " launches,",
+        "start": 0.54,
+        "end": 0.94,
+        "probability": 0.9921787977218628
+      },
+      {
+        "word": " the",
+        "start": 1.38,
+        "end": 1.4,
+        "probability": 0.9926887154579163
+      },
+      {
+        "word": " science",
+        "start": 1.4,
+        "end": 1.6,
+        "probability": 0.946437656879425
+      },
+      {
+        "word": " team",
+        "start": 1.6,
+        "end": 1.9,
+        "probability": 0.9976500868797302
+      },
+      {
+        "word": " is",
+        "start": 1.9,
+        "end": 2.06,
+        "probability": 0.951910674571991
+      },
+      {
+        "word": " going",
+        "start": 2.06,
+        "end": 2.18,
+        "probability": 0.9129558205604553
+      },
+      {
+        "word": " to",
+        "start": 2.18,
+        "end": 2.3,
+        "probability": 0.9951560497283936
+      },
+      {
+        "word": " turn",
+        "start": 2.3,
+        "end": 2.54,
+        "probability": 0.995322048664093
+      },
+      {
+        "word": " the",
+        "start": 2.54,
+        "end": 2.68,
+        "probability": 0.9903861284255981
+      },
+      {
+        "word": " wide",
+        "start": 2.68,
+        "end": 2.82,
+        "probability": 0.3216071128845215
+      },
+      {
+        "word": " field",
+        "start": 2.82,
+        "end": 3.02,
+        "probability": 0.5921786427497864
+      },
+      {
+        "word": " instrument",
+        "start": 3.02,
+        "end": 3.42,
+        "probability": 0.990692675113678
+      }
+    ]
+  },
+  {
+    "start": 3.42,
+    "end": 7.12,
+    "text": "toward the core of the Milky Way galaxy and scan for exoplanets.",
+    "words": [
+      {
+        "word": " toward",
+        "start": 3.42,
+        "end": 3.86,
+        "probability": 0.8860912322998047
+      },
+      {
+        "word": " the",
+        "start": 3.86,
+        "end": 4.04,
+        "probability": 0.9967408776283264
+      },
+      {
+        "word": " core",
+        "start": 4.04,
+        "end": 4.34,
+        "probability": 0.9986357092857361
+      },
+      {
+        "word": " of",
+        "start": 4.34,
+        "end": 4.5,
+        "probability": 0.9966482520103455
+      },
+      {
+        "word": " the",
+        "start": 4.5,
+        "end": 4.58,
+        "probability": 0.9936820268630981
+      },
+      {
+        "word": " Milky",
+        "start": 4.58,
+        "end": 4.74,
+        "probability": 0.9494492411613464
+      },
+      {
+        "word": " Way",
+        "start": 4.74,
+        "end": 4.98,
+        "probability": 0.9904728531837463
+      },
+      {
+        "word": " galaxy",
+        "start": 4.98,
+        "end": 5.42,
+        "probability": 0.8765251636505127
+      },
+      {
+        "word": " and",
+        "start": 5.42,
+        "end": 5.86,
+        "probability": 0.8874301910400391
+      },
+      {
+        "word": " scan",
+        "start": 5.86,
+        "end": 6.2,
+        "probability": 0.9881736636161804
+      },
+      {
+        "word": " for",
+        "start": 6.2,
+        "end": 6.42,
+        "probability": 0.996208906173706
+      },
+      {
+        "word": " exoplanets.",
+        "start": 6.42,
+        "end": 7.12,
+        "probability": 0.9916014472643534
+      }
+    ]
+  },
+  {
+    "start": 7.62,
+    "end": 15.46,
+    "text": "The wide field instrument is going to stare towards the center of our galaxy where it can see",
+    "words": [
+      {
+        "word": " The",
+        "start": 7.62,
+        "end": 8.16,
+        "probability": 0.8189708590507507
+      },
+      {
+        "word": " wide",
+        "start": 8.16,
+        "end": 8.68,
+        "probability": 0.6939151287078857
+      },
+      {
+        "word": " field",
+        "start": 8.68,
+        "end": 8.88,
+        "probability": 0.8928905129432678
+      },
+      {
+        "word": " instrument",
+        "start": 8.88,
+        "end": 9.34,
+        "probability": 0.9934224486351013
+      },
+      {
+        "word": " is",
+        "start": 9.34,
+        "end": 9.96,
+        "probability": 0.9947779178619385
+      },
+      {
+        "word": " going",
+        "start": 9.96,
+        "end": 10.1,
+        "probability": 0.9991759657859802
+      },
+      {
+        "word": " to",
+        "start": 10.1,
+        "end": 10.26,
+        "probability": 0.9992056488990784
+      },
+      {
+        "word": " stare",
+        "start": 10.26,
+        "end": 10.62,
+        "probability": 0.9466477036476135
+      },
+      {
+        "word": " towards",
+        "start": 10.62,
+        "end": 11.62,
+        "probability": 0.9401443600654602
+      },
+      {
+        "word": " the",
+        "start": 11.62,
+        "end": 12.18,
+        "probability": 0.9992055296897888
+      },
+      {
+        "word": " center",
+        "start": 12.18,
+        "end": 12.76,
+        "probability": 0.9737173318862915
+      },
+      {
+        "word": " of",
+        "start": 12.76,
+        "end": 13.24,
+        "probability": 0.9985287189483643
+      },
+      {
+        "word": " our",
+        "start": 13.24,
+        "end": 13.4,
+        "probability": 0.9988316893577576
+      },
+      {
+        "word": " galaxy",
+        "start": 13.4,
+        "end": 13.88,
+        "probability": 0.996672511100769
+      },
+      {
+        "word": " where",
+        "start": 13.88,
+        "end": 14.5,
+        "probability": 0.5609486103057861
+      },
+      {
+        "word": " it",
+        "start": 14.5,
+        "end": 14.92,
+        "probability": 0.9979812502861023
+      },
+      {
+        "word": " can",
+        "start": 14.92,
+        "end": 15.12,
+        "probability": 0.9992896318435669
+      },
+      {
+        "word": " see",
+        "start": 15.12,
+        "end": 15.46,
+        "probability": 0.9966028928756714
+      }
+    ]
+  },
+  {
+    "start": 15.46,
+    "end": 22.59,
+    "text": "literally hundreds of thousands of stars in a single image at once. And it can use one of",
+    "words": [
+      {
+        "word": " literally",
+        "start": 15.46,
+        "end": 15.94,
+        "probability": 0.9863429665565491
+      },
+      {
+        "word": " hundreds",
+        "start": 15.94,
+        "end": 16.28,
+        "probability": 0.994722843170166
+      },
+      {
+        "word": " of",
+        "start": 16.28,
+        "end": 16.5,
+        "probability": 0.9965865612030029
+      },
+      {
+        "word": " thousands",
+        "start": 16.5,
+        "end": 16.8,
+        "probability": 0.9959294199943542
+      },
+      {
+        "word": " of",
+        "start": 16.8,
+        "end": 17.04,
+        "probability": 0.9990478157997131
+      },
+      {
+        "word": " stars",
+        "start": 17.04,
+        "end": 17.42,
+        "probability": 0.9981597065925598
+      },
+      {
+        "word": " in",
+        "start": 17.42,
+        "end": 18.12,
+        "probability": 0.990240216255188
+      },
+      {
+        "word": " a",
+        "start": 18.12,
+        "end": 18.26,
+        "probability": 0.9990212917327881
+      },
+      {
+        "word": " single",
+        "start": 18.26,
+        "end": 18.46,
+        "probability": 0.9998118281364441
+      },
+      {
+        "word": " image",
+        "start": 18.46,
+        "end": 18.76,
+        "probability": 0.9987757802009583
+      },
+      {
+        "word": " at",
+        "start": 18.76,
+        "end": 18.9,
+        "probability": 0.9935165643692017
+      },
+      {
+        "word": " once.",
+        "start": 18.9,
+        "end": 19.3,
+        "probability": 0.9989838004112244
+      },
+      {
+        "word": " And",
+        "start": 19.99,
+        "end": 20.39,
+        "probability": 0.9822016358375549
+      },
+      {
+        "word": " it",
+        "start": 20.39,
+        "end": 20.65,
+        "probability": 0.9933431148529053
+      },
+      {
+        "word": " can",
+        "start": 20.65,
+        "end": 20.85,
+        "probability": 0.999421238899231
+      },
+      {
+        "word": " use",
+        "start": 20.85,
+        "end": 21.55,
+        "probability": 0.9990932941436768
+      },
+      {
+        "word": " one",
+        "start": 21.55,
+        "end": 22.45,
+        "probability": 0.9929569959640503
+      },
+      {
+        "word": " of",
+        "start": 22.45,
+        "end": 22.59,
+        "probability": 0.9989979863166809
+      }
+    ]
+  },
+  {
+    "start": 22.59,
+    "end": 27.79,
+    "text": "these two indirect detection methods, the transit method or the microlensing method,",
+    "words": [
+      {
+        "word": " these",
+        "start": 22.59,
+        "end": 22.91,
+        "probability": 0.9977255463600159
+      },
+      {
+        "word": " two",
+        "start": 22.91,
+        "end": 23.83,
+        "probability": 0.9491894841194153
+      },
+      {
+        "word": " indirect",
+        "start": 23.83,
+        "end": 24.27,
+        "probability": 0.9653823375701904
+      },
+      {
+        "word": " detection",
+        "start": 24.27,
+        "end": 24.67,
+        "probability": 0.9908958077430725
+      },
+      {
+        "word": " methods,",
+        "start": 24.67,
+        "end": 25.11,
+        "probability": 0.9966220855712891
+      },
+      {
+        "word": " the",
+        "start": 25.17,
+        "end": 25.37,
+        "probability": 0.9905540347099304
+      },
+      {
+        "word": " transit",
+        "start": 25.37,
+        "end": 25.69,
+        "probability": 0.9884694218635559
+      },
+      {
+        "word": " method",
+        "start": 25.69,
+        "end": 26.09,
+        "probability": 0.998206377029419
+      },
+      {
+        "word": " or",
+        "start": 26.09,
+        "end": 26.59,
+        "probability": 0.9645113348960876
+      },
+      {
+        "word": " the",
+        "start": 26.59,
+        "end": 26.81,
+        "probability": 0.996027946472168
+      },
+      {
+        "word": " microlensing",
+        "start": 26.81,
+        "end": 27.27,
+        "probability": 0.9109750588734945
+      },
+      {
+        "word": " method,",
+        "start": 27.27,
+        "end": 27.79,
+        "probability": 0.9973986148834229
+      }
+    ]
+  },
+  {
+    "start": 28.42,
+    "end": 32.17,
+    "text": "to search for planets around hundreds of thousands of stars at once.",
+    "words": [
+      {
+        "word": " to",
+        "start": 28.42,
+        "end": 28.71,
+        "probability": 0.7749227285385132
+      },
+      {
+        "word": " search",
+        "start": 28.71,
+        "end": 29.25,
+        "probability": 0.996501088142395
+      },
+      {
+        "word": " for",
+        "start": 29.25,
+        "end": 29.47,
+        "probability": 0.9981865286827087
+      },
+      {
+        "word": " planets",
+        "start": 29.47,
+        "end": 29.75,
+        "probability": 0.99817955493927
+      },
+      {
+        "word": " around",
+        "start": 29.75,
+        "end": 30.19,
+        "probability": 0.9953275918960571
+      },
+      {
+        "word": " hundreds",
+        "start": 30.19,
+        "end": 30.89,
+        "probability": 0.9831922650337219
+      },
+      {
+        "word": " of",
+        "start": 30.89,
+        "end": 31.07,
+        "probability": 0.9956793189048767
+      },
+      {
+        "word": " thousands",
+        "start": 31.07,
+        "end": 31.31,
+        "probability": 0.9926596283912659
+      },
+      {
+        "word": " of",
+        "start": 31.31,
+        "end": 31.51,
+        "probability": 0.9982591271400452
+      },
+      {
+        "word": " stars",
+        "start": 31.51,
+        "end": 31.69,
+        "probability": 0.9989860653877258
+      },
+      {
+        "word": " at",
+        "start": 31.69,
+        "end": 31.87,
+        "probability": 0.9949718713760376
+      },
+      {
+        "word": " once.",
+        "start": 31.87,
+        "end": 32.17,
+        "probability": 0.9992015957832336
+      }
+    ]
+  },
+  {
+    "start": 33.13,
+    "end": 38.89,
+    "text": "We know that most stars have planets. And so it's probably no surprise then that",
+    "words": [
+      {
+        "word": " We",
+        "start": 33.13,
+        "end": 33.37,
+        "probability": 0.9946417808532715
+      },
+      {
+        "word": " know",
+        "start": 33.37,
+        "end": 33.69,
+        "probability": 0.9996377229690552
+      },
+      {
+        "word": " that",
+        "start": 33.69,
+        "end": 34.41,
+        "probability": 0.9964038133621216
+      },
+      {
+        "word": " most",
+        "start": 34.41,
+        "end": 34.75,
+        "probability": 0.9991412162780762
+      },
+      {
+        "word": " stars",
+        "start": 34.75,
+        "end": 35.01,
+        "probability": 0.9982511401176453
+      },
+      {
+        "word": " have",
+        "start": 35.01,
+        "end": 35.23,
+        "probability": 0.9995065927505493
+      },
+      {
+        "word": " planets.",
+        "start": 35.23,
+        "end": 35.63,
+        "probability": 0.9996625185012817
+      },
+      {
+        "word": " And",
+        "start": 36.39,
+        "end": 36.39,
+        "probability": 0.9068931341171265
+      },
+      {
+        "word": " so",
+        "start": 36.39,
+        "end": 36.57,
+        "probability": 0.9803953766822815
+      },
+      {
+        "word": " it's",
+        "start": 36.57,
+        "end": 36.73,
+        "probability": 0.9228718280792236
+      },
+      {
+        "word": " probably",
+        "start": 36.73,
+        "end": 36.93,
+        "probability": 0.9993751645088196
+      },
+      {
+        "word": " no",
+        "start": 36.93,
+        "end": 37.21,
+        "probability": 0.9977895021438599
+      },
+      {
+        "word": " surprise",
+        "start": 37.21,
+        "end": 37.61,
+        "probability": 0.9993715882301331
+      },
+      {
+        "word": " then",
+        "start": 37.61,
+        "end": 38.43,
+        "probability": 0.6537122130393982
+      },
+      {
+        "word": " that",
+        "start": 38.43,
+        "end": 38.89,
+        "probability": 0.9610607028007507
+      }
+    ]
+  },
+  {
+    "start": 38.89,
+    "end": 44.05,
+    "text": "with these surveys, the wide field instrument will detect perhaps a hundred thousand planets.",
+    "words": [
+      {
+        "word": " with",
+        "start": 38.89,
+        "end": 39.37,
+        "probability": 0.9232494235038757
+      },
+      {
+        "word": " these",
+        "start": 39.37,
+        "end": 39.61,
+        "probability": 0.8215389251708984
+      },
+      {
+        "word": " surveys,",
+        "start": 39.61,
+        "end": 39.99,
+        "probability": 0.9983087778091431
+      },
+      {
+        "word": " the",
+        "start": 40.49,
+        "end": 40.57,
+        "probability": 0.9918968081474304
+      },
+      {
+        "word": " wide",
+        "start": 40.57,
+        "end": 40.77,
+        "probability": 0.2994561195373535
+      },
+      {
+        "word": " field",
+        "start": 40.77,
+        "end": 40.95,
+        "probability": 0.5171487927436829
+      },
+      {
+        "word": " instrument",
+        "start": 40.95,
+        "end": 41.27,
+        "probability": 0.9954133629798889
+      },
+      {
+        "word": " will",
+        "start": 41.27,
+        "end": 41.65,
+        "probability": 0.9973579049110413
+      },
+      {
+        "word": " detect",
+        "start": 41.65,
+        "end": 42.15,
+        "probability": 0.9977902173995972
+      },
+      {
+        "word": " perhaps",
+        "start": 42.15,
+        "end": 43.09,
+        "probability": 0.9328632950782776
+      },
+      {
+        "word": " a",
+        "start": 43.09,
+        "end": 43.29,
+        "probability": 0.5282812714576721
+      },
+      {
+        "word": " hundred",
+        "start": 43.29,
+        "end": 43.49,
+        "probability": 0.9283992648124695
+      },
+      {
+        "word": " thousand",
+        "start": 43.49,
+        "end": 43.73,
+        "probability": 0.9892305731773376
+      },
+      {
+        "word": " planets.",
+        "start": 43.73,
+        "end": 44.05,
+        "probability": 0.962631106376648
+      }
+    ]
+  }
+]
