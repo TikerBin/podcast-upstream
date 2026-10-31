@@ -1,0 +1,301 @@
+[Music: Curiosity by SYSTEM Sounds]
+
+HOST JACOB PINTER: You’re listening to NASA’s Curious Universe. I’m your host, Jacob Pinter.
+
+February 18, 2021 was a nail-biter of a day at NASA’s Jet Propulsion Laboratory in California. More than 140 million miles away, a capsule was hurtling through the atmosphere of another planet. Packed inside was a nuclear-powered, car-sized, six-wheeled rover called Perseverance.
+
+Thousands of NASA engineers had spent years designing and building this thing. The spacecraft had to withstand the long journey to the Martian surface, and then the rover inside had to survive the harsh environment there. Katie Stack Morgan is the project scientist for the Perseverance Mars rover. She was one of the folks doing the nail-biting.
+
+KATIE STACK MORGAN: I was watching the landing from my living room in my kitchen, and we were actually online with our science team because we weren’t allowed to co-locate because this was during Covid. And so I was watching it on the TV, I was watching my computer, looking at our team members, and my family was around me.
+
+JACOB: Katie had watched a Mars landing before for the Curiosity rover, which touched down in 2012. That one felt different.
+
+KATIE: I was a happy, go-lucky grad student back then. I was just in it for the ride, and I was enjoying the, you know, all of the fanfare surrounding a rover landing.
+
+JACOB: This time, she was one of the scientists in charge of all the research this rover would do on Mars for years to come. And for that to happen, it first had to land safely.
+
+KATIE: I very much felt like my career was dependent on the successful landing. You know, I had kids now, my family was depending on this rover to land, and so the stakes felt much higher.
+
+[Music: Secretive Marimba by Nicolas Montazaud]
+
+JACOB: This phase of a Mars mission is called entry descent and landing, or EDL. But it has another name: the seven minutes of terror. That’s because, in the seven minutes it takes to reach the planet’s surface from orbit, a lot has to go just right. And with the time delay between Earth and Mars, you can’t control what’s happening in real time. All you can do is watch and wait and hope the spacecraft does exactly what you programmed it to do.
+
+Luckily, spoiler alert …
+
+PERSEVERANCE LAUNCH BROADCAST (ARCHIVAL): [inaudible] indicates chute deploy. The navigation has confirmed that the parachute has deployed and we are seeing significant deceleration…
+
+JACOB: As Katie watched from Earth, orange and white parachutes billowed up above the capsule. There was a collective sigh of relief, although it wasn’t over yet.
+
+PERSEVERANCE LAUNCH BROADCAST: Heat shield sep. Perseverance has now slowed to subsonic speeds and the heat shield has been separated. This allows both the radar and the cameras to get their first look at the surface.
+
+JACOB: On the footage from the capsule’s cameras, you can see the red dusty surface come into focus. And a big crater called Jezero growing larger and larger.
+
+PERSEVERANCE LAUNCH BROADCAST: Sky crane maneuver has started. About 20 meters above the surface.
+
+JACOB: Then, the craziest part. Rocket engines on the descent stage fired, stopping it in midair. And at the same time, the rover came into focus on the cameras. It slowly lowered to the surface on cables. And then…
+
+PERSEVERANCE LAUNCH BROADCAST: Still getting signals from MRO. Touchdown confirmed. Perseverance is safely on the surface of Mars, ready to begin seeking the signs of past life.
+
+KATIE: I just burst into tears, because just the swell of emotion, it was just too much. And I just cried. I cried happy tears, relief tears, and then I was like, “Oh my gosh, our job is just starting.” And of course, the engineers are celebrating. A lot of them, you know, they’re done. They move on to another project. They’ve gotten the rover to Mars. And for us, it was like, “Oh no, now it gets down to business.” And so it was like, “Okay, we’ve got a long night ahead of us.”
+
+JACOB: There’s a tradition at JPL: to make working the long, hard hours of Mars time a little sweeter, mission control has a chest full of ice cream. So some of Katie’s colleagues improvised the pandemic version. They had ice cream delivered to her front door.
+
+Now, it’s time for us to get down to business.
+
+[Music: Time Passing Marimba by Eric Chevalier]
+
+JACOB: Through the Artemis program, NASA is sending humans to the Moon. NASA is building a Moon Base. And one day, astronauts will walk on Mars. Landing humans on Mars is a hard goal. It doesn’t happen all at once. NASA science has been laying the groundwork for human exploration for years, and Katie says Perseverance is one step on that path.
+
+KATIE: Robots are great because they can test things out ahead of time. They can decrease the risk. And there is a lot of risk to sending humans to another planet. And so our robotic explorers can help reduce the risks for human explorers.
+
+JACOB: Along with its science goals, which we’ll get into, Perseverance is exploring Mars before humans get there and testing technologies that we’ll need to stay alive on the planet. Mars is one of humanity’s prime targets in the search for life beyond Earth. In fact, Perseverance’s main goal is to find evidence of ancient life on Mars. Perseverance has spent more than five years exploring Mars, first in Jezero Crater, and now—after a long and arduous climb—along the crater’s northern rim.
+
+We’re going to spend some time talking about this place—Jezero —because it is particularly important to the search for life. Some 3.5 billion years ago, a river of liquid water flowed through it. It carved out a canyon and formed a river delta. Now, today, Mars has no liquid water, although there is some water frozen in ice caps. And it has no life. But Mars was once habitable. Which means we could find evidence of tiny microbial life that has long since died off, kind of like how we find fossils of ancient seabed creatures on Earth.
+
+Perseverance has made some major discoveries in that search for life over the years. And the rover also brought along another explorer: Ingenuity, the first aircraft to ever fly on another planet.
+
+So today we’re catching up with Perseverance—what the rover’s been up to, and what’s next. To help us do that, we have producer Christian Elliott. Christian, where do we even start?
+
+PRODUCER CHRISTIAN ELLIOTT: Hey Jacob. Well, let’s start with Katie. She’s our guide today for all things Mars. She first got interested in the Red Planet back in grad school. Before that she studied Earth.
+
+KATIE: Mars has so many similarities to Earth, especially Mars, billions of years ago, we think was quite similar to Earth, but it has taken a very different path than Earth. Mars was once habitable. It’s not anymore. It’s cold and dry, but yet it has this fascinating rock record that tells us that Mars was once very Earth-like. So for me, Mars was the perfect marriage of the familiar and the alien and the mysterious.
+
+JACOB: I love that way of describing Mars, and that’s exactly why NASA has been so interested in Mars for so long, right? Because it could have hosted life, sometime in the distant past.
+
+CHRISTIAN: Yeah, t hat’s exactly right. And Perseverance is part of a long lineage of rovers. Remember, the dream is human explorers on Mars. Artemis II just demonstrated why it’s so crucial to have humans out in space, making observations with their own eyes. But the next best thing is robotic exploration.
+
+KATIE: Yeah, s o NASA has been on this quest to discover whether Mars, the Red Planet, was capable of hosting life, whether it did once host life, is there life beyond Earth? And so there is a strategy in place.
+
+[Music: Tightrope Walker by Nicolas Montazaud]
+
+CHRISTIAN: The first phase of NASA’s Mars strategy was looking for signs of ancient water. That started back in 1997 with at series of landings.
+
+KATIE: And the Pathfinder lander and the small Sojourner rover and the Mars Exploration Rovers Spirit and Opportunity were really looking for water. They were following the water on Mars.
+
+CHRISTIAN: They found signs that water flowed on Mars up to about 2 billion years ago. Then there was Curiosity, the rover that Katie worked on as a grad student. That rover landed in 2012. It was Curiosity’s job to look for evidence that Mars was once habitable.
+
+KATIE: So not just water, but also the basic ingredients for life, like organic molecules and the environments and conditions in which life could have existed.
+
+CHRISTIAN: And again, the answer was yes.
+
+JACOB: So at this point NASA’s rovers have established that sometime in the past Mars had both water and the basic building blocks for life to form.
+
+CHRISTIAN: Exactly. So then NASA was like, can we ratchet things up a notch and answer the big question?
+
+KATIE: And so then we wanted to really take it to the next level and say, “OK, Mars had water. Mars had habitable environments. Did Mars have life?” And in order to answer that question, the Perseverance rover was designed with a new payload specifically designed to look for signs of possible ancient life in the rock record.
+
+CHRISTIAN: And I’m going to keep you waiting on what exactly Perseverance has found so far in that rock record for a little bit, because before we get there, I think we need to cover what makes Perseverance unique.
+
+JACOB: Yeah, scientists always talk about needing more data and once they get some observations they get some answers, but they get even more questions. So after these rovers that came before Perseverance, what can Perseverance do to answer this big question?
+
+CHRISTIAN: Well first, Mars is a pretty rough place to drive a robot around. These rovers don’t last forever. For one thing, the rocks are just super sharp. Remember Curiosity, Perseverance’s predecessor? That rover’s been exploring Mars since 2012. But some 300 days into the rover’s mission, the team noticed the rocks were tearing up the metal wheels. A tire change up there is not an option. So for Perseverance, they totally redesigned those wheels.
+
+KATIE: We did not want to have to worry about the wheels and the damage that we might do to the wheels. So the engineers put those new wheels for Perseverance through their paces, and they drove those things round and around and around to make sure that, you know, there would be no dents, no scratches, no tears, no rips. And so far, they’ve been very successful. And our wheels are not a thing we think about on Perseverance.
+
+JACOB: And Christian, Perseverance also has some new and improved instruments right? I know, for example, that it has microphones aboard. Curious Universe released the very first sound recordings from Mars back in 2021, which is just cool.
+
+CHRISTIAN: Yes, Curious Universe has the claim to fame of the first podcast to ever feature a microphone-recorded sound from Mars. Here’s a recording of Perseverance driving around. You can hear the rover itself and the Martian wind.
+
+[SFX: Tinny rattling sounds of Perseverance driving on Mars]
+
+CHRISTIAN: It sounds a little different from how it would on Earth, because the atmosphere is less dense, so sound can’t travel as well. And the 96 percent carbon dioxide atmosphere absorbs certain frequencies.
+
+JACOB: Yeah, but it’s just mind-blowing that we can hear this other planet.
+
+CHRISTIAN: Yeah, it blows my mind. And it’s not just us audio nerds. Katie also loves the microphones.
+
+KATIE: We can hear the surface of Mars. We can hear those wheels grinding on rocks. We can hear the mechanisms of the rover moving around. So really making that experience a multi-sensory like we were there, kind of experience.
+
+CHRISTIAN: There are also more color cameras. And yes, a bunch more scientific instruments because, Katie told me, this time scientists wanted to go beyond analyzing the composition of rocks, like Curiosity does. They wanted to see the patterns and textures in those rocks because life is one of the biggest forces that changes how rocks look.
+
+KATIE: So not just knowing are organics in a rock, but where are the organics in the rock? Because sometimes, depending on where those organics are, or where certain minerals are, that could be a pattern or fingerprint that life leaves behind. But if you take that rock, break it down into tiny little pieces and put it into an instrument, you lose a lot of information. And so Perseverance has special instruments on its arm so that they can analyze little postage stamp-sized pieces of Martian rocks, but they preserve the textures. They’re non-destructive. And so we can actually make these maps of composition, organics and different minerals, but without damaging those rocks and preserving those possible patterns that might be there.
+
+CHRISTIAN: Now, P erseverance has another pretty cool new trick.
+
+JACOB: OK, is it helicopter time?
+
+CHRISTIAN: Yes, it is helicopter time. We’re going to talk about Ingenuity.
+
+Ingenuity is this little 4-pound robot helicopter. It has two rotors, each four feet long, a solar panel and four long landing legs. It hitched a ride to Mars onboard Perseverance. And Ingenuity was a huge success, but it almost didn’t happen. Katie was a grad student when the science team proposed flying a helicopter on Mars. It didn’t work out at the time. It seemed too risky and expensive. But then, around when she became deputy project scientist, the engineering team revived the idea as a technology concept demonstration.
+
+KATIE: And so I thought, “Wow, this has really come full circle, where I was part of this concept, thought it was done, and then now it has re-emerged,” and literally phoenix rising from the ashes in this case. It was amazing to see the development of Ingenuity.
+
+HÅVARD GRIP: It was a wild concept. And you kind of go into that expecting that, you know, it may fizzle.
+
+CHRISTIAN: That’s Håvard Grip. He’s an engineer at JPL on the Ingenuity helicopter team.
+
+HÅVARD: B ut, you know, we just kept going, and we had this saying, “WNDY”, meaning “We’re not dead yet.” And so that was a mantra that we lived by for years as we kept improving the technology, taking step by step.
+
+CHRISTIAN: Håvard has a pretty unique claim to fame: the first Mars helicopter pilot.
+
+HÅVARD: I led the aerodynamics and flight control development for Ingenuity, and then I was the chief pilot for the first 37 flights on Mars.
+
+CHRISTIAN: Now, don’t worry we’re coming back to Katie to hear about Perseverance’s journey through Jezero Crater, and all the science findings so far, but first, we absolutely have to talk about Ingenuity. This little helicopter is an experimental aircraft. A helicopter flight on Mars had never been attempted before. So the team was hoping for a Wright Brothers moment.
+
+HÅVARD: Our goal was to prove that it’s possible to fly a helicopter in the Martian atmosphere, which was not at all obvious when we started out. The Martian atmosphere is extremely thin, just about one percent of the atmospheric density that we have here on Earth, and so to fly in that is incredibly challenging, but we thought it was possible, and we set out to prove that.
+
+JACOB: And at the risk of maybe asking a silly question, what makes this so hard?
+
+CHRISTIAN: No, it’s not a silly question at all. I mean, I am no engineer. But Håvard says it’s mostly about that really thin atmosphere. He said it comes down to a triangle of mass, thrust, and power.
+
+HÅVARD: In order to have mass, you have to have thrust. In order to have thrust, you have to have power. But in order to have power, you have to have mass. And so you kind of go around that triangle and try to make the system close.
+
+CHRISTIAN: Closing the system was a delicate balance of weight and size. You need big enough blades to generate lift, but it can’t be too heavy to fly. Each rotor blade weighs just two ounces. They spin at 2,500 rotations per minute to lift the tissue-box-sized body of the helicopter. Helicopter blades on Earth only spin about 400 rotations per minute, for comparison. And a helicopter is a fragile thing. It had been packaged up in the belly of the rover, but the ride down to Mars wasn’t exactly smooth. So when Perseverance dropped the helicopter off, it wasn’t a guarantee that it would still work.
+
+HÅVARD: When we got dropped off on the surface, and the rover drove away, and we talked to the helicopter, and, you know, it was still alive, OK, you know, after, after seven months in cruise and being dropped, you know, to the surface of Mars, there was an incredible relief. And, you know, sort of a jubilant atmosphere at that point.
+
+CHRISTIAN: Then, it was time for the moment of truth: the first flight. April 19, 2021.
+
+[Music: Puzzle Pieces by Noclas Montazaud]
+
+CHRISTIAN: The plan was simple: power up the rotors, fly straight up about 10 feet, and then land safely. On the broadcast, you can see the mission control team sitting around a U-shaped table. In the middle is a life-sized model of Ingenuity. They sent the real Ingenuity its instructions, and then they waited. You hear from the mission control team that they’ve received data back from Mars.
+
+INGENUITY FIRST FLIGHT BROADCAST (ARCHIVAL): Confirming that we have helicopter data products, helicopter telemetry, helicopter events.
+
+CHRISTIAN: Then you hear from flight control Håvard, in his usual understated way…
+
+INGENUITY FIRST FLIGHT BROADCAST: Ingenuity is reporting having performed spin up, take off, climb…
+
+CHRISTIAN: I t worked perfectly. Ingenuity flew.
+
+INGENUITY FIRST FLIGHT BROADCAST: …confirms that Inge nuity has performed its first flight of a powered aircraft on another planet.
+
+CHRISTIAN: Then, the first images came down—Mars seen from above, from a helicopter point of view for the first time ever. The team got its Wright Brothers moment. Here’s the sound of Ingenuity flying on Mars.
+
+[SFX: Muted whirr of helicopter blades spinning on Mars]
+
+CHRISTIAN: The team tore up their contingency speech, which they’d written up in case the helicopter crashed. Then it was time to fly again. For the next two flights, everything was planned out to the T and simulated tons of times in advance. On each of those flights, Ingenuity performed perfectly. The demonstration mission was accomplished, a nd Ingenuity was still ready for more. So NASA said keep on going. Fly this little helicopter further and explore Mars.
+
+HÅVARD: Once we got this job of, hey, go explore Mars, we were totally in totally uncharted territory. Up to that point, we were just playing in our own little sandbox. So we spent a long time figuring exactly what that sandbox should look like, picking it when we got to Mars, and doing, you know, little flights in there. But now suddenly we had to go to areas we’d never seen before, right? We had never imaged it. We’d fly, effectively blind, into into new areas. And so my job at that point largely rolled around like figuring out, how do you do that? How do you take a helicopter and land it safely when you’re worried about five-centimeter rocks into an area that you’ve never seen before. Nobody’s ever seen it before And that was really exciting as to kind of find our way there, figure out ways that you could do that when it’s not at all obvious that it’s doable, and see it work.
+
+CHRISTIAN: I’m sure you’re wondering: What’s it like to actually fly a helicopter on another planet?
+
+JACOB: I am. I mean, I can’t fly a helicopter on this planet or any other one, but I can sort of imagine it. On Earth you’re in a cockpit, you’re reacting to things in real time. But with Mars, there’s that time delay. It takes up to 40 minutes for a message to get to Mars and back. And that means that from Earth, Håvard’s not flying in real time, right?
+
+CHRISTIAN: Yeah, that’s exactly right. Håvard is more than 100 million miles away from Ingenuity in the control room at JPL. He says it’s mostly about anticipating what Mars will throw at you. You send Ingenuity instructions and the helicopter tries to follow them as best it can.
+
+HÅVARD: So it’s a little bit like a game where you think very, very hard about the next move and you want to be very, very cautious about it, and then you know, you hold your breath and you hope that you know your opponent doesn’t crush you on the next move.
+
+CHRISTIAN: And what blows my mind is the team was not expecting this to go so well. Håvard was hoping for one successful flight. But Ingenuity flew dozens of times over three years, covering more than 10 miles.
+
+HÅVARD: You know, we would have been thrilled, ecstatic to have, you know, this thing take off and land again.
+
+[MUSIC: Positivity is the Key by Nicolas Montazaud]
+
+HÅVARD: W hen you look back at what we ended up doing compared to what we thought we could do, the gap is just enormous. The first time somebody talked about flying off, you know, a little bit, you know, couple of hundred meters in that direction, we were almost snickering about, you know, just, it’s wildly you know, out of scope for what we can do, and then looking at where we ended up, you know, it’s just amazing, you know, how much that technology could be squeezed into service of just doing more and more and more.
+
+CHRISTIAN: Ingenuity took its 72nd and final flight in 2024, after which a rotor blade was damaged while landing. That was a sad day for the team. But Ingenuity worked so well, now when scientists and engineers think of exploring Mars, they think of helicopters.
+
+HÅVARD: I think at this point it’s almost impossible to think about Mars missions without thinking, Well, you know, what role could the helicopter play in this?
+
+JACOB: It’s such a cool case study, the fact that this Mars helicopter almost didn’t happen at all, and then it turned out to work way better than anyone expected. It just proves what happens at NASA over and over. You’ve got this problem that seems like it’s really hard or maybe even impossible, you put some NASA experts on it, and it doesn’t stay impossible for long. It’s just what NASA does.
+
+HÅVARD: In order to land humans on Mars, we’ve got to figure out where good sites to land, we’ve got to figure out where the resources are, like water ice on Mars, and helicopters are a perfect platform for answering those questions.
+
+CHRISTIAN: Håvard imagines a future where astronauts on Mars use helicopters like Ingenuity.
+
+HÅVARD: We use drones here on Earth, like they’re very powerful here on Earth, you know, just because they can fly over things, they can get over the horizon quickly and easily. Helicopters, I think, will play a similar role on Mars.
+
+JACOB: And this is where we get to say, the future isn’t actually that far off, right? NASA already has plans not to send another Ingenuity, but a whole fleet of Ingenuity-class rovers to explore Mars. It’s a mission called Skyfall.
+
+CHRISTIAN: Yeah, that project hadn’t even been announced when we talked with Håvard. These next-gen helicopters will carry more scientific equipment and scout ahead for landing sites and map water ice below the surface. Now for her part, Katie admits she has a pretty rover-centric view. She sees Mars all day every day through Perseverance’s eyes—er, cameras. So when Ingenuity flew and she got the first images of the rover from the sky…
+
+KATIE: I mean, it’s just wow. You know, our whole world is this rover exploring this place. And then you see these rovers from a totally different perspective. And you’re reminded that you’re this rover driving around in this big crater. We often live and see Mars through the rover. And it’s a reminder that, you know, that rover is indeed a robot working on another planet.
+
+JACOB: So we’ve got this robot hard at work. And Christian, we talked about those big goals that NASA had with its Mars rover program from the beginning, like finding signs of water, finding evidence of the conditions for life. And the biggest challenge, finding proof of ancient life. So, where is Perseverance at in all of that?
+
+CHRISTIAN: Well, the discoveries started the moment Perseverance touched down in Jezero Crater, and they really haven’t stopped. The first thing was a type of rock scientists hadn’t studied much on Mars before: igneous rocks. These are formed by molten lava or magma crystallizing. It’s pretty easy to tell how old igneous rocks are, which is why scientists are excited about them. Now the Curiosity Rover is exploring Gale Crater, which is mostly sedimentary rock. NASA sent Perseverance to Jezero Crater, more than 2,300 miles away. That’s about as far as New York is from Las Vegas. But they were sort of expecting a lot of the same rocks.
+
+KATIE: Wh en we first landed on the floor of Jezero Crater, when we first landed on the floor of Jezero Crater, surrounded by these rocks, my first thought when I looked at them was, we’re not in Gale Crater anymore.
+
+CHRISTIAN: That’s b ecause the rocks looked a lot different. Perseverance ground up the rocks and studied them and confirmed they were igneous. And it also found signs they’d interacted with water sometime in the past, long after they crystallized.
+
+KATIE: Typically you don’t think of igneous rocks which have a very fiery birth, are not necessarily the kind of rocks where you think, “Oh yeah, life, is there,” but because these rocks had interacted with water at least over several episodes, there’s a possibility that microbes might have taken advantage of the water in these rocks, the minerals and chemicals in these rocks to actually live in there too. So it was a pretty exciting discovery to find both igneous rocks and rocks that had interacted with water.
+
+CHRISTIAN: Then, Perseverance moved on from that area and found sedimentary rocks, Katie’s expertise.
+
+KATIE: L ove the igneous rocks, but we’d been in them for about a year. And so the first outcrop of sedimentary rocks, which it was an image called Enchanted Lake. A good, a great name for that kind of outcrop. I was just like, “Ah, these are my rocks.” And it was so great to finally be in the sedimentary rocks
+
+JACOB: Ah, I love when geologists just get excited about rocks. So she’s in her home turf. This is where the discoveries start flowing, right?
+
+[Music: Poll Observers by Laurent Dury]
+
+[SFX: Ocean waves crashing, water droplets falling]
+
+KATIE: I’ll set the scene here. We’re in an ancient Martian river valley. And those sedimentary rocks are part of a fan, so it’s a deposit that was formed when water brought sediment into the crater, and then the grains of sand and mud and the pebbles that that water was carrying, they all settled down on onto the crater floor and left behind this sedimentary fan. And so we were looking for evidence of stable water. What kind of environments were there? How deep was the water? How fast was it flowing? How long, relatively, was it here?
+
+CHRISTIAN: Over the next few months, using rock samples and photographs, the science team was able to piece together exactly what had happened in this Martian river valley some 2 billion years ago:
+
+[SFX: River flowing, waves on a lake shore]
+
+KATIE: And what we discovered was a pretty stable, long-lived, and habitable lake, river, and delta system. So we were able to work out the kind of details and walk through time from a time when there were rivers flowing in to, OK, there’s enough water now that we’re actually forming a lake, and then a lot of sediment comes in, forming this delta that moves out over the crater floor, and then we have at the very end these really energetic, catastrophic floods that bring these big boulders into the crater deposited on the top of the fan. So it was a really dynamic environment, and it was by studying the rocks very carefully that we were able to put that story together.
+
+CHRISTIAN: Right around this time, Perseverance made its biggest discovery yet. The science team had driven the rover up into the channel that once fed water into the crater, a place called Neretva Vallis.
+
+KATIE: And when we got there, we found very interesting features in those rocks, and turned out to be amongst the most exciting rocks ever discovered on Mars.
+
+JACOB: You know, NASA scientists are not prone to hyperbole. So when Katie says these rocks are exciting, she must really mean it.
+
+KATIE: W hat we found in these rocks were very distinct but small, millimeter-sized features. The first ones we found, we called poppy seeds, because they were little dark flecks in the rock that were a unique mineral called vivianite. And you would be forgiven for not knowing the mineral vivianite, because I did not know the mineral vivianite when we discovered it.
+
+CHRISTIAN: I’m glad I’m forgiven because I was certainly not familiar with vivianite. It’s an iron phosphate mineral. It can form when you have iron from rocks combined with water and organic compounds. That’s cool. But the headline here…
+
+KATIE: When you find vivianite on Earth, sometimes you find it associated with decaying organic matter here on Earth, and so involved in life and associated with microbial activity.
+
+JACOB: OK, so I can feel we’re taking baby steps to the big question. We’re taking baby steps. Was there life on Mars, Christian?
+
+[Music: Crisis of Conscience by Sarah Revino and Lester Fraces]
+
+CHRISTIAN: I cannot give you a solid answer to that, Jacob. But I will say, they found these poppy seeds. Then they drove a bit further, where they found these even bigger features that they named leopard spots.
+
+KATIE: And we call them leopard spots because they really look like leopard spots! We have this red rock, and these small features, they’re round, that have dark gray rims, and then kind of a bleached white inner center.
+
+CHRISTIAN: These are also rings of iron phosphate. And they can form through chemical reactions. That’s chemistry, not life.
+
+KATIE: But one of the reasons why we think life might have been involved in the formation of these features is because the particular minerals involved in these reactions, they tend to form most easily, either at really high temperatures or with life to help those reactions move along. And based on what we know about these rocks, we don’t necessarily think that they experienced really high temperatures. So if you can’t explain these minerals with heat, one of the most reasonable alternative explanations is life, and we’re not sure that life was there, you know, that’s still a question, and that’s why we call these features potential biosignatures. And the potential is doing a lot of work here, but this is probably the first time that we’ve really had life as a truly compelling alternative hypothesis, and one that is really worthy of consideration.
+
+JACOB: So what I’m hearing is they’re sort of trying to systematically rule out every cause other than life. These aren’t a dead ringer biosignature, but they’re potentially a biosignature.
+
+CHRISTIAN: Yeah, and as you pointed out, NASA scientists are super careful when they talk about this stuff. They are not prone to hyperbole. So Katie saying this is the first time we’ve had life as a solid hypothesis to explain a feature on a rock, that’s huge. And I should note, this discovery is one only Perseverance could have made with those new instruments that let the rover preserve the patterns in the rock, instead of just drilling and grinding it up. But to really nail down whether these spots are a biosignature, Perseverance’s rock sample vials are going to have to make it back to a lab on Earth somehow. That will have to wait for a future sample return mission.
+
+JACOB: Well, Christian, th ere’s always more rocks to find. So what’s next for Perseverance?
+
+KATIE: So Perseverance’s science mission continues, and we waved goodbye to Cheyava Falls after spending a couple of months there and said, “OK, we have a whole new set of rocks to explore.” So we spent the first three and a half to four years of the mission looking at rocks, studying rocks that were inside Jezero Crater, and that means that they are most likely younger than the formation of the crater itself. But we’ve now transitioned to exploring the crater rim of Jezero and the rocks even beyond the crater rim. And so these rocks are older than the formation of Jezero, and these really old rocks are probably amongst the oldest rocks in the solar system. And that’s really cool, because these rocks can tell us about not only the early history of Mars, but also the early history of the solar system.
+
+CHRISTIAN: I’m just going to say that again for emphasis: some of the oldest rocks in the solar system. There aren’t that many places we can find 4-plus billion-year-old rocks that help us understand how the solar system itself formed. We definitely can’t study that period of time on Earth, because we have plate tectonics here that’s constantly shuffling up the rocks, recycling Earth’s crust.
+
+KATIE: So we are exploring a period of solar system history that just simply isn’t studyable on our own planet, and we’re doing that with the Perseverance rover.
+
+JACOB: So, there was one more question that Christian, I know you and I both had before we started working on this episode. You know, I’ve seen people not in NASA but in the public call Perseverance “Percy”. Sometimes people call Ingenuity “Ginny”. People love these robots. They’ve anthropomorphized them for years. They pretend they’re humans or cartoon characters with feelings and things like that. I just wonder how the science team feels about all that and the way people react?
+
+CHRISTIAN: Yeah, to add one more anecdote, I remember the Opportunity rover’s final message to NASA, sent during a planetary dust storm, was translated as “My battery is low and it’s getting dark.” And I remember people crying real tears for Opportunity, or Oppy. The science team sent the rover the Billie Holiday song “I’ll Be Seeing You” on its final day. People just really care for these robots. And the science team does too.
+
+KATIE: I’ll take you back to Curiosity, because this is the first time I realized I had feelings for a rover.
+
+CHRISTIAN: Remember, at the beginning Katie was a grad student. She didn’t feel super emotionally invested in Curiosity. She just thought it was cool, until one day when everything changed.
+
+KATIE: It was just a run-of-the-mill day. I was doing rover operations, and I think Curiosity might have had a pretty minor, minor issue. And I realized I was like, “Wow, I really care about Curiosity.”
+
+[Music: Imagine Tomorrow by Nicolas Montazaud]
+
+KATIE: And it was this like, I don’t know—I don’t know if it was like—it’s like that moment in a rom-com where you’re like, “Oh, I have feelings.” And, you know, I had not been aware of them beforehand, and it just kind of hit me in this wave of like, “Wow, I’m having this emotional reaction. And I didn’t think I cared in this way.”
+
+CHRISTIAN: Katie said each Mars rover becomes sort of like a family member for the team that controls it. They spend so much time together. And the team kind of projects a personality onto the rover. They’ve had the rovers sing happy birthday to themselves. It’s an inanimate object of course, and they know that. But still…
+
+KATIE: Perseverance is now five years old, but it was the new one on the scene. The “Look at me. I’ve got all these fancy things I can do, and I drive so fast.” And then you’ve got Curiosity. It’s been on the surface for a long time. It’s wise. It’s, you know, moving its way up the mountain. Just really, day in, day out doing the work has overcome a lot. And, you know, we really start to, we project our feelings about the rovers, but also the experiences that the rovers are having, the anomalies that they’ve had, the challenges that they’ve overcome. And so, yeah, the rovers feel like real characters. I was gonna say real people. They become beings that we care about, we have emotions about, and that we see as having personalities and emotions too.
+
+CHRISTIAN: Now, w e talked to Katie and Håvard back in March. I’m happy to report Perseverance is still exploring Mars. The rover is now well outside Jezero Crater on its fifth science campaign, the Northern Rim Campaign. In the latest photos you can see the crater rim way out in the background. The science team calls this region the “Wild West,” the Martian frontier. There are these huge skyscraper sized fragments of meteor impacts all around. We might get answers from the truly ancient rocks here as to whether there was once a magma ocean on Mars and how exactly the planet first became habitable. From here, the rover will head southeast to a region called Singing Canyon, which sounds pretty cool to me.
+
+At last count, Perseverance has ground down 62 rocks to study their interiors, collected 27 rock core samples, and driven 26 miles—just shy of a marathon.
+
+JACOB: Well Ch ristian, you have brought perseverance and ingenuity to putting together this episode. This has been so much fun and just so cool. Thank you.
+
+CHRISTIAN: Thank you, Jacob.
+
+JACOB: This is NASA’s Curious Universe, an official NASA podcast. This episode was written and produced by Christian Elliott.
+
+Our executive producer is Katie Konans. Krystopher Kim designed our show art. Our theme song was composed by SYSTEM Sounds. Other music is from Universal Production Music. Special thanks to Alana Johnson, Erin Morton and DC Agle.
+
+This episode would not have been possible without Chelsea Gohd. During her time at JPL, she helped report and produce this episode, and she provided valuable input from the very beginning. Chelsea, thank you so much, and best of luck in your new adventures.
+
+You can find transcripts for every episode of Curious Universe and explore NASA’s other podcasts at nasa.gov/podcasts. If you enjoyed this episode of NASA’s Curious Universe, let us know. Leave us a review wherever you’re listening right now. Maybe send a link to one of your friends. And you can follow NASA’s Curious Universe in your favorite podcast app to get a notification each time we post a new episode.

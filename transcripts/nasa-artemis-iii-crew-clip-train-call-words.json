@@ -1,0 +1,846 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.08,
+    "text": "And so I answered the phone, and the boss told me,",
+    "words": [
+      {
+        "word": " And",
+        "start": 0.0,
+        "end": 0.22,
+        "probability": 0.41902780532836914
+      },
+      {
+        "word": " so",
+        "start": 0.22,
+        "end": 0.42,
+        "probability": 0.952081561088562
+      },
+      {
+        "word": " I",
+        "start": 0.42,
+        "end": 0.56,
+        "probability": 0.8832311630249023
+      },
+      {
+        "word": " answered",
+        "start": 0.56,
+        "end": 0.84,
+        "probability": 0.9270757436752319
+      },
+      {
+        "word": " the",
+        "start": 0.84,
+        "end": 1.04,
+        "probability": 0.9868218302726746
+      },
+      {
+        "word": " phone,",
+        "start": 1.04,
+        "end": 1.36,
+        "probability": 0.996829092502594
+      },
+      {
+        "word": " and",
+        "start": 1.92,
+        "end": 2.08,
+        "probability": 0.9846989512443542
+      },
+      {
+        "word": " the",
+        "start": 2.08,
+        "end": 2.82,
+        "probability": 0.9887062311172485
+      },
+      {
+        "word": " boss",
+        "start": 2.82,
+        "end": 3.06,
+        "probability": 0.9947921633720398
+      },
+      {
+        "word": " told",
+        "start": 3.06,
+        "end": 3.36,
+        "probability": 0.9941685199737549
+      },
+      {
+        "word": " me,",
+        "start": 3.36,
+        "end": 4.08,
+        "probability": 0.9993849992752075
+      }
+    ]
+  },
+  {
+    "start": 4.28,
+    "end": 11.28,
+    "text": "Hey, Luca, I want you to know that we want you to be the pilot on the Artemis III mission.",
+    "words": [
+      {
+        "word": " hey,",
+        "start": 4.28,
+        "end": 4.42,
+        "probability": 0.2140197455883026
+      },
+      {
+        "word": " Luca,",
+        "start": 4.48,
+        "end": 4.76,
+        "probability": 0.8774914145469666
+      },
+      {
+        "word": " I",
+        "start": 4.96,
+        "end": 4.96,
+        "probability": 0.9488725066184998
+      },
+      {
+        "word": " want",
+        "start": 4.96,
+        "end": 5.14,
+        "probability": 0.3882724940776825
+      },
+      {
+        "word": " you",
+        "start": 5.14,
+        "end": 5.6,
+        "probability": 0.8593372702598572
+      },
+      {
+        "word": " to",
+        "start": 5.6,
+        "end": 5.72,
+        "probability": 0.9955874681472778
+      },
+      {
+        "word": " know",
+        "start": 5.72,
+        "end": 5.96,
+        "probability": 0.9985062479972839
+      },
+      {
+        "word": " that",
+        "start": 5.96,
+        "end": 6.42,
+        "probability": 0.9898377656936646
+      },
+      {
+        "word": " we",
+        "start": 6.42,
+        "end": 7.98,
+        "probability": 0.9517808556556702
+      },
+      {
+        "word": " want",
+        "start": 7.98,
+        "end": 8.32,
+        "probability": 0.9497538805007935
+      },
+      {
+        "word": " you",
+        "start": 8.32,
+        "end": 8.52,
+        "probability": 0.967613697052002
+      },
+      {
+        "word": " to",
+        "start": 8.52,
+        "end": 8.54,
+        "probability": 0.9982360601425171
+      },
+      {
+        "word": " be",
+        "start": 8.54,
+        "end": 8.82,
+        "probability": 0.9967864751815796
+      },
+      {
+        "word": " the",
+        "start": 8.82,
+        "end": 9.3,
+        "probability": 0.9935490489006042
+      },
+      {
+        "word": " pilot",
+        "start": 9.3,
+        "end": 9.56,
+        "probability": 0.9977357387542725
+      },
+      {
+        "word": " on",
+        "start": 9.56,
+        "end": 10.06,
+        "probability": 0.9856195449829102
+      },
+      {
+        "word": " the",
+        "start": 10.06,
+        "end": 10.46,
+        "probability": 0.9713521599769592
+      },
+      {
+        "word": " Artemis",
+        "start": 10.46,
+        "end": 10.66,
+        "probability": 0.7086822390556335
+      },
+      {
+        "word": " III",
+        "start": 10.66,
+        "end": 10.92,
+        "probability": 0.7428682446479797
+      },
+      {
+        "word": " mission.",
+        "start": 10.92,
+        "end": 11.28,
+        "probability": 0.9822161197662354
+      }
+    ]
+  },
+  {
+    "start": 12.34,
+    "end": 15.28,
+    "text": "And I was very much unprepared for that answer.",
+    "words": [
+      {
+        "word": " And",
+        "start": 12.34,
+        "end": 12.58,
+        "probability": 0.985363245010376
+      },
+      {
+        "word": " I",
+        "start": 12.58,
+        "end": 12.72,
+        "probability": 0.9825291633605957
+      },
+      {
+        "word": " was",
+        "start": 12.72,
+        "end": 12.84,
+        "probability": 0.9984022974967957
+      },
+      {
+        "word": " very",
+        "start": 12.84,
+        "end": 13.18,
+        "probability": 0.9932583570480347
+      },
+      {
+        "word": " much",
+        "start": 13.18,
+        "end": 13.96,
+        "probability": 0.5913820862770081
+      },
+      {
+        "word": " unprepared",
+        "start": 13.96,
+        "end": 14.38,
+        "probability": 0.9959828853607178
+      },
+      {
+        "word": " for",
+        "start": 14.38,
+        "end": 14.68,
+        "probability": 0.9986082911491394
+      },
+      {
+        "word": " that",
+        "start": 14.68,
+        "end": 14.86,
+        "probability": 0.9833741188049316
+      },
+      {
+        "word": " answer.",
+        "start": 14.86,
+        "end": 15.28,
+        "probability": 0.998422384262085
+      }
+    ]
+  },
+  {
+    "start": 15.94,
+    "end": 20.58,
+    "text": "And so it went through one ear, it didn't register in my brain, came out the other ear.",
+    "words": [
+      {
+        "word": " And",
+        "start": 15.94,
+        "end": 16.18,
+        "probability": 0.9094117879867554
+      },
+      {
+        "word": " so",
+        "start": 16.18,
+        "end": 16.5,
+        "probability": 0.9957001209259033
+      },
+      {
+        "word": " it",
+        "start": 16.5,
+        "end": 16.94,
+        "probability": 0.7786120176315308
+      },
+      {
+        "word": " went",
+        "start": 16.94,
+        "end": 17.14,
+        "probability": 0.9995403289794922
+      },
+      {
+        "word": " through",
+        "start": 17.14,
+        "end": 17.36,
+        "probability": 0.9991652965545654
+      },
+      {
+        "word": " one",
+        "start": 17.36,
+        "end": 17.56,
+        "probability": 0.9893903136253357
+      },
+      {
+        "word": " ear,",
+        "start": 17.56,
+        "end": 17.8,
+        "probability": 0.9815545082092285
+      },
+      {
+        "word": " it",
+        "start": 17.96,
+        "end": 18.04,
+        "probability": 0.5671600103378296
+      },
+      {
+        "word": " didn't",
+        "start": 18.04,
+        "end": 18.36,
+        "probability": 0.9979371130466461
+      },
+      {
+        "word": " register",
+        "start": 18.36,
+        "end": 18.74,
+        "probability": 0.9908676147460938
+      },
+      {
+        "word": " in",
+        "start": 18.74,
+        "end": 18.92,
+        "probability": 0.7611619830131531
+      },
+      {
+        "word": " my",
+        "start": 18.92,
+        "end": 19.04,
+        "probability": 0.8995144367218018
+      },
+      {
+        "word": " brain,",
+        "start": 19.04,
+        "end": 19.28,
+        "probability": 0.9991905093193054
+      },
+      {
+        "word": " came",
+        "start": 19.38,
+        "end": 19.52,
+        "probability": 0.8138713836669922
+      },
+      {
+        "word": " out",
+        "start": 19.52,
+        "end": 19.7,
+        "probability": 0.9843993186950684
+      },
+      {
+        "word": " the",
+        "start": 19.7,
+        "end": 19.82,
+        "probability": 0.9909282326698303
+      },
+      {
+        "word": " other",
+        "start": 19.82,
+        "end": 20.02,
+        "probability": 0.9987491369247437
+      },
+      {
+        "word": " ear.",
+        "start": 20.02,
+        "end": 20.58,
+        "probability": 0.9763543605804443
+      }
+    ]
+  },
+  {
+    "start": 20.92,
+    "end": 23.72,
+    "text": "And I literally said, Can you say that again?",
+    "words": [
+      {
+        "word": " And",
+        "start": 20.92,
+        "end": 21.04,
+        "probability": 0.9934636950492859
+      },
+      {
+        "word": " I",
+        "start": 21.04,
+        "end": 21.36,
+        "probability": 0.9977026581764221
+      },
+      {
+        "word": " literally",
+        "start": 21.36,
+        "end": 21.68,
+        "probability": 0.9986628293991089
+      },
+      {
+        "word": " said,",
+        "start": 21.68,
+        "end": 22.04,
+        "probability": 0.9992953538894653
+      },
+      {
+        "word": " can",
+        "start": 22.82,
+        "end": 22.9,
+        "probability": 0.8167411684989929
+      },
+      {
+        "word": " you",
+        "start": 22.9,
+        "end": 23.04,
+        "probability": 0.9994921684265137
+      },
+      {
+        "word": " say",
+        "start": 23.04,
+        "end": 23.22,
+        "probability": 0.9974888563156128
+      },
+      {
+        "word": " that",
+        "start": 23.22,
+        "end": 23.38,
+        "probability": 0.997308611869812
+      },
+      {
+        "word": " again?",
+        "start": 23.38,
+        "end": 23.72,
+        "probability": 0.9977222084999084
+      }
+    ]
+  },
+  {
+    "start": 24.5,
+    "end": 25.96,
+    "text": "And it told me the same words.",
+    "words": [
+      {
+        "word": " And",
+        "start": 24.5,
+        "end": 24.78,
+        "probability": 0.9958204030990601
+      },
+      {
+        "word": " it",
+        "start": 24.78,
+        "end": 24.92,
+        "probability": 0.6872146129608154
+      },
+      {
+        "word": " told",
+        "start": 24.92,
+        "end": 25.14,
+        "probability": 0.9945317506790161
+      },
+      {
+        "word": " me",
+        "start": 25.14,
+        "end": 25.28,
+        "probability": 0.9991928935050964
+      },
+      {
+        "word": " the",
+        "start": 25.28,
+        "end": 25.4,
+        "probability": 0.9988887906074524
+      },
+      {
+        "word": " same",
+        "start": 25.4,
+        "end": 25.58,
+        "probability": 0.9996778964996338
+      },
+      {
+        "word": " words.",
+        "start": 25.58,
+        "end": 25.96,
+        "probability": 0.9994186162948608
+      }
+    ]
+  },
+  {
+    "start": 26.99,
+    "end": 30.75,
+    "text": "And then it did register, but I was in a public environment,",
+    "words": [
+      {
+        "word": " And",
+        "start": 26.99,
+        "end": 27.49,
+        "probability": 0.22797612845897675
+      },
+      {
+        "word": " then",
+        "start": 27.49,
+        "end": 27.99,
+        "probability": 0.9374238848686218
+      },
+      {
+        "word": " it",
+        "start": 27.99,
+        "end": 28.11,
+        "probability": 0.6598057150840759
+      },
+      {
+        "word": " did",
+        "start": 28.11,
+        "end": 28.31,
+        "probability": 0.9837475419044495
+      },
+      {
+        "word": " register,",
+        "start": 28.31,
+        "end": 28.83,
+        "probability": 0.9940844178199768
+      },
+      {
+        "word": " but",
+        "start": 29.03,
+        "end": 29.19,
+        "probability": 0.9981593489646912
+      },
+      {
+        "word": " I",
+        "start": 29.19,
+        "end": 29.29,
+        "probability": 0.8349583148956299
+      },
+      {
+        "word": " was",
+        "start": 29.29,
+        "end": 29.41,
+        "probability": 0.9676082134246826
+      },
+      {
+        "word": " in",
+        "start": 29.41,
+        "end": 29.53,
+        "probability": 0.9978200197219849
+      },
+      {
+        "word": " a",
+        "start": 29.53,
+        "end": 29.65,
+        "probability": 0.9930005073547363
+      },
+      {
+        "word": " public",
+        "start": 29.65,
+        "end": 30.27,
+        "probability": 0.9988610744476318
+      },
+      {
+        "word": " environment,",
+        "start": 30.27,
+        "end": 30.75,
+        "probability": 0.9985508322715759
+      }
+    ]
+  },
+  {
+    "start": 30.75,
+    "end": 34.74,
+    "text": "so I knew that I couldn't say anything out loud.",
+    "words": [
+      {
+        "word": " so",
+        "start": 30.75,
+        "end": 31.23,
+        "probability": 0.9906777143478394
+      },
+      {
+        "word": " I",
+        "start": 31.23,
+        "end": 31.99,
+        "probability": 0.9688971638679504
+      },
+      {
+        "word": " knew",
+        "start": 31.99,
+        "end": 32.19,
+        "probability": 0.9952730536460876
+      },
+      {
+        "word": " that",
+        "start": 32.19,
+        "end": 32.37,
+        "probability": 0.9850667715072632
+      },
+      {
+        "word": " I",
+        "start": 32.37,
+        "end": 32.53,
+        "probability": 0.9955936074256897
+      },
+      {
+        "word": " couldn't",
+        "start": 32.56,
+        "end": 33.54,
+        "probability": 0.9966728091239929
+      },
+      {
+        "word": " say",
+        "start": 33.54,
+        "end": 33.78,
+        "probability": 0.9957640171051025
+      },
+      {
+        "word": " anything",
+        "start": 33.78,
+        "end": 34.12,
+        "probability": 0.9985234141349792
+      },
+      {
+        "word": " out",
+        "start": 34.12,
+        "end": 34.4,
+        "probability": 0.9457188844680786
+      },
+      {
+        "word": " loud.",
+        "start": 34.4,
+        "end": 34.74,
+        "probability": 0.2975294888019562
+      }
+    ]
+  },
+  {
+    "start": 35.02,
+    "end": 37.96,
+    "text": "So I was literally speechless, which doesn't happen very often.",
+    "words": [
+      {
+        "word": " So",
+        "start": 35.02,
+        "end": 35.02,
+        "probability": 0.7915341854095459
+      },
+      {
+        "word": " I",
+        "start": 35.02,
+        "end": 35.16,
+        "probability": 0.8624823093414307
+      },
+      {
+        "word": " was",
+        "start": 35.16,
+        "end": 35.3,
+        "probability": 0.9992910623550415
+      },
+      {
+        "word": " literally",
+        "start": 35.3,
+        "end": 35.66,
+        "probability": 0.9909743666648865
+      },
+      {
+        "word": " speechless,",
+        "start": 35.66,
+        "end": 36.3,
+        "probability": 0.9991118609905243
+      },
+      {
+        "word": " which",
+        "start": 36.74,
+        "end": 36.96,
+        "probability": 0.9992772936820984
+      },
+      {
+        "word": " doesn't",
+        "start": 36.96,
+        "end": 37.26,
+        "probability": 0.9980584383010864
+      },
+      {
+        "word": " happen",
+        "start": 37.26,
+        "end": 37.46,
+        "probability": 0.9965947270393372
+      },
+      {
+        "word": " very",
+        "start": 37.46,
+        "end": 37.7,
+        "probability": 0.9680138826370239
+      },
+      {
+        "word": " often.",
+        "start": 37.7,
+        "end": 37.96,
+        "probability": 0.9993690848350525
+      }
+    ]
+  },
+  {
+    "start": 38.62,
+    "end": 45.7,
+    "text": "And then I was very, very honored when I, when I met the crew for the first time a couple of days later.",
+    "words": [
+      {
+        "word": " And",
+        "start": 38.62,
+        "end": 38.62,
+        "probability": 0.9798148274421692
+      },
+      {
+        "word": " then",
+        "start": 38.62,
+        "end": 40.3,
+        "probability": 0.8932515382766724
+      },
+      {
+        "word": " I",
+        "start": 40.3,
+        "end": 40.5,
+        "probability": 0.9579780697822571
+      },
+      {
+        "word": " was",
+        "start": 40.5,
+        "end": 41.0,
+        "probability": 0.9944584369659424
+      },
+      {
+        "word": " very,",
+        "start": 41.0,
+        "end": 41.72,
+        "probability": 0.9954378008842468
+      },
+      {
+        "word": " very",
+        "start": 41.72,
+        "end": 42.16,
+        "probability": 0.999219536781311
+      },
+      {
+        "word": " honored",
+        "start": 42.16,
+        "end": 42.5,
+        "probability": 0.98763507604599
+      },
+      {
+        "word": " when",
+        "start": 42.5,
+        "end": 42.78,
+        "probability": 0.9956154823303223
+      },
+      {
+        "word": " I",
+        "start": 42.78,
+        "end": 42.94,
+        "probability": 0.998633086681366
+      },
+      {
+        "word": " when",
+        "start": 42.94,
+        "end": 42.94,
+        "probability": 0.998633086681366
+      },
+      {
+        "word": " I,",
+        "start": 42.94,
+        "end": 42.94,
+        "probability": 0.998633086681366
+      },
+      {
+        "word": " met",
+        "start": 42.94,
+        "end": 43.54,
+        "probability": 0.9779660105705261
+      },
+      {
+        "word": " the",
+        "start": 43.54,
+        "end": 43.72,
+        "probability": 0.9979693293571472
+      },
+      {
+        "word": " crew",
+        "start": 43.72,
+        "end": 43.86,
+        "probability": 0.9993242025375366
+      },
+      {
+        "word": " for",
+        "start": 43.86,
+        "end": 44.04,
+        "probability": 0.9911352396011353
+      },
+      {
+        "word": " the",
+        "start": 44.04,
+        "end": 44.14,
+        "probability": 0.9992783665657043
+      },
+      {
+        "word": " first",
+        "start": 44.14,
+        "end": 44.3,
+        "probability": 0.9996472597122192
+      },
+      {
+        "word": " time",
+        "start": 44.3,
+        "end": 44.66,
+        "probability": 0.9986203908920288
+      },
+      {
+        "word": " a",
+        "start": 44.66,
+        "end": 45.08,
+        "probability": 0.5880694389343262
+      },
+      {
+        "word": " couple",
+        "start": 45.08,
+        "end": 45.2,
+        "probability": 0.99955815076828
+      },
+      {
+        "word": " of",
+        "start": 45.2,
+        "end": 45.3,
+        "probability": 0.9900542497634888
+      },
+      {
+        "word": " days",
+        "start": 45.3,
+        "end": 45.44,
+        "probability": 0.9986091256141663
+      },
+      {
+        "word": " later.",
+        "start": 45.44,
+        "end": 45.7,
+        "probability": 0.9978456497192383
+      }
+    ]
+  }
+]

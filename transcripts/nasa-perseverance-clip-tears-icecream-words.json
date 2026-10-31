@@ -1,0 +1,927 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.48,
+    "text": "I just burst into tears because just the swell of emotion, it was just too much.",
+    "words": [
+      {
+        "word": " I",
+        "start": 0.0,
+        "end": 0.24,
+        "probability": 0.9735506772994995
+      },
+      {
+        "word": " just",
+        "start": 0.24,
+        "end": 0.36,
+        "probability": 0.9958385229110718
+      },
+      {
+        "word": " burst",
+        "start": 0.36,
+        "end": 0.52,
+        "probability": 0.9978621602058411
+      },
+      {
+        "word": " into",
+        "start": 0.52,
+        "end": 0.74,
+        "probability": 0.99825519323349
+      },
+      {
+        "word": " tears",
+        "start": 0.74,
+        "end": 1.04,
+        "probability": 0.9995787739753723
+      },
+      {
+        "word": " because",
+        "start": 1.04,
+        "end": 2.16,
+        "probability": 0.9007918834686279
+      },
+      {
+        "word": " just",
+        "start": 2.5,
+        "end": 2.7,
+        "probability": 0.8693351745605469
+      },
+      {
+        "word": " the",
+        "start": 2.7,
+        "end": 2.92,
+        "probability": 0.8881901502609253
+      },
+      {
+        "word": " swell",
+        "start": 2.92,
+        "end": 3.18,
+        "probability": 0.9377743005752563
+      },
+      {
+        "word": " of",
+        "start": 3.18,
+        "end": 3.34,
+        "probability": 0.9988417029380798
+      },
+      {
+        "word": " emotion,",
+        "start": 3.34,
+        "end": 3.62,
+        "probability": 0.9931208491325378
+      },
+      {
+        "word": " it",
+        "start": 3.62,
+        "end": 3.76,
+        "probability": 0.9951568245887756
+      },
+      {
+        "word": " was",
+        "start": 3.76,
+        "end": 3.84,
+        "probability": 0.9996582269668579
+      },
+      {
+        "word": " just",
+        "start": 3.84,
+        "end": 4.02,
+        "probability": 0.9996069073677063
+      },
+      {
+        "word": " too",
+        "start": 4.02,
+        "end": 4.22,
+        "probability": 0.9983468055725098
+      },
+      {
+        "word": " much.",
+        "start": 4.22,
+        "end": 4.48,
+        "probability": 0.9995225667953491
+      }
+    ]
+  },
+  {
+    "start": 5.06,
+    "end": 7.74,
+    "text": "And I just cried. I cried happy tears, relief tears.",
+    "words": [
+      {
+        "word": " And",
+        "start": 5.06,
+        "end": 5.12,
+        "probability": 0.9978552460670471
+      },
+      {
+        "word": " I",
+        "start": 5.12,
+        "end": 5.3,
+        "probability": 0.9996635913848877
+      },
+      {
+        "word": " just",
+        "start": 5.3,
+        "end": 5.46,
+        "probability": 0.999592125415802
+      },
+      {
+        "word": " cried.",
+        "start": 5.46,
+        "end": 5.7,
+        "probability": 0.9984456896781921
+      },
+      {
+        "word": " I",
+        "start": 5.88,
+        "end": 5.92,
+        "probability": 0.9996139407157898
+      },
+      {
+        "word": " cried",
+        "start": 5.92,
+        "end": 6.14,
+        "probability": 0.9952194094657898
+      },
+      {
+        "word": " happy",
+        "start": 6.14,
+        "end": 6.48,
+        "probability": 0.32645606994628906
+      },
+      {
+        "word": " tears,",
+        "start": 6.48,
+        "end": 6.88,
+        "probability": 0.984992265701294
+      },
+      {
+        "word": " relief",
+        "start": 7.06,
+        "end": 7.28,
+        "probability": 0.9706786870956421
+      },
+      {
+        "word": " tears.",
+        "start": 7.28,
+        "end": 7.74,
+        "probability": 0.9724338054656982
+      }
+    ]
+  },
+  {
+    "start": 8.58,
+    "end": 11.86,
+    "text": "And then I was like, Oh my gosh, our job is just starting.",
+    "words": [
+      {
+        "word": " And",
+        "start": 8.58,
+        "end": 8.58,
+        "probability": 0.9319882392883301
+      },
+      {
+        "word": " then",
+        "start": 8.76,
+        "end": 8.88,
+        "probability": 0.9993211030960083
+      },
+      {
+        "word": " I",
+        "start": 8.88,
+        "end": 8.98,
+        "probability": 0.9962533712387085
+      },
+      {
+        "word": " was",
+        "start": 8.98,
+        "end": 9.06,
+        "probability": 0.999903678894043
+      },
+      {
+        "word": " like,",
+        "start": 9.06,
+        "end": 9.26,
+        "probability": 0.9990491271018982
+      },
+      {
+        "word": " oh,",
+        "start": 9.34,
+        "end": 9.48,
+        "probability": 0.6539950370788574
+      },
+      {
+        "word": " my",
+        "start": 9.48,
+        "end": 9.62,
+        "probability": 0.999258816242218
+      },
+      {
+        "word": " gosh,",
+        "start": 9.62,
+        "end": 9.92,
+        "probability": 0.9985768496990204
+      },
+      {
+        "word": " our",
+        "start": 10.34,
+        "end": 10.6,
+        "probability": 0.9988341927528381
+      },
+      {
+        "word": " job",
+        "start": 10.6,
+        "end": 10.92,
+        "probability": 0.9998290538787842
+      },
+      {
+        "word": " is",
+        "start": 10.92,
+        "end": 11.16,
+        "probability": 0.9994543194770813
+      },
+      {
+        "word": " just",
+        "start": 11.16,
+        "end": 11.44,
+        "probability": 0.9996168613433838
+      },
+      {
+        "word": " starting.",
+        "start": 11.44,
+        "end": 11.86,
+        "probability": 0.9986491799354553
+      }
+    ]
+  },
+  {
+    "start": 12.3,
+    "end": 14.16,
+    "text": "And of course, the engineers are celebrating a lot of them.",
+    "words": [
+      {
+        "word": " And",
+        "start": 12.3,
+        "end": 12.36,
+        "probability": 0.9954028129577637
+      },
+      {
+        "word": " of",
+        "start": 12.36,
+        "end": 12.44,
+        "probability": 0.8716349601745605
+      },
+      {
+        "word": " course,",
+        "start": 12.44,
+        "end": 12.52,
+        "probability": 0.999826967716217
+      },
+      {
+        "word": " the",
+        "start": 12.52,
+        "end": 12.66,
+        "probability": 0.9995310306549072
+      },
+      {
+        "word": " engineers",
+        "start": 12.66,
+        "end": 12.96,
+        "probability": 0.9991683959960938
+      },
+      {
+        "word": " are",
+        "start": 12.96,
+        "end": 13.14,
+        "probability": 0.9996768236160278
+      },
+      {
+        "word": " celebrating",
+        "start": 13.14,
+        "end": 13.58,
+        "probability": 0.99960857629776
+      },
+      {
+        "word": " a",
+        "start": 13.58,
+        "end": 13.76,
+        "probability": 0.7910148501396179
+      },
+      {
+        "word": " lot",
+        "start": 13.76,
+        "end": 13.88,
+        "probability": 0.9999337196350098
+      },
+      {
+        "word": " of",
+        "start": 13.88,
+        "end": 14.0,
+        "probability": 0.9996892213821411
+      },
+      {
+        "word": " them.",
+        "start": 14.0,
+        "end": 14.16,
+        "probability": 0.9995179176330566
+      }
+    ]
+  },
+  {
+    "start": 14.18,
+    "end": 15.92,
+    "text": "You know, they're done. They move on to another project.",
+    "words": [
+      {
+        "word": " You",
+        "start": 14.18,
+        "end": 14.26,
+        "probability": 0.9683709144592285
+      },
+      {
+        "word": " know,",
+        "start": 14.26,
+        "end": 14.36,
+        "probability": 0.999434769153595
+      },
+      {
+        "word": " they're",
+        "start": 14.36,
+        "end": 14.56,
+        "probability": 0.99898961186409
+      },
+      {
+        "word": " done.",
+        "start": 14.56,
+        "end": 14.76,
+        "probability": 0.9994714856147766
+      },
+      {
+        "word": " They",
+        "start": 14.84,
+        "end": 14.9,
+        "probability": 0.9981538653373718
+      },
+      {
+        "word": " move",
+        "start": 14.9,
+        "end": 15.02,
+        "probability": 0.989553689956665
+      },
+      {
+        "word": " on",
+        "start": 15.02,
+        "end": 15.16,
+        "probability": 0.9863792657852173
+      },
+      {
+        "word": " to",
+        "start": 15.16,
+        "end": 15.28,
+        "probability": 0.9990465044975281
+      },
+      {
+        "word": " another",
+        "start": 15.28,
+        "end": 15.42,
+        "probability": 0.9977633953094482
+      },
+      {
+        "word": " project.",
+        "start": 15.42,
+        "end": 15.92,
+        "probability": 0.9986674785614014
+      }
+    ]
+  },
+  {
+    "start": 16.54,
+    "end": 17.82,
+    "text": "They've gotten the rover to Mars.",
+    "words": [
+      {
+        "word": " They've",
+        "start": 16.54,
+        "end": 16.9,
+        "probability": 0.9935482144355774
+      },
+      {
+        "word": " gotten",
+        "start": 16.9,
+        "end": 17.04,
+        "probability": 0.34199637174606323
+      },
+      {
+        "word": " the",
+        "start": 17.04,
+        "end": 17.18,
+        "probability": 0.9623967409133911
+      },
+      {
+        "word": " rover",
+        "start": 17.18,
+        "end": 17.3,
+        "probability": 0.7195995450019836
+      },
+      {
+        "word": " to",
+        "start": 17.3,
+        "end": 17.54,
+        "probability": 0.9982335567474365
+      },
+      {
+        "word": " Mars.",
+        "start": 17.54,
+        "end": 17.82,
+        "probability": 0.9950424432754517
+      }
+    ]
+  },
+  {
+    "start": 17.98,
+    "end": 20.64,
+    "text": "And for us, it was like, oh, no, now it gets down to business.",
+    "words": [
+      {
+        "word": " And",
+        "start": 17.98,
+        "end": 18.08,
+        "probability": 0.9998247027397156
+      },
+      {
+        "word": " for",
+        "start": 18.08,
+        "end": 18.22,
+        "probability": 0.9996154308319092
+      },
+      {
+        "word": " us,",
+        "start": 18.22,
+        "end": 18.42,
+        "probability": 0.999835729598999
+      },
+      {
+        "word": " it",
+        "start": 18.42,
+        "end": 18.54,
+        "probability": 0.9996596574783325
+      },
+      {
+        "word": " was",
+        "start": 18.54,
+        "end": 18.66,
+        "probability": 0.9999428987503052
+      },
+      {
+        "word": " like,",
+        "start": 18.66,
+        "end": 18.9,
+        "probability": 0.998855710029602
+      },
+      {
+        "word": " oh,",
+        "start": 18.98,
+        "end": 19.08,
+        "probability": 0.8990180492401123
+      },
+      {
+        "word": " no,",
+        "start": 19.08,
+        "end": 19.28,
+        "probability": 0.9981061220169067
+      },
+      {
+        "word": " now",
+        "start": 19.4,
+        "end": 19.64,
+        "probability": 0.9978625178337097
+      },
+      {
+        "word": " it",
+        "start": 19.64,
+        "end": 19.76,
+        "probability": 0.9666571021080017
+      },
+      {
+        "word": " gets",
+        "start": 19.76,
+        "end": 19.94,
+        "probability": 0.9977589845657349
+      },
+      {
+        "word": " down",
+        "start": 19.94,
+        "end": 20.16,
+        "probability": 0.9995588660240173
+      },
+      {
+        "word": " to",
+        "start": 20.16,
+        "end": 20.32,
+        "probability": 0.996035635471344
+      },
+      {
+        "word": " business.",
+        "start": 20.32,
+        "end": 20.64,
+        "probability": 0.9971177577972412
+      }
+    ]
+  },
+  {
+    "start": 21.14,
+    "end": 23.28,
+    "text": "And so it was like, Okay, we've got a long night ahead of us.",
+    "words": [
+      {
+        "word": " And",
+        "start": 21.14,
+        "end": 21.32,
+        "probability": 0.9995993971824646
+      },
+      {
+        "word": " so",
+        "start": 21.32,
+        "end": 21.44,
+        "probability": 0.9895853400230408
+      },
+      {
+        "word": " it",
+        "start": 21.44,
+        "end": 21.5,
+        "probability": 0.7705429196357727
+      },
+      {
+        "word": " was",
+        "start": 21.5,
+        "end": 21.54,
+        "probability": 0.9986446499824524
+      },
+      {
+        "word": " like,",
+        "start": 21.54,
+        "end": 21.66,
+        "probability": 0.9989612102508545
+      },
+      {
+        "word": " Okay,",
+        "start": 21.66,
+        "end": 21.9,
+        "probability": 0.9094087481498718
+      },
+      {
+        "word": " we've",
+        "start": 21.92,
+        "end": 22.14,
+        "probability": 0.9991435706615448
+      },
+      {
+        "word": " got",
+        "start": 22.14,
+        "end": 22.24,
+        "probability": 0.9995830655097961
+      },
+      {
+        "word": " a",
+        "start": 22.24,
+        "end": 22.34,
+        "probability": 0.9993719458580017
+      },
+      {
+        "word": " long",
+        "start": 22.34,
+        "end": 22.54,
+        "probability": 0.9990167617797852
+      },
+      {
+        "word": " night",
+        "start": 22.54,
+        "end": 22.72,
+        "probability": 0.9925998449325562
+      },
+      {
+        "word": " ahead",
+        "start": 22.72,
+        "end": 22.88,
+        "probability": 0.9990587830543518
+      },
+      {
+        "word": " of",
+        "start": 22.88,
+        "end": 22.98,
+        "probability": 0.9978379607200623
+      },
+      {
+        "word": " us.",
+        "start": 22.98,
+        "end": 23.28,
+        "probability": 0.9992994070053101
+      }
+    ]
+  },
+  {
+    "start": 24.18,
+    "end": 27.5,
+    "text": "There's a tradition at JPL to make working the long,",
+    "words": [
+      {
+        "word": " There's",
+        "start": 24.18,
+        "end": 24.54,
+        "probability": 0.9932986199855804
+      },
+      {
+        "word": " a",
+        "start": 24.54,
+        "end": 24.62,
+        "probability": 0.9992823004722595
+      },
+      {
+        "word": " tradition",
+        "start": 24.62,
+        "end": 24.96,
+        "probability": 0.9991845488548279
+      },
+      {
+        "word": " at",
+        "start": 24.96,
+        "end": 25.28,
+        "probability": 0.9832194447517395
+      },
+      {
+        "word": " JPL",
+        "start": 25.28,
+        "end": 25.74,
+        "probability": 0.9775571227073669
+      },
+      {
+        "word": " to",
+        "start": 25.74,
+        "end": 26.44,
+        "probability": 0.9714184403419495
+      },
+      {
+        "word": " make",
+        "start": 26.44,
+        "end": 26.62,
+        "probability": 0.9985742568969727
+      },
+      {
+        "word": " working",
+        "start": 26.62,
+        "end": 26.94,
+        "probability": 0.9983205199241638
+      },
+      {
+        "word": " the",
+        "start": 26.94,
+        "end": 27.14,
+        "probability": 0.993882417678833
+      },
+      {
+        "word": " long,",
+        "start": 27.14,
+        "end": 27.5,
+        "probability": 0.9990730285644531
+      }
+    ]
+  },
+  {
+    "start": 27.5,
+    "end": 29.82,
+    "text": "hard hours of Mars time a little sweeter.",
+    "words": [
+      {
+        "word": " hard",
+        "start": 27.5,
+        "end": 27.78,
+        "probability": 0.206976056098938
+      },
+      {
+        "word": " hours",
+        "start": 27.78,
+        "end": 28.18,
+        "probability": 0.992983341217041
+      },
+      {
+        "word": " of",
+        "start": 28.18,
+        "end": 28.34,
+        "probability": 0.990262508392334
+      },
+      {
+        "word": " Mars",
+        "start": 28.34,
+        "end": 28.58,
+        "probability": 0.9576160311698914
+      },
+      {
+        "word": " time",
+        "start": 28.58,
+        "end": 28.98,
+        "probability": 0.8945334553718567
+      },
+      {
+        "word": " a",
+        "start": 28.98,
+        "end": 29.22,
+        "probability": 0.9232595562934875
+      },
+      {
+        "word": " little",
+        "start": 29.22,
+        "end": 29.34,
+        "probability": 0.9977812170982361
+      },
+      {
+        "word": " sweeter.",
+        "start": 29.34,
+        "end": 29.82,
+        "probability": 0.9983654618263245
+      }
+    ]
+  },
+  {
+    "start": 30.42,
+    "end": 32.4,
+    "text": "Mission Control has a chest full of ice cream.",
+    "words": [
+      {
+        "word": " Mission",
+        "start": 30.42,
+        "end": 30.58,
+        "probability": 0.9920006990432739
+      },
+      {
+        "word": " Control",
+        "start": 30.58,
+        "end": 30.98,
+        "probability": 0.858991265296936
+      },
+      {
+        "word": " has",
+        "start": 30.98,
+        "end": 31.28,
+        "probability": 0.992324948310852
+      },
+      {
+        "word": " a",
+        "start": 31.28,
+        "end": 31.4,
+        "probability": 0.996549129486084
+      },
+      {
+        "word": " chest",
+        "start": 31.4,
+        "end": 31.62,
+        "probability": 0.9939947724342346
+      },
+      {
+        "word": " full",
+        "start": 31.62,
+        "end": 31.86,
+        "probability": 0.9769003391265869
+      },
+      {
+        "word": " of",
+        "start": 31.86,
+        "end": 32.02,
+        "probability": 0.9969933032989502
+      },
+      {
+        "word": " ice",
+        "start": 32.02,
+        "end": 32.1,
+        "probability": 0.9877426624298096
+      },
+      {
+        "word": " cream.",
+        "start": 32.1,
+        "end": 32.4,
+        "probability": 0.9780674576759338
+      }
+    ]
+  },
+  {
+    "start": 33.02,
+    "end": 35.94,
+    "text": "So some of Katie's colleagues improvised the pandemic version.",
+    "words": [
+      {
+        "word": " So",
+        "start": 33.02,
+        "end": 33.06,
+        "probability": 0.9274227023124695
+      },
+      {
+        "word": " some",
+        "start": 33.06,
+        "end": 33.3,
+        "probability": 0.746782660484314
+      },
+      {
+        "word": " of",
+        "start": 33.3,
+        "end": 33.44,
+        "probability": 0.9976558685302734
+      },
+      {
+        "word": " Katie's",
+        "start": 33.44,
+        "end": 33.76,
+        "probability": 0.7647234499454498
+      },
+      {
+        "word": " colleagues",
+        "start": 33.76,
+        "end": 34.08,
+        "probability": 0.994266927242279
+      },
+      {
+        "word": " improvised",
+        "start": 34.08,
+        "end": 34.72,
+        "probability": 0.9923128485679626
+      },
+      {
+        "word": " the",
+        "start": 34.72,
+        "end": 35.16,
+        "probability": 0.9893295168876648
+      },
+      {
+        "word": " pandemic",
+        "start": 35.16,
+        "end": 35.64,
+        "probability": 0.9677044153213501
+      },
+      {
+        "word": " version.",
+        "start": 35.64,
+        "end": 35.94,
+        "probability": 0.9969858527183533
+      }
+    ]
+  },
+  {
+    "start": 36.7,
+    "end": 38.42,
+    "text": "They had ice cream delivered to her front door.",
+    "words": [
+      {
+        "word": " They",
+        "start": 36.7,
+        "end": 36.84,
+        "probability": 0.9888718724250793
+      },
+      {
+        "word": " had",
+        "start": 36.84,
+        "end": 36.94,
+        "probability": 0.8120290040969849
+      },
+      {
+        "word": " ice",
+        "start": 36.94,
+        "end": 37.1,
+        "probability": 0.9962995648384094
+      },
+      {
+        "word": " cream",
+        "start": 37.1,
+        "end": 37.34,
+        "probability": 0.9946012496948242
+      },
+      {
+        "word": " delivered",
+        "start": 37.34,
+        "end": 37.66,
+        "probability": 0.994963526725769
+      },
+      {
+        "word": " to",
+        "start": 37.66,
+        "end": 37.9,
+        "probability": 0.995677649974823
+      },
+      {
+        "word": " her",
+        "start": 37.9,
+        "end": 38.04,
+        "probability": 0.9936323761940002
+      },
+      {
+        "word": " front",
+        "start": 38.04,
+        "end": 38.22,
+        "probability": 0.9964283108711243
+      },
+      {
+        "word": " door.",
+        "start": 38.22,
+        "end": 38.42,
+        "probability": 0.996439516544342
+      }
+    ]
+  }
+]

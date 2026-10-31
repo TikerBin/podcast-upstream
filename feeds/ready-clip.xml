@@ -5,7 +5,7 @@
 <link>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main</link>
 <description>仅含独立片段条目：片段 enclosure 为仓库自托管 clips 直链，文案仅覆盖片段音频；整集不在此 feed，整集不得冒充短片段。</description>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 01:40:56 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 01:24:01 +0000</lastBuildDate>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/feeds/ready-clip.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Their Mars window is a TV — clip from Encore: A Year In Mars Dune Alpha</title>
@@ -463,6 +463,96 @@ the words would be, almost Mars.]]></content:encoded>
 <_parent_id>nasa-curious-roman-launching-soon</_parent_id>
 <_clip_start_s>159.0</_clip_start_s>
 <_clip_end_s>206.5</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>Can you say that again? A train-call assignment to Artemis III — clip from Meet the Artemis III Crew (330.7-376.5s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/meet-the-artemis-iii-crew/</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:artemis-iii-crew:clip:train-call:330.7-376.5</guid>
+<pubDate>Fri, 12 Jun 2026 14:00:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-artemis-iii-crew-clip-train-call.mp3" length="582752" type="audio/mpeg"/>
+<itunes:duration>46</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】Parmitano 在火车上接到电话，得知自己将担任 Artemis III 飞行员：话一时没听进脑子，追问“能再说一遍吗”，在公共场合不敢出声，最后在几天后首次与乘组见面时倍感荣幸。
+【Reels 角度】火车上的一通电话：Parmitano 得知自己将担任 Artemis III 飞行员——话没听进脑子、追问“能再说一遍吗”、在公共场合不敢出声的狂喜。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; the episode transcript marks only the theme cue (Curiosity by SYSTEM Sounds) at the episode start, far outside this segment.
+【来源】https://www.nasa.gov/podcasts/curious-universe/meet-the-artemis-iii-crew/
+【采集日（北京时间）】2026-10-31
+【发布时间精度】exact（Inherits parent original publish date (Megaphone RSS Fri, 12 Jun 2026 14:00:00 -0000); clip itself was modelled 2026-10-31 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:artemis-iii-crew
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/meet-the-artemis-iii-crew/
+【片段】原集 330.7-376.5 秒，45.8 秒，原声，未加 BGM，文件：clips/nasa-artemis-iii-crew-clip-train-call.mp3]]></description>
+<content:encoded><![CDATA[And so I answered the phone, and the boss told me, Hey, Luca, I want you to know that we want you to be the pilot on the Artemis III mission. And I was very much unprepared for that answer. And so it went through one ear, it didn't register in my brain, came out the other ear. And I literally said, Can you say that again? And it told me the same words. And then it did register, but I was in a public environment, so I knew that I couldn't say anything out loud. So I was literally speechless, which doesn't happen very often. And then I was very, very honored when I, when I met the crew for the first time a couple of days later.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>artemis-iii-crew-clip-train-call</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/meet-the-artemis-iii-crew/</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-10-31</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 45.800s / 582752 bytes (ffmpeg cut from verified full MP3 in this run, 2026-10-31); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-artemis-iii-crew-clip-train-call.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-artemis-iii-crew-clip-train-call.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-artemis-iii-crew-clip-train-call-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-artemis-iii-crew-clip-train-call-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:artemis-iii-crew</_parent_guid>
+<_parent_id>nasa-curious-artemis-iii-crew</_parent_id>
+<_clip_start_s>330.7</_clip_start_s>
+<_clip_end_s>376.5</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>Happy tears, relief tears — and ice cream at JPL — clip from Catching Up With Perseverance on Mars (240.4-278.9s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/catching-up-with-perseverance/</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:perseverance:clip:tears-icecream:240.4-278.9</guid>
+<pubDate>Tue, 02 Jun 2026 13:10:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-perseverance-clip-tears-icecream.mp3" length="614748" type="audio/mpeg"/>
+<itunes:duration>38</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】Perseverance 着陆成功后，Katie 喜极而泣：如释重负的眼泪过后是“我们的工作才刚刚开始”；而 JPL 有个传统——用一箱冰淇淋慰劳火星时间的漫长夜班，疫情期间则改成送到她家门口。
+【Reels 角度】着陆成功那一刻的眼泪：Katie 的如释重负与“我们的工作才刚刚开始”，接上 JPL 的冰淇淋传统——火星时间里的漫长夜班，也有人情味。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; no music cue appears in this speech segment (the next cue, Time Passing Marimba, follows the paragraph after the clip's end paragraph).
+【来源】https://www.nasa.gov/podcasts/curious-universe/catching-up-with-perseverance/
+【采集日（北京时间）】2026-10-31
+【发布时间精度】exact（Inherits parent original publish date (Megaphone RSS Tue, 02 Jun 2026 13:10:00 -0000); clip itself was modelled 2026-10-31 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:perseverance
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/catching-up-with-perseverance/
+【片段】原集 240.4-278.9 秒，38.5 秒，原声，未加 BGM，文件：clips/nasa-perseverance-clip-tears-icecream.mp3]]></description>
+<content:encoded><![CDATA[I just burst into tears because just the swell of emotion, it was just too much. And I just cried. I cried happy tears, relief tears. And then I was like, Oh my gosh, our job is just starting. And of course, the engineers are celebrating a lot of them. You know, they're done. They move on to another project. They've gotten the rover to Mars. And for us, it was like, oh, no, now it gets down to business. And so it was like, Okay, we've got a long night ahead of us. There's a tradition at JPL to make working the long, hard hours of Mars time a little sweeter. Mission Control has a chest full of ice cream. So some of Katie's colleagues improvised the pandemic version. They had ice cream delivered to her front door.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>perseverance-clip-tears-icecream</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/catching-up-with-perseverance/</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-10-31</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 38.500s / 614748 bytes (ffmpeg cut from verified full MP3 in this run, 2026-10-31); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-perseverance-clip-tears-icecream.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-perseverance-clip-tears-icecream.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-perseverance-clip-tears-icecream-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-perseverance-clip-tears-icecream-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:perseverance</_parent_guid>
+<_parent_id>nasa-curious-perseverance</_parent_id>
+<_clip_start_s>240.4</_clip_start_s>
+<_clip_end_s>278.9</_clip_end_s>
 <_clip_source_nature>original_audio</_clip_source_nature>
 </item>
 <item>
