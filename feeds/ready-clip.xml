@@ -5,7 +5,7 @@
 <link>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main</link>
 <description>仅含独立片段条目：片段 enclosure 为仓库自托管 clips 直链，文案仅覆盖片段音频；整集不在此 feed，整集不得冒充短片段。</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 01:24:01 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 01:26:39 +0000</lastBuildDate>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/feeds/ready-clip.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Their Mars window is a TV — clip from Encore: A Year In Mars Dune Alpha</title>
@@ -553,6 +553,96 @@ the words would be, almost Mars.]]></content:encoded>
 <_parent_id>nasa-curious-perseverance</_parent_id>
 <_clip_start_s>240.4</_clip_start_s>
 <_clip_end_s>278.9</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>The hopes and dreams of generations are flying with you — clip from Bonus: Behind the Scenes of Artemis II with NASA Experts (444.9-477.6s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/bonus-behind-the-scenes-of-artemis-ii-with-nasa-experts/</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:bonus-artemis-ii:clip:sendoff:444.9-477.6</guid>
+<pubDate>Sat, 02 May 2026 13:23:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-bonus-artemis-ii-clip-sendoff.mp3" length="573769" type="audio/mpeg"/>
+<itunes:duration>33</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】主持人问 Taylor Hose：作为乘组离开地球前最后对话的人，他说了什么？Taylor 先解释戴上头盔手套后就几乎听不见了，然后复述了自己在乘组到达时的小演讲：“我们今天也许只是在这里为你们四人系好安全带，但几代人的希望与梦想正与你们同飞。这个乘组、这次任务，将激励梦想者们几十年。祝好运，Godspeed Artemis II。”
+【Reels 角度】乘组戴头盔前最后的话：closeout 组长 Taylor Hose 的送别演讲——“几代人的希望与梦想与你们同飞”。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; the episode transcript marks music cues (Supercluster, Conscious of Time, Adrift, Jumping Beans, Light At The End Of The Tunnel, Resonate, Ever Onward, Inner Peace) all outside this segment.
+【来源】https://www.nasa.gov/podcasts/curious-universe/bonus-behind-the-scenes-of-artemis-ii-with-nasa-experts/
+【采集日（北京时间）】2026-11-01
+【发布时间精度】exact（Inherits parent original publish date (Megaphone RSS Sat, 02 May 2026 13:23:00 -0000); clip itself was modelled 2026-11-01 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:bonus-artemis-ii
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/bonus-behind-the-scenes-of-artemis-ii-with-nasa-experts/
+【片段】原集 444.9-477.6 秒，32.7 秒，原声，未加 BGM，文件：clips/nasa-bonus-artemis-ii-clip-sendoff.mp3]]></description>
+<content:encoded><![CDATA[What did he say to them? I don't want to romanticize it. Once they have their helmets and gloves on, they have basically their earplugs, kind of, and then they have a cap that goes over that, and then their helmets, and they just, they aren't really able to hear really well. But, he said, before the helmets went on... I did give a little speech right when they got there, but that was the only thing. What'd you say? I said, you know, we may only be strapping the four of you in here today, but the hopes and dreams of generations are flying with you, this crew, this mission, will inspire dreamers for decades. Good luck, and Godspeed, Artemis II.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>bonus-artemis-ii-clip-sendoff</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/bonus-behind-the-scenes-of-artemis-ii-with-nasa-experts/</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-01</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 32.700s / 573769 bytes (ffmpeg cut from verified full MP3 in this run, 2026-11-01); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-bonus-artemis-ii-clip-sendoff.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-bonus-artemis-ii-clip-sendoff.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-bonus-artemis-ii-clip-sendoff-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-bonus-artemis-ii-clip-sendoff-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:bonus-artemis-ii</_parent_guid>
+<_parent_id>nasa-curious-bonus-artemis-ii</_parent_id>
+<_clip_start_s>444.9</_clip_start_s>
+<_clip_end_s>477.6</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>We can land safely with two — clip from Artemis II: How NASA's Moon Mission Returns to Earth (964.1-1017.3s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/artemis-ii-how-nasas-moon-mission-returns-to-earth/</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:artemis-ii-returns:clip:two-parachutes:964.1-1017.3</guid>
+<pubDate>Thu, 02 Apr 2026 12:22:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-artemis-ii-returns-clip-two-parachutes.mp3" length="818406" type="audio/mpeg"/>
+<itunes:duration>53</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】主持人追问应急方案：如果三具主伞没有全部打开怎么办？回收主任 Lili Villarreal 答：两具伞也能安全着陆，落水会缓冲冲击，这正是带三具伞的原因——冗余。随后她讲到另一重预案：如果再入后飞船没能捕获 GPS 定位，团队会按预先写好的回收决策标准（RDC）执行。
+【Reels 角度】只开两具伞也能安全着陆：Lili Villarreal 的应急逻辑——落水缓冲、三具伞的冗余、以及预先写好的回收决策标准。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; the episode transcript marks music cues (Supercluster, Eagle Eye, Dreamweaver, Focused Precision, No Room for Error, On Track, Background Story, Inner Peace) all outside this segment.
+【来源】https://www.nasa.gov/podcasts/curious-universe/artemis-ii-how-nasas-moon-mission-returns-to-earth/
+【采集日（北京时间）】2026-11-01
+【发布时间精度】exact（Inherits parent original publish date (Megaphone RSS Thu, 02 Apr 2026 12:22:00 -0000); clip itself was modelled 2026-11-01 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:artemis-ii-returns
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/artemis-ii-how-nasas-moon-mission-returns-to-earth/
+【片段】原集 964.1-1017.3 秒，53.2 秒，原声，未加 BGM，文件：clips/nasa-artemis-ii-returns-clip-two-parachutes.mp3]]></description>
+<content:encoded><![CDATA[Well, I'd like to ask you about some contingencies you're planning for, if that's OK. So one that you just mentioned, if all three parachutes don't open, like... We can land safely with two. OK. Yeah. But you know, it might be a little more of an impact to the crew on two parachutes, but we're landing in water, which should help some, but definitely that's why we have three, right? Contingency. We worried about, you know, making sure the vehicle, once it comes through entry, has acquired GPS because it really orients itself to the landing location that we told it to land. So that's why we are so far back, just in case it didn't acquire GPS, so that we don't accidentally go to where we shouldn't be. We develop what's called recovery decision criterias.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>artemis-ii-returns-clip-two-parachutes</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/artemis-ii-how-nasas-moon-mission-returns-to-earth/</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-01</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 53.200s / 818406 bytes (ffmpeg cut from verified full MP3 in this run, 2026-11-01); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-artemis-ii-returns-clip-two-parachutes.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-artemis-ii-returns-clip-two-parachutes.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-artemis-ii-returns-clip-two-parachutes-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-artemis-ii-returns-clip-two-parachutes-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:artemis-ii-returns</_parent_guid>
+<_parent_id>nasa-curious-artemis-ii-returns</_parent_id>
+<_clip_start_s>964.1</_clip_start_s>
+<_clip_end_s>1017.3</_clip_end_s>
 <_clip_source_nature>original_audio</_clip_source_nature>
 </item>
 <item>

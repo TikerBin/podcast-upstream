@@ -1,0 +1,191 @@
+PADI BOYD: You’re listening to NASA’s Curious Universe. I’m Padi Boyd.
+
+JACOB PINTER: And I’m Jacob Pinter. NASA is headed to the Moon!
+
+DERROL NAIL (NASA Communications): … and liftoff! The crew of Artemis II now bound for the Moon. Humanity’s next great voyage begins.
+
+PADI: As this episode comes out, four astronauts are in space on a test flight.
+
+Mission Control: Integrity, GPS Processing.
+
+REID WISEMAN: Outstanding, Stan. We see the same and we have a beautiful Moonrise. We’re headed right at it.
+
+PADI: Their mission is called Artemis II. They will fly around the Moon and set the stage for future Artemis missions when astronauts return to the Moon’s surface.
+
+VICTOR GLOVER: We are going for our families.
+
+CHRISTINA KOCH: We are going for our teammates.
+
+JEREMY HANSEN: We are going for all humanity.
+
+REID WISEMAN: All right Charlie, your Artemis II crew is go for launch. Full send.
+
+PADI: Artemis will also build upon the foundation we’ve laid and prepare us for the first human journey to Mars.
+
+[Music: Supercluster by Sergey Azbel]
+
+JACOB: On previous episodes of Curious Universe, we have introduced you to the astronauts and to some of the many people who make this mission possible. We have a lot more to come. Throughout the mission and after it ends, we will bring you NASA’s official coverage. You’ll hear highlights from launch, milestones as the astronauts check out their spacecraft, and details of the astronauts’ flight around the Moon.
+
+PADI: In this episode: get to know the team that will meet the astronauts when they return to Earth. After an approximately 10-day voyage, Artemis II will end when it splashes down in the Pacific Ocean and a ship picks up the astronauts and their spacecraft.
+
+So how does NASA stick the landing? We’ll go inside the playbook for the final step of the mission and hear how NASA brings the astronauts and their spacecraft back home.
+
+The final step of Artemis II is intense.
+
+[Music: Eagle Eye by Paul Richard O’Brien and Theo Maximilian Goble]
+
+After they fly past the Moon, astronauts Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen spend several days heading back to Earth. And then things happen fast.
+
+JACOB: Their spacecraft, which is called Orion, is traveling about 25,000 miles an hour when it begins to feel the effects of Earth’s atmosphere. That’s more than 40,000 kilometers an hour or fast enough to fly from New York to Tokyo in less than 20 minutes. Friction from the atmosphere creates temperatures of almost 5,000 degrees Fahrenheit. Superheated plasma builds up around the spacecraft within seconds.
+
+PADI: Orion has a heat shield that protects the capsule during re-entry. It’s designed to shed that intense heat, but as it sails through the atmosphere, Orion briefly loses communication and the astronauts see flashes of plasma dance outside the windows.
+
+JACOB: Right now you’re hearing what that actually sounded like on Artemis I. This is a recording from inside the spacecraft during a test flight of Orion with nobody on board. As Orion descends, a series of parachutes slows it down. There are 11 parachutes in all. They deploy in stages, at specific points during Orion’s descent.
+
+PADI: By the time it reaches Earth’s surface, Orion is traveling less than 20 miles an hour. And then the astronauts splash down in the Pacific Ocean. That’s when the recovery team takes over. NASA experts, working together with personnel from the US Navy, get the astronauts out of the water and onto a Navy ship waiting nearby.
+
+JACOB: Of course, the team only gets one shot to do this correctly, and the safety of the astronauts could be on the line. So the recovery team has trained extensively. They’ve done parts of this before. In the Artemis I mission in 2022, NASA flew an uncrewed spacecraft around the Moon and then recovered it from the ocean. There have been even more rehearsals leading up to Artemis II. Here is a little bit of what that training sounds like:
+
+[Music: Dreamweaver by Adam Richard Joseph Lyons, Paul James Visser, David James Ferguson, and Joseph Barboza III]
+
+[Unidentified voice talking over loudspeaker]
+
+CODY KELLY [INTERVIEW FROM URT-11]: I was on board for Artemis I recovery in which there was no crew, and the feeling was electric.
+
+ROB NAVIAS [ARTEMIS I SPLASHDOWN COVERAGE]: And there it is, high over the Pacific: Orion under its chutes, descending towards splashdown.
+
+CODY: You’re on this, the ship getting ready to recover a capsule that just went around the Moon.
+
+ROB: Orion in the perfect orientation for splashdown, just seconds away.
+
+CODY: And now it’s even more important, because these are our friends, our colleagues, and people that we’ve helped train and work with.
+
+ROB: One thousand feet. Good descent rate.
+
+CODY: I know several of the astronauts that are on this mission, so it’s much more personal. It’s really bringing our A-game to basically our Super Bowl of landing and recovery.
+
+ROB: 500 feet.
+
+CODY: This crew and this team has been working for over a decade to perfect those processes and those techniques, and they should know that when they come back from the Moon on Artemis II that they’re going to be safely recovered.
+
+ROB: Splashdown.
+
+[Sound of cheers from Artemis I recovery]
+
+[Sound of helicopters from URT-10]
+
+CODY: Trust in us and know that you’re in good hands.
+
+ROB: From Tranquility Base to Taurus-Littrow to the tranquil waters of the Pacific, the latest chapter of NASA’s journey to the Moon comes to a close. Orion back on Earth.
+
+Unidentified voices from URT-10: We are Artemis!
+
+PADI: Those voices you heard were Rob Navias from NASA Communications, narrating splashdown from the uncrewed Artemis I mission in 2022, and Cody Kelly, who works in NASA’s Search and Rescue Mission Office. Cody was speaking during a rehearsal called an Underway Recovery Test, or URT in NASA jargon.
+
+JACOB: There have been 12 of these tests, each time getting a little more complicated. To make things realistic, NASA even built a stand-in of the Orion capsule. It floats in the ocean, and NASA can test it like the real thing. That stand-in is officially called the Crew Module Test Article. The recovery process takes a huge team effort, and I wanted to learn more about NASA’s plan from the leader of that team.
+
+LILI VILLARREAL: So my name is Liliana Villarreal. I go by Lili. Now if you’re really truly good at saying it in Spanish, “Villarreal.”
+
+[Music: Focused Precision by Paul Richard O’Brien and Theo Maximilian Goble]
+
+JACOB: Lili is NASA’s landing and recovery director for Artemis II. Her goal is clear: get the astronauts and Orion back safely. Now, we’re going to get into the details about how NASA plans to do that, but when managing those details is your responsibility, Lili says it weighs on you.
+
+LILI: I don’t think I’m going to sleep the day before landing. It’s just the nature of the job. You’re just so worried about everything and you want to make sure, “Did I do this? Is the equipment ready? Are the people ready?” But you know it just comes with the job. But it makes the job exciting.
+
+PADI: Lili has worked at NASA for almost two decades. She’s worn many different hats, but she actually didn’t seek out the job of recovery director. For Artemis I, she was a deputy on the team that puts together the rocket and gets it ready for launch. And then, just a couple of weeks before Artemis I launched in 2022, her boss was looking for a new recovery director.
+
+LILI: Out of the blue just asked me, “Hey can you do this job?” I’m like, “What do you mean? I’m really happy with my job.” And, you know, I had to take a good week to decide whether I wanted the job or not. It is more responsibility than what I had, and second of all is so much travel involved with this job and the responsibility of rescue, this time with crew. Artemis I was a little different. You just have to recover the vehicle. Artemis II and beyond, we’re not just recovering the vehicle, we are also getting the crew from when they come back from space. So it was a daunting decision, and I had to talk it over with my family because of all the travel that would be involved. And it was probably the best decision. I really, really truly love this job. This job has been one of the funnest, hardest jobs I’ve had at NASA.
+
+JACOB: Lili is going to walk us through some of the questions that make this a fun, hard job. Her team has a playbook filled with Plan Bs and Plan Cs. NASA calls these contingencies: What happens if the astronauts abort the mission right after launch? What happens if they land off course? What happens if they can’t open the hatch and they’re stuck in the spacecraft?
+
+Lili has to have an answer for all of these questions. But let’s start with Plan A.
+
+[Music: No Room for Error by Paul Richard O’Brien and Theo Maximilian Goble]
+
+PADI: The recovery team is based in San Diego. Orion will be aiming for the Pacific Ocean. Once the Artemis II mission managers determine exactly where it will land, the recovery team sails to the landing area on a Navy ship.
+
+JACOB: There is a complex choreography, including teams of small boats, open-water divers from the Navy, and four helicopters circling the area.
+
+LILI: Basically about two hours before splashdown, all of our assets are now in the water. The helicopters also will be in the air about one hour before. The coolest thing I think is those eight minutes, the last eight minutes before it splashes down are the most crazy time and so much stuff is happening.
+
+PADI: As Orion gets closer, the recovery team tracks its location. Two of the helicopters have special imaging equipment. That helps the recovery team keep an eye on the parachutes. To release the first stages of parachutes, Orion basically fires them out of a cannon. As the parachutes come out, so does some of the material packed with them. For example, the bags the parachutes were packed in fall about 20,000 feet into the ocean.
+
+JACOB: The recovery team has to be careful. They need to stay out of the way of that debris. As Orion makes its final approach, three orange-and-white parachutes help it make a soft landing. Also, Orion has GPS, although the signal will get knocked out by superheated plasma, and it will have to be reacquired. So Lili’s team should have real-time information about its location.
+
+PADI: By the time Orion lands, the divers and helicopters will be about two miles away.
+
+LILI: At the time it splashes down, we actually wait a little bit because there’s a lot of debris that gets jettisoned as part of the sequence of opening up all the parachutes and slowing the vehicle down. That debris is very dangerous to helicopters, and also personnel on the ground. So we have to be at a position far enough from the splashdown site so that debris doesn’t fall on us. We calculate where that—how far that distance is based on weather, because the winds affect how the debris falls down.
+
+PADI: Next the recovery team needs to make sure it’s safe to approach Orion. They call this a hazard assessment. Orion’s cooling system uses ammonia. You don’t want to breathe that in. And there could be other dangerous chemicals in the air too.
+
+JACOB: The recovery team measures the air quality around the spacecraft. They actually call this a sniff test. After crossing off a few other items on the checklist, it’s time to give the astronauts their first fresh air in about 10 days.
+
+LILI: So now we know that we can go ahead and open the hatch to go inside and start doing medical assessments on the crew. And if everything’s good, everybody gets a thumbs up, alright, let’s go ahead and egress the crew. While the medical doctors are inside the capsule assessing the crew, the Navy divers are outside preparing for the crew egress.
+
+JACOB: “Egress” is just the word NASA uses for “getting the astronauts out of there”. Space does weird things to human bodies. You can learn more about that—and how Artemis II will study the effects of deep space on astronauts—in another episode of this series. You can find that in your podcast feed.
+
+[Music: On Track by Adam Richard Joseph Lyons and Robin James Twelftree]
+
+PADI: As they re-adjust to Earth’s gravity, it may be difficult for the astronauts to walk on their own, let alone climb out of a spacecraft bobbing in the ocean. But Lili’s team is there to help. In front of Orion’s hatch, they pop open an inflatable raft called the front porch. That’s where the astronauts wait for their ride back to the ship floating nearby.
+
+LILI: So now we’ve removed this crew. Now they’re sitting in the front porch. You know, they’re in their suits. We give the go to go ahead and hoist them on the helicopters. And once at the ship, the medical team will meet the crew, do their assessment and then take them to the med bay for a final checkout. And basically the whole entire crew recovery part is done. And now we’re working on recovering the vehicle.
+
+PADI: Lili’s final task is to bring back Orion too. And this is where the Navy really flexes some muscle.
+
+JACOB: The ship at the center of this operation has a compartment called a well deck. The well deck is sort of like a garage inside the ship that can carry other vessels. Operators attach a winch to Orion and slowly reel it in. Once Orion is safely inside the ship, the job is done. It’s time to head home.
+
+LILI: So it should be a quick trip back to San Diego. We probably could get there a few hours after we get everybody on board, so we’ll see. You know, we never know where we’re going to land. It’s all up to the based on the day of landing and the weather.
+
+JACOB: So of that process, what is the most challenging part? Like, is there a step in there where you’re like, this one’s tricky?
+
+LILI: I think the biggest step for me that I’m going to be more worried about, making sure that that we saw three parachutes. If we don’t see three parachutes, there’s a lot of contingency events that we’re going to be doing. The second one is that hazard assessment. Are we good? Is the vehicle safe for us to approach it? If it’s not, then we have really a lot more other work to go do. The third one is, did that hatch open like we expected it to open? Or is the hatch not working, but we have an alternate means to get into the capsule? So I think those are by my three biggest milestones. Once I see that crew in the helicopter it’s going to be quite the sigh of relief, you know.
+
+JACOB: Well I’d like to ask you about some contingencies you’re planning for if that’s OK. So one that you just mentioned, if all three parachutes don’t open, like …?
+
+LILI: We can land safely with two.
+
+JACOB: OK.
+
+LILI: Yeah. But you know, it might be a little more of an impact to the crew on two parachutes, but we’re landing in water, which should help some. But definitely that’s why we have three, right? Contingency. We worried about, you know, making sure the vehicle, once it comes through entry has acquired GPS, because it really orients itself to the landing location that we told it to land. So that’s why we are so far back, just in case it didn’t acquire GPS, so that we don’t accidentally go to where we shouldn’t be. We develop what’s called recovery decision criterias. So recovery decision criterias go in effect in case of an anomaly or an issue that we anticipate could possibly happen, and the beauty about RDCs is we work those ahead of time. We in NASA prepare for the worst, but, you know, we minimize the risk so that everything goes nominally. But you always want to prepare—over, over-prepare, and that’s what our RDCs are. They’re approved ahead of time. Before we land we have all of these RDCs. We’re probably going to have about 50 of them where, if this happens, this is what we’ll do. And so—and we train for all those scenarios, and just to make sure that we’re ready for what comes out of. So, yeah, contingency preparation is a big part of our job before landing. If everything goes nominally, it’s pretty a boring operation, and we want it to be boring because we practice and practice and practice, and if anything goes well, it’s like, Oh, wow. It should be boring. Everything should go well. We love boring.
+
+JACOB: How are you testing for the real thing? How are you simulating it?
+
+LILI: That’s a good question. I think we’re very lucky in the landing and recovery team that you know we had the backing to make sure that we test it like you fly. And we have a capsule that we built. It’s called the CMTA, Crew Module Test Article. So the CMTA looks like—and we effectively call her Vader.
+
+JACOB: Ooh.
+
+LILI: Yes. We actually did an actual ceremony where we, you know, broke a champagne glass because, you know, we wanted the good luck, because she is technically a vessel, and we call her “she”, even though it’s called Vader, because they’re all have to be females. So anyways, CMTA is our baby, and we do a lot of Underway Recovery Tests with the military. We literally simulate the exact thing that we will do. We go out for seven days and we practice, practice, practice. There is a lot we do to make sure that we’re doing it as realistic as possible. Couple of things that we can’t do is the parachutes coming down. Plus we don’t know what the wave conditions are going to be, but we try to simulate as much as we possibly can.
+
+JACOB: I interviewed each of the four crew members, and I asked each of them to shout out a team that they’ve worked with that they especially appreciate. And Victor Glover said specifically the recovery team.
+
+LILI: Aw.
+
+JACOB: And his exact words were, that’s “a big dang deal” to get them home safely.
+
+LILI: Oh, it is. It is. This is why I had to think about taking this job. The responsibility—no matter what it is a team effort, but I am the one ultimately responsible for it all. I’m the one that eventually has to stand up and say why my team failed or why didn’t. So it’s really—and I’ll tell you, I’ve never seen such a great team. Everybody loves the job. Everybody wants to be there. Everybody sacrifices. We are—these are very long days, long hours, physically demanding days for us. The can-do attitude of everybody in this team is amazing. I love this team. And when you have people who love what they’re doing and have this can-do attitude, it’s just, you know, by osmosis, it spreads to everybody. But really appreciate you telling me that. We love the team, and I’m glad to hear that.
+
+JACOB: Is it stressful having that responsibility?
+
+LILI: Yes. I think I have aged significantly. I have more white hair. Yes. This is—I will tell you before URT-10, I barely slept every night because I didn’t know if we were going to be successful or not. And once I got through 10—10 was really hard, because this is the first time we were doing a lot of first-time operations. And then 11 was the first time the crew was coming. And I’m just one of those people that always thinks about what’s the worst that could possibly happen, which is a good thing, because it prepares me for making decisions real quick. Decision velocity is so important in this job.
+
+JACOB: Do you remember whenever it became clear to you, “NASA’s going back to the Moon, and I’m going to be part of it”? Was there, like a moment that it stuck in your brain?
+
+LILI: You know, I worked space station for the longest time, and so I was a space station person. I kind of came in about a couple of years before we started processing Artemis I. I’m an ops person through and through. I like working with the flight hardware, and I’m not a patient person. So it took a while to get to the good parts of operations where it’s like, Oh my god, we have everything here, and we’re starting to put everything together. And every day is a different day. Every day we have to figure out, OK, what happened? How are we going to solve it? That’s the fun part about being an engineer out here. And I think Artemis I was huge in getting people to see the progress and getting behind. And when Artemis II launches with people, and, you know, you start getting those live feeds of the crew, you know, showing the Moon behind them, through the window, they’re just going to be even more excited. So we’re all rooting for every test that happens. I even thought about getting a[n] Artemis tattoo.
+
+JACOB: Yeah?
+
+LILI: You know, I don’t have tattoos, but only because I want one, and I never have found something that I would be happy seeing on my body for the rest of my life. And then I’m like, Oh my God, I really love the logo. And because I love what I’m doing. I love this program. I think it’s an amazing thing that we’re doing for humanity, because it’s going to better humanity, and it’s a stepping stone to eventually us living in other worlds. And I get to be part of that. You get to be part of that. How cool is that?
+
+[Music: Background Story by Peter Larsen]
+
+JACOB: If you could give the crew one last message—like they get in Orion, you get to whisper something in their ear. What would you tell them?
+
+LILI: That’s an easy one. I want to tell them that, you know, we’ll be there when you land. We’ll be waiting for you.
+
+[Music: Inner Peace by JC Lemay]
+
+PADI: This is NASA’s Curious Universe—an official NASA podcast. Our Artemis II series was written and produced by Christian Elliott and Jacob Pinter. Our executive producer is Katie Konans. Wes Buchanan designed the show art for this series. Music for the series comes from Universal Production Music.
+
+JACOB: We had support throughout this series from Rachel Kraft, Lisa Allen, Lora Bleacher, Brandi Dean, Courtney Beasley, Amber Jacobson, and Thalia Patrinos. For this episode, we had additional help from Madison Tuttle and Kenna Pell. You can find transcripts for every episode of Curious Universe and explore NASA’s other podcasts at nasa.gov/podcasts.
+
+If you enjoyed this episode of NASA’s Curious Universe, let us know. Leave us a review wherever you’re listening right now. Maybe send a link to one of your friends. And you can follow NASA’s Curious Universe in your favorite podcast app to get a notification each time we post a new episode.

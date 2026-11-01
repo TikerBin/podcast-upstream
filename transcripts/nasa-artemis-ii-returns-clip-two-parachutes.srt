@@ -1,0 +1,52 @@
+1
+00:00:00,000 --> 00:00:03,420
+Well, I'd like to ask you about some contingencies you're planning for, if that's OK.
+
+2
+00:00:03,700 --> 00:00:08,020
+So one that you just mentioned, if all three parachutes don't open, like...
+
+3
+00:00:08,520 --> 00:00:10,120
+We can land safely with two.
+
+4
+00:00:10,600 --> 00:00:10,900
+OK.
+
+5
+00:00:11,140 --> 00:00:11,340
+Yeah.
+
+6
+00:00:11,860 --> 00:00:19,560
+But you know, it might be a little more of an impact to the crew on two parachutes, but we're landing
+
+7
+00:00:19,560 --> 00:00:24,460
+in water, which should help some, but definitely that's why we have three, right?
+
+8
+00:00:24,640 --> 00:00:25,740
+Contingency.
+
+9
+00:00:26,700 --> 00:00:33,840
+We worried about, you know, making sure the vehicle, once it comes through entry, has acquired GPS
+
+10
+00:00:33,840 --> 00:00:37,820
+because it really orients itself to the landing location that we told it to land.
+
+11
+00:00:38,340 --> 00:00:46,040
+So that's why we are so far back, just in case it didn't acquire GPS, so that we don't
+
+12
+00:00:46,040 --> 00:00:48,920
+accidentally go to where we shouldn't be.
+
+13
+00:00:49,050 --> 00:00:52,890
+We develop what's called recovery decision criterias.
+

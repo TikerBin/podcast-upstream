@@ -1,0 +1,915 @@
+[
+  {
+    "start": 0.0,
+    "end": 3.42,
+    "text": "Well, I'd like to ask you about some contingencies you're planning for, if that's OK.",
+    "words": [
+      {
+        "word": " Well,",
+        "start": 0.0,
+        "end": 0.4,
+        "probability": 0.346286416053772
+      },
+      {
+        "word": " I'd",
+        "start": 0.56,
+        "end": 0.74,
+        "probability": 0.9706428349018097
+      },
+      {
+        "word": " like",
+        "start": 0.74,
+        "end": 0.84,
+        "probability": 0.9978358149528503
+      },
+      {
+        "word": " to",
+        "start": 0.84,
+        "end": 0.94,
+        "probability": 0.9974501729011536
+      },
+      {
+        "word": " ask",
+        "start": 0.94,
+        "end": 1.04,
+        "probability": 0.9958614706993103
+      },
+      {
+        "word": " you",
+        "start": 1.04,
+        "end": 1.16,
+        "probability": 0.9876349568367004
+      },
+      {
+        "word": " about",
+        "start": 1.16,
+        "end": 1.3,
+        "probability": 0.9945289492607117
+      },
+      {
+        "word": " some",
+        "start": 1.3,
+        "end": 1.54,
+        "probability": 0.9973427653312683
+      },
+      {
+        "word": " contingencies",
+        "start": 1.54,
+        "end": 2.02,
+        "probability": 0.9972951710224152
+      },
+      {
+        "word": " you're",
+        "start": 2.02,
+        "end": 2.24,
+        "probability": 0.9643672704696655
+      },
+      {
+        "word": " planning",
+        "start": 2.24,
+        "end": 2.4,
+        "probability": 0.9982219338417053
+      },
+      {
+        "word": " for,",
+        "start": 2.4,
+        "end": 2.7,
+        "probability": 0.9463896751403809
+      },
+      {
+        "word": " if",
+        "start": 2.82,
+        "end": 2.96,
+        "probability": 0.9877325296401978
+      },
+      {
+        "word": " that's",
+        "start": 2.96,
+        "end": 3.18,
+        "probability": 0.9985574185848236
+      },
+      {
+        "word": " OK.",
+        "start": 3.18,
+        "end": 3.42,
+        "probability": 0.7502659559249878
+      }
+    ]
+  },
+  {
+    "start": 3.7,
+    "end": 8.02,
+    "text": "So one that you just mentioned, if all three parachutes don't open, like...",
+    "words": [
+      {
+        "word": " So",
+        "start": 3.7,
+        "end": 3.76,
+        "probability": 0.9511350393295288
+      },
+      {
+        "word": " one",
+        "start": 3.76,
+        "end": 3.96,
+        "probability": 0.6346333026885986
+      },
+      {
+        "word": " that",
+        "start": 3.96,
+        "end": 4.08,
+        "probability": 0.9685333967208862
+      },
+      {
+        "word": " you",
+        "start": 4.08,
+        "end": 4.18,
+        "probability": 0.9987597465515137
+      },
+      {
+        "word": " just",
+        "start": 4.18,
+        "end": 4.36,
+        "probability": 0.9881467223167419
+      },
+      {
+        "word": " mentioned,",
+        "start": 4.36,
+        "end": 4.66,
+        "probability": 0.9984906911849976
+      },
+      {
+        "word": " if",
+        "start": 4.84,
+        "end": 4.92,
+        "probability": 0.9472410082817078
+      },
+      {
+        "word": " all",
+        "start": 4.92,
+        "end": 5.14,
+        "probability": 0.9983214735984802
+      },
+      {
+        "word": " three",
+        "start": 5.14,
+        "end": 5.38,
+        "probability": 0.9850157499313354
+      },
+      {
+        "word": " parachutes",
+        "start": 5.38,
+        "end": 5.94,
+        "probability": 0.9970287978649139
+      },
+      {
+        "word": " don't",
+        "start": 5.94,
+        "end": 6.22,
+        "probability": 0.9987969696521759
+      },
+      {
+        "word": " open,",
+        "start": 6.22,
+        "end": 6.58,
+        "probability": 0.998180627822876
+      },
+      {
+        "word": " like...",
+        "start": 7.46,
+        "end": 8.02,
+        "probability": 0.6565239876508713
+      }
+    ]
+  },
+  {
+    "start": 8.52,
+    "end": 10.12,
+    "text": "We can land safely with two.",
+    "words": [
+      {
+        "word": " We",
+        "start": 8.52,
+        "end": 8.76,
+        "probability": 0.745573878288269
+      },
+      {
+        "word": " can",
+        "start": 8.76,
+        "end": 8.96,
+        "probability": 0.9950284361839294
+      },
+      {
+        "word": " land",
+        "start": 8.96,
+        "end": 9.18,
+        "probability": 0.998490571975708
+      },
+      {
+        "word": " safely",
+        "start": 9.18,
+        "end": 9.54,
+        "probability": 0.9986534118652344
+      },
+      {
+        "word": " with",
+        "start": 9.54,
+        "end": 9.84,
+        "probability": 0.9937756061553955
+      },
+      {
+        "word": " two.",
+        "start": 9.84,
+        "end": 10.12,
+        "probability": 0.9938511848449707
+      }
+    ]
+  },
+  {
+    "start": 10.6,
+    "end": 10.9,
+    "text": "OK.",
+    "words": [
+      {
+        "word": " OK.",
+        "start": 10.6,
+        "end": 10.9,
+        "probability": 0.7888415455818176
+      }
+    ]
+  },
+  {
+    "start": 11.14,
+    "end": 11.34,
+    "text": "Yeah.",
+    "words": [
+      {
+        "word": " Yeah.",
+        "start": 11.14,
+        "end": 11.34,
+        "probability": 0.9521147608757019
+      }
+    ]
+  },
+  {
+    "start": 11.86,
+    "end": 19.56,
+    "text": "But you know, it might be a little more of an impact to the crew on two parachutes, but we're landing",
+    "words": [
+      {
+        "word": " But",
+        "start": 11.86,
+        "end": 11.96,
+        "probability": 0.9345295429229736
+      },
+      {
+        "word": " you",
+        "start": 11.96,
+        "end": 11.96,
+        "probability": 0.9345295429229736
+      },
+      {
+        "word": " know,",
+        "start": 11.96,
+        "end": 11.96,
+        "probability": 0.9345295429229736
+      },
+      {
+        "word": " it",
+        "start": 11.96,
+        "end": 12.76,
+        "probability": 0.4135568141937256
+      },
+      {
+        "word": " might",
+        "start": 12.76,
+        "end": 13.12,
+        "probability": 0.985630989074707
+      },
+      {
+        "word": " be",
+        "start": 13.12,
+        "end": 13.32,
+        "probability": 0.9950844645500183
+      },
+      {
+        "word": " a",
+        "start": 13.32,
+        "end": 13.68,
+        "probability": 0.986961841583252
+      },
+      {
+        "word": " little",
+        "start": 13.68,
+        "end": 14.68,
+        "probability": 0.9934180974960327
+      },
+      {
+        "word": " more",
+        "start": 14.68,
+        "end": 15.04,
+        "probability": 0.9374616146087646
+      },
+      {
+        "word": " of",
+        "start": 15.04,
+        "end": 15.24,
+        "probability": 0.9965621829032898
+      },
+      {
+        "word": " an",
+        "start": 15.24,
+        "end": 15.36,
+        "probability": 0.9977669715881348
+      },
+      {
+        "word": " impact",
+        "start": 15.36,
+        "end": 15.7,
+        "probability": 0.9996215105056763
+      },
+      {
+        "word": " to",
+        "start": 15.7,
+        "end": 15.96,
+        "probability": 0.9955331087112427
+      },
+      {
+        "word": " the",
+        "start": 15.96,
+        "end": 16.1,
+        "probability": 0.9988685846328735
+      },
+      {
+        "word": " crew",
+        "start": 16.1,
+        "end": 16.36,
+        "probability": 0.9995014667510986
+      },
+      {
+        "word": " on",
+        "start": 16.36,
+        "end": 16.8,
+        "probability": 0.991038978099823
+      },
+      {
+        "word": " two",
+        "start": 16.8,
+        "end": 17.04,
+        "probability": 0.9968721270561218
+      },
+      {
+        "word": " parachutes,",
+        "start": 17.04,
+        "end": 17.62,
+        "probability": 0.9988886117935181
+      },
+      {
+        "word": " but",
+        "start": 18.08,
+        "end": 18.28,
+        "probability": 0.9723612070083618
+      },
+      {
+        "word": " we're",
+        "start": 18.28,
+        "end": 19.38,
+        "probability": 0.9774356782436371
+      },
+      {
+        "word": " landing",
+        "start": 19.38,
+        "end": 19.56,
+        "probability": 0.9756923913955688
+      }
+    ]
+  },
+  {
+    "start": 19.56,
+    "end": 24.46,
+    "text": "in water, which should help some, but definitely that's why we have three, right?",
+    "words": [
+      {
+        "word": " in",
+        "start": 19.56,
+        "end": 19.78,
+        "probability": 0.9109669327735901
+      },
+      {
+        "word": " water,",
+        "start": 19.78,
+        "end": 20.0,
+        "probability": 0.9966645836830139
+      },
+      {
+        "word": " which",
+        "start": 20.0,
+        "end": 20.22,
+        "probability": 0.9959431290626526
+      },
+      {
+        "word": " should",
+        "start": 20.22,
+        "end": 20.44,
+        "probability": 0.9941591024398804
+      },
+      {
+        "word": " help",
+        "start": 20.44,
+        "end": 20.68,
+        "probability": 0.9976890087127686
+      },
+      {
+        "word": " some",
+        "start": 20.68,
+        "end": 20.92,
+        "probability": 0.9915511608123779
+      },
+      {
+        "word": " but",
+        "start": 21.92,
+        "end": 21.92,
+        "probability": 0.9970611929893494
+      },
+      {
+        "word": " definitely",
+        "start": 21.92,
+        "end": 22.92,
+        "probability": 0.9320708513259888
+      },
+      {
+        "word": " that's",
+        "start": 22.92,
+        "end": 23.66,
+        "probability": 0.8249720633029938
+      },
+      {
+        "word": " why",
+        "start": 23.66,
+        "end": 23.76,
+        "probability": 0.6576457619667053
+      },
+      {
+        "word": " we",
+        "start": 23.76,
+        "end": 23.84,
+        "probability": 0.9989564418792725
+      },
+      {
+        "word": " have",
+        "start": 23.84,
+        "end": 23.96,
+        "probability": 0.8504149913787842
+      },
+      {
+        "word": " three,",
+        "start": 23.96,
+        "end": 24.2,
+        "probability": 0.9962660670280457
+      },
+      {
+        "word": " right?",
+        "start": 24.32,
+        "end": 24.46,
+        "probability": 0.9808048605918884
+      }
+    ]
+  },
+  {
+    "start": 24.64,
+    "end": 25.74,
+    "text": "Contingency.",
+    "words": [
+      {
+        "word": " contingency.",
+        "start": 25.2,
+        "end": 25.74,
+        "probability": 0.9106014370918274
+      }
+    ]
+  },
+  {
+    "start": 26.7,
+    "end": 33.84,
+    "text": "We worried about, you know, making sure the vehicle, once it comes through entry, has acquired GPS",
+    "words": [
+      {
+        "word": " We",
+        "start": 26.7,
+        "end": 27.22,
+        "probability": 0.20026516914367676
+      },
+      {
+        "word": " worried",
+        "start": 27.22,
+        "end": 27.4,
+        "probability": 0.9764207005500793
+      },
+      {
+        "word": " about",
+        "start": 27.4,
+        "end": 28.08,
+        "probability": 0.9982970356941223
+      },
+      {
+        "word": " you",
+        "start": 28.08,
+        "end": 28.08,
+        "probability": 0.9982970356941223
+      },
+      {
+        "word": " know,",
+        "start": 28.08,
+        "end": 28.08,
+        "probability": 0.9982970356941223
+      },
+      {
+        "word": " making",
+        "start": 28.08,
+        "end": 29.26,
+        "probability": 0.5462400317192078
+      },
+      {
+        "word": " sure",
+        "start": 29.26,
+        "end": 29.54,
+        "probability": 0.9968807697296143
+      },
+      {
+        "word": " the",
+        "start": 29.54,
+        "end": 29.74,
+        "probability": 0.740740180015564
+      },
+      {
+        "word": " vehicle,",
+        "start": 29.74,
+        "end": 30.2,
+        "probability": 0.9989609718322754
+      },
+      {
+        "word": " once",
+        "start": 30.44,
+        "end": 30.62,
+        "probability": 0.9971887469291687
+      },
+      {
+        "word": " it",
+        "start": 30.62,
+        "end": 30.76,
+        "probability": 0.9963639378547668
+      },
+      {
+        "word": " comes",
+        "start": 30.76,
+        "end": 30.94,
+        "probability": 0.9961997866630554
+      },
+      {
+        "word": " through",
+        "start": 30.94,
+        "end": 31.48,
+        "probability": 0.9864766597747803
+      },
+      {
+        "word": " entry,",
+        "start": 31.48,
+        "end": 32.32,
+        "probability": 0.8333924412727356
+      },
+      {
+        "word": " has",
+        "start": 32.56,
+        "end": 32.92,
+        "probability": 0.9941673278808594
+      },
+      {
+        "word": " acquired",
+        "start": 32.92,
+        "end": 33.36,
+        "probability": 0.982445478439331
+      },
+      {
+        "word": " GPS",
+        "start": 33.36,
+        "end": 33.84,
+        "probability": 0.9954774975776672
+      }
+    ]
+  },
+  {
+    "start": 33.84,
+    "end": 37.82,
+    "text": "because it really orients itself to the landing location that we told it to land.",
+    "words": [
+      {
+        "word": " because",
+        "start": 33.84,
+        "end": 34.34,
+        "probability": 0.729422926902771
+      },
+      {
+        "word": " it",
+        "start": 34.34,
+        "end": 34.86,
+        "probability": 0.9965079426765442
+      },
+      {
+        "word": " really",
+        "start": 34.86,
+        "end": 35.1,
+        "probability": 0.9957695007324219
+      },
+      {
+        "word": " orients",
+        "start": 35.1,
+        "end": 35.74,
+        "probability": 0.77374067902565
+      },
+      {
+        "word": " itself",
+        "start": 35.74,
+        "end": 36.06,
+        "probability": 0.9989436268806458
+      },
+      {
+        "word": " to",
+        "start": 36.06,
+        "end": 36.24,
+        "probability": 0.9964981079101562
+      },
+      {
+        "word": " the",
+        "start": 36.24,
+        "end": 36.38,
+        "probability": 0.9953254461288452
+      },
+      {
+        "word": " landing",
+        "start": 36.38,
+        "end": 36.54,
+        "probability": 0.9613993167877197
+      },
+      {
+        "word": " location",
+        "start": 36.54,
+        "end": 36.94,
+        "probability": 0.9913787841796875
+      },
+      {
+        "word": " that",
+        "start": 36.94,
+        "end": 37.12,
+        "probability": 0.9457016587257385
+      },
+      {
+        "word": " we",
+        "start": 37.12,
+        "end": 37.2,
+        "probability": 0.9985382556915283
+      },
+      {
+        "word": " told",
+        "start": 37.2,
+        "end": 37.34,
+        "probability": 0.9805982112884521
+      },
+      {
+        "word": " it",
+        "start": 37.34,
+        "end": 37.48,
+        "probability": 0.9945321083068848
+      },
+      {
+        "word": " to",
+        "start": 37.48,
+        "end": 37.58,
+        "probability": 0.997374415397644
+      },
+      {
+        "word": " land.",
+        "start": 37.58,
+        "end": 37.82,
+        "probability": 0.9994661211967468
+      }
+    ]
+  },
+  {
+    "start": 38.34,
+    "end": 46.04,
+    "text": "So that's why we are so far back, just in case it didn't acquire GPS, so that we don't",
+    "words": [
+      {
+        "word": " So",
+        "start": 38.34,
+        "end": 38.4,
+        "probability": 0.9117649793624878
+      },
+      {
+        "word": " that's",
+        "start": 38.4,
+        "end": 38.64,
+        "probability": 0.9108793139457703
+      },
+      {
+        "word": " why",
+        "start": 38.64,
+        "end": 38.88,
+        "probability": 0.9990379810333252
+      },
+      {
+        "word": " we",
+        "start": 38.88,
+        "end": 39.1,
+        "probability": 0.9969322681427002
+      },
+      {
+        "word": " are",
+        "start": 39.1,
+        "end": 39.5,
+        "probability": 0.5519095063209534
+      },
+      {
+        "word": " so",
+        "start": 39.5,
+        "end": 39.72,
+        "probability": 0.9986101388931274
+      },
+      {
+        "word": " far",
+        "start": 39.72,
+        "end": 40.02,
+        "probability": 0.9995508790016174
+      },
+      {
+        "word": " back,",
+        "start": 40.02,
+        "end": 40.78,
+        "probability": 0.9976257681846619
+      },
+      {
+        "word": " just",
+        "start": 41.04,
+        "end": 41.24,
+        "probability": 0.30870524048805237
+      },
+      {
+        "word": " in",
+        "start": 41.24,
+        "end": 41.5,
+        "probability": 0.9915680289268494
+      },
+      {
+        "word": " case",
+        "start": 41.5,
+        "end": 41.92,
+        "probability": 0.9993137121200562
+      },
+      {
+        "word": " it",
+        "start": 41.92,
+        "end": 43.16,
+        "probability": 0.9515754580497742
+      },
+      {
+        "word": " didn't",
+        "start": 43.16,
+        "end": 43.32,
+        "probability": 0.9984525740146637
+      },
+      {
+        "word": " acquire",
+        "start": 43.32,
+        "end": 43.62,
+        "probability": 0.9208415746688843
+      },
+      {
+        "word": " GPS,",
+        "start": 43.62,
+        "end": 44.16,
+        "probability": 0.9837127923965454
+      },
+      {
+        "word": " so",
+        "start": 44.2,
+        "end": 44.98,
+        "probability": 0.9962694644927979
+      },
+      {
+        "word": " that",
+        "start": 44.98,
+        "end": 45.18,
+        "probability": 0.9913750290870667
+      },
+      {
+        "word": " we",
+        "start": 45.18,
+        "end": 45.42,
+        "probability": 0.9993758797645569
+      },
+      {
+        "word": " don't",
+        "start": 45.42,
+        "end": 46.04,
+        "probability": 0.9992930591106415
+      }
+    ]
+  },
+  {
+    "start": 46.04,
+    "end": 48.92,
+    "text": "accidentally go to where we shouldn't be.",
+    "words": [
+      {
+        "word": " accidentally",
+        "start": 46.04,
+        "end": 46.64,
+        "probability": 0.9821072220802307
+      },
+      {
+        "word": " go",
+        "start": 46.64,
+        "end": 47.66,
+        "probability": 0.9978321194648743
+      },
+      {
+        "word": " to",
+        "start": 47.66,
+        "end": 48.12,
+        "probability": 0.9941693544387817
+      },
+      {
+        "word": " where",
+        "start": 48.12,
+        "end": 48.3,
+        "probability": 0.9984330534934998
+      },
+      {
+        "word": " we",
+        "start": 48.3,
+        "end": 48.44,
+        "probability": 0.9972516894340515
+      },
+      {
+        "word": " shouldn't",
+        "start": 48.44,
+        "end": 48.72,
+        "probability": 0.9405458867549896
+      },
+      {
+        "word": " be.",
+        "start": 48.72,
+        "end": 48.92,
+        "probability": 0.9991360306739807
+      }
+    ]
+  },
+  {
+    "start": 49.05,
+    "end": 52.89,
+    "text": "We develop what's called recovery decision criterias.",
+    "words": [
+      {
+        "word": " We",
+        "start": 49.05,
+        "end": 50.07,
+        "probability": 0.15730203688144684
+      },
+      {
+        "word": " develop",
+        "start": 50.07,
+        "end": 50.43,
+        "probability": 0.7968470454216003
+      },
+      {
+        "word": " what's",
+        "start": 50.43,
+        "end": 51.01,
+        "probability": 0.9526368975639343
+      },
+      {
+        "word": " called",
+        "start": 51.01,
+        "end": 51.35,
+        "probability": 0.9973623156547546
+      },
+      {
+        "word": " recovery",
+        "start": 51.35,
+        "end": 51.91,
+        "probability": 0.8747379183769226
+      },
+      {
+        "word": " decision",
+        "start": 51.91,
+        "end": 52.39,
+        "probability": 0.9792494177818298
+      },
+      {
+        "word": " criterias.",
+        "start": 52.39,
+        "end": 52.89,
+        "probability": 0.7610082030296326
+      }
+    ]
+  }
+]

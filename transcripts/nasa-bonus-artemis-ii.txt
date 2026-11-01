@@ -1,0 +1,253 @@
+[Music: Supercluster by Sergey Azbel]
+
+HOST JACOB PINTER: You’re listening to NASA’s Curious Universe. I’m Jacob Pinter.
+
+HOST PADI BOYD: I’m Padi Boyd.
+
+PRODUCER CHRISTIAN ELLIOTT: And I’m Christian Elliott.
+
+JACOB: And we are all here today to celebrate Artemis II in a special bonus episode.
+
+This mission had so many cool moments, and we’ve had more fascinating conversations that we just cannot keep to ourselves. So we’re going to share them with you now. First things first: The astronauts of Artemis II are home safe. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch and Canadian Space Agency astronaut Jeremy Hansen are readjusting to life on this planet. NASA scientists are digging through observations and photos the crew collected as they flew around the Moon. And engineers are evaluating data from this test flight to make future Artemis missions even better.
+
+CHRISTIAN: Now, we’ve got a lot of exciting NASA stories to share with you in the coming months. But today, while we’re still all riding this collective Moon joy high, we wanted to take a look back at Artemis II. We’ll be catching up with some of the folks you’ve met along the way in this podcast series, and we’ll share some stories I’m pretty sure you haven’t heard elsewhere yet. But first …
+
+[Music: Conscious of Time by Paul Richard O’Brien]
+
+JACOB: Padi, hi! We’ve got to start with you.
+
+PADI: Hi Jacob.
+
+JACOB: We’ve been sending each other lots of emails and texts and stuff. It’s good to catch up in person finally.
+
+PADI: It’s awesome. Here we are on the other side of it.
+
+JACOB: As the Artemis II astronauts flew around the moon, you were observing the science teams, and you were right there. You were in the back rooms in mission control in Houston, which I want to hear all about.
+
+PADI: Yeah.
+
+JACOB: But before that, you watched Artemis II launch from the Kennedy Space Center in Florida. So let’s start there. Just take me back to that day.
+
+PADI: OK.
+
+JACOB: Tell me where you were. What’d you see?
+
+PADI: For the April launch dates, there were six days in a row. They were going to try on the first, and then there was an opportunity on every one of the next days until the sixth. And at some point I realized that overlapped with my kid’s spring break. And so like, OK, we’ll go down to Florida. And I’ve been to several launches where it does eventually launch, but it’s very unusual for a launch to go off on the first attempt. Usually you’re basically expecting to stick around for two, three, four days. So I had this whole plan of like, what I would do if it launched on the fourth, what would I do if it launched on the fifth. I had literally zero plan for how my life was going to unfold if it actually launched within, like, 11 minutes of the first launch window opening. You know, I think a lot of people felt that way.
+
+It just kept getting closer and closer. And the people around us that had sort of just a very casual vibe started to get a little bit serious now, like people are starting to understand that, oh, we’re close. And then, of course, you know, the countdown happens, and then it just goes. And it’s—you can’t describe how intensely bright the region near these engines gets. It’s brighter than the Sun, and it’s bigger than the Sun. However many times you’ve seen a launch, you’re just not expecting something like that dramatic to see. So it was very emotional and surprising. A once in a lifetime moment to know that they’re going. There’s humans there.
+
+JACOB: Well Padi, in a few minutes, I want to hear all about the science work that you did and what you saw when you were in mission control. I want to put a pin in that for a second. Before Artemis II launched, we profiled some of the launch engineers who actually helped this rocket fly, and they had explained all the preparation that happens before launch. I just want to mention that if you missed that episode or any other part of our Artemis II series, you can find every episode wherever you’re listening right now, or all together at nasa.gov/artemispodcast. That’s nasa.gov/artemis podcast.
+
+Christian, you had a chance to circle back to those launch engineers after Artemis II launched and hear what went down in the Launch Control Center.
+
+CHRISTIAN: Yeah, so the day after launch, when everyone was still buzzing with excitement, I pulled a couple of our friends aside for interviews. And here’s what I put together.
+
+[Music: Adrift by Claire Leona Batchelor]
+
+CHRISTIAN: On April 1st, launch day, Mike Guzman went to work in the dark.
+
+MIKE GUZMÁN: I got in at like 3:30 a.m. You know, I got all my displays up, logged in, got all my drawings out, all my procedures, everything.
+
+CHRISTIAN: Mike’s a launch engineer. Sitting at his console in the launch control center, he remotely opened up valves to start the flow of liquid hydrogen and oxygen—fuel for the rocket—into its tanks.
+
+MIKE: There’s many things going through my mind, right? There’s usually, like, the baseline, things like, don’t mess up, don’t click any wrong buttons, right? But then there’s also the “OK, are we going to leak hydrogen again?” And then kind of get yourself ready for that.
+
+CHRISTIAN: Hydrogen is the smallest element on the periodic table. It likes to escape when you force it into something like a huge rocket fuel tank. And that had happened before with the SLS rocket with Artemis I. So this time…
+
+JOE PAVICIC: The whole time we were sitting there, like, where’s our big issue gonna come up? We have a little bit of, I guess, almost PTSD from Artemis I with scrub, scrub, scrub.
+
+CHRISTIAN: That’s Joe Pavicic. He was in the launch control center with Mike. They’re both on the cryogenic propulsion team. A scrub is when a launch gets called off. You might remember Joe’s the guy that, for Artemis I, had to make the call to say “no go” to launch when he saw the rocket’s engines weren’t at the right temperature. But this time …
+
+JOE: And I’m just kind of looking around like, “I’m kind of bored right now”. Like everything’s just being done well.
+
+CHRISTIAN: Joe and Mike were actually ahead of schedule. Mike watched on his displays as all the fuel tanks filled. No leaks.
+
+MIKE: That was a big milestone to have all the tanks fully fueled. And it’s like, wow. We’re that much closer. Now we’re at the point where the astronauts are going to start getting suited up and going out to the vehicle.
+
+CHRISTIAN: Waiting just off stage: the closeout crew, led by Taylor Hose
+
+TAYLOR HOSE: So the closeout crew, we’re the final people the crew sees before they go on their mission.
+
+CHRISTIAN: If you watched the broadcast, you definitely remember this team. In their all white, flame-retardant suits, they kind of look like a Formula 1 pit crew. That morning, Taylor checked his torque wrenches at the Vehicle Assembly Building, loaded his crew’s gear onto their box truck, and drove off to the launch pad. On the way, they blasted Red Hot Chili Peppers. Four lego astronauts wiggled around on their dashboard.
+
+CHRISTIAN: Got to get hyped up.
+
+TAYLOR: Yeah, oh yeah. And it works
+
+CHRISTIAN: Once the astronauts arrived at the launch pad, the closeout crew helped them get their helmets and gloves on in the White Room at the top of the launch tower.
+
+TAYLOR: We were all talking. They were joking around, laughing, having a good time. Everyone was in great spirits. It was just—it was really awesome. While they were getting suited up, just looking at these four people, knowing they literally are about to go to the Moon, it was a really wild experience. Very surreal.
+
+[Music: Jumping Beans by Claire Leona Batchelor]
+
+CHRISTIAN: Now, I had to ask: Taylor was the last person to talk to the astronauts before they left this planet. What did he say to them?
+
+TAYLOR: I don’t want to romanticize it. Once they have their helmets and gloves on, they have basically their earplugs, kind of. And then they have a cap that goes over that and then their helmets, and they just—they aren’t really able to hear really well.
+
+CHRISTIAN: But, he said, before the helmets went on…
+
+TAYLOR: I did give a little speech right when they got there, but that was the only thing.
+
+CHRISTIAN: What’d you say?
+
+TAYLOR: I said, “You know, we may only be strapping the four of you in here today, but the hopes and dreams of generations are flying with you. This crew, this mission, will inspire dreamers for decades. Good luck and Godspeed Artemis II.”
+
+CHRISTIAN: [to Taylor] That’s pretty good. That’s a pretty good line.
+
+Speaking of good lines, this is too good not to share. It takes maybe 10 minutes to get each astronaut safely into Orion. So while the closeout crew were getting Reid Wiseman and Jeremy Hansen strapped into their seats, Taylor was standing in the White Room for quite a while next to Victor Glover and Christina Koch. He could detect some nerves. So he thought he’d try lightening the mood.
+
+TAYLOR: So we’re trying to pay attention to what’s going on inside, so we’re not really doing much conversating back and forth. But it got real quiet, and I looked at Victor, I was like, “So, you guys got any cool weekend plans? And he kind of looks at me, then busts out laughing, and him and Christina are like, “Actually, yeah, we do have some pretty cool weekend plans.” So that was pretty cool.
+
+CHRISTIAN: Then, was time to close the hatch. Taylor’s one of the few people qualified to operate Orion’s hatch. It closes pneumatically, then with some latches.
+
+TAYLOR: So on the live stream, there’s a view of me, like at a panel turning valves and stuff. That is actually how you open and close the hatch. So I was opening the valve to vent pressure for the hatch to close. It’s very, very heavy. And once the hatch starts moving—once it gets to a certain point, it’s not stopping. It takes a lot of training to operate. But yeah, we’ve been training for years for it.
+
+CHRISTIAN: Then the closeout crew stowed their gear and drove away from the pad… leaving the astronauts alone. And the minutes ticked away toward launch.
+
+MIKE: So once you get into terminal count, I remember just like, my chest got, like, tight because I was like, “Oh, man. Like, we’re 10 minutes away, and this thing is counting down, and it’s, you know, the software is doing its thing. And we know that at any second the software can issue a cut off for whatever reason.” So we’re watching this, the ground launch sequencer count down, and we’re like, “Man, is it going to stop for some reason? Are we going to have to solve some issue?” And it just kept counting down, and everything just happened nominally. And it just—we got closer and closer. And I think it was once we got to T-minus 33 seconds, and we went for “Go for ALS start”—
+
+UNIDENTIFIED VOICE: GLS is go for ALS.
+
+MIKE: I was like, “Oh my God, this is going to happen right now. This is about to really happen right now.” And then it just kept counting down and it was like—
+
+JOE: We all look at each other like, “We’re actually going to do this thing. This is happening. Oh my God, this is happening.”
+
+MIKE: Ten, nine, eight, and then the engine started. And I was like, “Oh my God, this is happening.”
+
+UNIDENTIFIED VOICE: GLS is go for core stage engine start.
+
+[Sound of SLS engines]
+
+MIKE: And then you get to T-zero. But then you’re not even fully calm then, because it’s like, “All right, it’s flying. Well, is something going to happen while it’s flying?” It just kept flying. It was like, “Oh my God, it worked. We did it. We did it right.” And it was just a great feeling. Yeah.
+
+REID WISEMAN: Houston, Integrity. Good roll, pitch.
+
+MISSION CONTROL: Roger. Roll, pitch.
+
+CHRISTIAN: As the rocket soared, Taylor was watching outside with the closeout crew, including backup astronaut Andre Douglas. They were all sitting next to their box truck on folding chairs.
+
+TAYLOR: I remember Andre was behind me, just screaming at the top of his lungs, like, “Go Reid! Go Jeremy! Go Victor! Go Christina!” It was such a cool experience. It’s definitely something I’ll remember forever.
+
+[Music: Light At The End Of The Tunnel by Chris Doney and Beth Perry]
+
+JOE: I myself was crying, obviously. I wear my emotions on my sleeve. As soon as the boosters light and it started flying, I’m trying to, like, keep tears out of my eyes so I can watch the data on the screen. And as soon as we had main engine cut off, I lost it. Turn around, there’s people hugging, people high fiving. Hollywood couldn’t direct something that good. It was just an incredible, like, movie moment.
+
+MIKE: Being inside one of the firing rooms, and to see this thing flying away knowing that you worked on it, you know, you partially built this thing. If you had done something wrong, then it wouldn’t—you know, could have been a loss of mission. So to see it work properly, it’s like, “Oh man, like we did it. We did it, right,” you know? And that’s kind of cool. Yeah. I don’t know. I’m imagining it. People can’t see my face right now, but I’m imagining standing there looking through the windows. My jaw dropped like, “Holy crap, man.”
+
+JOE: Sitting there looking at the faces of the people in the room, like, we did this as a team. We just did something for so many people, for humanity, right? And there was just so much excitement that we’re going to the Moon for the first time in over 50 years. We’re doing it! And our friends are safe, and everyone just felt that. We take our time. We do the right thing for a reason so that this mission will be successful. And you just felt that in the room. This is when it starts. This is going to be a successful mission. And we all did it.
+
+CHRISTIAN: Once all you could see in the sky were the billowing white clouds of rocket exhaust, Charlie Blackwell-Thompson, the launch director, came up to Mike with scissors. There’s this tradition in the Launch Control Center: the launch director cuts off everyone’s ties who’s a first-time launch controller.
+
+MIKE: And so as she was going through the firing room after launch cutting everyone’s tie, she finally got to me. She kind of gave me this face, and no words were said, but I knew what the face meant. It was like, “Oh, look, we’re finally here.” We knew this—we were hoping this moment would come, and it was like, oh, look, we’re finally here. I finally get to do this thing that we were hoping we get to do. And that I’ll remember forever.
+
+CHRISTIAN: The rocket launched at 6:35. But Joe says nobody left the launch control center until after 9:00. They just didn’t want to. They all decided eventually to walk out together.
+
+JOE: We left. We walked out. We go stand in the parking lot. And it’s a full Moon, right? So we stood by Charlie’s car in the parking lot, the four of us just looking up at the Moon in silence for a good minute and just sat there. And we’re like, we just sent four humans there. And we looked at each other, did a group hug, and said, “We did it guys. Our friends are going there, then they’re coming home, and they’re sharing the experience with the world. And we had such a big part of it.” It’s one of those core memories.
+
+WISEMAN: Houston, Integrity. Good last jettison. Great view.
+
+JACOB: Padi, you were at the launch of Artemis II, as we said. After it started flying, I assume you booked it to Texas.
+
+PADI: Actually spent a few days at the beach. [Laughs]
+
+JACOB: OK, good for you.
+
+PADI: I had my spring break that I was not really planning to have, but the hotel was right on the beach, and we just chilled out and had a really good time. I didn’t have to go until Sunday night.
+
+JACOB: And got there the day before the astronauts flew around the Moon then.
+
+PADI: Yeah, the evening before. So the next day, I got to spend the day in the SER, Science Evaluation Room.
+
+JACOB: What was the vibe like in there?
+
+PADI: Just to see this whole team performing their jobs—they were all at the top of their game. But also like they’re living through something that people haven’t had the chance to live through—the privilege to live through—in over 50 years. So there’s a huge energy that goes with that, that not only are they doing a masterful job at everything that they are expected to do and more but that this amazing moment is happening right in front of us all.
+
+JACOB: I mean, as the day went on in the NASA TV broadcast, you know, we would get these little glimpses from a camera that was inside the Science Evaluation Room. And sometimes we could see the scientists reacting and there’s fist pumps, and there’s like, sometimes literally jumping for joy.
+
+PADI: Absolutely.
+
+JACOB: It must have been so special to just be in the middle of all that.
+
+PADI: So I could not get over it. By the end of the day—I called home after that, and Jim said, like, Well, how was the day? And I was like, it’s a question you can hardly answer, but I’m not exaggerating by saying is the best work day I have ever had in my entire life, bar none. And it didn’t have to be that way. A lot of things went right for us all to have that experience, and I’m sure everybody in that room went home afterwards with that same feeling. I can’t believe that I just did that, and it was work. It was my literal job to be there. What a gift.
+
+CHRISTIAN: Padi, I was wondering if you were taking notes during that whole time.
+
+PADI: I did start with notes, but at a certain point, I just sort of turned it over to the moment.
+
+CHRISTIAN: Yeah.
+
+PADI: How could you not? You know, just the privilege of being in the room and having spent a career dreaming about something like this and hearing about what it was like back then and then to have the moment of it’s actually happening now. It’s happening right now. And it’s our moment. It’s this generation’s moment. It’s not going back and doing the old thing again. It’s something completely different and modern and Moon joy. So, yeah, I don’t know. I think I did my job, but also I made sure that I didn’t miss the moment. And I think a lot of people are in that same boat, and I’m so happy that everybody that worked so hard got to experience such—I don’t know, joy.
+
+JACOB: Yeah. So in our series leading up to launch, one of the scientists you heard from was Kelsey Young. She’s the lunar science lead for Artemis II, and she had the very visible job of being in the Flight Control Room as the astronauts flew around the moon. The NASA term for this is “on console”. Kelsey was one of those people wearing a headset in that very intense mission control room—like the kind you see in the movies—and she guided the astronauts through their lunar science observations.
+
+KELSEY: I got home—again, as we sit here, I got home like nine days ago. Really enjoyed some time with my family at home, but it’s definitely like a little hard to process. I don’t think I really, like, actually, really looked too much at my phone during the mission, because obviously I was pretty locked in on what myself and my team were doing, so I’ve been able to catch up a little bit on probably what other folks were looking at during the mission. And honestly, it’s just brought me so much joy and happiness, seeing other people’s joy and happiness. So that has really helped me continue to feel the Moon joy and continue to feel like the positivity that, you know, not just the Artemis II team but the whole world experienced during that time.
+
+JACOB: Like, what have you seen from other people that makes you happy?
+
+KELSEY: I didn’t get to see really any of the social media content from during the mission, so I got a lot of laughs, like taking a look at catching up on some of the social media posts. Also, just like the outpouring from all over the world, frankly, of people feeling so happy and positive and inspired just by looking at a group of people doing what we were able to do. I’ve been so fortunate to get—you know, I’ve received a bunch of emails from people all around the world just saying how excited they were to watch not just the mission but specifically the science and the Moon components of the mission. And frankly, every time I get an email, it makes me a little emotional still, just to see the positivity and the support. I mean, how often are so many people so united by something so positive and inspirational?
+
+JACOB: So when the astronauts flew around the Moon, you were on console—that is, you were in that famous mission control room. You were talking to the astronauts during that time. And I know that you had prepared for this, like, forever. I know you had simulated parts of this. What did it actually feel like to be in that room, like, talking to the Moon for real?
+
+KELSEY: You know, I don’t—I honestly don’t have a great answer, because every time I kind of start to think about it and, like, process it in any way, my internal brain monologue just starts screaming in excitement. So it’s hard for me to actually put that into words. But I mean, even just—even being in the world at all when that was going on would have been inspirational. Being involved in any, you know, tiny, tiny part of the mission would have been, like, absolutely inspirational and, you know, kind of like a life moment for me. Being in one of our science back rooms would have been transformative, let alone getting to actually, you know, speak to the crew at any point as they were doing a thing that to me as a scientist meant so much but also me as a citizen of this planet meant so much. It’s almost like a hazy dream at this point. It takes me actually playing the audio back, or like looking at pictures, to even believe that I was so fortunate enough to be able to support the mission in that way.
+
+JACOB: You spent a lot of time and energy training the astronauts to be geologists. How’d they do?
+
+KELSEY: Oh my gosh, they did so well. I cannot say enough. The science—you know, the geology, the observations they were able to provide on behalf of our lunar science team—you know, had the entire science team just positively vibrating with joy and energy. I mean, the training team put in so much effort, and the crew put in so much effort. And I’m so grateful that the world got to see it. And I’m really grateful that the science community will have this data set for so many, you know, years and years to come.
+
+JACOB: Can you say more about the vibe of the science team, I guess? I know that the scientists were all kind of together in back rooms. So you’re like the scientist or one of the few scientists in the Flight Control Room, but you’re describing in the broadcast, you’re telling the astronauts like, “Oh, thank you for that description. I saw fist pumps.” Or, I think at one point you said, “I literally saw people jumping up and down with joy in the in the back rooms.” What was that like? Like, what were you feeling?
+
+KELSEY: Well, I was feeling FOMO a little bit. [Laughter] So at the console, at the Science Officer console, we have a monitor set up right next to us. I mean, I could see and I know these people so well. I mean, I’ve been working with, you know, this lunar science team for so long now, but also some of the individuals on the team I have worked with my entire career, like decades, and so I’ve gotten to know body language pretty well. And I feel like I could really read a lot of what they were feeling and experiencing, even like, you know, the backs of their heads and stuff, if that was the view I had of them. They worked so hard. Like they really worked so hard, both before the mission and during the mission, but they were so happy about it. And they were just like, so full of joy. Oftentimes after my shift, I would go up to the SER for an hour or so, and the day after the flyby, I went up there after the shift, and they were having a science discussion. So they were really getting into the meat of, oh, we heard these crew members describe this, like, let’s get into the meat of the science. And it was like they were kids in a candy store with actual scientific discussion. It was so awesome, for lack of a better word. Like, these are people that are, you know, so, so, so excellent at what they do, and yet, this is just like fun for them, as well as hard work.
+
+JACOB: This is going to be probably an impossible question, but it’s my job to ask it anyway. Has there been like, one moment or one experience or one photograph or one radio message from the astronauts that has just stuck with you more than the others?
+
+KELSEY: For me, it’s kind of—it’s a lot of very little moments stuck together, like, almost like popcorn popping in a bowl kind of thing. When I was on my plane ride back to the D.C. area from Houston, I just opened my computer and typed like, words. Just like little blurbs, not sentences. Just kind of like thoughts and memories, which I’m actually grateful for, right? It’s not one moment. It’s like this potpourri of all these different moments. There were certainly moments in the—you know, in mission control, in that front room, that will stay with me for the rest of my life, I’m confident. And then just getting to see the pictures as they came down. I was sleeping generally when the images came down, so I would see them after everybody else. Like, literally, I rolled over the morning after the flyby, and I saw the photos that we’ve now all seen a million times for the first time, literally, on social media. But just getting to experience the joy, getting to experience like the trust and teamwork with the team on the ground, and getting to hear the crew’s voices and the wonder and passion in their voices were pretty amazing.
+
+JACOB: So I want to show you a post that I saw on social media. I gather that maybe you’ve seen this.
+
+KELSEY: Yes, I have seen it.
+
+JACOB: Will you—
+
+KELSEY: “Science lady is excited.”
+
+JACOB: Yeah. Describe—for people who can’t see this, describe what we’re looking at.
+
+KELSEY: This is one of the couple that I actually saw during the mission itself. It’s a picture of me with a ridiculous expression on my face, and it says, “Science lady is excited,” which is hilarious, objectively hilarious. A few people have called me “science lady” since, and I’m like, I’m here for that. I’m all in on that moniker. And it was truly genuine shock. That is unfiltered Kelsey emotion on that face. I have been told for my whole life that I have a very expressive face and that it’s impossible for me to hide what I’m thinking. I tried really hard during the mission, just because, you know that room is a serious room, as it should be.
+
+JACOB: Sure.
+
+KELSEY: And I think I was doing pretty well during the flyby, even though my inner Kelsey face was making that face the whole time. But I just lost it.
+
+JACOB: Why do you think this mission captured so much attention? Like, why do you think people who aren’t normally paying attention to NASA latched onto this one?
+
+KELSEY: First I think it was the crew and how good they were at bringing us all with them. I know from hearing them talk before the mission, they worked really hard at that. But it also seemed like—again, this is more me catching up sort of after the fact than experiencing it, you know, during the mission—but I think that a lot of the comments I saw were just people being excited and inspired by a group of, you know, really competent people from a wide variety of backgrounds, uniting to do something that clearly was very hard and succeeding. And doing it with smiles on their face and communicating about it. I also think they saw emotion from everybody. They saw emotion from the crew. I mean, the crew was very clearly—you know, you saw them cry, you saw them hug, you saw them be human beings. And so people could see themselves, you know, which is just so inspiring. So I just—I hope we can capitalize on this forward momentum and this spirit of unity that we’re all feeling about this.
+
+[Music: Resonate by Jay Price]
+
+JACOB: Just on a personal note, I’ve been blown away by how captivating Artemis II has been for so many people. You know, during the mission, I was reading comments on the internet and social media of people who said that they were playing NASA’s live stream basically 24/7, sometimes even when they went to sleep. I saw people treating it like a TV show, and they just want to know when the next season is coming out. And so many people have latched on to the concept of Moon joy, inspired by the warmth and skill of people involved in this mission—not just the astronauts but the many, many people who made this mission possible.
+
+When we interviewed the astronauts before the mission, there was this one thing that Jeremy Hansen said that stuck with me. He said—and this is a quote—”I do hope that the globe will pause when there are humans who have left the planet and are on the far side of the Moon. I hope that we all pause during that timeframe. I think that would be good for us as a human race.” And you know, at the time, to be honest, I don’t know if I really believed that that would happen. But I have been overwhelmed by just how many people did pause, and now hopefully they see both the Moon and Earth, our home planet, in a new way. And it’s just been a huge privilege to be a teeny, tiny part of sharing that story.
+
+PADI: We have so much to thank those four astronauts for, the way that they shared themselves with us so openly and, like you said, so warmly. But some of that’s just who they are. They are artists and poets and philosophers and teammates, and you name it—parents. And they just they filled so many roles. I don’t know if we can ever thank them enough for being that awesome on that mission. But the same goes for every person that had a role in making this a success. The launch teams, the operations, the recovery teams, the science team, the science officers. You know, Capcom, everybody who was communicating with them the whole way. Their families. The country, the world that followed along. How do you thank those people enough?
+
+[Music: Ever Onward by Jonathan Elias and David Ashok Ramani]
+
+So very thankful at the end of this, which is just the beginning of what’s coming, and I’m really looking forward to what we can do next.
+
+JACOB: Yeah. Go Artemis II.
+
+PADI: Go Artemis II. Go Artemis III. Go Artemis IV, V, VI, VII, and beyond.
+
+[Music: Inner Peace by JC Lemay]
+
+JACOB: This is NASA’s Curious Universe, an official NASA podcast. You can find our whole Artemis II series at nasa.gov/artemispodcast. Again: nasa.gov/artemispodcast.
+
+Our Artemis II series was written and produced by Christian Elliott and me, Jacob Pinter.
+
+Our executive producer is Katie Konans. Wes Buchanan designed the show art for this series. Music for the series comes from Universal Production Music.
+
+We had support throughout this series from Rachel Kraft, Lisa Allen, Lora Bleacher, Brandi Dean, Courtney Beasley, Amber Jacobson, and Thalia Patrinos. For this episode we had extra help from James Gannon, Toni Jaramillo, Molly Wasser, and Lonne Shekhtman.
+
+You can find transcripts for every episode of Curious Universe and explore NASA’s other podcasts at nasa.gov/podcasts.
+
+If you enjoyed this episode of NASA’s Curious Universe, let us know. Leave us a review wherever you’re listening right now. Maybe send a link to one of your friends. And you can follow NASA’s Curious Universe in your favorite podcast app to get a notification each time we post a new episode.

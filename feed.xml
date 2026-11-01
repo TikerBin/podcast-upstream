@@ -5,7 +5,7 @@
 <link>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main</link>
 <description>待制作播客素材上游 v2：每条 = 一份待制作内容。父集标 full-episode，片段为独立条目、仅标 ready-clip，两集合不相交。片段 enclosure 为仓库自托管 clips 直链，不依赖整集音频。全部为美国政府官方播客（NASA / NOAA），公有领域、可剪辑但不得暗示官方背书。</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 01:24:01 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 01:26:39 +0000</lastBuildDate>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Their Mars window is a TV — clip from Encore: A Year In Mars Dune Alpha</title>
@@ -3769,6 +3769,610 @@ Give us a rating and feedback on whatever platform you’re listening to us on, 
 <_license>Public domain</_license>
 <_rights_status>reusable_with_no_endorsement_note</_rights_status>
 <_collected_at_beijing>2026-10-24</_collected_at_beijing>
+</item>
+<item>
+<title>The hopes and dreams of generations are flying with you — clip from Bonus: Behind the Scenes of Artemis II with NASA Experts (444.9-477.6s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/bonus-behind-the-scenes-of-artemis-ii-with-nasa-experts/</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:bonus-artemis-ii:clip:sendoff:444.9-477.6</guid>
+<pubDate>Sat, 02 May 2026 13:23:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-bonus-artemis-ii-clip-sendoff.mp3" length="573769" type="audio/mpeg"/>
+<itunes:duration>33</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】主持人问 Taylor Hose：作为乘组离开地球前最后对话的人，他说了什么？Taylor 先解释戴上头盔手套后就几乎听不见了，然后复述了自己在乘组到达时的小演讲：“我们今天也许只是在这里为你们四人系好安全带，但几代人的希望与梦想正与你们同飞。这个乘组、这次任务，将激励梦想者们几十年。祝好运，Godspeed Artemis II。”
+【Reels 角度】乘组戴头盔前最后的话：closeout 组长 Taylor Hose 的送别演讲——“几代人的希望与梦想与你们同飞”。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; the episode transcript marks music cues (Supercluster, Conscious of Time, Adrift, Jumping Beans, Light At The End Of The Tunnel, Resonate, Ever Onward, Inner Peace) all outside this segment.
+【来源】https://www.nasa.gov/podcasts/curious-universe/bonus-behind-the-scenes-of-artemis-ii-with-nasa-experts/
+【采集日（北京时间）】2026-11-01
+【发布时间精度】exact（Inherits parent original publish date (Megaphone RSS Sat, 02 May 2026 13:23:00 -0000); clip itself was modelled 2026-11-01 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:bonus-artemis-ii
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/bonus-behind-the-scenes-of-artemis-ii-with-nasa-experts/
+【片段】原集 444.9-477.6 秒，32.7 秒，原声，未加 BGM，文件：clips/nasa-bonus-artemis-ii-clip-sendoff.mp3]]></description>
+<content:encoded><![CDATA[What did he say to them? I don't want to romanticize it. Once they have their helmets and gloves on, they have basically their earplugs, kind of, and then they have a cap that goes over that, and then their helmets, and they just, they aren't really able to hear really well. But, he said, before the helmets went on... I did give a little speech right when they got there, but that was the only thing. What'd you say? I said, you know, we may only be strapping the four of you in here today, but the hopes and dreams of generations are flying with you, this crew, this mission, will inspire dreamers for decades. Good luck, and Godspeed, Artemis II.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>bonus-artemis-ii-clip-sendoff</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/bonus-behind-the-scenes-of-artemis-ii-with-nasa-experts/</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-01</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 32.700s / 573769 bytes (ffmpeg cut from verified full MP3 in this run, 2026-11-01); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-bonus-artemis-ii-clip-sendoff.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-bonus-artemis-ii-clip-sendoff.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-bonus-artemis-ii-clip-sendoff-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-bonus-artemis-ii-clip-sendoff-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:bonus-artemis-ii</_parent_guid>
+<_parent_id>nasa-curious-bonus-artemis-ii</_parent_id>
+<_clip_start_s>444.9</_clip_start_s>
+<_clip_end_s>477.6</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>Bonus: Behind the Scenes of Artemis II with NASA Experts</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/bonus-behind-the-scenes-of-artemis-ii-with-nasa-experts/</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:bonus-artemis-ii</guid>
+<pubDate>Sat, 02 May 2026 13:23:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:full-episode</category>
+<category>production:text-script</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION5165690257.mp3" length="45325375" type="audio/mpeg"/>
+<itunes:duration>1873</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】full-episode, text-script
+【摘要】Artemis II 任务结束后的幕后番外：Padi Boyd 回忆在肯尼迪航天中心看首发窗口 11 分钟内点火的震撼；发射工程师 Mike Guzman 与 Joe Pavicic 回述凌晨 3 点半上岗、为 SLS 加注液氢液氧、终于不再“无聊等待”的一夜；closeout 组长 Taylor Hose 回述为乘组穿戴、送别演讲与关舱门的过程；月球科学负责人 Kelsey Young 回述在任务控制室“on console”引导乘组做月球观测、以及“Science lady is excited”表情包走红后的感受。
+【Reels 角度】送别词与周末计划：乘组封闭舱门前最后一个人——closeout 组长 Taylor Hose 的送别演讲（“几代人的希望与梦想与你们同飞”），以及他在白房里问 Victor Glover“周末有什么酷计划”的冷笑话。
+【许可证】Public domain：美国联邦政府作品（NASA 官方播客），一般不受版权保护
+【权利说明】可剪辑/再分发，不得暗示 NASA 背书；本集文字稿中标有音乐 cue（Supercluster、Conscious of Time、Adrift、Jumping Beans、Light At The End Of The Tunnel、Resonate、Ever Onward、Inner Peace，系列音乐来自 Universal Production Music），正式发布前需逐项再核片段内音乐；本批 ready-clip 已核为原声讲话段、未加 BGM，片段内无音乐 cue。
+【来源】https://www.nasa.gov/podcasts/curious-universe/bonus-behind-the-scenes-of-artemis-ii-with-nasa-experts/
+【采集日（北京时间）】2026-11-01
+【发布时间精度】exact（NASA Curious Universe Megaphone RSS: Sat, 02 May 2026 13:23:00 -0000）
+【子片段 GUID】urn:podcast:nasa.gov:curious-universe:bonus-artemis-ii:clip:sendoff:444.9-477.6]]></description>
+<content:encoded><![CDATA[[Music: Supercluster by Sergey Azbel]
+
+HOST JACOB PINTER: You’re listening to NASA’s Curious Universe. I’m Jacob Pinter.
+
+HOST PADI BOYD: I’m Padi Boyd.
+
+PRODUCER CHRISTIAN ELLIOTT: And I’m Christian Elliott.
+
+JACOB: And we are all here today to celebrate Artemis II in a special bonus episode.
+
+This mission had so many cool moments, and we’ve had more fascinating conversations that we just cannot keep to ourselves. So we’re going to share them with you now. First things first: The astronauts of Artemis II are home safe. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch and Canadian Space Agency astronaut Jeremy Hansen are readjusting to life on this planet. NASA scientists are digging through observations and photos the crew collected as they flew around the Moon. And engineers are evaluating data from this test flight to make future Artemis missions even better.
+
+CHRISTIAN: Now, we’ve got a lot of exciting NASA stories to share with you in the coming months. But today, while we’re still all riding this collective Moon joy high, we wanted to take a look back at Artemis II. We’ll be catching up with some of the folks you’ve met along the way in this podcast series, and we’ll share some stories I’m pretty sure you haven’t heard elsewhere yet. But first …
+
+[Music: Conscious of Time by Paul Richard O’Brien]
+
+JACOB: Padi, hi! We’ve got to start with you.
+
+PADI: Hi Jacob.
+
+JACOB: We’ve been sending each other lots of emails and texts and stuff. It’s good to catch up in person finally.
+
+PADI: It’s awesome. Here we are on the other side of it.
+
+JACOB: As the Artemis II astronauts flew around the moon, you were observing the science teams, and you were right there. You were in the back rooms in mission control in Houston, which I want to hear all about.
+
+PADI: Yeah.
+
+JACOB: But before that, you watched Artemis II launch from the Kennedy Space Center in Florida. So let’s start there. Just take me back to that day.
+
+PADI: OK.
+
+JACOB: Tell me where you were. What’d you see?
+
+PADI: For the April launch dates, there were six days in a row. They were going to try on the first, and then there was an opportunity on every one of the next days until the sixth. And at some point I realized that overlapped with my kid’s spring break. And so like, OK, we’ll go down to Florida. And I’ve been to several launches where it does eventually launch, but it’s very unusual for a launch to go off on the first attempt. Usually you’re basically expecting to stick around for two, three, four days. So I had this whole plan of like, what I would do if it launched on the fourth, what would I do if it launched on the fifth. I had literally zero plan for how my life was going to unfold if it actually launched within, like, 11 minutes of the first launch window opening. You know, I think a lot of people felt that way.
+
+It just kept getting closer and closer. And the people around us that had sort of just a very casual vibe started to get a little bit serious now, like people are starting to understand that, oh, we’re close. And then, of course, you know, the countdown happens, and then it just goes. And it’s—you can’t describe how intensely bright the region near these engines gets. It’s brighter than the Sun, and it’s bigger than the Sun. However many times you’ve seen a launch, you’re just not expecting something like that dramatic to see. So it was very emotional and surprising. A once in a lifetime moment to know that they’re going. There’s humans there.
+
+JACOB: Well Padi, in a few minutes, I want to hear all about the science work that you did and what you saw when you were in mission control. I want to put a pin in that for a second. Before Artemis II launched, we profiled some of the launch engineers who actually helped this rocket fly, and they had explained all the preparation that happens before launch. I just want to mention that if you missed that episode or any other part of our Artemis II series, you can find every episode wherever you’re listening right now, or all together at nasa.gov/artemispodcast. That’s nasa.gov/artemis podcast.
+
+Christian, you had a chance to circle back to those launch engineers after Artemis II launched and hear what went down in the Launch Control Center.
+
+CHRISTIAN: Yeah, so the day after launch, when everyone was still buzzing with excitement, I pulled a couple of our friends aside for interviews. And here’s what I put together.
+
+[Music: Adrift by Claire Leona Batchelor]
+
+CHRISTIAN: On April 1st, launch day, Mike Guzman went to work in the dark.
+
+MIKE GUZMÁN: I got in at like 3:30 a.m. You know, I got all my displays up, logged in, got all my drawings out, all my procedures, everything.
+
+CHRISTIAN: Mike’s a launch engineer. Sitting at his console in the launch control center, he remotely opened up valves to start the flow of liquid hydrogen and oxygen—fuel for the rocket—into its tanks.
+
+MIKE: There’s many things going through my mind, right? There’s usually, like, the baseline, things like, don’t mess up, don’t click any wrong buttons, right? But then there’s also the “OK, are we going to leak hydrogen again?” And then kind of get yourself ready for that.
+
+CHRISTIAN: Hydrogen is the smallest element on the periodic table. It likes to escape when you force it into something like a huge rocket fuel tank. And that had happened before with the SLS rocket with Artemis I. So this time…
+
+JOE PAVICIC: The whole time we were sitting there, like, where’s our big issue gonna come up? We have a little bit of, I guess, almost PTSD from Artemis I with scrub, scrub, scrub.
+
+CHRISTIAN: That’s Joe Pavicic. He was in the launch control center with Mike. They’re both on the cryogenic propulsion team. A scrub is when a launch gets called off. You might remember Joe’s the guy that, for Artemis I, had to make the call to say “no go” to launch when he saw the rocket’s engines weren’t at the right temperature. But this time …
+
+JOE: And I’m just kind of looking around like, “I’m kind of bored right now”. Like everything’s just being done well.
+
+CHRISTIAN: Joe and Mike were actually ahead of schedule. Mike watched on his displays as all the fuel tanks filled. No leaks.
+
+MIKE: That was a big milestone to have all the tanks fully fueled. And it’s like, wow. We’re that much closer. Now we’re at the point where the astronauts are going to start getting suited up and going out to the vehicle.
+
+CHRISTIAN: Waiting just off stage: the closeout crew, led by Taylor Hose
+
+TAYLOR HOSE: So the closeout crew, we’re the final people the crew sees before they go on their mission.
+
+CHRISTIAN: If you watched the broadcast, you definitely remember this team. In their all white, flame-retardant suits, they kind of look like a Formula 1 pit crew. That morning, Taylor checked his torque wrenches at the Vehicle Assembly Building, loaded his crew’s gear onto their box truck, and drove off to the launch pad. On the way, they blasted Red Hot Chili Peppers. Four lego astronauts wiggled around on their dashboard.
+
+CHRISTIAN: Got to get hyped up.
+
+TAYLOR: Yeah, oh yeah. And it works
+
+CHRISTIAN: Once the astronauts arrived at the launch pad, the closeout crew helped them get their helmets and gloves on in the White Room at the top of the launch tower.
+
+TAYLOR: We were all talking. They were joking around, laughing, having a good time. Everyone was in great spirits. It was just—it was really awesome. While they were getting suited up, just looking at these four people, knowing they literally are about to go to the Moon, it was a really wild experience. Very surreal.
+
+[Music: Jumping Beans by Claire Leona Batchelor]
+
+CHRISTIAN: Now, I had to ask: Taylor was the last person to talk to the astronauts before they left this planet. What did he say to them?
+
+TAYLOR: I don’t want to romanticize it. Once they have their helmets and gloves on, they have basically their earplugs, kind of. And then they have a cap that goes over that and then their helmets, and they just—they aren’t really able to hear really well.
+
+CHRISTIAN: But, he said, before the helmets went on…
+
+TAYLOR: I did give a little speech right when they got there, but that was the only thing.
+
+CHRISTIAN: What’d you say?
+
+TAYLOR: I said, “You know, we may only be strapping the four of you in here today, but the hopes and dreams of generations are flying with you. This crew, this mission, will inspire dreamers for decades. Good luck and Godspeed Artemis II.”
+
+CHRISTIAN: [to Taylor] That’s pretty good. That’s a pretty good line.
+
+Speaking of good lines, this is too good not to share. It takes maybe 10 minutes to get each astronaut safely into Orion. So while the closeout crew were getting Reid Wiseman and Jeremy Hansen strapped into their seats, Taylor was standing in the White Room for quite a while next to Victor Glover and Christina Koch. He could detect some nerves. So he thought he’d try lightening the mood.
+
+TAYLOR: So we’re trying to pay attention to what’s going on inside, so we’re not really doing much conversating back and forth. But it got real quiet, and I looked at Victor, I was like, “So, you guys got any cool weekend plans? And he kind of looks at me, then busts out laughing, and him and Christina are like, “Actually, yeah, we do have some pretty cool weekend plans.” So that was pretty cool.
+
+CHRISTIAN: Then, was time to close the hatch. Taylor’s one of the few people qualified to operate Orion’s hatch. It closes pneumatically, then with some latches.
+
+TAYLOR: So on the live stream, there’s a view of me, like at a panel turning valves and stuff. That is actually how you open and close the hatch. So I was opening the valve to vent pressure for the hatch to close. It’s very, very heavy. And once the hatch starts moving—once it gets to a certain point, it’s not stopping. It takes a lot of training to operate. But yeah, we’ve been training for years for it.
+
+CHRISTIAN: Then the closeout crew stowed their gear and drove away from the pad… leaving the astronauts alone. And the minutes ticked away toward launch.
+
+MIKE: So once you get into terminal count, I remember just like, my chest got, like, tight because I was like, “Oh, man. Like, we’re 10 minutes away, and this thing is counting down, and it’s, you know, the software is doing its thing. And we know that at any second the software can issue a cut off for whatever reason.” So we’re watching this, the ground launch sequencer count down, and we’re like, “Man, is it going to stop for some reason? Are we going to have to solve some issue?” And it just kept counting down, and everything just happened nominally. And it just—we got closer and closer. And I think it was once we got to T-minus 33 seconds, and we went for “Go for ALS start”—
+
+UNIDENTIFIED VOICE: GLS is go for ALS.
+
+MIKE: I was like, “Oh my God, this is going to happen right now. This is about to really happen right now.” And then it just kept counting down and it was like—
+
+JOE: We all look at each other like, “We’re actually going to do this thing. This is happening. Oh my God, this is happening.”
+
+MIKE: Ten, nine, eight, and then the engine started. And I was like, “Oh my God, this is happening.”
+
+UNIDENTIFIED VOICE: GLS is go for core stage engine start.
+
+[Sound of SLS engines]
+
+MIKE: And then you get to T-zero. But then you’re not even fully calm then, because it’s like, “All right, it’s flying. Well, is something going to happen while it’s flying?” It just kept flying. It was like, “Oh my God, it worked. We did it. We did it right.” And it was just a great feeling. Yeah.
+
+REID WISEMAN: Houston, Integrity. Good roll, pitch.
+
+MISSION CONTROL: Roger. Roll, pitch.
+
+CHRISTIAN: As the rocket soared, Taylor was watching outside with the closeout crew, including backup astronaut Andre Douglas. They were all sitting next to their box truck on folding chairs.
+
+TAYLOR: I remember Andre was behind me, just screaming at the top of his lungs, like, “Go Reid! Go Jeremy! Go Victor! Go Christina!” It was such a cool experience. It’s definitely something I’ll remember forever.
+
+[Music: Light At The End Of The Tunnel by Chris Doney and Beth Perry]
+
+JOE: I myself was crying, obviously. I wear my emotions on my sleeve. As soon as the boosters light and it started flying, I’m trying to, like, keep tears out of my eyes so I can watch the data on the screen. And as soon as we had main engine cut off, I lost it. Turn around, there’s people hugging, people high fiving. Hollywood couldn’t direct something that good. It was just an incredible, like, movie moment.
+
+MIKE: Being inside one of the firing rooms, and to see this thing flying away knowing that you worked on it, you know, you partially built this thing. If you had done something wrong, then it wouldn’t—you know, could have been a loss of mission. So to see it work properly, it’s like, “Oh man, like we did it. We did it, right,” you know? And that’s kind of cool. Yeah. I don’t know. I’m imagining it. People can’t see my face right now, but I’m imagining standing there looking through the windows. My jaw dropped like, “Holy crap, man.”
+
+JOE: Sitting there looking at the faces of the people in the room, like, we did this as a team. We just did something for so many people, for humanity, right? And there was just so much excitement that we’re going to the Moon for the first time in over 50 years. We’re doing it! And our friends are safe, and everyone just felt that. We take our time. We do the right thing for a reason so that this mission will be successful. And you just felt that in the room. This is when it starts. This is going to be a successful mission. And we all did it.
+
+CHRISTIAN: Once all you could see in the sky were the billowing white clouds of rocket exhaust, Charlie Blackwell-Thompson, the launch director, came up to Mike with scissors. There’s this tradition in the Launch Control Center: the launch director cuts off everyone’s ties who’s a first-time launch controller.
+
+MIKE: And so as she was going through the firing room after launch cutting everyone’s tie, she finally got to me. She kind of gave me this face, and no words were said, but I knew what the face meant. It was like, “Oh, look, we’re finally here.” We knew this—we were hoping this moment would come, and it was like, oh, look, we’re finally here. I finally get to do this thing that we were hoping we get to do. And that I’ll remember forever.
+
+CHRISTIAN: The rocket launched at 6:35. But Joe says nobody left the launch control center until after 9:00. They just didn’t want to. They all decided eventually to walk out together.
+
+JOE: We left. We walked out. We go stand in the parking lot. And it’s a full Moon, right? So we stood by Charlie’s car in the parking lot, the four of us just looking up at the Moon in silence for a good minute and just sat there. And we’re like, we just sent four humans there. And we looked at each other, did a group hug, and said, “We did it guys. Our friends are going there, then they’re coming home, and they’re sharing the experience with the world. And we had such a big part of it.” It’s one of those core memories.
+
+WISEMAN: Houston, Integrity. Good last jettison. Great view.
+
+JACOB: Padi, you were at the launch of Artemis II, as we said. After it started flying, I assume you booked it to Texas.
+
+PADI: Actually spent a few days at the beach. [Laughs]
+
+JACOB: OK, good for you.
+
+PADI: I had my spring break that I was not really planning to have, but the hotel was right on the beach, and we just chilled out and had a really good time. I didn’t have to go until Sunday night.
+
+JACOB: And got there the day before the astronauts flew around the Moon then.
+
+PADI: Yeah, the evening before. So the next day, I got to spend the day in the SER, Science Evaluation Room.
+
+JACOB: What was the vibe like in there?
+
+PADI: Just to see this whole team performing their jobs—they were all at the top of their game. But also like they’re living through something that people haven’t had the chance to live through—the privilege to live through—in over 50 years. So there’s a huge energy that goes with that, that not only are they doing a masterful job at everything that they are expected to do and more but that this amazing moment is happening right in front of us all.
+
+JACOB: I mean, as the day went on in the NASA TV broadcast, you know, we would get these little glimpses from a camera that was inside the Science Evaluation Room. And sometimes we could see the scientists reacting and there’s fist pumps, and there’s like, sometimes literally jumping for joy.
+
+PADI: Absolutely.
+
+JACOB: It must have been so special to just be in the middle of all that.
+
+PADI: So I could not get over it. By the end of the day—I called home after that, and Jim said, like, Well, how was the day? And I was like, it’s a question you can hardly answer, but I’m not exaggerating by saying is the best work day I have ever had in my entire life, bar none. And it didn’t have to be that way. A lot of things went right for us all to have that experience, and I’m sure everybody in that room went home afterwards with that same feeling. I can’t believe that I just did that, and it was work. It was my literal job to be there. What a gift.
+
+CHRISTIAN: Padi, I was wondering if you were taking notes during that whole time.
+
+PADI: I did start with notes, but at a certain point, I just sort of turned it over to the moment.
+
+CHRISTIAN: Yeah.
+
+PADI: How could you not? You know, just the privilege of being in the room and having spent a career dreaming about something like this and hearing about what it was like back then and then to have the moment of it’s actually happening now. It’s happening right now. And it’s our moment. It’s this generation’s moment. It’s not going back and doing the old thing again. It’s something completely different and modern and Moon joy. So, yeah, I don’t know. I think I did my job, but also I made sure that I didn’t miss the moment. And I think a lot of people are in that same boat, and I’m so happy that everybody that worked so hard got to experience such—I don’t know, joy.
+
+JACOB: Yeah. So in our series leading up to launch, one of the scientists you heard from was Kelsey Young. She’s the lunar science lead for Artemis II, and she had the very visible job of being in the Flight Control Room as the astronauts flew around the moon. The NASA term for this is “on console”. Kelsey was one of those people wearing a headset in that very intense mission control room—like the kind you see in the movies—and she guided the astronauts through their lunar science observations.
+
+KELSEY: I got home—again, as we sit here, I got home like nine days ago. Really enjoyed some time with my family at home, but it’s definitely like a little hard to process. I don’t think I really, like, actually, really looked too much at my phone during the mission, because obviously I was pretty locked in on what myself and my team were doing, so I’ve been able to catch up a little bit on probably what other folks were looking at during the mission. And honestly, it’s just brought me so much joy and happiness, seeing other people’s joy and happiness. So that has really helped me continue to feel the Moon joy and continue to feel like the positivity that, you know, not just the Artemis II team but the whole world experienced during that time.
+
+JACOB: Like, what have you seen from other people that makes you happy?
+
+KELSEY: I didn’t get to see really any of the social media content from during the mission, so I got a lot of laughs, like taking a look at catching up on some of the social media posts. Also, just like the outpouring from all over the world, frankly, of people feeling so happy and positive and inspired just by looking at a group of people doing what we were able to do. I’ve been so fortunate to get—you know, I’ve received a bunch of emails from people all around the world just saying how excited they were to watch not just the mission but specifically the science and the Moon components of the mission. And frankly, every time I get an email, it makes me a little emotional still, just to see the positivity and the support. I mean, how often are so many people so united by something so positive and inspirational?
+
+JACOB: So when the astronauts flew around the Moon, you were on console—that is, you were in that famous mission control room. You were talking to the astronauts during that time. And I know that you had prepared for this, like, forever. I know you had simulated parts of this. What did it actually feel like to be in that room, like, talking to the Moon for real?
+
+KELSEY: You know, I don’t—I honestly don’t have a great answer, because every time I kind of start to think about it and, like, process it in any way, my internal brain monologue just starts screaming in excitement. So it’s hard for me to actually put that into words. But I mean, even just—even being in the world at all when that was going on would have been inspirational. Being involved in any, you know, tiny, tiny part of the mission would have been, like, absolutely inspirational and, you know, kind of like a life moment for me. Being in one of our science back rooms would have been transformative, let alone getting to actually, you know, speak to the crew at any point as they were doing a thing that to me as a scientist meant so much but also me as a citizen of this planet meant so much. It’s almost like a hazy dream at this point. It takes me actually playing the audio back, or like looking at pictures, to even believe that I was so fortunate enough to be able to support the mission in that way.
+
+JACOB: You spent a lot of time and energy training the astronauts to be geologists. How’d they do?
+
+KELSEY: Oh my gosh, they did so well. I cannot say enough. The science—you know, the geology, the observations they were able to provide on behalf of our lunar science team—you know, had the entire science team just positively vibrating with joy and energy. I mean, the training team put in so much effort, and the crew put in so much effort. And I’m so grateful that the world got to see it. And I’m really grateful that the science community will have this data set for so many, you know, years and years to come.
+
+JACOB: Can you say more about the vibe of the science team, I guess? I know that the scientists were all kind of together in back rooms. So you’re like the scientist or one of the few scientists in the Flight Control Room, but you’re describing in the broadcast, you’re telling the astronauts like, “Oh, thank you for that description. I saw fist pumps.” Or, I think at one point you said, “I literally saw people jumping up and down with joy in the in the back rooms.” What was that like? Like, what were you feeling?
+
+KELSEY: Well, I was feeling FOMO a little bit. [Laughter] So at the console, at the Science Officer console, we have a monitor set up right next to us. I mean, I could see and I know these people so well. I mean, I’ve been working with, you know, this lunar science team for so long now, but also some of the individuals on the team I have worked with my entire career, like decades, and so I’ve gotten to know body language pretty well. And I feel like I could really read a lot of what they were feeling and experiencing, even like, you know, the backs of their heads and stuff, if that was the view I had of them. They worked so hard. Like they really worked so hard, both before the mission and during the mission, but they were so happy about it. And they were just like, so full of joy. Oftentimes after my shift, I would go up to the SER for an hour or so, and the day after the flyby, I went up there after the shift, and they were having a science discussion. So they were really getting into the meat of, oh, we heard these crew members describe this, like, let’s get into the meat of the science. And it was like they were kids in a candy store with actual scientific discussion. It was so awesome, for lack of a better word. Like, these are people that are, you know, so, so, so excellent at what they do, and yet, this is just like fun for them, as well as hard work.
+
+JACOB: This is going to be probably an impossible question, but it’s my job to ask it anyway. Has there been like, one moment or one experience or one photograph or one radio message from the astronauts that has just stuck with you more than the others?
+
+KELSEY: For me, it’s kind of—it’s a lot of very little moments stuck together, like, almost like popcorn popping in a bowl kind of thing. When I was on my plane ride back to the D.C. area from Houston, I just opened my computer and typed like, words. Just like little blurbs, not sentences. Just kind of like thoughts and memories, which I’m actually grateful for, right? It’s not one moment. It’s like this potpourri of all these different moments. There were certainly moments in the—you know, in mission control, in that front room, that will stay with me for the rest of my life, I’m confident. And then just getting to see the pictures as they came down. I was sleeping generally when the images came down, so I would see them after everybody else. Like, literally, I rolled over the morning after the flyby, and I saw the photos that we’ve now all seen a million times for the first time, literally, on social media. But just getting to experience the joy, getting to experience like the trust and teamwork with the team on the ground, and getting to hear the crew’s voices and the wonder and passion in their voices were pretty amazing.
+
+JACOB: So I want to show you a post that I saw on social media. I gather that maybe you’ve seen this.
+
+KELSEY: Yes, I have seen it.
+
+JACOB: Will you—
+
+KELSEY: “Science lady is excited.”
+
+JACOB: Yeah. Describe—for people who can’t see this, describe what we’re looking at.
+
+KELSEY: This is one of the couple that I actually saw during the mission itself. It’s a picture of me with a ridiculous expression on my face, and it says, “Science lady is excited,” which is hilarious, objectively hilarious. A few people have called me “science lady” since, and I’m like, I’m here for that. I’m all in on that moniker. And it was truly genuine shock. That is unfiltered Kelsey emotion on that face. I have been told for my whole life that I have a very expressive face and that it’s impossible for me to hide what I’m thinking. I tried really hard during the mission, just because, you know that room is a serious room, as it should be.
+
+JACOB: Sure.
+
+KELSEY: And I think I was doing pretty well during the flyby, even though my inner Kelsey face was making that face the whole time. But I just lost it.
+
+JACOB: Why do you think this mission captured so much attention? Like, why do you think people who aren’t normally paying attention to NASA latched onto this one?
+
+KELSEY: First I think it was the crew and how good they were at bringing us all with them. I know from hearing them talk before the mission, they worked really hard at that. But it also seemed like—again, this is more me catching up sort of after the fact than experiencing it, you know, during the mission—but I think that a lot of the comments I saw were just people being excited and inspired by a group of, you know, really competent people from a wide variety of backgrounds, uniting to do something that clearly was very hard and succeeding. And doing it with smiles on their face and communicating about it. I also think they saw emotion from everybody. They saw emotion from the crew. I mean, the crew was very clearly—you know, you saw them cry, you saw them hug, you saw them be human beings. And so people could see themselves, you know, which is just so inspiring. So I just—I hope we can capitalize on this forward momentum and this spirit of unity that we’re all feeling about this.
+
+[Music: Resonate by Jay Price]
+
+JACOB: Just on a personal note, I’ve been blown away by how captivating Artemis II has been for so many people. You know, during the mission, I was reading comments on the internet and social media of people who said that they were playing NASA’s live stream basically 24/7, sometimes even when they went to sleep. I saw people treating it like a TV show, and they just want to know when the next season is coming out. And so many people have latched on to the concept of Moon joy, inspired by the warmth and skill of people involved in this mission—not just the astronauts but the many, many people who made this mission possible.
+
+When we interviewed the astronauts before the mission, there was this one thing that Jeremy Hansen said that stuck with me. He said—and this is a quote—”I do hope that the globe will pause when there are humans who have left the planet and are on the far side of the Moon. I hope that we all pause during that timeframe. I think that would be good for us as a human race.” And you know, at the time, to be honest, I don’t know if I really believed that that would happen. But I have been overwhelmed by just how many people did pause, and now hopefully they see both the Moon and Earth, our home planet, in a new way. And it’s just been a huge privilege to be a teeny, tiny part of sharing that story.
+
+PADI: We have so much to thank those four astronauts for, the way that they shared themselves with us so openly and, like you said, so warmly. But some of that’s just who they are. They are artists and poets and philosophers and teammates, and you name it—parents. And they just they filled so many roles. I don’t know if we can ever thank them enough for being that awesome on that mission. But the same goes for every person that had a role in making this a success. The launch teams, the operations, the recovery teams, the science team, the science officers. You know, Capcom, everybody who was communicating with them the whole way. Their families. The country, the world that followed along. How do you thank those people enough?
+
+[Music: Ever Onward by Jonathan Elias and David Ashok Ramani]
+
+So very thankful at the end of this, which is just the beginning of what’s coming, and I’m really looking forward to what we can do next.
+
+JACOB: Yeah. Go Artemis II.
+
+PADI: Go Artemis II. Go Artemis III. Go Artemis IV, V, VI, VII, and beyond.
+
+[Music: Inner Peace by JC Lemay]
+
+JACOB: This is NASA’s Curious Universe, an official NASA podcast. You can find our whole Artemis II series at nasa.gov/artemispodcast. Again: nasa.gov/artemispodcast.
+
+Our Artemis II series was written and produced by Christian Elliott and me, Jacob Pinter.
+
+Our executive producer is Katie Konans. Wes Buchanan designed the show art for this series. Music for the series comes from Universal Production Music.
+
+We had support throughout this series from Rachel Kraft, Lisa Allen, Lora Bleacher, Brandi Dean, Courtney Beasley, Amber Jacobson, and Thalia Patrinos. For this episode we had extra help from James Gannon, Toni Jaramillo, Molly Wasser, and Lonne Shekhtman.
+
+You can find transcripts for every episode of Curious Universe and explore NASA’s other podcasts at nasa.gov/podcasts.
+
+If you enjoyed this episode of NASA’s Curious Universe, let us know. Leave us a review wherever you’re listening right now. Maybe send a link to one of your friends. And you can follow NASA’s Curious Universe in your favorite podcast app to get a notification each time we post a new episode.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>bonus-artemis-ii</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/bonus-behind-the-scenes-of-artemis-ii-with-nasa-experts/</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-01</_collected_at_beijing>
+<_audio_verified>HEAD 跟随重定向得 audio/mpeg + 45325375 字节；整文件下载后 ffprobe 时长 1873.189 秒、字节数一致，ffmpeg 全量解码零报错</_audio_verified>
+<_child_clip_guid>urn:podcast:nasa.gov:curious-universe:bonus-artemis-ii:clip:sendoff:444.9-477.6</_child_clip_guid>
+</item>
+<item>
+<title>We can land safely with two — clip from Artemis II: How NASA's Moon Mission Returns to Earth (964.1-1017.3s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/artemis-ii-how-nasas-moon-mission-returns-to-earth/</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:artemis-ii-returns:clip:two-parachutes:964.1-1017.3</guid>
+<pubDate>Thu, 02 Apr 2026 12:22:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-artemis-ii-returns-clip-two-parachutes.mp3" length="818406" type="audio/mpeg"/>
+<itunes:duration>53</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】主持人追问应急方案：如果三具主伞没有全部打开怎么办？回收主任 Lili Villarreal 答：两具伞也能安全着陆，落水会缓冲冲击，这正是带三具伞的原因——冗余。随后她讲到另一重预案：如果再入后飞船没能捕获 GPS 定位，团队会按预先写好的回收决策标准（RDC）执行。
+【Reels 角度】只开两具伞也能安全着陆：Lili Villarreal 的应急逻辑——落水缓冲、三具伞的冗余、以及预先写好的回收决策标准。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; the episode transcript marks music cues (Supercluster, Eagle Eye, Dreamweaver, Focused Precision, No Room for Error, On Track, Background Story, Inner Peace) all outside this segment.
+【来源】https://www.nasa.gov/podcasts/curious-universe/artemis-ii-how-nasas-moon-mission-returns-to-earth/
+【采集日（北京时间）】2026-11-01
+【发布时间精度】exact（Inherits parent original publish date (Megaphone RSS Thu, 02 Apr 2026 12:22:00 -0000); clip itself was modelled 2026-11-01 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:artemis-ii-returns
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/artemis-ii-how-nasas-moon-mission-returns-to-earth/
+【片段】原集 964.1-1017.3 秒，53.2 秒，原声，未加 BGM，文件：clips/nasa-artemis-ii-returns-clip-two-parachutes.mp3]]></description>
+<content:encoded><![CDATA[Well, I'd like to ask you about some contingencies you're planning for, if that's OK. So one that you just mentioned, if all three parachutes don't open, like... We can land safely with two. OK. Yeah. But you know, it might be a little more of an impact to the crew on two parachutes, but we're landing in water, which should help some, but definitely that's why we have three, right? Contingency. We worried about, you know, making sure the vehicle, once it comes through entry, has acquired GPS because it really orients itself to the landing location that we told it to land. So that's why we are so far back, just in case it didn't acquire GPS, so that we don't accidentally go to where we shouldn't be. We develop what's called recovery decision criterias.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>artemis-ii-returns-clip-two-parachutes</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/artemis-ii-how-nasas-moon-mission-returns-to-earth/</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-01</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 53.200s / 818406 bytes (ffmpeg cut from verified full MP3 in this run, 2026-11-01); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-artemis-ii-returns-clip-two-parachutes.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-artemis-ii-returns-clip-two-parachutes.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-artemis-ii-returns-clip-two-parachutes-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-artemis-ii-returns-clip-two-parachutes-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:artemis-ii-returns</_parent_guid>
+<_parent_id>nasa-curious-artemis-ii-returns</_parent_id>
+<_clip_start_s>964.1</_clip_start_s>
+<_clip_end_s>1017.3</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>Artemis II: How NASA's Moon Mission Returns to Earth</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/artemis-ii-how-nasas-moon-mission-returns-to-earth/</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:artemis-ii-returns</guid>
+<pubDate>Thu, 02 Apr 2026 12:22:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:full-episode</category>
+<category>production:text-script</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION4339213471.mp3" length="36087401" type="audio/mpeg"/>
+<itunes:duration>1488</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】full-episode, text-script
+【摘要】Artemis II 如何回家：回收与着陆主任 Lili Villarreal 讲解溅落回收手册——猎户座飞船以约 25000 英里时速再入、11 具降落伞分阶段开伞、溅落后两小时内的危险品嗅探与“前廊”充气筏转移；以及 12 次海上回收演练（URT）、代号“Vader”的乘员舱测试件、50 份预先批准的回收决策标准，和她给乘组的最后一句话：“我们会在你们着陆时等你们。”
+【Reels 角度】只开两个伞也能安全着陆：回收主任 Lili Villarreal 的应急手册——三具主伞只开两具仍可落水、50 份预先批准的回收决策标准（RDC）、以及“我们会在你们着陆时等你们”的最后一句话。
+【许可证】Public domain：美国联邦政府作品（NASA 官方播客），一般不受版权保护
+【权利说明】可剪辑/再分发，不得暗示 NASA 背书；本集文字稿中标有音乐 cue（Supercluster、Eagle Eye、Dreamweaver、Focused Precision、No Room for Error、On Track、Background Story、Inner Peace，系列音乐来自 Universal Production Music）及 Artemis I 回收实况声、直升机声等 SFX，正式发布前需逐项再核片段内音乐；本批 ready-clip 已核为原声讲话段、未加 BGM，片段内无音乐 cue。
+【来源】https://www.nasa.gov/podcasts/curious-universe/artemis-ii-how-nasas-moon-mission-returns-to-earth/
+【采集日（北京时间）】2026-11-01
+【发布时间精度】exact（NASA Curious Universe Megaphone RSS: Thu, 02 Apr 2026 12:22:00 -0000）
+【子片段 GUID】urn:podcast:nasa.gov:curious-universe:artemis-ii-returns:clip:two-parachutes:964.1-1017.3]]></description>
+<content:encoded><![CDATA[PADI BOYD: You’re listening to NASA’s Curious Universe. I’m Padi Boyd.
+
+JACOB PINTER: And I’m Jacob Pinter. NASA is headed to the Moon!
+
+DERROL NAIL (NASA Communications): … and liftoff! The crew of Artemis II now bound for the Moon. Humanity’s next great voyage begins.
+
+PADI: As this episode comes out, four astronauts are in space on a test flight.
+
+Mission Control: Integrity, GPS Processing.
+
+REID WISEMAN: Outstanding, Stan. We see the same and we have a beautiful Moonrise. We’re headed right at it.
+
+PADI: Their mission is called Artemis II. They will fly around the Moon and set the stage for future Artemis missions when astronauts return to the Moon’s surface.
+
+VICTOR GLOVER: We are going for our families.
+
+CHRISTINA KOCH: We are going for our teammates.
+
+JEREMY HANSEN: We are going for all humanity.
+
+REID WISEMAN: All right Charlie, your Artemis II crew is go for launch. Full send.
+
+PADI: Artemis will also build upon the foundation we’ve laid and prepare us for the first human journey to Mars.
+
+[Music: Supercluster by Sergey Azbel]
+
+JACOB: On previous episodes of Curious Universe, we have introduced you to the astronauts and to some of the many people who make this mission possible. We have a lot more to come. Throughout the mission and after it ends, we will bring you NASA’s official coverage. You’ll hear highlights from launch, milestones as the astronauts check out their spacecraft, and details of the astronauts’ flight around the Moon.
+
+PADI: In this episode: get to know the team that will meet the astronauts when they return to Earth. After an approximately 10-day voyage, Artemis II will end when it splashes down in the Pacific Ocean and a ship picks up the astronauts and their spacecraft.
+
+So how does NASA stick the landing? We’ll go inside the playbook for the final step of the mission and hear how NASA brings the astronauts and their spacecraft back home.
+
+The final step of Artemis II is intense.
+
+[Music: Eagle Eye by Paul Richard O’Brien and Theo Maximilian Goble]
+
+After they fly past the Moon, astronauts Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen spend several days heading back to Earth. And then things happen fast.
+
+JACOB: Their spacecraft, which is called Orion, is traveling about 25,000 miles an hour when it begins to feel the effects of Earth’s atmosphere. That’s more than 40,000 kilometers an hour or fast enough to fly from New York to Tokyo in less than 20 minutes. Friction from the atmosphere creates temperatures of almost 5,000 degrees Fahrenheit. Superheated plasma builds up around the spacecraft within seconds.
+
+PADI: Orion has a heat shield that protects the capsule during re-entry. It’s designed to shed that intense heat, but as it sails through the atmosphere, Orion briefly loses communication and the astronauts see flashes of plasma dance outside the windows.
+
+JACOB: Right now you’re hearing what that actually sounded like on Artemis I. This is a recording from inside the spacecraft during a test flight of Orion with nobody on board. As Orion descends, a series of parachutes slows it down. There are 11 parachutes in all. They deploy in stages, at specific points during Orion’s descent.
+
+PADI: By the time it reaches Earth’s surface, Orion is traveling less than 20 miles an hour. And then the astronauts splash down in the Pacific Ocean. That’s when the recovery team takes over. NASA experts, working together with personnel from the US Navy, get the astronauts out of the water and onto a Navy ship waiting nearby.
+
+JACOB: Of course, the team only gets one shot to do this correctly, and the safety of the astronauts could be on the line. So the recovery team has trained extensively. They’ve done parts of this before. In the Artemis I mission in 2022, NASA flew an uncrewed spacecraft around the Moon and then recovered it from the ocean. There have been even more rehearsals leading up to Artemis II. Here is a little bit of what that training sounds like:
+
+[Music: Dreamweaver by Adam Richard Joseph Lyons, Paul James Visser, David James Ferguson, and Joseph Barboza III]
+
+[Unidentified voice talking over loudspeaker]
+
+CODY KELLY [INTERVIEW FROM URT-11]: I was on board for Artemis I recovery in which there was no crew, and the feeling was electric.
+
+ROB NAVIAS [ARTEMIS I SPLASHDOWN COVERAGE]: And there it is, high over the Pacific: Orion under its chutes, descending towards splashdown.
+
+CODY: You’re on this, the ship getting ready to recover a capsule that just went around the Moon.
+
+ROB: Orion in the perfect orientation for splashdown, just seconds away.
+
+CODY: And now it’s even more important, because these are our friends, our colleagues, and people that we’ve helped train and work with.
+
+ROB: One thousand feet. Good descent rate.
+
+CODY: I know several of the astronauts that are on this mission, so it’s much more personal. It’s really bringing our A-game to basically our Super Bowl of landing and recovery.
+
+ROB: 500 feet.
+
+CODY: This crew and this team has been working for over a decade to perfect those processes and those techniques, and they should know that when they come back from the Moon on Artemis II that they’re going to be safely recovered.
+
+ROB: Splashdown.
+
+[Sound of cheers from Artemis I recovery]
+
+[Sound of helicopters from URT-10]
+
+CODY: Trust in us and know that you’re in good hands.
+
+ROB: From Tranquility Base to Taurus-Littrow to the tranquil waters of the Pacific, the latest chapter of NASA’s journey to the Moon comes to a close. Orion back on Earth.
+
+Unidentified voices from URT-10: We are Artemis!
+
+PADI: Those voices you heard were Rob Navias from NASA Communications, narrating splashdown from the uncrewed Artemis I mission in 2022, and Cody Kelly, who works in NASA’s Search and Rescue Mission Office. Cody was speaking during a rehearsal called an Underway Recovery Test, or URT in NASA jargon.
+
+JACOB: There have been 12 of these tests, each time getting a little more complicated. To make things realistic, NASA even built a stand-in of the Orion capsule. It floats in the ocean, and NASA can test it like the real thing. That stand-in is officially called the Crew Module Test Article. The recovery process takes a huge team effort, and I wanted to learn more about NASA’s plan from the leader of that team.
+
+LILI VILLARREAL: So my name is Liliana Villarreal. I go by Lili. Now if you’re really truly good at saying it in Spanish, “Villarreal.”
+
+[Music: Focused Precision by Paul Richard O’Brien and Theo Maximilian Goble]
+
+JACOB: Lili is NASA’s landing and recovery director for Artemis II. Her goal is clear: get the astronauts and Orion back safely. Now, we’re going to get into the details about how NASA plans to do that, but when managing those details is your responsibility, Lili says it weighs on you.
+
+LILI: I don’t think I’m going to sleep the day before landing. It’s just the nature of the job. You’re just so worried about everything and you want to make sure, “Did I do this? Is the equipment ready? Are the people ready?” But you know it just comes with the job. But it makes the job exciting.
+
+PADI: Lili has worked at NASA for almost two decades. She’s worn many different hats, but she actually didn’t seek out the job of recovery director. For Artemis I, she was a deputy on the team that puts together the rocket and gets it ready for launch. And then, just a couple of weeks before Artemis I launched in 2022, her boss was looking for a new recovery director.
+
+LILI: Out of the blue just asked me, “Hey can you do this job?” I’m like, “What do you mean? I’m really happy with my job.” And, you know, I had to take a good week to decide whether I wanted the job or not. It is more responsibility than what I had, and second of all is so much travel involved with this job and the responsibility of rescue, this time with crew. Artemis I was a little different. You just have to recover the vehicle. Artemis II and beyond, we’re not just recovering the vehicle, we are also getting the crew from when they come back from space. So it was a daunting decision, and I had to talk it over with my family because of all the travel that would be involved. And it was probably the best decision. I really, really truly love this job. This job has been one of the funnest, hardest jobs I’ve had at NASA.
+
+JACOB: Lili is going to walk us through some of the questions that make this a fun, hard job. Her team has a playbook filled with Plan Bs and Plan Cs. NASA calls these contingencies: What happens if the astronauts abort the mission right after launch? What happens if they land off course? What happens if they can’t open the hatch and they’re stuck in the spacecraft?
+
+Lili has to have an answer for all of these questions. But let’s start with Plan A.
+
+[Music: No Room for Error by Paul Richard O’Brien and Theo Maximilian Goble]
+
+PADI: The recovery team is based in San Diego. Orion will be aiming for the Pacific Ocean. Once the Artemis II mission managers determine exactly where it will land, the recovery team sails to the landing area on a Navy ship.
+
+JACOB: There is a complex choreography, including teams of small boats, open-water divers from the Navy, and four helicopters circling the area.
+
+LILI: Basically about two hours before splashdown, all of our assets are now in the water. The helicopters also will be in the air about one hour before. The coolest thing I think is those eight minutes, the last eight minutes before it splashes down are the most crazy time and so much stuff is happening.
+
+PADI: As Orion gets closer, the recovery team tracks its location. Two of the helicopters have special imaging equipment. That helps the recovery team keep an eye on the parachutes. To release the first stages of parachutes, Orion basically fires them out of a cannon. As the parachutes come out, so does some of the material packed with them. For example, the bags the parachutes were packed in fall about 20,000 feet into the ocean.
+
+JACOB: The recovery team has to be careful. They need to stay out of the way of that debris. As Orion makes its final approach, three orange-and-white parachutes help it make a soft landing. Also, Orion has GPS, although the signal will get knocked out by superheated plasma, and it will have to be reacquired. So Lili’s team should have real-time information about its location.
+
+PADI: By the time Orion lands, the divers and helicopters will be about two miles away.
+
+LILI: At the time it splashes down, we actually wait a little bit because there’s a lot of debris that gets jettisoned as part of the sequence of opening up all the parachutes and slowing the vehicle down. That debris is very dangerous to helicopters, and also personnel on the ground. So we have to be at a position far enough from the splashdown site so that debris doesn’t fall on us. We calculate where that—how far that distance is based on weather, because the winds affect how the debris falls down.
+
+PADI: Next the recovery team needs to make sure it’s safe to approach Orion. They call this a hazard assessment. Orion’s cooling system uses ammonia. You don’t want to breathe that in. And there could be other dangerous chemicals in the air too.
+
+JACOB: The recovery team measures the air quality around the spacecraft. They actually call this a sniff test. After crossing off a few other items on the checklist, it’s time to give the astronauts their first fresh air in about 10 days.
+
+LILI: So now we know that we can go ahead and open the hatch to go inside and start doing medical assessments on the crew. And if everything’s good, everybody gets a thumbs up, alright, let’s go ahead and egress the crew. While the medical doctors are inside the capsule assessing the crew, the Navy divers are outside preparing for the crew egress.
+
+JACOB: “Egress” is just the word NASA uses for “getting the astronauts out of there”. Space does weird things to human bodies. You can learn more about that—and how Artemis II will study the effects of deep space on astronauts—in another episode of this series. You can find that in your podcast feed.
+
+[Music: On Track by Adam Richard Joseph Lyons and Robin James Twelftree]
+
+PADI: As they re-adjust to Earth’s gravity, it may be difficult for the astronauts to walk on their own, let alone climb out of a spacecraft bobbing in the ocean. But Lili’s team is there to help. In front of Orion’s hatch, they pop open an inflatable raft called the front porch. That’s where the astronauts wait for their ride back to the ship floating nearby.
+
+LILI: So now we’ve removed this crew. Now they’re sitting in the front porch. You know, they’re in their suits. We give the go to go ahead and hoist them on the helicopters. And once at the ship, the medical team will meet the crew, do their assessment and then take them to the med bay for a final checkout. And basically the whole entire crew recovery part is done. And now we’re working on recovering the vehicle.
+
+PADI: Lili’s final task is to bring back Orion too. And this is where the Navy really flexes some muscle.
+
+JACOB: The ship at the center of this operation has a compartment called a well deck. The well deck is sort of like a garage inside the ship that can carry other vessels. Operators attach a winch to Orion and slowly reel it in. Once Orion is safely inside the ship, the job is done. It’s time to head home.
+
+LILI: So it should be a quick trip back to San Diego. We probably could get there a few hours after we get everybody on board, so we’ll see. You know, we never know where we’re going to land. It’s all up to the based on the day of landing and the weather.
+
+JACOB: So of that process, what is the most challenging part? Like, is there a step in there where you’re like, this one’s tricky?
+
+LILI: I think the biggest step for me that I’m going to be more worried about, making sure that that we saw three parachutes. If we don’t see three parachutes, there’s a lot of contingency events that we’re going to be doing. The second one is that hazard assessment. Are we good? Is the vehicle safe for us to approach it? If it’s not, then we have really a lot more other work to go do. The third one is, did that hatch open like we expected it to open? Or is the hatch not working, but we have an alternate means to get into the capsule? So I think those are by my three biggest milestones. Once I see that crew in the helicopter it’s going to be quite the sigh of relief, you know.
+
+JACOB: Well I’d like to ask you about some contingencies you’re planning for if that’s OK. So one that you just mentioned, if all three parachutes don’t open, like …?
+
+LILI: We can land safely with two.
+
+JACOB: OK.
+
+LILI: Yeah. But you know, it might be a little more of an impact to the crew on two parachutes, but we’re landing in water, which should help some. But definitely that’s why we have three, right? Contingency. We worried about, you know, making sure the vehicle, once it comes through entry has acquired GPS, because it really orients itself to the landing location that we told it to land. So that’s why we are so far back, just in case it didn’t acquire GPS, so that we don’t accidentally go to where we shouldn’t be. We develop what’s called recovery decision criterias. So recovery decision criterias go in effect in case of an anomaly or an issue that we anticipate could possibly happen, and the beauty about RDCs is we work those ahead of time. We in NASA prepare for the worst, but, you know, we minimize the risk so that everything goes nominally. But you always want to prepare—over, over-prepare, and that’s what our RDCs are. They’re approved ahead of time. Before we land we have all of these RDCs. We’re probably going to have about 50 of them where, if this happens, this is what we’ll do. And so—and we train for all those scenarios, and just to make sure that we’re ready for what comes out of. So, yeah, contingency preparation is a big part of our job before landing. If everything goes nominally, it’s pretty a boring operation, and we want it to be boring because we practice and practice and practice, and if anything goes well, it’s like, Oh, wow. It should be boring. Everything should go well. We love boring.
+
+JACOB: How are you testing for the real thing? How are you simulating it?
+
+LILI: That’s a good question. I think we’re very lucky in the landing and recovery team that you know we had the backing to make sure that we test it like you fly. And we have a capsule that we built. It’s called the CMTA, Crew Module Test Article. So the CMTA looks like—and we effectively call her Vader.
+
+JACOB: Ooh.
+
+LILI: Yes. We actually did an actual ceremony where we, you know, broke a champagne glass because, you know, we wanted the good luck, because she is technically a vessel, and we call her “she”, even though it’s called Vader, because they’re all have to be females. So anyways, CMTA is our baby, and we do a lot of Underway Recovery Tests with the military. We literally simulate the exact thing that we will do. We go out for seven days and we practice, practice, practice. There is a lot we do to make sure that we’re doing it as realistic as possible. Couple of things that we can’t do is the parachutes coming down. Plus we don’t know what the wave conditions are going to be, but we try to simulate as much as we possibly can.
+
+JACOB: I interviewed each of the four crew members, and I asked each of them to shout out a team that they’ve worked with that they especially appreciate. And Victor Glover said specifically the recovery team.
+
+LILI: Aw.
+
+JACOB: And his exact words were, that’s “a big dang deal” to get them home safely.
+
+LILI: Oh, it is. It is. This is why I had to think about taking this job. The responsibility—no matter what it is a team effort, but I am the one ultimately responsible for it all. I’m the one that eventually has to stand up and say why my team failed or why didn’t. So it’s really—and I’ll tell you, I’ve never seen such a great team. Everybody loves the job. Everybody wants to be there. Everybody sacrifices. We are—these are very long days, long hours, physically demanding days for us. The can-do attitude of everybody in this team is amazing. I love this team. And when you have people who love what they’re doing and have this can-do attitude, it’s just, you know, by osmosis, it spreads to everybody. But really appreciate you telling me that. We love the team, and I’m glad to hear that.
+
+JACOB: Is it stressful having that responsibility?
+
+LILI: Yes. I think I have aged significantly. I have more white hair. Yes. This is—I will tell you before URT-10, I barely slept every night because I didn’t know if we were going to be successful or not. And once I got through 10—10 was really hard, because this is the first time we were doing a lot of first-time operations. And then 11 was the first time the crew was coming. And I’m just one of those people that always thinks about what’s the worst that could possibly happen, which is a good thing, because it prepares me for making decisions real quick. Decision velocity is so important in this job.
+
+JACOB: Do you remember whenever it became clear to you, “NASA’s going back to the Moon, and I’m going to be part of it”? Was there, like a moment that it stuck in your brain?
+
+LILI: You know, I worked space station for the longest time, and so I was a space station person. I kind of came in about a couple of years before we started processing Artemis I. I’m an ops person through and through. I like working with the flight hardware, and I’m not a patient person. So it took a while to get to the good parts of operations where it’s like, Oh my god, we have everything here, and we’re starting to put everything together. And every day is a different day. Every day we have to figure out, OK, what happened? How are we going to solve it? That’s the fun part about being an engineer out here. And I think Artemis I was huge in getting people to see the progress and getting behind. And when Artemis II launches with people, and, you know, you start getting those live feeds of the crew, you know, showing the Moon behind them, through the window, they’re just going to be even more excited. So we’re all rooting for every test that happens. I even thought about getting a[n] Artemis tattoo.
+
+JACOB: Yeah?
+
+LILI: You know, I don’t have tattoos, but only because I want one, and I never have found something that I would be happy seeing on my body for the rest of my life. And then I’m like, Oh my God, I really love the logo. And because I love what I’m doing. I love this program. I think it’s an amazing thing that we’re doing for humanity, because it’s going to better humanity, and it’s a stepping stone to eventually us living in other worlds. And I get to be part of that. You get to be part of that. How cool is that?
+
+[Music: Background Story by Peter Larsen]
+
+JACOB: If you could give the crew one last message—like they get in Orion, you get to whisper something in their ear. What would you tell them?
+
+LILI: That’s an easy one. I want to tell them that, you know, we’ll be there when you land. We’ll be waiting for you.
+
+[Music: Inner Peace by JC Lemay]
+
+PADI: This is NASA’s Curious Universe—an official NASA podcast. Our Artemis II series was written and produced by Christian Elliott and Jacob Pinter. Our executive producer is Katie Konans. Wes Buchanan designed the show art for this series. Music for the series comes from Universal Production Music.
+
+JACOB: We had support throughout this series from Rachel Kraft, Lisa Allen, Lora Bleacher, Brandi Dean, Courtney Beasley, Amber Jacobson, and Thalia Patrinos. For this episode, we had additional help from Madison Tuttle and Kenna Pell. You can find transcripts for every episode of Curious Universe and explore NASA’s other podcasts at nasa.gov/podcasts.
+
+If you enjoyed this episode of NASA’s Curious Universe, let us know. Leave us a review wherever you’re listening right now. Maybe send a link to one of your friends. And you can follow NASA’s Curious Universe in your favorite podcast app to get a notification each time we post a new episode.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>artemis-ii-returns</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/artemis-ii-how-nasas-moon-mission-returns-to-earth/</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-01</_collected_at_beijing>
+<_audio_verified>HEAD 跟随重定向得 audio/mpeg + 36087401 字节；整文件下载后 ffprobe 时长 1488.274 秒、字节数一致，ffmpeg 全量解码零报错</_audio_verified>
+<_child_clip_guid>urn:podcast:nasa.gov:curious-universe:artemis-ii-returns:clip:two-parachutes:964.1-1017.3</_child_clip_guid>
 </item>
 <item>
 <title>Coral Bleaching</title>

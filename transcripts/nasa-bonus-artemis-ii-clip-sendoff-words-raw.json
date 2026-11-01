@@ -1,0 +1,853 @@
+[
+  {
+    "start": 0.0,
+    "end": 1.08,
+    "text": "What did he say to them?",
+    "words": [
+      {
+        "word": " What",
+        "start": 0.0,
+        "end": 0.12,
+        "probability": 0.751571536064148
+      },
+      {
+        "word": " did",
+        "start": 0.12,
+        "end": 0.2,
+        "probability": 0.9852767586708069
+      },
+      {
+        "word": " he",
+        "start": 0.2,
+        "end": 0.34,
+        "probability": 0.9927409291267395
+      },
+      {
+        "word": " say",
+        "start": 0.34,
+        "end": 0.52,
+        "probability": 0.9947946667671204
+      },
+      {
+        "word": " to",
+        "start": 0.52,
+        "end": 0.64,
+        "probability": 0.9900383949279785
+      },
+      {
+        "word": " them?",
+        "start": 0.64,
+        "end": 1.08,
+        "probability": 0.9930211901664734
+      }
+    ]
+  },
+  {
+    "start": 1.98,
+    "end": 3.44,
+    "text": "I don't wanna romanticize it.",
+    "words": [
+      {
+        "word": " I",
+        "start": 1.98,
+        "end": 1.98,
+        "probability": 0.05584920197725296
+      },
+      {
+        "word": " don't",
+        "start": 1.98,
+        "end": 2.26,
+        "probability": 0.8531084954738617
+      },
+      {
+        "word": " wanna",
+        "start": 2.26,
+        "end": 2.44,
+        "probability": 0.16646398603916168
+      },
+      {
+        "word": " romanticize",
+        "start": 2.44,
+        "end": 3.16,
+        "probability": 0.9601051807403564
+      },
+      {
+        "word": " it.",
+        "start": 3.16,
+        "end": 3.44,
+        "probability": 0.9960421323776245
+      }
+    ]
+  },
+  {
+    "start": 3.8,
+    "end": 5.46,
+    "text": "Once they have their helmets and gloves on,",
+    "words": [
+      {
+        "word": " Once",
+        "start": 3.8,
+        "end": 3.96,
+        "probability": 0.8917431235313416
+      },
+      {
+        "word": " they",
+        "start": 3.96,
+        "end": 4.26,
+        "probability": 0.9932101368904114
+      },
+      {
+        "word": " have",
+        "start": 4.26,
+        "end": 4.42,
+        "probability": 0.9915791749954224
+      },
+      {
+        "word": " their",
+        "start": 4.42,
+        "end": 4.58,
+        "probability": 0.9914970993995667
+      },
+      {
+        "word": " helmets",
+        "start": 4.58,
+        "end": 4.82,
+        "probability": 0.9917963743209839
+      },
+      {
+        "word": " and",
+        "start": 4.82,
+        "end": 4.98,
+        "probability": 0.9923517107963562
+      },
+      {
+        "word": " gloves",
+        "start": 4.98,
+        "end": 5.2,
+        "probability": 0.9985045194625854
+      },
+      {
+        "word": " on,",
+        "start": 5.2,
+        "end": 5.46,
+        "probability": 0.9951712489128113
+      }
+    ]
+  },
+  {
+    "start": 5.58,
+    "end": 8.0,
+    "text": "they have basically their earplugs, kind of,",
+    "words": [
+      {
+        "word": " they",
+        "start": 5.58,
+        "end": 5.6,
+        "probability": 0.9765433669090271
+      },
+      {
+        "word": " have",
+        "start": 5.6,
+        "end": 5.76,
+        "probability": 0.9849543571472168
+      },
+      {
+        "word": " basically",
+        "start": 5.76,
+        "end": 6.88,
+        "probability": 0.707518458366394
+      },
+      {
+        "word": " their",
+        "start": 6.88,
+        "end": 7.12,
+        "probability": 0.9359055757522583
+      },
+      {
+        "word": " earplugs,",
+        "start": 7.12,
+        "end": 7.58,
+        "probability": 0.9240148067474365
+      },
+      {
+        "word": " kind",
+        "start": 7.66,
+        "end": 7.8,
+        "probability": 0.9853512048721313
+      },
+      {
+        "word": " of,",
+        "start": 7.8,
+        "end": 8.0,
+        "probability": 0.998435914516449
+      }
+    ]
+  },
+  {
+    "start": 8.12,
+    "end": 9.52,
+    "text": "and then they have a cap that goes over that,",
+    "words": [
+      {
+        "word": " and",
+        "start": 8.12,
+        "end": 8.28,
+        "probability": 0.9939278364181519
+      },
+      {
+        "word": " then",
+        "start": 8.28,
+        "end": 8.4,
+        "probability": 0.9826769232749939
+      },
+      {
+        "word": " they",
+        "start": 8.4,
+        "end": 8.5,
+        "probability": 0.9909249544143677
+      },
+      {
+        "word": " have",
+        "start": 8.5,
+        "end": 8.64,
+        "probability": 0.997789740562439
+      },
+      {
+        "word": " a",
+        "start": 8.64,
+        "end": 8.72,
+        "probability": 0.9875009059906006
+      },
+      {
+        "word": " cap",
+        "start": 8.72,
+        "end": 8.88,
+        "probability": 0.9981081485748291
+      },
+      {
+        "word": " that",
+        "start": 8.88,
+        "end": 9.02,
+        "probability": 0.996418833732605
+      },
+      {
+        "word": " goes",
+        "start": 9.02,
+        "end": 9.16,
+        "probability": 0.9993712306022644
+      },
+      {
+        "word": " over",
+        "start": 9.16,
+        "end": 9.32,
+        "probability": 0.9957329630851746
+      },
+      {
+        "word": " that,",
+        "start": 9.32,
+        "end": 9.52,
+        "probability": 0.9954328536987305
+      }
+    ]
+  },
+  {
+    "start": 9.6,
+    "end": 10.88,
+    "text": "and then their helmets, and they just,",
+    "words": [
+      {
+        "word": " and",
+        "start": 9.6,
+        "end": 9.68,
+        "probability": 0.9929110407829285
+      },
+      {
+        "word": " then",
+        "start": 9.68,
+        "end": 9.8,
+        "probability": 0.9933005571365356
+      },
+      {
+        "word": " their",
+        "start": 9.8,
+        "end": 9.92,
+        "probability": 0.9745662212371826
+      },
+      {
+        "word": " helmets,",
+        "start": 9.92,
+        "end": 10.18,
+        "probability": 0.9939259886741638
+      },
+      {
+        "word": " and",
+        "start": 10.38,
+        "end": 10.48,
+        "probability": 0.9950959086418152
+      },
+      {
+        "word": " they",
+        "start": 10.48,
+        "end": 10.62,
+        "probability": 0.9898271560668945
+      },
+      {
+        "word": " just,",
+        "start": 10.62,
+        "end": 10.88,
+        "probability": 0.8877445459365845
+      }
+    ]
+  },
+  {
+    "start": 11.2,
+    "end": 14.08,
+    "text": "they aren't really able to hear really well.",
+    "words": [
+      {
+        "word": " they",
+        "start": 11.2,
+        "end": 11.32,
+        "probability": 0.9972743391990662
+      },
+      {
+        "word": " aren't",
+        "start": 11.32,
+        "end": 11.52,
+        "probability": 0.9979940056800842
+      },
+      {
+        "word": " really",
+        "start": 11.52,
+        "end": 11.74,
+        "probability": 0.9949210286140442
+      },
+      {
+        "word": " able",
+        "start": 11.74,
+        "end": 12.02,
+        "probability": 0.9995813965797424
+      },
+      {
+        "word": " to",
+        "start": 12.02,
+        "end": 12.4,
+        "probability": 0.9991651773452759
+      },
+      {
+        "word": " hear",
+        "start": 12.4,
+        "end": 13.48,
+        "probability": 0.9655231237411499
+      },
+      {
+        "word": " really",
+        "start": 13.48,
+        "end": 13.84,
+        "probability": 0.9913852214813232
+      },
+      {
+        "word": " well.",
+        "start": 13.84,
+        "end": 14.08,
+        "probability": 0.9995645880699158
+      }
+    ]
+  },
+  {
+    "start": 14.6,
+    "end": 17.52,
+    "text": "But, he said, before the helmets went on...",
+    "words": [
+      {
+        "word": " But,",
+        "start": 14.6,
+        "end": 14.82,
+        "probability": 0.9785643815994263
+      },
+      {
+        "word": " he",
+        "start": 14.94,
+        "end": 15.06,
+        "probability": 0.997718870639801
+      },
+      {
+        "word": " said,",
+        "start": 15.06,
+        "end": 15.24,
+        "probability": 0.9989991784095764
+      },
+      {
+        "word": " before",
+        "start": 15.96,
+        "end": 15.98,
+        "probability": 0.9701089859008789
+      },
+      {
+        "word": " the",
+        "start": 15.98,
+        "end": 16.22,
+        "probability": 0.9982534050941467
+      },
+      {
+        "word": " helmets",
+        "start": 16.22,
+        "end": 16.5,
+        "probability": 0.9868772029876709
+      },
+      {
+        "word": " went",
+        "start": 16.5,
+        "end": 16.7,
+        "probability": 0.9993436932563782
+      },
+      {
+        "word": " on...",
+        "start": 16.7,
+        "end": 17.52,
+        "probability": 0.7241117209196091
+      }
+    ]
+  },
+  {
+    "start": 17.52,
+    "end": 21.1,
+    "text": "I did give a little speech right when they got there,",
+    "words": [
+      {
+        "word": " I",
+        "start": 17.52,
+        "end": 17.72,
+        "probability": 0.9855636358261108
+      },
+      {
+        "word": " did",
+        "start": 17.72,
+        "end": 17.92,
+        "probability": 0.998036801815033
+      },
+      {
+        "word": " give",
+        "start": 17.92,
+        "end": 18.48,
+        "probability": 0.4021416902542114
+      },
+      {
+        "word": " a",
+        "start": 18.48,
+        "end": 18.66,
+        "probability": 0.9966236352920532
+      },
+      {
+        "word": " little",
+        "start": 18.66,
+        "end": 19.3,
+        "probability": 0.9984211921691895
+      },
+      {
+        "word": " speech",
+        "start": 19.3,
+        "end": 19.8,
+        "probability": 0.9354228973388672
+      },
+      {
+        "word": " right",
+        "start": 19.8,
+        "end": 20.4,
+        "probability": 0.9343838691711426
+      },
+      {
+        "word": " when",
+        "start": 20.4,
+        "end": 20.52,
+        "probability": 0.9982935786247253
+      },
+      {
+        "word": " they",
+        "start": 20.52,
+        "end": 20.64,
+        "probability": 0.996306300163269
+      },
+      {
+        "word": " got",
+        "start": 20.64,
+        "end": 20.8,
+        "probability": 0.9973536729812622
+      },
+      {
+        "word": " there,",
+        "start": 20.8,
+        "end": 21.1,
+        "probability": 0.9957041144371033
+      }
+    ]
+  },
+  {
+    "start": 21.42,
+    "end": 22.26,
+    "text": "but that was the only thing.",
+    "words": [
+      {
+        "word": " but",
+        "start": 21.42,
+        "end": 21.58,
+        "probability": 0.9865810871124268
+      },
+      {
+        "word": " that",
+        "start": 21.58,
+        "end": 21.72,
+        "probability": 0.9989495873451233
+      },
+      {
+        "word": " was",
+        "start": 21.72,
+        "end": 21.82,
+        "probability": 0.9976840019226074
+      },
+      {
+        "word": " the",
+        "start": 21.82,
+        "end": 21.94,
+        "probability": 0.9983742237091064
+      },
+      {
+        "word": " only",
+        "start": 21.94,
+        "end": 22.04,
+        "probability": 0.9987357258796692
+      },
+      {
+        "word": " thing.",
+        "start": 22.04,
+        "end": 22.26,
+        "probability": 0.9984652996063232
+      }
+    ]
+  },
+  {
+    "start": 22.34,
+    "end": 22.82,
+    "text": "What'd you say?",
+    "words": [
+      {
+        "word": " What'd",
+        "start": 22.34,
+        "end": 22.54,
+        "probability": 0.7536317110061646
+      },
+      {
+        "word": " you",
+        "start": 22.54,
+        "end": 22.62,
+        "probability": 0.9841620922088623
+      },
+      {
+        "word": " say?",
+        "start": 22.62,
+        "end": 22.82,
+        "probability": 0.9986950755119324
+      }
+    ]
+  },
+  {
+    "start": 22.98,
+    "end": 24.54,
+    "text": "I said, you know, we may only be strapping",
+    "words": [
+      {
+        "word": " I",
+        "start": 22.98,
+        "end": 23.12,
+        "probability": 0.9919644594192505
+      },
+      {
+        "word": " said,",
+        "start": 23.12,
+        "end": 23.4,
+        "probability": 0.9995015859603882
+      },
+      {
+        "word": " you",
+        "start": 23.6,
+        "end": 23.66,
+        "probability": 0.4960932731628418
+      },
+      {
+        "word": " know,",
+        "start": 23.66,
+        "end": 23.74,
+        "probability": 0.9980425834655762
+      },
+      {
+        "word": " we",
+        "start": 23.84,
+        "end": 23.86,
+        "probability": 0.786069929599762
+      },
+      {
+        "word": " may",
+        "start": 23.86,
+        "end": 24.0,
+        "probability": 0.9938687682151794
+      },
+      {
+        "word": " only",
+        "start": 24.0,
+        "end": 24.14,
+        "probability": 0.9706446528434753
+      },
+      {
+        "word": " be",
+        "start": 24.14,
+        "end": 24.24,
+        "probability": 0.9919691681861877
+      },
+      {
+        "word": " strapping",
+        "start": 24.24,
+        "end": 24.54,
+        "probability": 0.9846838116645813
+      }
+    ]
+  },
+  {
+    "start": 24.54,
+    "end": 25.56,
+    "text": "the four of you in here today,",
+    "words": [
+      {
+        "word": " the",
+        "start": 24.54,
+        "end": 24.68,
+        "probability": 0.996663510799408
+      },
+      {
+        "word": " four",
+        "start": 24.68,
+        "end": 24.82,
+        "probability": 0.9750378131866455
+      },
+      {
+        "word": " of",
+        "start": 24.82,
+        "end": 24.94,
+        "probability": 0.9976707100868225
+      },
+      {
+        "word": " you",
+        "start": 24.94,
+        "end": 25.02,
+        "probability": 0.9990091323852539
+      },
+      {
+        "word": " in",
+        "start": 25.02,
+        "end": 25.14,
+        "probability": 0.9926376342773438
+      },
+      {
+        "word": " here",
+        "start": 25.14,
+        "end": 25.28,
+        "probability": 0.998594343662262
+      },
+      {
+        "word": " today,",
+        "start": 25.28,
+        "end": 25.56,
+        "probability": 0.9953332543373108
+      }
+    ]
+  },
+  {
+    "start": 25.58,
+    "end": 27.24,
+    "text": "but the hopes and dreams of generations",
+    "words": [
+      {
+        "word": " but",
+        "start": 25.58,
+        "end": 25.92,
+        "probability": 0.9980980753898621
+      },
+      {
+        "word": " the",
+        "start": 25.92,
+        "end": 26.08,
+        "probability": 0.9774351119995117
+      },
+      {
+        "word": " hopes",
+        "start": 26.08,
+        "end": 26.2,
+        "probability": 0.9980461597442627
+      },
+      {
+        "word": " and",
+        "start": 26.2,
+        "end": 26.38,
+        "probability": 0.9968768358230591
+      },
+      {
+        "word": " dreams",
+        "start": 26.38,
+        "end": 26.6,
+        "probability": 0.9985887408256531
+      },
+      {
+        "word": " of",
+        "start": 26.6,
+        "end": 26.8,
+        "probability": 0.9966984391212463
+      },
+      {
+        "word": " generations",
+        "start": 26.8,
+        "end": 27.24,
+        "probability": 0.9909164309501648
+      }
+    ]
+  },
+  {
+    "start": 27.24,
+    "end": 29.54,
+    "text": "are flying with you, this crew, this mission,",
+    "words": [
+      {
+        "word": " are",
+        "start": 27.24,
+        "end": 27.76,
+        "probability": 0.9840351939201355
+      },
+      {
+        "word": " flying",
+        "start": 27.76,
+        "end": 27.98,
+        "probability": 0.9963122010231018
+      },
+      {
+        "word": " with",
+        "start": 27.98,
+        "end": 28.16,
+        "probability": 0.9994612336158752
+      },
+      {
+        "word": " you,",
+        "start": 28.16,
+        "end": 28.4,
+        "probability": 0.9983672499656677
+      },
+      {
+        "word": " this",
+        "start": 28.56,
+        "end": 28.82,
+        "probability": 0.9862340688705444
+      },
+      {
+        "word": " crew,",
+        "start": 28.82,
+        "end": 29.04,
+        "probability": 0.998163640499115
+      },
+      {
+        "word": " this",
+        "start": 29.14,
+        "end": 29.22,
+        "probability": 0.9975734353065491
+      },
+      {
+        "word": " mission,",
+        "start": 29.22,
+        "end": 29.54,
+        "probability": 0.9986114501953125
+      }
+    ]
+  },
+  {
+    "start": 29.54,
+    "end": 31.02,
+    "text": "and we'll inspire dreamers for decades.",
+    "words": [
+      {
+        "word": " and",
+        "start": 29.54,
+        "end": 29.72,
+        "probability": 0.4111965596675873
+      },
+      {
+        "word": " we'll",
+        "start": 29.72,
+        "end": 29.82,
+        "probability": 0.3523001093417406
+      },
+      {
+        "word": " inspire",
+        "start": 29.82,
+        "end": 30.06,
+        "probability": 0.9732832908630371
+      },
+      {
+        "word": " dreamers",
+        "start": 30.06,
+        "end": 30.52,
+        "probability": 0.8930184841156006
+      },
+      {
+        "word": " for",
+        "start": 30.52,
+        "end": 30.66,
+        "probability": 0.9966931343078613
+      },
+      {
+        "word": " decades.",
+        "start": 30.66,
+        "end": 31.02,
+        "probability": 0.9980747699737549
+      }
+    ]
+  },
+  {
+    "start": 31.42,
+    "end": 32.66,
+    "text": "Good luck, and Godspeed, Artemis 2.",
+    "words": [
+      {
+        "word": " Good",
+        "start": 31.42,
+        "end": 31.48,
+        "probability": 0.9981933236122131
+      },
+      {
+        "word": " luck,",
+        "start": 31.48,
+        "end": 31.64,
+        "probability": 0.9925814867019653
+      },
+      {
+        "word": " and",
+        "start": 31.74,
+        "end": 31.78,
+        "probability": 0.9863876104354858
+      },
+      {
+        "word": " Godspeed,",
+        "start": 31.78,
+        "end": 32.16,
+        "probability": 0.792326420545578
+      },
+      {
+        "word": " Artemis",
+        "start": 32.24,
+        "end": 32.4,
+        "probability": 0.8668082356452942
+      },
+      {
+        "word": " 2.",
+        "start": 32.4,
+        "end": 32.66,
+        "probability": 0.3817634880542755
+      }
+    ]
+  }
+]
