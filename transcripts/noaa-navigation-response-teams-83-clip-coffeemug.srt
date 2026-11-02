@@ -1,0 +1,43 @@
+1
+00:00:00,000 --> 00:00:03,520
+How small of an object can you actually spot on the seafloor?
+
+2
+00:00:04,430 --> 00:00:08,490
+Are we talking about a shipping container or a coffee mug?
+
+3
+00:00:09,410 --> 00:00:12,230
+It kind of depends on the conditions that you're facing.
+
+4
+00:00:12,910 --> 00:00:17,310
+For our systems, they are very high quality, very accurate.
+
+5
+00:00:17,890 --> 00:00:20,330
+So a shipping container, very, very easy.
+
+6
+00:00:21,090 --> 00:00:25,750
+You'll have a very clear picture of exactly how the shipping container looks. Even if
+
+7
+00:00:25,750 --> 00:00:31,990
+it's deformed because of some type of pressure or it was struck, you'll be able to easily
+
+8
+00:00:31,990 --> 00:00:33,650
+see the wrinkles in the shipping container.
+
+9
+00:00:34,330 --> 00:00:38,290
+As far as a coffee mug, it might be a little shallow of water that we would need to operate
+
+10
+00:00:38,290 --> 00:00:40,810
+in to accurately get a good picture on that.
+
+11
+00:00:40,950 --> 00:00:46,110
+But yeah, we could detect something as small as a few inches in certain ideal circumstances.

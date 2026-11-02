@@ -1,0 +1,843 @@
+[
+ {
+  "start": 0.0,
+  "end": 2.32,
+  "text": "You get the tall ships and all of these guns.",
+  "words": [
+   {
+    "start": 0.0,
+    "end": 0.04,
+    "word": " You"
+   },
+   {
+    "start": 0.04,
+    "end": 0.2,
+    "word": " get"
+   },
+   {
+    "start": 0.2,
+    "end": 0.3,
+    "word": " the"
+   },
+   {
+    "start": 0.3,
+    "end": 0.54,
+    "word": " tall"
+   },
+   {
+    "start": 0.54,
+    "end": 0.86,
+    "word": " ships"
+   },
+   {
+    "start": 0.86,
+    "end": 1.14,
+    "word": " and"
+   },
+   {
+    "start": 1.14,
+    "end": 1.52,
+    "word": " all"
+   },
+   {
+    "start": 1.52,
+    "end": 1.7,
+    "word": " of"
+   },
+   {
+    "start": 1.7,
+    "end": 1.9,
+    "word": " these"
+   },
+   {
+    "start": 1.9,
+    "end": 2.32,
+    "word": " guns."
+   }
+  ]
+ },
+ {
+  "start": 2.88,
+  "end": 5.54,
+  "text": "But when the ship goes down and is spotting another vessel,",
+  "words": [
+   {
+    "start": 2.88,
+    "end": 3.12,
+    "word": " But"
+   },
+   {
+    "start": 3.12,
+    "end": 3.36,
+    "word": " when"
+   },
+   {
+    "start": 3.36,
+    "end": 3.52,
+    "word": " the"
+   },
+   {
+    "start": 3.52,
+    "end": 3.98,
+    "word": " ship"
+   },
+   {
+    "start": 3.98,
+    "end": 4.18,
+    "word": " goes"
+   },
+   {
+    "start": 4.18,
+    "end": 4.42,
+    "word": " down"
+   },
+   {
+    "start": 4.52,
+    "end": 4.6,
+    "word": " and"
+   },
+   {
+    "start": 4.6,
+    "end": 4.71,
+    "word": " is"
+   },
+   {
+    "start": 4.71,
+    "end": 4.82,
+    "word": " spotting"
+   },
+   {
+    "start": 4.82,
+    "end": 5.1,
+    "word": " another"
+   },
+   {
+    "start": 5.1,
+    "end": 5.54,
+    "word": " vessel,"
+   }
+  ]
+ },
+ {
+  "start": 6.69,
+  "end": 8.67,
+  "text": "the entire ship has to turn",
+  "words": [
+   {
+    "start": 6.69,
+    "end": 6.73,
+    "word": " the"
+   },
+   {
+    "start": 6.73,
+    "end": 7.25,
+    "word": " entire"
+   },
+   {
+    "start": 7.25,
+    "end": 7.63,
+    "word": " ship"
+   },
+   {
+    "start": 7.63,
+    "end": 7.99,
+    "word": " has"
+   },
+   {
+    "start": 7.99,
+    "end": 8.23,
+    "word": " to"
+   },
+   {
+    "start": 8.23,
+    "end": 8.67,
+    "word": " turn"
+   }
+  ]
+ },
+ {
+  "start": 8.67,
+  "end": 12.09,
+  "text": "because the guns are pointing out from the sides of it.",
+  "words": [
+   {
+    "start": 8.67,
+    "end": 9.39,
+    "word": " because"
+   },
+   {
+    "start": 9.39,
+    "end": 9.63,
+    "word": " the"
+   },
+   {
+    "start": 9.63,
+    "end": 9.85,
+    "word": " guns"
+   },
+   {
+    "start": 9.85,
+    "end": 10.01,
+    "word": " are"
+   },
+   {
+    "start": 10.01,
+    "end": 10.35,
+    "word": " pointing"
+   },
+   {
+    "start": 10.35,
+    "end": 11.11,
+    "word": " out"
+   },
+   {
+    "start": 11.11,
+    "end": 11.29,
+    "word": " from"
+   },
+   {
+    "start": 11.29,
+    "end": 11.41,
+    "word": " the"
+   },
+   {
+    "start": 11.41,
+    "end": 11.67,
+    "word": " sides"
+   },
+   {
+    "start": 11.67,
+    "end": 11.83,
+    "word": " of"
+   },
+   {
+    "start": 11.83,
+    "end": 12.09,
+    "word": " it."
+   }
+  ]
+ },
+ {
+  "start": 12.31,
+  "end": 14.93,
+  "text": "So you go forward, you turn, you fire.",
+  "words": [
+   {
+    "start": 12.31,
+    "end": 12.53,
+    "word": " So"
+   },
+   {
+    "start": 12.53,
+    "end": 12.67,
+    "word": " you"
+   },
+   {
+    "start": 12.67,
+    "end": 12.85,
+    "word": " go"
+   },
+   {
+    "start": 12.85,
+    "end": 13.29,
+    "word": " forward,"
+   },
+   {
+    "start": 13.53,
+    "end": 13.69,
+    "word": " you"
+   },
+   {
+    "start": 13.69,
+    "end": 14.05,
+    "word": " turn,"
+   },
+   {
+    "start": 14.39,
+    "end": 14.61,
+    "word": " you"
+   },
+   {
+    "start": 14.61,
+    "end": 14.93,
+    "word": " fire."
+   }
+  ]
+ },
+ {
+  "start": 15.67,
+  "end": 17.51,
+  "text": "So, that was done for hundreds of years.",
+  "words": [
+   {
+    "start": 15.67,
+    "end": 15.75,
+    "word": " So,"
+   },
+   {
+    "start": 15.75,
+    "end": 16.03,
+    "word": " that"
+   },
+   {
+    "start": 16.03,
+    "end": 16.17,
+    "word": " was"
+   },
+   {
+    "start": 16.17,
+    "end": 16.41,
+    "word": " done"
+   },
+   {
+    "start": 16.41,
+    "end": 16.65,
+    "word": " for"
+   },
+   {
+    "start": 16.65,
+    "end": 16.99,
+    "word": " hundreds"
+   },
+   {
+    "start": 16.99,
+    "end": 17.23,
+    "word": " of"
+   },
+   {
+    "start": 17.23,
+    "end": 17.51,
+    "word": " years."
+   }
+  ]
+ },
+ {
+  "start": 17.59,
+  "end": 19.63,
+  "text": "But what made Monitor unique was",
+  "words": [
+   {
+    "start": 17.59,
+    "end": 17.73,
+    "word": " But"
+   },
+   {
+    "start": 17.73,
+    "end": 17.93,
+    "word": " what"
+   },
+   {
+    "start": 17.93,
+    "end": 18.21,
+    "word": " made"
+   },
+   {
+    "start": 18.21,
+    "end": 18.73,
+    "word": " Monitor"
+   },
+   {
+    "start": 18.73,
+    "end": 19.19,
+    "word": " unique"
+   },
+   {
+    "start": 19.19,
+    "end": 19.63,
+    "word": " was"
+   }
+  ]
+ },
+ {
+  "start": 20.05,
+  "end": 22.43,
+  "text": "it now separated the move into the gun",
+  "words": [
+   {
+    "start": 20.05,
+    "end": 20.49,
+    "word": " it"
+   },
+   {
+    "start": 20.49,
+    "end": 20.69,
+    "word": " now"
+   },
+   {
+    "start": 20.69,
+    "end": 21.27,
+    "word": " separated"
+   },
+   {
+    "start": 21.27,
+    "end": 21.53,
+    "word": " the"
+   },
+   {
+    "start": 21.53,
+    "end": 21.81,
+    "word": " move"
+   },
+   {
+    "start": 21.81,
+    "end": 22.01,
+    "word": " into"
+   },
+   {
+    "start": 22.01,
+    "end": 22.15,
+    "word": " the"
+   },
+   {
+    "start": 22.15,
+    "end": 22.43,
+    "word": " gun"
+   }
+  ]
+ },
+ {
+  "start": 23.01,
+  "end": 24.47,
+  "text": "from the movement of the vessel.",
+  "words": [
+   {
+    "start": 23.01,
+    "end": 23.25,
+    "word": " from"
+   },
+   {
+    "start": 23.25,
+    "end": 23.59,
+    "word": " the"
+   },
+   {
+    "start": 23.59,
+    "end": 23.85,
+    "word": " movement"
+   },
+   {
+    "start": 23.85,
+    "end": 24.01,
+    "word": " of"
+   },
+   {
+    "start": 24.01,
+    "end": 24.13,
+    "word": " the"
+   },
+   {
+    "start": 24.13,
+    "end": 24.47,
+    "word": " vessel."
+   }
+  ]
+ },
+ {
+  "start": 25.05,
+  "end": 27.11,
+  "text": "So the vessel could be in any orientation.",
+  "words": [
+   {
+    "start": 25.05,
+    "end": 25.29,
+    "word": " So"
+   },
+   {
+    "start": 25.29,
+    "end": 25.41,
+    "word": " the"
+   },
+   {
+    "start": 25.41,
+    "end": 25.73,
+    "word": " vessel"
+   },
+   {
+    "start": 25.73,
+    "end": 25.95,
+    "word": " could"
+   },
+   {
+    "start": 25.95,
+    "end": 26.13,
+    "word": " be"
+   },
+   {
+    "start": 26.13,
+    "end": 26.33,
+    "word": " in"
+   },
+   {
+    "start": 26.33,
+    "end": 26.49,
+    "word": " any"
+   },
+   {
+    "start": 26.49,
+    "end": 27.11,
+    "word": " orientation."
+   }
+  ]
+ },
+ {
+  "start": 27.37,
+  "end": 29.09,
+  "text": "And because Monitor had the world's",
+  "words": [
+   {
+    "start": 27.37,
+    "end": 27.41,
+    "word": " And"
+   },
+   {
+    "start": 27.41,
+    "end": 27.97,
+    "word": " because"
+   },
+   {
+    "start": 27.97,
+    "end": 28.35,
+    "word": " Monitor"
+   },
+   {
+    "start": 28.35,
+    "end": 28.63,
+    "word": " had"
+   },
+   {
+    "start": 28.63,
+    "end": 28.79,
+    "word": " the"
+   },
+   {
+    "start": 28.79,
+    "end": 29.09,
+    "word": " world's"
+   }
+  ]
+ },
+ {
+  "start": 29.09,
+  "end": 31.31,
+  "text": "first revolving gun turret that went into battle,",
+  "words": [
+   {
+    "start": 29.09,
+    "end": 29.29,
+    "word": " first"
+   },
+   {
+    "start": 29.29,
+    "end": 29.79,
+    "word": " revolving"
+   },
+   {
+    "start": 29.79,
+    "end": 30.07,
+    "word": " gun"
+   },
+   {
+    "start": 30.07,
+    "end": 30.41,
+    "word": " turret"
+   },
+   {
+    "start": 30.41,
+    "end": 30.63,
+    "word": " that"
+   },
+   {
+    "start": 30.63,
+    "end": 30.77,
+    "word": " went"
+   },
+   {
+    "start": 30.77,
+    "end": 30.95,
+    "word": " into"
+   },
+   {
+    "start": 30.95,
+    "end": 31.31,
+    "word": " battle,"
+   }
+  ]
+ },
+ {
+  "start": 31.97,
+  "end": 34.25,
+  "text": "it was able to move in any direction as well.",
+  "words": [
+   {
+    "start": 31.97,
+    "end": 32.21,
+    "word": " it"
+   },
+   {
+    "start": 32.21,
+    "end": 32.33,
+    "word": " was"
+   },
+   {
+    "start": 32.33,
+    "end": 32.55,
+    "word": " able"
+   },
+   {
+    "start": 32.55,
+    "end": 32.69,
+    "word": " to"
+   },
+   {
+    "start": 32.69,
+    "end": 32.83,
+    "word": " move"
+   },
+   {
+    "start": 32.83,
+    "end": 32.99,
+    "word": " in"
+   },
+   {
+    "start": 32.99,
+    "end": 33.27,
+    "word": " any"
+   },
+   {
+    "start": 33.27,
+    "end": 33.63,
+    "word": " direction"
+   },
+   {
+    "start": 33.63,
+    "end": 33.93,
+    "word": " as"
+   },
+   {
+    "start": 33.93,
+    "end": 34.25,
+    "word": " well."
+   }
+  ]
+ },
+ {
+  "start": 35.03,
+  "end": 36.67,
+  "text": "So that was a huge marker",
+  "words": [
+   {
+    "start": 35.03,
+    "end": 35.23,
+    "word": " So"
+   },
+   {
+    "start": 35.23,
+    "end": 35.51,
+    "word": " that"
+   },
+   {
+    "start": 35.51,
+    "end": 35.73,
+    "word": " was"
+   },
+   {
+    "start": 35.73,
+    "end": 35.89,
+    "word": " a"
+   },
+   {
+    "start": 35.89,
+    "end": 36.19,
+    "word": " huge"
+   },
+   {
+    "start": 36.19,
+    "end": 36.67,
+    "word": " marker"
+   }
+  ]
+ },
+ {
+  "start": 37.11,
+  "end": 38.67,
+  "text": "in the change of these technologies.",
+  "words": [
+   {
+    "start": 37.11,
+    "end": 37.37,
+    "word": " in"
+   },
+   {
+    "start": 37.37,
+    "end": 37.47,
+    "word": " the"
+   },
+   {
+    "start": 37.47,
+    "end": 37.75,
+    "word": " change"
+   },
+   {
+    "start": 37.75,
+    "end": 37.89,
+    "word": " of"
+   },
+   {
+    "start": 37.89,
+    "end": 38.03,
+    "word": " these"
+   },
+   {
+    "start": 38.03,
+    "end": 38.67,
+    "word": " technologies."
+   }
+  ]
+ },
+ {
+  "start": 39.15,
+  "end": 41.15,
+  "text": "And also, we can't forget that it's a transition",
+  "words": [
+   {
+    "start": 39.15,
+    "end": 39.27,
+    "word": " And"
+   },
+   {
+    "start": 39.27,
+    "end": 39.65,
+    "word": " also,"
+   },
+   {
+    "start": 39.65,
+    "end": 39.83,
+    "word": " we"
+   },
+   {
+    "start": 39.83,
+    "end": 40.07,
+    "word": " can't"
+   },
+   {
+    "start": 40.07,
+    "end": 40.25,
+    "word": " forget"
+   },
+   {
+    "start": 40.25,
+    "end": 40.45,
+    "word": " that"
+   },
+   {
+    "start": 40.45,
+    "end": 40.61,
+    "word": " it's"
+   },
+   {
+    "start": 40.61,
+    "end": 40.73,
+    "word": " a"
+   },
+   {
+    "start": 40.73,
+    "end": 41.15,
+    "word": " transition"
+   }
+  ]
+ },
+ {
+  "start": 41.15,
+  "end": 44.23,
+  "text": "from that wooden warship, those wooden walls,",
+  "words": [
+   {
+    "start": 41.15,
+    "end": 41.57,
+    "word": " from"
+   },
+   {
+    "start": 41.57,
+    "end": 41.81,
+    "word": " that"
+   },
+   {
+    "start": 41.81,
+    "end": 42.25,
+    "word": " wooden"
+   },
+   {
+    "start": 42.25,
+    "end": 43.17,
+    "word": " warship,"
+   },
+   {
+    "start": 43.33,
+    "end": 43.39,
+    "word": " those"
+   },
+   {
+    "start": 43.39,
+    "end": 43.65,
+    "word": " wooden"
+   },
+   {
+    "start": 43.65,
+    "end": 44.23,
+    "word": " walls,"
+   }
+  ]
+ },
+ {
+  "start": 44.77,
+  "end": 47.97,
+  "text": "now iron and metal, which is modern naval warfare.",
+  "words": [
+   {
+    "start": 44.87,
+    "end": 45.15,
+    "word": " now"
+   },
+   {
+    "start": 45.15,
+    "end": 45.69,
+    "word": " iron"
+   },
+   {
+    "start": 45.69,
+    "end": 45.97,
+    "word": " and"
+   },
+   {
+    "start": 45.97,
+    "end": 46.31,
+    "word": " metal,"
+   },
+   {
+    "start": 46.75,
+    "end": 46.95,
+    "word": " which"
+   },
+   {
+    "start": 46.95,
+    "end": 47.11,
+    "word": " is"
+   },
+   {
+    "start": 47.11,
+    "end": 47.43,
+    "word": " modern"
+   },
+   {
+    "start": 47.43,
+    "end": 47.69,
+    "word": " naval"
+   },
+   {
+    "start": 47.69,
+    "end": 47.97,
+    "word": " warfare."
+   }
+  ]
+ }
+]

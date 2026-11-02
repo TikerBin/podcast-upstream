@@ -5,7 +5,7 @@
 <link>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main</link>
 <description>仅含独立片段条目：片段 enclosure 为仓库自托管 clips 直链，文案仅覆盖片段音频；整集不在此 feed，整集不得冒充短片段。</description>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 01:26:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 01:34:31 +0000</lastBuildDate>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/feeds/ready-clip.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Their Mars window is a TV — clip from Encore: A Year In Mars Dune Alpha</title>
@@ -466,6 +466,51 @@ the words would be, almost Mars.]]></content:encoded>
 <_clip_source_nature>original_audio</_clip_source_nature>
 </item>
 <item>
+<title>The revolving turret that changed naval warfare — clip from The USS Monitor, Part 1: History and Legacy (132.2-180.3s)</title>
+<link>https://oceanservice.noaa.gov/podcast/july26/nop84-uss-history-legacy.html</link>
+<guid isPermaLink="false">urn:podcast:oceanservice.noaa.gov:podcast:july26:nop84-uss-history-legacy:clip:turret:132.2-180.3</guid>
+<pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+<category>ocean-environment</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/noaa-uss-monitor-history-legacy-84-clip-turret.mp3" length="674546" type="audio/mpeg"/>
+<itunes:duration>48</itunes:duration>
+<description><![CDATA[【节目】NOAA Ocean Podcast
+【主题】ocean-environment
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】风帆时代要整船掉头才能开炮，Monitor 的旋转炮塔让炮口与船身分开转动：船朝哪边都行，炮照样瞄得准，木壳战舰从此走向铁甲时代。
+【Reels 角度】炮塔一转，海战改写：以前开炮要整条船掉头，Monitor 让炮自己转。
+【许可证】Public domain：Excerpt of a US federal government work (NOAA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NOAA endorsement implied.
+【来源】https://oceanservice.noaa.gov/podcast/july26/nop84-uss-history-legacy.html
+【采集日（北京时间）】2026-11-02
+【发布时间精度】date_only（Inherits parent original publish date (NOAA page DC.date.created 2026-7-20, date only); clip itself was modelled 2026-11-02 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:oceanservice.noaa.gov:podcast:july26:nop84-uss-history-legacy
+【父集链接】https://oceanservice.noaa.gov/podcast/july26/nop84-uss-history-legacy.html
+【片段】原集 132.2-180.3 秒，48.1 秒，原声，未加 BGM，文件：clips/noaa-uss-monitor-history-legacy-84-clip-turret.mp3]]></description>
+<content:encoded><![CDATA[You get the tall ships and all of these guns. But when the ship goes down and is spotting another vessel, the entire ship has to turn because the guns are pointing out from the sides of it. So you go forward, you turn, you fire. So, that was done for hundreds of years. But what made Monitor unique was it now separated the move into the gun from the movement of the vessel. So the vessel could be in any orientation. And because Monitor had the world's first revolving gun turret that went into battle, it was able to move in any direction as well. So that was a huge marker in the change of these technologies. And also, we can't forget that it's a transition from that wooden warship, those wooden walls, now iron and metal, which is modern naval warfare.]]></content:encoded>
+<_show>NOAA Ocean Podcast</_show>
+<_episode_id>nop84-clip-turret</_episode_id>
+<_source_url>https://oceanservice.noaa.gov/podcast/july26/nop84-uss-history-legacy.html</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-02</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 48.1s / 674546 bytes (ffmpeg cut from verified full M4A in this run, 2026-11-02); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/noaa-uss-monitor-history-legacy-84-clip-turret.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/noaa-uss-monitor-history-legacy-84-clip-turret.srt</_clip_srt_url>
+<_clip_words_file>transcripts/noaa-uss-monitor-history-legacy-84-clip-turret-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/noaa-uss-monitor-history-legacy-84-clip-turret-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:oceanservice.noaa.gov:podcast:july26:nop84-uss-history-legacy</_parent_guid>
+<_parent_id>noaa-ocean-uss-monitor-history-legacy-84</_parent_id>
+<_clip_start_s>132.2</_clip_start_s>
+<_clip_end_s>180.3</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
 <title>Can you say that again? A train-call assignment to Artemis III — clip from Meet the Artemis III Crew (330.7-376.5s)</title>
 <link>https://www.nasa.gov/podcasts/curious-universe/meet-the-artemis-iii-crew/</link>
 <guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:artemis-iii-crew:clip:train-call:330.7-376.5</guid>
@@ -553,6 +598,51 @@ the words would be, almost Mars.]]></content:encoded>
 <_parent_id>nasa-curious-perseverance</_parent_id>
 <_clip_start_s>240.4</_clip_start_s>
 <_clip_end_s>278.9</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>Shipping container or coffee mug? How small an object sonar can spot — clip from Mapping the Way After a Disaster (1301.4-1347.7s)</title>
+<link>https://oceanservice.noaa.gov/podcast/may26/nop83-navigation-response-team.html</link>
+<guid isPermaLink="false">urn:podcast:oceanservice.noaa.gov:podcast:may26:nop83-navigation-response-team:clip:coffeemug:1301.4-1347.7</guid>
+<pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+<category>ocean-environment</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/noaa-navigation-response-teams-83-clip-coffeemug.mp3" length="887292" type="audio/mpeg"/>
+<itunes:duration>46</itunes:duration>
+<description><![CDATA[【节目】NOAA Ocean Podcast
+【主题】ocean-environment
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】声呐能看清多小的东西？集装箱轻而易举，连压变形的褶皱都看得到；咖啡杯那么小的东西，在理想条件下也能探到几英寸大小。
+【Reels 角度】声呐能看见咖啡杯吗？集装箱的褶皱都逃不过，几英寸的小东西也有戏。
+【许可证】Public domain：Excerpt of a US federal government work (NOAA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NOAA endorsement implied.
+【来源】https://oceanservice.noaa.gov/podcast/may26/nop83-navigation-response-team.html
+【采集日（北京时间）】2026-11-02
+【发布时间精度】date_only（Inherits parent original publish date (NOAA page DC.date.created 2026-5-12, date only); clip itself was modelled 2026-11-02 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:oceanservice.noaa.gov:podcast:may26:nop83-navigation-response-team
+【父集链接】https://oceanservice.noaa.gov/podcast/may26/nop83-navigation-response-team.html
+【片段】原集 1301.4-1347.7 秒，46.3 秒，原声，未加 BGM，文件：clips/noaa-navigation-response-teams-83-clip-coffeemug.mp3]]></description>
+<content:encoded><![CDATA[How small of an object can you actually spot on the seafloor? Are we talking about a shipping container or a coffee mug? It kind of depends on the conditions that you're facing. For our systems, they are very high quality, very accurate. So a shipping container, very, very easy. You'll have a very clear picture of exactly how the shipping container looks. Even if it's deformed because of some type of pressure or it was struck, you'll be able to easily see the wrinkles in the shipping container. As far as a coffee mug, it might be a little shallow of water that we would need to operate in to accurately get a good picture on that. But yeah, we could detect something as small as a few inches in certain ideal circumstances.]]></content:encoded>
+<_show>NOAA Ocean Podcast</_show>
+<_episode_id>nop83-clip-coffeemug</_episode_id>
+<_source_url>https://oceanservice.noaa.gov/podcast/may26/nop83-navigation-response-team.html</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-02</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 46.3s / 887292 bytes (ffmpeg cut from verified full M4A in this run, 2026-11-02); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/noaa-navigation-response-teams-83-clip-coffeemug.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/noaa-navigation-response-teams-83-clip-coffeemug.srt</_clip_srt_url>
+<_clip_words_file>transcripts/noaa-navigation-response-teams-83-clip-coffeemug-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/noaa-navigation-response-teams-83-clip-coffeemug-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:oceanservice.noaa.gov:podcast:may26:nop83-navigation-response-team</_parent_guid>
+<_parent_id>noaa-ocean-navigation-response-teams-83</_parent_id>
+<_clip_start_s>1301.4</_clip_start_s>
+<_clip_end_s>1347.7</_clip_end_s>
 <_clip_source_nature>original_audio</_clip_source_nature>
 </item>
 <item>

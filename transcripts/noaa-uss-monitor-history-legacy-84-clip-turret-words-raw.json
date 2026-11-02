@@ -1,0 +1,990 @@
+{
+  "model": "small.en",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.32,
+      "text": "You got the tall ships and all of these guns,",
+      "words": [
+        {
+          "word": " You",
+          "start": 0.0,
+          "end": 0.04,
+          "probability": 0.10105377435684204
+        },
+        {
+          "word": " got",
+          "start": 0.04,
+          "end": 0.2,
+          "probability": 0.2700001299381256
+        },
+        {
+          "word": " the",
+          "start": 0.2,
+          "end": 0.3,
+          "probability": 0.8089138269424438
+        },
+        {
+          "word": " tall",
+          "start": 0.3,
+          "end": 0.54,
+          "probability": 0.9883825182914734
+        },
+        {
+          "word": " ships",
+          "start": 0.54,
+          "end": 0.86,
+          "probability": 0.970864474773407
+        },
+        {
+          "word": " and",
+          "start": 0.86,
+          "end": 1.14,
+          "probability": 0.9295404553413391
+        },
+        {
+          "word": " all",
+          "start": 1.14,
+          "end": 1.52,
+          "probability": 0.9873201847076416
+        },
+        {
+          "word": " of",
+          "start": 1.52,
+          "end": 1.7,
+          "probability": 0.991524338722229
+        },
+        {
+          "word": " these",
+          "start": 1.7,
+          "end": 1.9,
+          "probability": 0.9960371851921082
+        },
+        {
+          "word": " guns,",
+          "start": 1.9,
+          "end": 2.32,
+          "probability": 0.9984130859375
+        }
+      ]
+    },
+    {
+      "start": 2.88,
+      "end": 5.54,
+      "text": "but when the ship goes down, it's fighting another vessel,",
+      "words": [
+        {
+          "word": " but",
+          "start": 2.88,
+          "end": 3.12,
+          "probability": 0.9844014048576355
+        },
+        {
+          "word": " when",
+          "start": 3.12,
+          "end": 3.36,
+          "probability": 0.967566967010498
+        },
+        {
+          "word": " the",
+          "start": 3.36,
+          "end": 3.52,
+          "probability": 0.7646556496620178
+        },
+        {
+          "word": " ship",
+          "start": 3.52,
+          "end": 3.98,
+          "probability": 0.874405562877655
+        },
+        {
+          "word": " goes",
+          "start": 3.98,
+          "end": 4.18,
+          "probability": 0.9921396374702454
+        },
+        {
+          "word": " down,",
+          "start": 4.18,
+          "end": 4.42,
+          "probability": 0.9984606504440308
+        },
+        {
+          "word": " it's",
+          "start": 4.52,
+          "end": 4.6,
+          "probability": 0.9887270331382751
+        },
+        {
+          "word": " fighting",
+          "start": 4.6,
+          "end": 4.82,
+          "probability": 0.9472076296806335
+        },
+        {
+          "word": " another",
+          "start": 4.82,
+          "end": 5.1,
+          "probability": 0.9834995269775391
+        },
+        {
+          "word": " vessel,",
+          "start": 5.1,
+          "end": 5.54,
+          "probability": 0.9984220266342163
+        }
+      ]
+    },
+    {
+      "start": 6.69,
+      "end": 8.67,
+      "text": "the entire ship has to turn",
+      "words": [
+        {
+          "word": " the",
+          "start": 6.69,
+          "end": 6.73,
+          "probability": 0.8397470712661743
+        },
+        {
+          "word": " entire",
+          "start": 6.73,
+          "end": 7.25,
+          "probability": 0.9933585524559021
+        },
+        {
+          "word": " ship",
+          "start": 7.25,
+          "end": 7.63,
+          "probability": 0.998441755771637
+        },
+        {
+          "word": " has",
+          "start": 7.63,
+          "end": 7.99,
+          "probability": 0.988325834274292
+        },
+        {
+          "word": " to",
+          "start": 7.99,
+          "end": 8.23,
+          "probability": 0.9989948868751526
+        },
+        {
+          "word": " turn",
+          "start": 8.23,
+          "end": 8.67,
+          "probability": 0.9988502264022827
+        }
+      ]
+    },
+    {
+      "start": 8.67,
+      "end": 12.09,
+      "text": "because the guns are pointing out from the sides of it.",
+      "words": [
+        {
+          "word": " because",
+          "start": 8.67,
+          "end": 9.39,
+          "probability": 0.9114920496940613
+        },
+        {
+          "word": " the",
+          "start": 9.39,
+          "end": 9.63,
+          "probability": 0.9985814094543457
+        },
+        {
+          "word": " guns",
+          "start": 9.63,
+          "end": 9.85,
+          "probability": 0.9991378784179688
+        },
+        {
+          "word": " are",
+          "start": 9.85,
+          "end": 10.01,
+          "probability": 0.9979087114334106
+        },
+        {
+          "word": " pointing",
+          "start": 10.01,
+          "end": 10.35,
+          "probability": 0.997952938079834
+        },
+        {
+          "word": " out",
+          "start": 10.35,
+          "end": 11.11,
+          "probability": 0.9971680045127869
+        },
+        {
+          "word": " from",
+          "start": 11.11,
+          "end": 11.29,
+          "probability": 0.9981119632720947
+        },
+        {
+          "word": " the",
+          "start": 11.29,
+          "end": 11.41,
+          "probability": 0.9995822310447693
+        },
+        {
+          "word": " sides",
+          "start": 11.41,
+          "end": 11.67,
+          "probability": 0.995915949344635
+        },
+        {
+          "word": " of",
+          "start": 11.67,
+          "end": 11.83,
+          "probability": 0.997099757194519
+        },
+        {
+          "word": " it.",
+          "start": 11.83,
+          "end": 12.09,
+          "probability": 0.9995463490486145
+        }
+      ]
+    },
+    {
+      "start": 12.31,
+      "end": 14.93,
+      "text": "So you go forward, you turn, you fire.",
+      "words": [
+        {
+          "word": " So",
+          "start": 12.31,
+          "end": 12.53,
+          "probability": 0.9779552817344666
+        },
+        {
+          "word": " you",
+          "start": 12.53,
+          "end": 12.67,
+          "probability": 0.9348471760749817
+        },
+        {
+          "word": " go",
+          "start": 12.67,
+          "end": 12.85,
+          "probability": 0.9979071617126465
+        },
+        {
+          "word": " forward,",
+          "start": 12.85,
+          "end": 13.29,
+          "probability": 0.9988106489181519
+        },
+        {
+          "word": " you",
+          "start": 13.53,
+          "end": 13.69,
+          "probability": 0.9957283139228821
+        },
+        {
+          "word": " turn,",
+          "start": 13.69,
+          "end": 14.05,
+          "probability": 0.9947065711021423
+        },
+        {
+          "word": " you",
+          "start": 14.39,
+          "end": 14.61,
+          "probability": 0.9970571994781494
+        },
+        {
+          "word": " fire.",
+          "start": 14.61,
+          "end": 14.93,
+          "probability": 0.995151162147522
+        }
+      ]
+    },
+    {
+      "start": 15.67,
+      "end": 17.51,
+      "text": "So that was done for hundreds of years,",
+      "words": [
+        {
+          "word": " So",
+          "start": 15.67,
+          "end": 15.75,
+          "probability": 0.9732486009597778
+        },
+        {
+          "word": " that",
+          "start": 15.75,
+          "end": 16.03,
+          "probability": 0.9387238621711731
+        },
+        {
+          "word": " was",
+          "start": 16.03,
+          "end": 16.17,
+          "probability": 0.9995738863945007
+        },
+        {
+          "word": " done",
+          "start": 16.17,
+          "end": 16.41,
+          "probability": 0.9995180368423462
+        },
+        {
+          "word": " for",
+          "start": 16.41,
+          "end": 16.65,
+          "probability": 0.9979979395866394
+        },
+        {
+          "word": " hundreds",
+          "start": 16.65,
+          "end": 16.99,
+          "probability": 0.9949729442596436
+        },
+        {
+          "word": " of",
+          "start": 16.99,
+          "end": 17.23,
+          "probability": 0.9997499585151672
+        },
+        {
+          "word": " years,",
+          "start": 17.23,
+          "end": 17.51,
+          "probability": 0.9995470643043518
+        }
+      ]
+    },
+    {
+      "start": 17.59,
+      "end": 19.63,
+      "text": "but what made Monitor unique was,",
+      "words": [
+        {
+          "word": " but",
+          "start": 17.59,
+          "end": 17.73,
+          "probability": 0.9961308240890503
+        },
+        {
+          "word": " what",
+          "start": 17.73,
+          "end": 17.93,
+          "probability": 0.9966117739677429
+        },
+        {
+          "word": " made",
+          "start": 17.93,
+          "end": 18.21,
+          "probability": 0.9918373227119446
+        },
+        {
+          "word": " Monitor",
+          "start": 18.21,
+          "end": 18.73,
+          "probability": 0.5975964665412903
+        },
+        {
+          "word": " unique",
+          "start": 18.73,
+          "end": 19.19,
+          "probability": 0.9955477714538574
+        },
+        {
+          "word": " was,",
+          "start": 19.19,
+          "end": 19.63,
+          "probability": 0.9954906105995178
+        }
+      ]
+    },
+    {
+      "start": 20.05,
+      "end": 22.43,
+      "text": "it now separated the movement of the gun",
+      "words": [
+        {
+          "word": " it",
+          "start": 20.05,
+          "end": 20.49,
+          "probability": 0.9919342994689941
+        },
+        {
+          "word": " now",
+          "start": 20.49,
+          "end": 20.69,
+          "probability": 0.9978018403053284
+        },
+        {
+          "word": " separated",
+          "start": 20.69,
+          "end": 21.27,
+          "probability": 0.9980438947677612
+        },
+        {
+          "word": " the",
+          "start": 21.27,
+          "end": 21.53,
+          "probability": 0.9872042536735535
+        },
+        {
+          "word": " movement",
+          "start": 21.53,
+          "end": 21.81,
+          "probability": 0.87603360414505
+        },
+        {
+          "word": " of",
+          "start": 21.81,
+          "end": 22.01,
+          "probability": 0.8741027116775513
+        },
+        {
+          "word": " the",
+          "start": 22.01,
+          "end": 22.15,
+          "probability": 0.9738563895225525
+        },
+        {
+          "word": " gun",
+          "start": 22.15,
+          "end": 22.43,
+          "probability": 0.9986897110939026
+        }
+      ]
+    },
+    {
+      "start": 23.01,
+      "end": 24.47,
+      "text": "from the movement of the vessel.",
+      "words": [
+        {
+          "word": " from",
+          "start": 23.01,
+          "end": 23.25,
+          "probability": 0.9765852093696594
+        },
+        {
+          "word": " the",
+          "start": 23.25,
+          "end": 23.59,
+          "probability": 0.9993614554405212
+        },
+        {
+          "word": " movement",
+          "start": 23.59,
+          "end": 23.85,
+          "probability": 0.9819793701171875
+        },
+        {
+          "word": " of",
+          "start": 23.85,
+          "end": 24.01,
+          "probability": 0.9992985725402832
+        },
+        {
+          "word": " the",
+          "start": 24.01,
+          "end": 24.13,
+          "probability": 0.9857251644134521
+        },
+        {
+          "word": " vessel.",
+          "start": 24.13,
+          "end": 24.47,
+          "probability": 0.9988804459571838
+        }
+      ]
+    },
+    {
+      "start": 25.05,
+      "end": 27.11,
+      "text": "So the vessel could be in any orientation.",
+      "words": [
+        {
+          "word": " So",
+          "start": 25.05,
+          "end": 25.29,
+          "probability": 0.9930306077003479
+        },
+        {
+          "word": " the",
+          "start": 25.29,
+          "end": 25.41,
+          "probability": 0.9900561571121216
+        },
+        {
+          "word": " vessel",
+          "start": 25.41,
+          "end": 25.73,
+          "probability": 0.9993463158607483
+        },
+        {
+          "word": " could",
+          "start": 25.73,
+          "end": 25.95,
+          "probability": 0.9858980178833008
+        },
+        {
+          "word": " be",
+          "start": 25.95,
+          "end": 26.13,
+          "probability": 0.9951188564300537
+        },
+        {
+          "word": " in",
+          "start": 26.13,
+          "end": 26.33,
+          "probability": 0.7262447476387024
+        },
+        {
+          "word": " any",
+          "start": 26.33,
+          "end": 26.49,
+          "probability": 0.9988705515861511
+        },
+        {
+          "word": " orientation.",
+          "start": 26.49,
+          "end": 27.11,
+          "probability": 0.9982669353485107
+        }
+      ]
+    },
+    {
+      "start": 27.37,
+      "end": 29.09,
+      "text": "And because Monitor had the world's",
+      "words": [
+        {
+          "word": " And",
+          "start": 27.37,
+          "end": 27.41,
+          "probability": 0.9884310960769653
+        },
+        {
+          "word": " because",
+          "start": 27.41,
+          "end": 27.97,
+          "probability": 0.9931723475456238
+        },
+        {
+          "word": " Monitor",
+          "start": 27.97,
+          "end": 28.35,
+          "probability": 0.8704484105110168
+        },
+        {
+          "word": " had",
+          "start": 28.35,
+          "end": 28.63,
+          "probability": 0.9916011691093445
+        },
+        {
+          "word": " the",
+          "start": 28.63,
+          "end": 28.79,
+          "probability": 0.9965792298316956
+        },
+        {
+          "word": " world's",
+          "start": 28.79,
+          "end": 29.09,
+          "probability": 0.9880112111568451
+        }
+      ]
+    },
+    {
+      "start": 29.09,
+      "end": 31.31,
+      "text": "first revolving gun turret that went into battle,",
+      "words": [
+        {
+          "word": " first",
+          "start": 29.09,
+          "end": 29.29,
+          "probability": 0.4325418174266815
+        },
+        {
+          "word": " revolving",
+          "start": 29.29,
+          "end": 29.79,
+          "probability": 0.9876412749290466
+        },
+        {
+          "word": " gun",
+          "start": 29.79,
+          "end": 30.07,
+          "probability": 0.9922123551368713
+        },
+        {
+          "word": " turret",
+          "start": 30.07,
+          "end": 30.41,
+          "probability": 0.9826396703720093
+        },
+        {
+          "word": " that",
+          "start": 30.41,
+          "end": 30.63,
+          "probability": 0.9631155133247375
+        },
+        {
+          "word": " went",
+          "start": 30.63,
+          "end": 30.77,
+          "probability": 0.9975733160972595
+        },
+        {
+          "word": " into",
+          "start": 30.77,
+          "end": 30.95,
+          "probability": 0.9923751950263977
+        },
+        {
+          "word": " battle,",
+          "start": 30.95,
+          "end": 31.31,
+          "probability": 0.9947256445884705
+        }
+      ]
+    },
+    {
+      "start": 31.97,
+      "end": 34.25,
+      "text": "it was able to move in any direction as well.",
+      "words": [
+        {
+          "word": " it",
+          "start": 31.97,
+          "end": 32.21,
+          "probability": 0.9843150973320007
+        },
+        {
+          "word": " was",
+          "start": 32.21,
+          "end": 32.33,
+          "probability": 0.9990031123161316
+        },
+        {
+          "word": " able",
+          "start": 32.33,
+          "end": 32.55,
+          "probability": 0.999131977558136
+        },
+        {
+          "word": " to",
+          "start": 32.55,
+          "end": 32.69,
+          "probability": 0.9992468357086182
+        },
+        {
+          "word": " move",
+          "start": 32.69,
+          "end": 32.83,
+          "probability": 0.9989233613014221
+        },
+        {
+          "word": " in",
+          "start": 32.83,
+          "end": 32.99,
+          "probability": 0.9945698380470276
+        },
+        {
+          "word": " any",
+          "start": 32.99,
+          "end": 33.27,
+          "probability": 0.9992101192474365
+        },
+        {
+          "word": " direction",
+          "start": 33.27,
+          "end": 33.63,
+          "probability": 0.998191773891449
+        },
+        {
+          "word": " as",
+          "start": 33.63,
+          "end": 33.93,
+          "probability": 0.9380086064338684
+        },
+        {
+          "word": " well.",
+          "start": 33.93,
+          "end": 34.25,
+          "probability": 0.9994737505912781
+        }
+      ]
+    },
+    {
+      "start": 35.03,
+      "end": 36.67,
+      "text": "So that was a huge marker",
+      "words": [
+        {
+          "word": " So",
+          "start": 35.03,
+          "end": 35.23,
+          "probability": 0.9613511562347412
+        },
+        {
+          "word": " that",
+          "start": 35.23,
+          "end": 35.51,
+          "probability": 0.9080606698989868
+        },
+        {
+          "word": " was",
+          "start": 35.51,
+          "end": 35.73,
+          "probability": 0.9989007711410522
+        },
+        {
+          "word": " a",
+          "start": 35.73,
+          "end": 35.89,
+          "probability": 0.9990978240966797
+        },
+        {
+          "word": " huge",
+          "start": 35.89,
+          "end": 36.19,
+          "probability": 0.999588668346405
+        },
+        {
+          "word": " marker",
+          "start": 36.19,
+          "end": 36.67,
+          "probability": 0.9895262718200684
+        }
+      ]
+    },
+    {
+      "start": 37.11,
+      "end": 38.67,
+      "text": "in the change of these technologies.",
+      "words": [
+        {
+          "word": " in",
+          "start": 37.11,
+          "end": 37.37,
+          "probability": 0.9842521548271179
+        },
+        {
+          "word": " the",
+          "start": 37.37,
+          "end": 37.47,
+          "probability": 0.9993817806243896
+        },
+        {
+          "word": " change",
+          "start": 37.47,
+          "end": 37.75,
+          "probability": 0.9975417852401733
+        },
+        {
+          "word": " of",
+          "start": 37.75,
+          "end": 37.89,
+          "probability": 0.996625542640686
+        },
+        {
+          "word": " these",
+          "start": 37.89,
+          "end": 38.03,
+          "probability": 0.9987454414367676
+        },
+        {
+          "word": " technologies.",
+          "start": 38.03,
+          "end": 38.67,
+          "probability": 0.9987157583236694
+        }
+      ]
+    },
+    {
+      "start": 39.15,
+      "end": 41.15,
+      "text": "And also we can't forget that it's a transition",
+      "words": [
+        {
+          "word": " And",
+          "start": 39.15,
+          "end": 39.27,
+          "probability": 0.9666942358016968
+        },
+        {
+          "word": " also",
+          "start": 39.27,
+          "end": 39.65,
+          "probability": 0.9772469997406006
+        },
+        {
+          "word": " we",
+          "start": 39.65,
+          "end": 39.83,
+          "probability": 0.5077134370803833
+        },
+        {
+          "word": " can't",
+          "start": 39.83,
+          "end": 40.07,
+          "probability": 0.9792292416095734
+        },
+        {
+          "word": " forget",
+          "start": 40.07,
+          "end": 40.25,
+          "probability": 0.9986086487770081
+        },
+        {
+          "word": " that",
+          "start": 40.25,
+          "end": 40.45,
+          "probability": 0.9718763828277588
+        },
+        {
+          "word": " it's",
+          "start": 40.45,
+          "end": 40.61,
+          "probability": 0.770496279001236
+        },
+        {
+          "word": " a",
+          "start": 40.61,
+          "end": 40.73,
+          "probability": 0.9935232400894165
+        },
+        {
+          "word": " transition",
+          "start": 40.73,
+          "end": 41.15,
+          "probability": 0.9991878867149353
+        }
+      ]
+    },
+    {
+      "start": 41.15,
+      "end": 44.23,
+      "text": "from that wooden warship, those wooden walls,",
+      "words": [
+        {
+          "word": " from",
+          "start": 41.15,
+          "end": 41.57,
+          "probability": 0.996025562286377
+        },
+        {
+          "word": " that",
+          "start": 41.57,
+          "end": 41.81,
+          "probability": 0.992365300655365
+        },
+        {
+          "word": " wooden",
+          "start": 41.81,
+          "end": 42.25,
+          "probability": 0.9942435622215271
+        },
+        {
+          "word": " warship,",
+          "start": 42.25,
+          "end": 43.17,
+          "probability": 0.9159164428710938
+        },
+        {
+          "word": " those",
+          "start": 43.33,
+          "end": 43.39,
+          "probability": 0.988275945186615
+        },
+        {
+          "word": " wooden",
+          "start": 43.39,
+          "end": 43.65,
+          "probability": 0.9993034601211548
+        },
+        {
+          "word": " walls,",
+          "start": 43.65,
+          "end": 44.23,
+          "probability": 0.9984696507453918
+        }
+      ]
+    },
+    {
+      "start": 44.77,
+      "end": 47.97,
+      "text": "to now iron and metal, which is modern naval warfare.",
+      "words": [
+        {
+          "word": " to",
+          "start": 44.77,
+          "end": 44.87,
+          "probability": 0.23611800372600555
+        },
+        {
+          "word": " now",
+          "start": 44.87,
+          "end": 45.15,
+          "probability": 0.9809544086456299
+        },
+        {
+          "word": " iron",
+          "start": 45.15,
+          "end": 45.69,
+          "probability": 0.977760374546051
+        },
+        {
+          "word": " and",
+          "start": 45.69,
+          "end": 45.97,
+          "probability": 0.9809533953666687
+        },
+        {
+          "word": " metal,",
+          "start": 45.97,
+          "end": 46.31,
+          "probability": 0.9984820485115051
+        },
+        {
+          "word": " which",
+          "start": 46.75,
+          "end": 46.95,
+          "probability": 0.9990697503089905
+        },
+        {
+          "word": " is",
+          "start": 46.95,
+          "end": 47.11,
+          "probability": 0.9985417127609253
+        },
+        {
+          "word": " modern",
+          "start": 47.11,
+          "end": 47.43,
+          "probability": 0.9973094463348389
+        },
+        {
+          "word": " naval",
+          "start": 47.43,
+          "end": 47.69,
+          "probability": 0.8927107453346252
+        },
+        {
+          "word": " warfare.",
+          "start": 47.69,
+          "end": 47.97,
+          "probability": 0.9989631175994873
+        }
+      ]
+    }
+  ]
+}

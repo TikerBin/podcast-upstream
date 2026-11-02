@@ -1,0 +1,887 @@
+{
+  "model": "small.en",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.52,
+      "text": "How small of an object can you actually spot on the seafloor?",
+      "words": [
+        {
+          "word": " How",
+          "start": 0.0,
+          "end": 0.14,
+          "probability": 0.7704666256904602
+        },
+        {
+          "word": " small",
+          "start": 0.14,
+          "end": 0.58,
+          "probability": 0.9967889785766602
+        },
+        {
+          "word": " of",
+          "start": 0.58,
+          "end": 0.74,
+          "probability": 0.9921910166740417
+        },
+        {
+          "word": " an",
+          "start": 0.74,
+          "end": 0.88,
+          "probability": 0.9962272644042969
+        },
+        {
+          "word": " object",
+          "start": 0.88,
+          "end": 1.28,
+          "probability": 0.9990907907485962
+        },
+        {
+          "word": " can",
+          "start": 1.28,
+          "end": 1.6,
+          "probability": 0.994657576084137
+        },
+        {
+          "word": " you",
+          "start": 1.6,
+          "end": 1.78,
+          "probability": 0.9981325268745422
+        },
+        {
+          "word": " actually",
+          "start": 1.78,
+          "end": 2.16,
+          "probability": 0.9979701638221741
+        },
+        {
+          "word": " spot",
+          "start": 2.16,
+          "end": 2.54,
+          "probability": 0.998630702495575
+        },
+        {
+          "word": " on",
+          "start": 2.54,
+          "end": 2.92,
+          "probability": 0.9915319085121155
+        },
+        {
+          "word": " the",
+          "start": 2.92,
+          "end": 3.08,
+          "probability": 0.9983554482460022
+        },
+        {
+          "word": " seafloor?",
+          "start": 3.08,
+          "end": 3.52,
+          "probability": 0.8182619909445444
+        }
+      ]
+    },
+    {
+      "start": 4.43,
+      "end": 8.49,
+      "text": "Are we talking about a shipping container or a coffee mug?",
+      "words": [
+        {
+          "word": " Are",
+          "start": 4.43,
+          "end": 4.57,
+          "probability": 0.9424980878829956
+        },
+        {
+          "word": " we",
+          "start": 4.57,
+          "end": 4.69,
+          "probability": 0.9989883303642273
+        },
+        {
+          "word": " talking",
+          "start": 4.69,
+          "end": 4.97,
+          "probability": 0.9978618025779724
+        },
+        {
+          "word": " about",
+          "start": 4.97,
+          "end": 5.35,
+          "probability": 0.9992617964744568
+        },
+        {
+          "word": " a",
+          "start": 5.35,
+          "end": 5.71,
+          "probability": 0.9971936941146851
+        },
+        {
+          "word": " shipping",
+          "start": 5.71,
+          "end": 6.01,
+          "probability": 0.9995495676994324
+        },
+        {
+          "word": " container",
+          "start": 6.01,
+          "end": 6.55,
+          "probability": 0.9994009733200073
+        },
+        {
+          "word": " or",
+          "start": 6.55,
+          "end": 7.63,
+          "probability": 0.8050786256790161
+        },
+        {
+          "word": " a",
+          "start": 7.63,
+          "end": 7.91,
+          "probability": 0.9980875849723816
+        },
+        {
+          "word": " coffee",
+          "start": 7.91,
+          "end": 8.23,
+          "probability": 0.997904896736145
+        },
+        {
+          "word": " mug?",
+          "start": 8.23,
+          "end": 8.49,
+          "probability": 0.9989001750946045
+        }
+      ]
+    },
+    {
+      "start": 9.41,
+      "end": 12.23,
+      "text": "It kind of depends on the conditions that you're facing.",
+      "words": [
+        {
+          "word": " It",
+          "start": 9.41,
+          "end": 9.55,
+          "probability": 0.7120605111122131
+        },
+        {
+          "word": " kind",
+          "start": 9.55,
+          "end": 9.77,
+          "probability": 0.7753055095672607
+        },
+        {
+          "word": " of",
+          "start": 9.77,
+          "end": 9.91,
+          "probability": 0.9985201954841614
+        },
+        {
+          "word": " depends",
+          "start": 9.91,
+          "end": 10.21,
+          "probability": 0.9994533658027649
+        },
+        {
+          "word": " on",
+          "start": 10.21,
+          "end": 10.53,
+          "probability": 0.9975801706314087
+        },
+        {
+          "word": " the",
+          "start": 10.53,
+          "end": 10.81,
+          "probability": 0.9978517293930054
+        },
+        {
+          "word": " conditions",
+          "start": 10.81,
+          "end": 11.19,
+          "probability": 0.997012734413147
+        },
+        {
+          "word": " that",
+          "start": 11.19,
+          "end": 11.47,
+          "probability": 0.9870347380638123
+        },
+        {
+          "word": " you're",
+          "start": 11.47,
+          "end": 11.93,
+          "probability": 0.9878131151199341
+        },
+        {
+          "word": " facing.",
+          "start": 11.93,
+          "end": 12.23,
+          "probability": 0.9158560633659363
+        }
+      ]
+    },
+    {
+      "start": 12.91,
+      "end": 17.31,
+      "text": "For our systems, they are very high quality, very accurate.",
+      "words": [
+        {
+          "word": " For",
+          "start": 12.91,
+          "end": 13.15,
+          "probability": 0.9970031380653381
+        },
+        {
+          "word": " our",
+          "start": 13.15,
+          "end": 13.41,
+          "probability": 0.9991214871406555
+        },
+        {
+          "word": " systems,",
+          "start": 13.41,
+          "end": 14.05,
+          "probability": 0.9987099170684814
+        },
+        {
+          "word": " they",
+          "start": 14.59,
+          "end": 14.79,
+          "probability": 0.9977748990058899
+        },
+        {
+          "word": " are",
+          "start": 14.79,
+          "end": 15.07,
+          "probability": 0.9956710338592529
+        },
+        {
+          "word": " very",
+          "start": 15.07,
+          "end": 15.77,
+          "probability": 0.9904171228408813
+        },
+        {
+          "word": " high",
+          "start": 15.77,
+          "end": 16.05,
+          "probability": 0.9980224370956421
+        },
+        {
+          "word": " quality,",
+          "start": 16.05,
+          "end": 16.41,
+          "probability": 0.8131893873214722
+        },
+        {
+          "word": " very",
+          "start": 16.51,
+          "end": 16.73,
+          "probability": 0.9977935552597046
+        },
+        {
+          "word": " accurate.",
+          "start": 16.73,
+          "end": 17.31,
+          "probability": 0.9996182918548584
+        }
+      ]
+    },
+    {
+      "start": 17.89,
+      "end": 20.33,
+      "text": "So a shipping container, very, very easy.",
+      "words": [
+        {
+          "word": " So",
+          "start": 17.89,
+          "end": 17.95,
+          "probability": 0.9558295011520386
+        },
+        {
+          "word": " a",
+          "start": 17.95,
+          "end": 18.07,
+          "probability": 0.9008033871650696
+        },
+        {
+          "word": " shipping",
+          "start": 18.07,
+          "end": 18.29,
+          "probability": 0.9995904564857483
+        },
+        {
+          "word": " container,",
+          "start": 18.29,
+          "end": 18.69,
+          "probability": 0.9974296689033508
+        },
+        {
+          "word": " very,",
+          "start": 19.31,
+          "end": 19.77,
+          "probability": 0.9947899580001831
+        },
+        {
+          "word": " very",
+          "start": 19.77,
+          "end": 20.03,
+          "probability": 0.9997970461845398
+        },
+        {
+          "word": " easy.",
+          "start": 20.03,
+          "end": 20.33,
+          "probability": 0.9929746389389038
+        }
+      ]
+    },
+    {
+      "start": 21.09,
+      "end": 25.75,
+      "text": "You'll have a very clear picture of exactly how the shipping container looks, even if",
+      "words": [
+        {
+          "word": " You'll",
+          "start": 21.09,
+          "end": 21.39,
+          "probability": 0.7660470604896545
+        },
+        {
+          "word": " have",
+          "start": 21.39,
+          "end": 21.53,
+          "probability": 0.9993835687637329
+        },
+        {
+          "word": " a",
+          "start": 21.53,
+          "end": 21.69,
+          "probability": 0.9988112449645996
+        },
+        {
+          "word": " very",
+          "start": 21.69,
+          "end": 21.95,
+          "probability": 0.9977467656135559
+        },
+        {
+          "word": " clear",
+          "start": 21.95,
+          "end": 22.23,
+          "probability": 0.999108612537384
+        },
+        {
+          "word": " picture",
+          "start": 22.23,
+          "end": 22.55,
+          "probability": 0.9991012811660767
+        },
+        {
+          "word": " of",
+          "start": 22.55,
+          "end": 22.79,
+          "probability": 0.9971039891242981
+        },
+        {
+          "word": " exactly",
+          "start": 22.79,
+          "end": 23.15,
+          "probability": 0.9975534081459045
+        },
+        {
+          "word": " how",
+          "start": 23.15,
+          "end": 23.45,
+          "probability": 0.9967756867408752
+        },
+        {
+          "word": " the",
+          "start": 23.45,
+          "end": 23.59,
+          "probability": 0.9843636155128479
+        },
+        {
+          "word": " shipping",
+          "start": 23.59,
+          "end": 23.85,
+          "probability": 0.9997832179069519
+        },
+        {
+          "word": " container",
+          "start": 23.85,
+          "end": 24.17,
+          "probability": 0.9978954792022705
+        },
+        {
+          "word": " looks,",
+          "start": 24.17,
+          "end": 24.53,
+          "probability": 0.9982301592826843
+        },
+        {
+          "word": " even",
+          "start": 25.15,
+          "end": 25.45,
+          "probability": 0.998930037021637
+        },
+        {
+          "word": " if",
+          "start": 25.45,
+          "end": 25.75,
+          "probability": 0.9985129237174988
+        }
+      ]
+    },
+    {
+      "start": 25.75,
+      "end": 31.99,
+      "text": "it's deformed because of some type of pressure or it was struck, you'll be able to easily",
+      "words": [
+        {
+          "word": " it's",
+          "start": 25.75,
+          "end": 25.75,
+          "probability": 0.13600336853414774
+        },
+        {
+          "word": " deformed",
+          "start": 25.75,
+          "end": 26.31,
+          "probability": 0.978826105594635
+        },
+        {
+          "word": " because",
+          "start": 26.31,
+          "end": 26.79,
+          "probability": 0.966120719909668
+        },
+        {
+          "word": " of",
+          "start": 26.79,
+          "end": 27.05,
+          "probability": 0.9873011112213135
+        },
+        {
+          "word": " some",
+          "start": 27.05,
+          "end": 27.21,
+          "probability": 0.9967316389083862
+        },
+        {
+          "word": " type",
+          "start": 27.21,
+          "end": 27.43,
+          "probability": 0.9954995512962341
+        },
+        {
+          "word": " of",
+          "start": 27.43,
+          "end": 27.87,
+          "probability": 0.9985890984535217
+        },
+        {
+          "word": " pressure",
+          "start": 27.87,
+          "end": 28.61,
+          "probability": 0.9913875460624695
+        },
+        {
+          "word": " or",
+          "start": 28.61,
+          "end": 29.31,
+          "probability": 0.7510395050048828
+        },
+        {
+          "word": " it",
+          "start": 29.31,
+          "end": 30.17,
+          "probability": 0.895495593547821
+        },
+        {
+          "word": " was",
+          "start": 30.17,
+          "end": 30.33,
+          "probability": 0.9973090887069702
+        },
+        {
+          "word": " struck,",
+          "start": 30.33,
+          "end": 30.69,
+          "probability": 0.9945775270462036
+        },
+        {
+          "word": " you'll",
+          "start": 30.93,
+          "end": 31.19,
+          "probability": 0.9862943887710571
+        },
+        {
+          "word": " be",
+          "start": 31.19,
+          "end": 31.29,
+          "probability": 0.9896582961082458
+        },
+        {
+          "word": " able",
+          "start": 31.29,
+          "end": 31.41,
+          "probability": 0.9978771209716797
+        },
+        {
+          "word": " to",
+          "start": 31.41,
+          "end": 31.59,
+          "probability": 0.9980789422988892
+        },
+        {
+          "word": " easily",
+          "start": 31.59,
+          "end": 31.99,
+          "probability": 0.801617443561554
+        }
+      ]
+    },
+    {
+      "start": 31.99,
+      "end": 33.65,
+      "text": "see the wrinkles in the shipping container.",
+      "words": [
+        {
+          "word": " see",
+          "start": 31.99,
+          "end": 32.31,
+          "probability": 0.9976152181625366
+        },
+        {
+          "word": " the",
+          "start": 32.31,
+          "end": 32.43,
+          "probability": 0.996682345867157
+        },
+        {
+          "word": " wrinkles",
+          "start": 32.43,
+          "end": 32.67,
+          "probability": 0.9988036155700684
+        },
+        {
+          "word": " in",
+          "start": 32.67,
+          "end": 32.93,
+          "probability": 0.995643138885498
+        },
+        {
+          "word": " the",
+          "start": 32.93,
+          "end": 33.01,
+          "probability": 0.9898388385772705
+        },
+        {
+          "word": " shipping",
+          "start": 33.01,
+          "end": 33.25,
+          "probability": 0.999204695224762
+        },
+        {
+          "word": " container.",
+          "start": 33.25,
+          "end": 33.65,
+          "probability": 0.999213695526123
+        }
+      ]
+    },
+    {
+      "start": 34.33,
+      "end": 38.29,
+      "text": "As far as a coffee mug, it might be a little shallow of water that we would need to operate",
+      "words": [
+        {
+          "word": " As",
+          "start": 34.33,
+          "end": 34.53,
+          "probability": 0.9943215847015381
+        },
+        {
+          "word": " far",
+          "start": 34.53,
+          "end": 34.67,
+          "probability": 0.9973012804985046
+        },
+        {
+          "word": " as",
+          "start": 34.67,
+          "end": 34.79,
+          "probability": 0.9976906776428223
+        },
+        {
+          "word": " a",
+          "start": 34.79,
+          "end": 34.89,
+          "probability": 0.8122179508209229
+        },
+        {
+          "word": " coffee",
+          "start": 34.89,
+          "end": 35.15,
+          "probability": 0.9988214373588562
+        },
+        {
+          "word": " mug,",
+          "start": 35.15,
+          "end": 35.39,
+          "probability": 0.9995068311691284
+        },
+        {
+          "word": " it",
+          "start": 35.65,
+          "end": 35.75,
+          "probability": 0.9975799322128296
+        },
+        {
+          "word": " might",
+          "start": 35.75,
+          "end": 35.89,
+          "probability": 0.9976200461387634
+        },
+        {
+          "word": " be",
+          "start": 35.89,
+          "end": 36.05,
+          "probability": 0.9965991377830505
+        },
+        {
+          "word": " a",
+          "start": 36.05,
+          "end": 36.21,
+          "probability": 0.9963153004646301
+        },
+        {
+          "word": " little",
+          "start": 36.21,
+          "end": 36.41,
+          "probability": 0.9972457885742188
+        },
+        {
+          "word": " shallow",
+          "start": 36.41,
+          "end": 36.79,
+          "probability": 0.9972789883613586
+        },
+        {
+          "word": " of",
+          "start": 36.79,
+          "end": 37.07,
+          "probability": 0.9519078731536865
+        },
+        {
+          "word": " water",
+          "start": 37.07,
+          "end": 37.41,
+          "probability": 0.9978995323181152
+        },
+        {
+          "word": " that",
+          "start": 37.41,
+          "end": 37.61,
+          "probability": 0.7849609851837158
+        },
+        {
+          "word": " we",
+          "start": 37.61,
+          "end": 37.67,
+          "probability": 0.9966877102851868
+        },
+        {
+          "word": " would",
+          "start": 37.67,
+          "end": 37.81,
+          "probability": 0.9732732176780701
+        },
+        {
+          "word": " need",
+          "start": 37.81,
+          "end": 37.95,
+          "probability": 0.998477041721344
+        },
+        {
+          "word": " to",
+          "start": 37.95,
+          "end": 38.09,
+          "probability": 0.9968289732933044
+        },
+        {
+          "word": " operate",
+          "start": 38.09,
+          "end": 38.29,
+          "probability": 0.9972662925720215
+        }
+      ]
+    },
+    {
+      "start": 38.29,
+      "end": 40.81,
+      "text": "into to accurately get a good picture on that.",
+      "words": [
+        {
+          "word": " into",
+          "start": 38.29,
+          "end": 38.69,
+          "probability": 0.29539379477500916
+        },
+        {
+          "word": " to",
+          "start": 38.69,
+          "end": 39.03,
+          "probability": 0.8436038494110107
+        },
+        {
+          "word": " accurately",
+          "start": 39.03,
+          "end": 39.59,
+          "probability": 0.9938488602638245
+        },
+        {
+          "word": " get",
+          "start": 39.59,
+          "end": 39.95,
+          "probability": 0.9925892353057861
+        },
+        {
+          "word": " a",
+          "start": 39.95,
+          "end": 40.05,
+          "probability": 0.9992260932922363
+        },
+        {
+          "word": " good",
+          "start": 40.05,
+          "end": 40.17,
+          "probability": 0.9987366795539856
+        },
+        {
+          "word": " picture",
+          "start": 40.17,
+          "end": 40.41,
+          "probability": 0.9920178651809692
+        },
+        {
+          "word": " on",
+          "start": 40.41,
+          "end": 40.61,
+          "probability": 0.991100013256073
+        },
+        {
+          "word": " that.",
+          "start": 40.61,
+          "end": 40.81,
+          "probability": 0.9986417889595032
+        }
+      ]
+    },
+    {
+      "start": 40.95,
+      "end": 46.11,
+      "text": "But yeah, we could take something as small as a few inches in certain ideal circumstances.",
+      "words": [
+        {
+          "word": " But",
+          "start": 40.95,
+          "end": 40.97,
+          "probability": 0.9890480637550354
+        },
+        {
+          "word": " yeah,",
+          "start": 40.97,
+          "end": 41.17,
+          "probability": 0.7733302116394043
+        },
+        {
+          "word": " we",
+          "start": 41.21,
+          "end": 41.35,
+          "probability": 0.9984927177429199
+        },
+        {
+          "word": " could",
+          "start": 41.35,
+          "end": 41.51,
+          "probability": 0.8822534680366516
+        },
+        {
+          "word": " take",
+          "start": 41.51,
+          "end": 41.77,
+          "probability": 0.8380146026611328
+        },
+        {
+          "word": " something",
+          "start": 41.77,
+          "end": 42.17,
+          "probability": 0.9982746839523315
+        },
+        {
+          "word": " as",
+          "start": 42.17,
+          "end": 42.99,
+          "probability": 0.970289409160614
+        },
+        {
+          "word": " small",
+          "start": 42.99,
+          "end": 43.45,
+          "probability": 0.9970111846923828
+        },
+        {
+          "word": " as",
+          "start": 43.45,
+          "end": 43.57,
+          "probability": 0.9895317554473877
+        },
+        {
+          "word": " a",
+          "start": 43.57,
+          "end": 43.67,
+          "probability": 0.9978094696998596
+        },
+        {
+          "word": " few",
+          "start": 43.67,
+          "end": 43.85,
+          "probability": 0.9996250867843628
+        },
+        {
+          "word": " inches",
+          "start": 43.85,
+          "end": 44.21,
+          "probability": 0.999297022819519
+        },
+        {
+          "word": " in",
+          "start": 44.21,
+          "end": 44.75,
+          "probability": 0.9822922945022583
+        },
+        {
+          "word": " certain",
+          "start": 44.75,
+          "end": 45.03,
+          "probability": 0.960858941078186
+        },
+        {
+          "word": " ideal",
+          "start": 45.03,
+          "end": 45.53,
+          "probability": 0.9750580787658691
+        },
+        {
+          "word": " circumstances.",
+          "start": 45.53,
+          "end": 46.11,
+          "probability": 0.9546364545822144
+        }
+      ]
+    }
+  ]
+}
