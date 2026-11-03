@@ -1,0 +1,707 @@
+[
+  {
+    "start": 0.0,
+    "end": 5.02,
+    "text": "NASA has been using mobile launchers since the Apollo missions in the 1960s and 70s,",
+    "words": [
+      {
+        "word": " NASA",
+        "start": 0.0,
+        "end": 0.06,
+        "probability": 0.9041697978973389
+      },
+      {
+        "word": " has",
+        "start": 0.06,
+        "end": 0.22,
+        "probability": 0.9943318367004395
+      },
+      {
+        "word": " been",
+        "start": 0.22,
+        "end": 0.38,
+        "probability": 0.9961090683937073
+      },
+      {
+        "word": " using",
+        "start": 0.38,
+        "end": 0.7,
+        "probability": 0.9976856708526611
+      },
+      {
+        "word": " mobile",
+        "start": 0.7,
+        "end": 1.04,
+        "probability": 0.8802531361579895
+      },
+      {
+        "word": " launchers",
+        "start": 1.04,
+        "end": 1.44,
+        "probability": 0.985248863697052
+      },
+      {
+        "word": " since",
+        "start": 1.44,
+        "end": 1.84,
+        "probability": 0.9942225813865662
+      },
+      {
+        "word": " the",
+        "start": 1.84,
+        "end": 2.02,
+        "probability": 0.9968698620796204
+      },
+      {
+        "word": " Apollo",
+        "start": 2.02,
+        "end": 2.34,
+        "probability": 0.9773579835891724
+      },
+      {
+        "word": " missions",
+        "start": 2.34,
+        "end": 2.68,
+        "probability": 0.9875779747962952
+      },
+      {
+        "word": " in",
+        "start": 2.68,
+        "end": 2.96,
+        "probability": 0.9494433999061584
+      },
+      {
+        "word": " the",
+        "start": 2.96,
+        "end": 3.06,
+        "probability": 0.9960220456123352
+      },
+      {
+        "word": " 1960s",
+        "start": 3.06,
+        "end": 3.88,
+        "probability": 0.9088607728481293
+      },
+      {
+        "word": " and",
+        "start": 3.88,
+        "end": 4.0,
+        "probability": 0.9964855909347534
+      },
+      {
+        "word": " '70s,",
+        "start": 4.0,
+        "end": 5.02,
+        "probability": 0.7959721982479095
+      }
+    ]
+  },
+  {
+    "start": 5.26,
+    "end": 8.24,
+    "text": "although the mobile launcher for Artemis missions has new upgrades.",
+    "words": [
+      {
+        "word": " although",
+        "start": 5.26,
+        "end": 5.5,
+        "probability": 0.9798272848129272
+      },
+      {
+        "word": " the",
+        "start": 5.5,
+        "end": 5.68,
+        "probability": 0.9882960915565491
+      },
+      {
+        "word": " mobile",
+        "start": 5.68,
+        "end": 5.9,
+        "probability": 0.6076635718345642
+      },
+      {
+        "word": " launcher",
+        "start": 5.9,
+        "end": 6.28,
+        "probability": 0.9984930753707886
+      },
+      {
+        "word": " for",
+        "start": 6.28,
+        "end": 6.5,
+        "probability": 0.9948223829269409
+      },
+      {
+        "word": " Artemis",
+        "start": 6.5,
+        "end": 6.88,
+        "probability": 0.9812120795249939
+      },
+      {
+        "word": " missions",
+        "start": 6.88,
+        "end": 7.26,
+        "probability": 0.9919271469116211
+      },
+      {
+        "word": " has",
+        "start": 7.26,
+        "end": 7.54,
+        "probability": 0.995786726474762
+      },
+      {
+        "word": " new",
+        "start": 7.54,
+        "end": 7.8,
+        "probability": 0.997510552406311
+      },
+      {
+        "word": " upgrades.",
+        "start": 7.8,
+        "end": 8.24,
+        "probability": 0.9993209838867188
+      }
+    ]
+  },
+  {
+    "start": 9.3,
+    "end": 11.5,
+    "text": "The mobile launcher is the rocket's lifeline.",
+    "words": [
+      {
+        "word": " The",
+        "start": 9.3,
+        "end": 9.48,
+        "probability": 0.9941573143005371
+      },
+      {
+        "word": " mobile",
+        "start": 9.48,
+        "end": 9.72,
+        "probability": 0.9720200896263123
+      },
+      {
+        "word": " launcher",
+        "start": 9.72,
+        "end": 10.08,
+        "probability": 0.9982998967170715
+      },
+      {
+        "word": " is",
+        "start": 10.08,
+        "end": 10.24,
+        "probability": 0.9988749623298645
+      },
+      {
+        "word": " the",
+        "start": 10.24,
+        "end": 10.4,
+        "probability": 0.994411289691925
+      },
+      {
+        "word": " rocket's",
+        "start": 10.4,
+        "end": 10.94,
+        "probability": 0.9881532788276672
+      },
+      {
+        "word": " lifeline.",
+        "start": 10.94,
+        "end": 11.5,
+        "probability": 0.9517299234867096
+      }
+    ]
+  },
+  {
+    "start": 12.24,
+    "end": 16.84,
+    "text": "It's a platform, it's a source of fuel and electricity, and it even has the elevator",
+    "words": [
+      {
+        "word": " It's",
+        "start": 12.24,
+        "end": 12.4,
+        "probability": 0.9901614189147949
+      },
+      {
+        "word": " a",
+        "start": 12.4,
+        "end": 12.5,
+        "probability": 0.9985713958740234
+      },
+      {
+        "word": " platform,",
+        "start": 12.5,
+        "end": 12.94,
+        "probability": 0.9987674951553345
+      },
+      {
+        "word": " it's",
+        "start": 13.4,
+        "end": 13.54,
+        "probability": 0.9856801927089691
+      },
+      {
+        "word": " a",
+        "start": 13.54,
+        "end": 13.66,
+        "probability": 0.9981729984283447
+      },
+      {
+        "word": " source",
+        "start": 13.66,
+        "end": 13.82,
+        "probability": 0.9970083832740784
+      },
+      {
+        "word": " of",
+        "start": 13.82,
+        "end": 14.04,
+        "probability": 0.9985744953155518
+      },
+      {
+        "word": " fuel",
+        "start": 14.04,
+        "end": 14.28,
+        "probability": 0.9989064931869507
+      },
+      {
+        "word": " and",
+        "start": 14.28,
+        "end": 14.46,
+        "probability": 0.997580885887146
+      },
+      {
+        "word": " electricity,",
+        "start": 14.46,
+        "end": 14.88,
+        "probability": 0.9990703463554382
+      },
+      {
+        "word": " and",
+        "start": 15.68,
+        "end": 15.8,
+        "probability": 0.9972737431526184
+      },
+      {
+        "word": " it",
+        "start": 15.8,
+        "end": 15.88,
+        "probability": 0.992195725440979
+      },
+      {
+        "word": " even",
+        "start": 15.88,
+        "end": 16.12,
+        "probability": 0.9977680444717407
+      },
+      {
+        "word": " has",
+        "start": 16.12,
+        "end": 16.3,
+        "probability": 0.9983525276184082
+      },
+      {
+        "word": " the",
+        "start": 16.3,
+        "end": 16.46,
+        "probability": 0.994831383228302
+      },
+      {
+        "word": " elevator",
+        "start": 16.46,
+        "end": 16.84,
+        "probability": 0.9963880777359009
+      }
+    ]
+  },
+  {
+    "start": 16.84,
+    "end": 20.0,
+    "text": "that takes astronauts up to the walkway where they board the spacecraft.",
+    "words": [
+      {
+        "word": " that",
+        "start": 16.84,
+        "end": 17.12,
+        "probability": 0.997089684009552
+      },
+      {
+        "word": " takes",
+        "start": 17.12,
+        "end": 17.36,
+        "probability": 0.994672954082489
+      },
+      {
+        "word": " astronauts",
+        "start": 17.36,
+        "end": 17.82,
+        "probability": 0.9980342984199524
+      },
+      {
+        "word": " up",
+        "start": 17.82,
+        "end": 18.14,
+        "probability": 0.9931846261024475
+      },
+      {
+        "word": " to",
+        "start": 18.14,
+        "end": 18.26,
+        "probability": 0.9955419898033142
+      },
+      {
+        "word": " the",
+        "start": 18.26,
+        "end": 18.4,
+        "probability": 0.9965308308601379
+      },
+      {
+        "word": " walkway",
+        "start": 18.4,
+        "end": 18.82,
+        "probability": 0.9923186302185059
+      },
+      {
+        "word": " where",
+        "start": 18.82,
+        "end": 19.04,
+        "probability": 0.8749894499778748
+      },
+      {
+        "word": " they",
+        "start": 19.04,
+        "end": 19.2,
+        "probability": 0.9979498982429504
+      },
+      {
+        "word": " board",
+        "start": 19.2,
+        "end": 19.4,
+        "probability": 0.9917466640472412
+      },
+      {
+        "word": " their",
+        "start": 19.4,
+        "end": 19.6,
+        "probability": 0.9972088932991028
+      },
+      {
+        "word": " spacecraft.",
+        "start": 19.6,
+        "end": 20.0,
+        "probability": 0.9965656399726868
+      }
+    ]
+  },
+  {
+    "start": 21.0,
+    "end": 25.82,
+    "text": "The backbone of that rocket while it's on Earth is the mobile launcher, which is what",
+    "words": [
+      {
+        "word": " The",
+        "start": 21.0,
+        "end": 21.22,
+        "probability": 0.7058858871459961
+      },
+      {
+        "word": " backbone",
+        "start": 21.22,
+        "end": 21.7,
+        "probability": 0.9845035076141357
+      },
+      {
+        "word": " of",
+        "start": 21.7,
+        "end": 22.4,
+        "probability": 0.998551070690155
+      },
+      {
+        "word": " that",
+        "start": 22.4,
+        "end": 22.6,
+        "probability": 0.9934845566749573
+      },
+      {
+        "word": " rocket",
+        "start": 22.6,
+        "end": 23.04,
+        "probability": 0.9994187355041504
+      },
+      {
+        "word": " while",
+        "start": 23.04,
+        "end": 23.72,
+        "probability": 0.697913408279419
+      },
+      {
+        "word": " it's",
+        "start": 23.72,
+        "end": 23.9,
+        "probability": 0.9911965727806091
+      },
+      {
+        "word": " on",
+        "start": 23.9,
+        "end": 24.04,
+        "probability": 0.9990826845169067
+      },
+      {
+        "word": " Earth",
+        "start": 24.04,
+        "end": 24.2,
+        "probability": 0.813329815864563
+      },
+      {
+        "word": " is",
+        "start": 24.2,
+        "end": 24.54,
+        "probability": 0.9806906580924988
+      },
+      {
+        "word": " the",
+        "start": 24.54,
+        "end": 24.68,
+        "probability": 0.9989720582962036
+      },
+      {
+        "word": " mobile",
+        "start": 24.68,
+        "end": 24.88,
+        "probability": 0.9425783753395081
+      },
+      {
+        "word": " launcher,",
+        "start": 24.88,
+        "end": 25.26,
+        "probability": 0.9984279870986938
+      },
+      {
+        "word": " which",
+        "start": 25.4,
+        "end": 25.56,
+        "probability": 0.9994869232177734
+      },
+      {
+        "word": " is",
+        "start": 25.56,
+        "end": 25.68,
+        "probability": 0.9983110427856445
+      },
+      {
+        "word": " what",
+        "start": 25.68,
+        "end": 25.82,
+        "probability": 0.9988576173782349
+      }
+    ]
+  },
+  {
+    "start": 25.82,
+    "end": 26.8,
+    "text": "we see in front of us.",
+    "words": [
+      {
+        "word": " we",
+        "start": 25.82,
+        "end": 25.98,
+        "probability": 0.9992320537567139
+      },
+      {
+        "word": " see",
+        "start": 25.98,
+        "end": 26.14,
+        "probability": 0.9992963075637817
+      },
+      {
+        "word": " in",
+        "start": 26.14,
+        "end": 26.28,
+        "probability": 0.9981288313865662
+      },
+      {
+        "word": " front",
+        "start": 26.28,
+        "end": 26.42,
+        "probability": 0.9996135830879211
+      },
+      {
+        "word": " of",
+        "start": 26.42,
+        "end": 26.56,
+        "probability": 0.9979321956634521
+      },
+      {
+        "word": " us.",
+        "start": 26.56,
+        "end": 26.8,
+        "probability": 0.9996482133865356
+      }
+    ]
+  },
+  {
+    "start": 27.42,
+    "end": 33.66,
+    "text": "It stands about 380 feet tall, it weighs about 11.5 million pounds, and it is moveable.",
+    "words": [
+      {
+        "word": " It",
+        "start": 27.42,
+        "end": 27.7,
+        "probability": 0.8235702514648438
+      },
+      {
+        "word": " stands",
+        "start": 27.7,
+        "end": 28.14,
+        "probability": 0.9866856336593628
+      },
+      {
+        "word": " about",
+        "start": 28.14,
+        "end": 28.44,
+        "probability": 0.9724801778793335
+      },
+      {
+        "word": " 380",
+        "start": 28.44,
+        "end": 29.04,
+        "probability": 0.9836171865463257
+      },
+      {
+        "word": " feet",
+        "start": 29.04,
+        "end": 29.38,
+        "probability": 0.9328914880752563
+      },
+      {
+        "word": " tall,",
+        "start": 29.38,
+        "end": 29.88,
+        "probability": 0.9970585107803345
+      },
+      {
+        "word": " it",
+        "start": 30.7,
+        "end": 30.72,
+        "probability": 0.8641963601112366
+      },
+      {
+        "word": " weighs",
+        "start": 30.72,
+        "end": 30.94,
+        "probability": 0.9898265600204468
+      },
+      {
+        "word": " about",
+        "start": 30.94,
+        "end": 31.22,
+        "probability": 0.9863842129707336
+      },
+      {
+        "word": " 11",
+        "start": 31.22,
+        "end": 31.48,
+        "probability": 0.8138971328735352
+      },
+      {
+        "word": ".5",
+        "start": 31.48,
+        "end": 31.82,
+        "probability": 0.7394474148750305
+      },
+      {
+        "word": " million",
+        "start": 31.82,
+        "end": 32.08,
+        "probability": 0.9653534889221191
+      },
+      {
+        "word": " pounds,",
+        "start": 32.08,
+        "end": 32.46,
+        "probability": 0.9808793663978577
+      },
+      {
+        "word": " and",
+        "start": 32.78,
+        "end": 32.92,
+        "probability": 0.9915308952331543
+      },
+      {
+        "word": " it",
+        "start": 32.92,
+        "end": 33.02,
+        "probability": 0.9717934727668762
+      },
+      {
+        "word": " is",
+        "start": 33.02,
+        "end": 33.2,
+        "probability": 0.9906302094459534
+      },
+      {
+        "word": " movable.",
+        "start": 33.2,
+        "end": 33.66,
+        "probability": 0.5751943811774254
+      }
+    ]
+  },
+  {
+    "start": 34.46,
+    "end": 36.38,
+    "text": "It is basically a skyscraper that can move.",
+    "words": [
+      {
+        "word": " It",
+        "start": 34.46,
+        "end": 34.56,
+        "probability": 0.9912801384925842
+      },
+      {
+        "word": " is",
+        "start": 34.56,
+        "end": 34.68,
+        "probability": 0.9784595966339111
+      },
+      {
+        "word": " basically",
+        "start": 34.68,
+        "end": 35.0,
+        "probability": 0.9924442172050476
+      },
+      {
+        "word": " a",
+        "start": 35.0,
+        "end": 35.26,
+        "probability": 0.9975364208221436
+      },
+      {
+        "word": " skyscraper",
+        "start": 35.26,
+        "end": 35.84,
+        "probability": 0.9844447076320648
+      },
+      {
+        "word": " that",
+        "start": 35.84,
+        "end": 36.08,
+        "probability": 0.9983118772506714
+      },
+      {
+        "word": " can",
+        "start": 36.08,
+        "end": 36.2,
+        "probability": 0.9977874755859375
+      },
+      {
+        "word": " move.",
+        "start": 36.2,
+        "end": 36.38,
+        "probability": 0.998554527759552
+      }
+    ]
+  }
+]

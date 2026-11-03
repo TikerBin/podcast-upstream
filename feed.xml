@@ -5,7 +5,7 @@
 <link>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main</link>
 <description>待制作播客素材上游 v2：每条 = 一份待制作内容。父集标 full-episode，片段为独立条目、仅标 ready-clip，两集合不相交。片段 enclosure 为仓库自托管 clips 直链，不依赖整集音频。全部为美国政府官方播客（NASA / NOAA），公有领域、可剪辑但不得暗示官方背书。</description>
 <language>en</language>
-<lastBuildDate>Mon, 02 Nov 2026 01:34:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 01:38:33 +0000</lastBuildDate>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Their Mars window is a TV — clip from Encore: A Year In Mars Dune Alpha</title>
@@ -4709,6 +4709,594 @@ If you enjoyed this episode of NASA’s Curious Universe, let us know. Leave us 
 <_collected_at_beijing>2026-11-01</_collected_at_beijing>
 <_audio_verified>HEAD 跟随重定向得 audio/mpeg + 36087401 字节；整文件下载后 ffprobe 时长 1488.274 秒、字节数一致，ffmpeg 全量解码零报错</_audio_verified>
 <_child_clip_guid>urn:podcast:nasa.gov:curious-universe:artemis-ii-returns:clip:two-parachutes:964.1-1017.3</_child_clip_guid>
+</item>
+<item>
+<title>Basically a skyscraper that can move — clip from Artemis II: The Ground Teams Powering NASA's Moon Mission (342.7-379.2s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/artemis-ii-the-ground-teams-powering-nasas-moon-mission</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:artemis-ii-ground-teams:clip:skyscraper:342.7-379.2</guid>
+<pubDate>Tue, 17 Feb 2026 14:48:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-artemis-ii-ground-teams-clip-skyscraper.mp3" length="576916" type="audio/mpeg"/>
+<itunes:duration>36</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】Padi Boyd 介绍移动发射台：自阿波罗时代沿用至今、为 Artemis 升级后的移动发射台是火箭的命脉——平台、燃料与电力来源，还有送宇航员登舱的电梯。Jesse Berdis 接话：它高约 380 英尺、重约 1150 万磅，而且可以移动，基本上就是一座会移动的摩天楼。
+【Reels 角度】会移动的摩天楼：移动发射台 380 英尺高、1150 万磅，是火箭在地面上的命脉——供燃料、供电、送宇航员登舱。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; the episode transcript marks music cues (Supercluster, Running Late, Wonder, Buttercups Bloom, Fracture, Provoke, Different Narrative, Natural Motion, Keep Hope Alive, Metaphysics, Pulling the Line, New Discoveries, Inner Peace) all outside this segment.
+【来源】https://www.nasa.gov/podcasts/curious-universe/artemis-ii-the-ground-teams-powering-nasas-moon-mission
+【采集日（北京时间）】2026-11-03
+【发布时间精度】exact（Inherits parent original publish date (Megaphone RSS Tue, 17 Feb 2026 14:48:00 -0000); clip itself was modelled 2026-11-03 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:artemis-ii-ground-teams
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/artemis-ii-the-ground-teams-powering-nasas-moon-mission
+【片段】原集 342.7-379.2 秒，36.5 秒，原声，未加 BGM，文件：clips/nasa-artemis-ii-ground-teams-clip-skyscraper.mp3]]></description>
+<content:encoded><![CDATA[NASA has been using mobile launchers since the Apollo missions in the 1960s and '70s—although the mobile launcher for Artemis missions has new upgrades. The mobile launcher is the rocket's lifeline. It's a platform, it's a source of fuel and electricity, and it even has the elevator that takes astronauts up to the walkway where they board their spacecraft. The backbone of that rocket while it's on Earth is the mobile launcher, which is what we see in front of us. It stands about 380 feet tall. It weighs about 11.5 million pounds and it is movable. It is basically a skyscraper that can move.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>artemis-ii-ground-teams-clip-skyscraper</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/artemis-ii-the-ground-teams-powering-nasas-moon-mission</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-03</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 36.500s / 576916 bytes (ffmpeg cut from verified full MP3 in this run, 2026-11-03); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-artemis-ii-ground-teams-clip-skyscraper.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-artemis-ii-ground-teams-clip-skyscraper.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-artemis-ii-ground-teams-clip-skyscraper-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-artemis-ii-ground-teams-clip-skyscraper-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:artemis-ii-ground-teams</_parent_guid>
+<_parent_id>nasa-artemis-ii-ground-teams</_parent_id>
+<_clip_start_s>342.7</_clip_start_s>
+<_clip_end_s>379.2</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>Artemis II: The Ground Teams Powering NASA's Moon Mission</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/artemis-ii-the-ground-teams-powering-nasas-moon-mission</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:artemis-ii-ground-teams</guid>
+<pubDate>Tue, 17 Feb 2026 14:48:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:full-episode</category>
+<category>production:text-script</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8742921926.mp3" length="47148325" type="audio/mpeg"/>
+<itunes:duration>1949</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】full-episode, text-script
+【摘要】Artemis II 地面保障一集：移动发射台、紧急逃生篮、爬行运输车与 Pegasus 驳船——宇航员飞向月球之前，地面上有一群人和一堆巨型设备先把路铺好。Jesse Berdis 讲移动发射台如何成为火箭的命脉与逃生通道，Breanne Rohloff 讲以 0.83 英里时速开爬行运输车的感觉，Arlan Cochran 与 Pegasus 船员讲把芯级运过墨西哥湾的六天航程。
+【Reels 角度】会移动的摩天楼：380 英尺、1150 万磅的移动发射台是火箭在地面上的命脉，爬行运输车以每小时不到 1 英里的速度把它驮向发射台，Pegasus 驳船则把 20 多层楼高的芯级从新奥尔良运往肯尼迪中心。
+【许可证】Public domain：美国联邦政府作品（NASA 官方播客），一般不受版权保护
+【权利说明】可剪辑/再分发，不得暗示 NASA 背书；本集文字稿中标有音乐 cue（Supercluster、Running Late、Wonder、Buttercups Bloom、Fracture、Provoke、Different Narrative、Natural Motion、Keep Hope Alive、Metaphysics、Pulling the Line、New Discoveries、Inner Peace，系列音乐来自 Universal Production Music），正式发布前需逐项再核片段内音乐；本批 ready-clip 已核为原声讲话段、未加 BGM，片段内无音乐 cue。官方页含 2026-03-04 更新版编辑注，本轮按更新后全文核对，文字稿与音频经窗口 ASR 逐段对齐。
+【来源】https://www.nasa.gov/podcasts/curious-universe/artemis-ii-the-ground-teams-powering-nasas-moon-mission
+【采集日（北京时间）】2026-11-03
+【发布时间精度】exact（NASA Curious Universe Megaphone RSS: Tue, 17 Feb 2026 14:48:00 -0000）
+【子片段 GUID】urn:podcast:nasa.gov:curious-universe:artemis-ii-ground-teams:clip:skyscraper:342.7-379.2]]></description>
+<content:encoded><![CDATA[[Music: Supercluster by Sergey Azbel]
+
+PADI BOYD: You’re listening to NASA’s Curious Universe. I’m Padi Boyd.
+
+JACOB PINTER: And I’m Jacob Pinter. NASA is leading a golden age of space exploration. The Artemis II mission will send humans around the Moon for the first time in more than 50 years. It sets the stage for future Artemis missions when astronauts return to the Moon’s surface. And Artemis will build upon the foundation we’ve laid and prepare us for the first human journey to Mars.
+
+PADI: In this limited series, you’re along for the ride of Artemis II. You’ll meet the astronauts flying around the Moon and go behind the scenes with NASA engineers and scientists powering this mission.
+
+JACOB: This is episode five of our Artemis II series. In this episode: the ground support that sends humans to deep space. Artemis missions rely on many people working together, and they depend on specialized equipment that’s just really cool.
+
+PADI: We’re going behind the scenes with a skyscraper that can move, giant machines that carry rockets to the launch pad, and the people at the controls making sure they do their job perfectly so astronauts can have a safe trip around the Moon.
+
+JACOB: Before we get too far, I just want to make sure you know how important this stuff is. And don’t take it from me. Take it from Victor Glover, one of the astronauts about to fly around the Moon. He’s the pilot for Artemis II. When I interviewed Victor, he shouted out the program that is formally called Exploration Ground Systems. There’s the launch pad, the infrastructure that delivers fuel to the rocket, and the procedures that recover the astronauts when they come home or get them to safety if there’s an emergency.
+
+VICTOR GLOVER: It’s a big deal, but it often gets kind of overlooked because of the rocket and the spacecraft. The rocket and the spacecraft get all the attention. The pins and the posters, they always put that in, and nobody wants to just see like a flat piece of concrete, you know? But that represents Exploration Ground Systems, and I think we should make pins. We should make more t-shirts.
+
+JACOB: Flat concrete pins.
+
+VICTOR: Flat concrete pins, man. That launch pad and that group that’s going to meet us out on the Pacific Ocean and pick us up out of the water and get us back home safe—that’s a big dang deal.
+
+[Music: Running Late by Claire Leona Batchelor]
+
+JACOB: So let’s talk about a big dang deal. Just like the Apollo launches to the Moon, more than a hundred space shuttle launches, and now some commercial launches by private companies, Artemis II will lift off from NASA’s spaceport: Kennedy Space Center in Florida. I got an up-close look at the launch facilities with an engineer named Jesse Berdis.
+
+JESSE BERDIS: Welcome to Launch Complex 39B. So we are standing in the middle of a field inside Launch Complex 39B, and about a half mile from us is the actual launch pad. And then beyond that about another mile is the Atlantic coast, the beach.
+
+PADI: The rocket getting Artemis II off the ground, which is called SLS, is the most powerful rocket NASA has ever built. To launch a big rocket, you need some big equipment.
+
+JACOB: What first catches your eye at the launch complex is all the stuff that’s mechanical or concrete. The pad itself is a concrete pedestal sloping up gently from the flat Florida coast. There are tanks for rocket fuel and three tall metal towers. Those are lightning rods so the rocket doesn’t get struck.
+
+But I was surprised to find that Jesse and I were actually standing in a green, grassy field.
+
+Kennedy Space Center overlaps with a national wildlife refuge. There are more than 300 different species of birds here. And since this is Florida, you never know where you might see an alligator.
+
+JESSE: And you know, you have to be careful because there’s snakes and stuff. You’re in wildlife territory here.
+
+JACOB: Jesse is the deputy project manager for modifications to the Artemis II mobile launcher. When you see the rocket on TV, ready to blast off, you’ll notice that it’s attached to a big metal tower. This is the mobile launcher. When I visited, there was no rocket on the launch pad—not yet. The mobile launcher stood alone, towering above us more than 30 stories tall.
+
+Jesse still remembers the first time he saw something like this. He was in college in Oklahoma, about to graduate with an engineering degree, and he tagged along on a school trip to Florida. Seeing NASA’s launch facilities left him in complete awe.
+
+JESSE: The first thing you do when you come out here in flat Florida is you look up, because the equipment out here and the superstructures out here are amazing. They’re just essentially skyscrapers in their own.
+
+PADI: NASA has been using mobile launchers since the Apollo missions in the 1960s and ‘70s—although the mobile launcher for Artemis missions has new upgrades. The mobile launcher is the rocket’s lifeline. It’s a platform, it’s a source of fuel and electricity, and it even has the elevator that takes astronauts up to the walkway where they board their spacecraft.
+
+JESSE: The backbone of that rocket while it’s on Earth is the mobile launcher, which is what we see in front of us. It stands about 380 feet tall. It weighs about 11.5 million pounds and it is movable. It is basically a skyscraper that can move.
+
+PADI: If you’re wondering how it’s possible to move it, hold that thought. We’ll come back to that in a few minutes.
+
+[Music: Wonder by Claire Leone Batchelor]
+
+JACOB: From a distance or on TV, you can’t see all of the intricate details that make the mobile launcher so valuable. It’s much more than metal. The mobile launcher holds more than 400,000 feet of cables and miles of tubes and pipes. A series of attachments called umbilicals provides power to the rocket, as well as communications, coolant, and fuel. And then, at the exact moment of liftoff, the umbilicals swing away so the rocket can fly.
+
+JESSE: All of these systems are very simple systems, but they all have to work together at just the right time to make the launch happen. And that’s what the mobile launcher provides.
+
+PADI: Something else the mobile launcher provides is a path to safety. Engineers and astronauts are doing everything they can to make the mission succeed, but safety comes first. It’s possible that once the astronauts are getting into their spacecraft on top of a rocket 300 feet above the ground, they need to get down in a hurry. And the mobile launcher can do that too.
+
+JESSE: NASA always likes to have a backup plan. And one of the systems that we have invented and designed here is the emergency egress system, or we call it the EES. So on launch day, if there is any kind of event, any kind of emergency, we want to make sure that our astronauts are safe.
+
+JACOB: This emergency egress system looks something like a ski lift or a gondola. At the top of the mobile launcher, there are four baskets, each about the size of a small SUV. If astronauts or any other crew members need to get down quick, they can hop in a basket, slide down what is basically a controlled zipline, and reach safety almost a quarter of a mile away from the rocket. When Jesse and I talked, we were actually standing right next to the landing area for these baskets. The landing zone is marked on the ground in royal blue. It’s a bright dash of color against all the metal and concrete at the launchpad.
+
+JESSE: You’d be hitting about 40 to 55 miles per hour coming down. They would land here at the landing site and there would be three armored transport vehicles waiting for them. And they would evacuate into the vehicles and then egress off the pad perimeter site to a safe haven where you’d have, you know, essentially rescue crews waiting there for them or maybe helicopter support if needed.
+
+JACOB: NASA has had earlier versions of this evacuation system going back decades.
+
+PADI: Astronauts have never had to use them. But it’s one of those things you’d rather have and not need than need and not have.
+
+JACOB: When I met Jesse in the summer of 2024, he had been focused on this for months. He was getting ready for a final test when the system could get an official stamp of approval. There were long, grueling days, but there were bright spots too.
+
+[Music: Buttercups Bloom by Laurent Dury]
+
+JESSE: This is magnetic braking technology. This is the same style, concept of technology, that you would see at theme parks, like, you know, Walt Disney World or Universal or Six Flags, et cetera.
+
+PADI: The emergency egress baskets use the same kind of brakes as roller coasters. Although NASA’s ride is nice and smooth. No loop-de-loops. Also, the Kennedy Space Center is just down the road from Orlando, Florida, and some of the most famous roller coasters in the world. So Jesse took a business trip along with some other NASA engineers.
+
+JESSE: They allowed us after hours after all the park guests had left to kind of come see their systems with the lights on. And they were showing us their maintenance routines, their stockpiles of spare parts, what things typically break more often than others. We got a chance to meet with their maintenance crews and their mechanics. And it was a wonderful experience.
+
+JACOB: As we kept talking, we noticed a team of technicians nearby. They were flying a drone and paying close attention to their computers. They were about to test the emergency egress system—a dry run, with nobody actually in those baskets—although we weren’t sure when that would happen.
+
+I asked a question about an older emergency system, from the space shuttle era. Jesse started to answer, and then …
+
+JESSE: It’s a similar concept. Yes. So in the—oh, here we go. Here’s the basket coming down. So right now it’s at a home-home position with the braking, and then it’s going to probably go into active mode, and you’ll see it start to slow down. I’ll stop talking so you can kind of hear it coming down the line.
+
+[Sound of basket sliding, mechanical sound of brakes activating, then clicking to a stop]
+
+JESSE: We call that a perfect landing. (laughter)
+
+[Music: Fracture by Jay Price]
+
+JACOB: A few weeks later, the emergency egress system had its final test, and it passed.
+
+PADI: This is just one example of NASA’s backup plans. There are many more. And other teams rehearse what they can do if something goes wrong. This process of testing and simulating makes sure that NASA is ready and that astronauts and other crew members can act quickly.
+
+JESSE: So it’s kind of like—it’s like football practice. We want to make sure that if something were to happen, there are no surprises. The surprise is not how to operate the system, the surprise is whatever is out there that we need to be reacting to.
+
+JACOB: When Artemis II launches, it will be the result of years of preparation. When we turn on our TVs and see the astronauts waving and smiling, we don’t see the engineers who spent 14-hour days working on the mobile launcher or the nights and weekends making sure something functions just right. Jesse says that the people working on the ground are smart, capable, and most of all dedicated to helping the astronauts succeed.
+
+JESSE: So what I like to think is these men and women out here, they are the shoulders that are lifting the astronauts into space. The main part of the mission is up there. But it can’t happen without the many, many, many people in the Exploration Ground Systems program down here working that, and so I’m really thankful to be working with everyone on this team.
+
+JACOB: OK, now it is time to slow down. In spaceflight, it seems like everything happens fast. Rockets fly at unimaginable speeds, fast enough to push astronauts back into their seats. Well, we’re about to move a lot slower. If the mobile launcher is essentially a 30-story tall skyscraper, what makes it mobile?
+
+[Music: Provoke by Jay Price]
+
+PADI: When the rocket and mobile launcher are fully assembled for launch, the whole configuration weighs over 10 million pounds. That’s more than the Statue of Liberty many times over. Besides that, the launchpad is 4 miles away from the building that performs the rocket’s final assembly.
+
+JACOB: And the machine that makes it all possible …
+
+(to crawler-transporter team) Hi there. Is it alright if we come up?
+
+Unidentified voice: Yep.
+
+JACOB: … is the crawler-transporter. I am not exaggerating when I say there is nothing quite like the crawler-transporter anywhere else on the planet. Breanne Rohloff is one of the few people qualified to drive it.
+
+(to Breanne Rohloff) I have some questions if that’s OK.
+
+BREANNE ROHLOFF: Yeah, just watch your step. It’s very unforgiving grading. Don’t want to fall on it.
+
+JACOB: Since the crawler-transporter is so unique, it’s also kind of hard to describe. The NASA manager who’s in charge of it told me it’s a cross between a locomotive, a ship, and a big piece of mining equipment. Also, it’s in the Guinness Book of World Records as the world’s heaviest self-powered vehicle. So let’s start at the top. Imagine a square-ish platform more than 130 feet long and more than 110 feet wide.
+
+PADI: That’s almost 40 meters long and about 35 meters wide—or a little bigger than a baseball diamond. This platform is more than 20 feet off the ground. It can roll underneath the mobile launcher, pick it up, and carry it.
+
+JACOB: And that’s possible because at each of its four corners, the crawler has treads like a bulldozer. And these are huge—something like twice my height. This whole thing is powered by diesel engines that get about seven feet per gallon.
+
+Just to be clear: I saw the crawler-transporter before it rolled Artemis II to the launch pad. There was no rocket on top. Breanne leads me up into the cab, the place where you can actually drive this machine.
+
+BREANNE: Yeah, so you walk in, and you have kind of a control panel. We’ve also got our steering mode, you know, forward, reverse, and neutral. (fades out)
+
+JACOB: The inside of the cab is pretty plain. There are a few switches and gauges. Almost everything is dull gray, except for the steering wheel, which is bright red. And for such a big vehicle, the steering wheel is almost comically small. This cockpit is around 20 feet above the ground, so when Breanne is driving, it’s like she’s looking out a second-story window.
+
+BREANNE: You’ve got your emergency stop button. You’ve also got your service brake.
+
+JACOB: One thing you didn’t point out is this speedometer, I guess, and it goes from zero to two?
+
+BREANNE: Yes. What most of us tend to look at actually in operation when we’re going down the crawlerway is this speedometer, because it spits out a digit—it’s a digital readout of how many miles per hour you’re going. And yeah, it’s zero to two. But we don’t go any faster than 0.83 [mph] with flight hardware. So you’re looking for pretty low miles per hour there.
+
+PADI: Breanne is in her 20s. She started working here as a college intern. When she graduated, there just happened to be a job opening as a contractor, so she snapped it up. And to be clear, driving the crawler-transporter is only part of Breanne’s job. There is constant maintenance to do, and there is paperwork. But when it’s showtime—when those millions of pounds of rocket and mobile launcher are right above Breanne’s head—that’s the good part.
+
+BREANNE: It’s not sitting behind a computer. It’s just—it’s fun. Like, it’s the bit that you look forward to you, you actually get out and you get to see visually, what everything’s kind of—what everyone’s been working for, especially when we have flight hardware, where you get to actually come out here, have it on top of us and then see it being transported from point A to point B and be a part of that.
+
+[Music: Different Narrative by Jay Price]
+
+PADI: From the building where the rocket is assembled to the launch pad is a little more than four miles or close to seven kilometers. A fast runner could cover that in 20 or 25 minutes. For the rollout of Artemis II, the journey took almost 12 hours.
+
+JACOB: Breanne and I stepped out of the air-conditioned cockpit …
+
+BREANNE: Out into the heat.
+
+JACOB: … and walked around the outside. NASA has had these crawler-transporters since the 1960s. Back then, a company that made mining equipment built them custom for the Apollo program. Those same two crawlers are still in service, 60 years later.
+
+PADI: They’ve been repaired and refurbished constantly. And to get ready for Artemis—which uses an even heavier rocket than the Apollo program—one of the crawlers was upgraded so that it could carry 50 percent more weight than its original design. Everything about these machines requires special care, even the surfaces they drive on. The crawlers would absolutely destroy regular asphalt. Instead, all 4.2 miles of their path is covered in special gravel made of river rock, which is naturally smooth. Over time, the crawler grinds the rocks into sand.
+
+BREANNE: So if you’re walking by the trucks, you can kind of hear that crunching and breaking down. You can also hear people walking on it and kind of kicking around gravel. But it kind of—it just has like a steady hum, once it gets going.
+
+JACOB: When the crawler is in motion, there is a kind of ballet swirling around it. For one, the driver at the wheel has a backup driver standing right next to them, just in case. Also, there is a team of spotters walking around and technicians making sure the engines and hydraulics are healthy. For Artemis I, Breanne was right there in the middle of it all.
+
+BREANNE: We take turns because it’s a long drive. And you want to make sure you have a fresh set of eyes. So we split off every, kind of 45 minutes to an hour, is what it typically ends up being. And I distinctly remember this because the last time we dropped the rocket off for Artemis I launch, I was actually able to drive it up onto the pad. I got very lucky with that assignment. That was a lot of fun.
+
+JACOB: When you hit the pad and you got there, what were you thinking?
+
+BREANNE: Am I in line? (laughs) Like, OK, what inputs do I need to line up? Because there’s not a lot of wiggle room up there. And then we dropped it off. And it was like, it’s here. We did it.
+
+[Music: Natural Motion by Paul Richard O’Brien]
+
+PADI: And now, Breanne is doing it all over again—this time with a rocket ready for astronauts. She’s excited to see it all come together: the systems that were tested in Artemis I plus the new ones for Artemis II that focus on safety. The road to the launch pad is a long one. And it takes engineers like Breanne to push the mission forward, even when the load gets heavy.
+
+BREANNE: We don’t get anything done out here without teamwork. There’s a lot that gets put into this before we even get to flight hardware and get to actually moving that I feel like doesn’t always get seen or noticed but is the backbone of getting all of this together and do a lot of, a lot of hard work.
+
+JACOB: Breanne, thank you so much. Thanks for showing me around your office.
+
+BREANNE: Yeah. Thanks for coming out here in the sticky summer.
+
+JACOB: OK, one more thing to tell you about. This is another form of transportation that is not famous and not glamorous, but it is essential for Artemis II.
+
+PADI: NASA’s rocket factory is in New Orleans. It’s called the Michoud Assembly Facility. Michoud is the place where NASA and its contractors manufacture parts for the rockets launching us to the Moon.
+
+JACOB: Now, if you look at a map, you’ll see that New Orleans is hundreds of miles from the launchpad in Florida.
+
+PADI: So how do you move big, heavy rocket parts that far?
+
+JACOB: I’ll give you a hint: not by land. NASA makes the trip across the Gulf of America with a special barge called Pegasus.
+
+ARLAN COCHRAN: So I work at NASA’s transportation and operations group here at Marshall Space Flight Center. And so I’m responsible for Pegasus barge.
+
+JACOB: Whenever you meet somebody at a party and people are asking, “Yeah, but what do you really do?” How do you explain your job?
+
+ARLAN: You know, it’s definitely hard to just tell the public what you do, because they don’t truly understand the magnitude, the size of the Artemis program. So I actually—for the most time, I do not talk a lot at parties about what I do. I just tell them I’m in transportation and barge, and if you see something blasting off, it’s a chance that I had some role of getting it down to the Cape.
+
+JACOB: This is Arlan Cochran—someone who, in my opinion, should talk about his job at parties. Arlan is endlessly curious about logistics. He’s always looking for ways to make things a little more efficient, a little smoother. Arlan sees logistics everywhere, and as humans venture further into space, he says we’re just going to find more and more logistics problems.
+
+[Music: Keep Hope Alive by Adam Richard Joseph Lyons, Paul James Visser, David James Ferguson, and Joseph Barboza III]
+
+ARLAN: You and I go to the store every day, requires us to have some mode of transportation—logistics. And then we buy something that we go back and put it on a shelf—logistics. And we store it until it’s time to use it, when you’re ready to cook and you go grab it, or whatever you need to do—clean with it. And it’s logistics. There’s not going to be a store next to the Moon for you to go get that stuff.
+
+PADI: For now, Arlan handles logistics here on Earth. NASA has used barges for decades. Pegasus has been active since the 1990s, originally to move those big, orange tanks that fueled the space shuttle. To be ready for Artemis, Pegasus received a big upgrade. Engineers added 50 feet of length, making the barge longer than a football field. They also reinforced Pegasus with steel, so it can carry equipment weighing hundreds of thousands of pounds more than in the space shuttle days.
+
+JACOB: When I spoke to Arlan, he had his game face on. Pegasus was days away from transporting a part of the Artemis II rocket called the core stage. The core stage alone is more than 20 stories tall. It has massive fuel tanks that feed the engines that will lift astronauts into Earth orbit. After months of build-up, the trip from New Orleans to Kennedy Space Center would cover 900 miles in about six days.
+
+ARLAN: When you have such a long time to prepare you can over-guess things. You can second-guess things. You can do a lot of things. And so when we ship, it is the Super Bowl, right? It’s just—but you don’t have any pregame for the most part. You don’t have any preseason. You don’t even have a regular season. It’s just—you line up and they flip the coin and say, “This is the Super Bowl, go play.”
+
+JOE ROBINSON: Isn’t it a great day to be a mariner on NASA’s barge Pegasus? Isn’t it a great day to be a mariner on NASA’s barge Pegasus?! Who does this for a living?! Who does this? This is great. How you doing, sir? Joseph Robinson, I’m the marine operations manager on board. (fade out)
+
+JACOB: On the other end of the journey, once the core stage had safely made it to Kennedy Space Center, I had a chance to see Pegasus for myself.
+
+[Music: Metaphysics by Laurent Dury]
+
+If transporting the core stage was the Super Bowl, I was in the locker room hanging out with the winning team. They were exuberant. They were exhausted. And they were very sweaty.
+
+That voice you heard is Joe Robinson. He used to be in the Coast Guard. Now he manages day-to-day operations when Pegasus is on the move.
+
+PADI: Because it’s a barge, Pegasus doesn’t sail under its own power. It needs a tugboat. That allows it to have a smaller crew than a ship of a similar size. It took just six people to make the trip from New Orleans to the Florida coast.
+
+JACOB: And I should add, this crew transported a huge, irreplaceable rocket during hurricane season. They kept an eye on the weather, and thankfully it was smooth. But you can imagine everything that could go wrong in the open water.
+
+JOE: We do a lot of training. We go through our checklists for loading, offloading. We do Coast Guard required drills and then some. Then we go to colleges for firefighting, and, you know, we’re all licensed mariners. We’re all marine firefighters, we’re all—so I have a lot of confidence in the crew, and that eases my nerves a lot. A lot.
+
+JACOB: Standing in the cargo area of Pegasus feels something like being in a gigantic lipstick tube. The cargo area is about as long as one-and-a-half Olympic swimming pools with a vaulted roof more than 40 feet high. The floor has neat rows of built-in rings to tie down cargo. As Pegasus sails across the gulf carrying the rocket core stage, every hour around the clock, its crew performs an inspection to make sure everything is secure.
+
+JOE: On the rocket particularly they were monitoring pressures inside of the liquid hydrogen tank and the liquid oxygen tank, and we’re making sure that stayed within parameters. There’s a lot to do in this space. I mean, all you got to do is everything and then you’re good. (laughs)
+
+JACOB: The crew is not only responsible for the rocket. They have lots of chores to do, including taking turns cooking. People had a lot to say about the food. On this trip, the coffee machine broke. That was painful. Joe told me about a time he tried to make egg salad sandwiches for everyone. They turned out terrible, and the other guys still tease him about that.
+
+In the pilot house—which is kind of like the command center for the barge and, most importantly, has air-conditioning—I met another crew member named Scott Ledet. He’s the engineer.
+
+SCOTT LEDET: Well, I’m like Motel Six. I keep the lights on, make sure the generators are running, performing up to our standards. I do the maintenance on board, make sure all the winches are working, the caps and things are full of hydraulic. I make sure the electrical is performing like it’s supposed to.
+
+JACOB: Like Joe, Scott had years of experience in the marine industry before he got this job. But he’s had his eye on NASA for a long time. During the Apollo program, Scott’s grandparents helped build the Saturn V rocket.
+
+SCOTT: And my grandpa did the electrical on the Saturn and my grandmother was a storage keeper there. So it’s kind of cool that I just kind of fell into this position doing the same thing they were doing. You know, they made history with helping them land on the Moon, and we’re making another part of history.
+
+JACOB: Scott helped me understand just one example of all the little things that have to go right for Artemis II to succeed.
+
+[Music: Pulling the Line by Jonathan Elias and Sarah Trevino]
+
+To launch the rocket, you have to transport it to Kennedy Space Center. To transport it, you have to load it onto Pegasus. To load it onto Pegasus, you have to make sure the barge’s lip is exactly level with the platform on land. One of Scott’s jobs is making sure the ballast tanks inside the barge have the right amount of water to keep that lip level. If something goes wrong—like if there’s damage, or if Pegasus can’t do the job—there could be ripple effects across the entire mission.
+
+PADI: Artemis II relies on many other people like Scott. People like the crawler drivers and engineers who work on the mobile launcher. They’re all specialists who do their jobs as well as they possibly can, and then they pass the mission on to the next person.
+
+JACOB: As Scott and Joe told me about life at sea, I couldn’t help but think about what they have in common with astronauts. In space, astronauts are crazy busy. They have a relentless checklist. But then they get to look out the window and see something that most of us never will.
+
+SCOTT: And you don’t get any better sunset than you do out in the middle of the ocean, calm seas. It’s just nice. Peaceful. No cell phones going off. No people bugging you.
+
+JOE: Stars touch stars out there.
+
+SCOTT: You just do your job and enjoy life.
+
+JACOB: I know that you’ve got a ton to do while you’re in motion, but do you ever look up and think, Holy smokes, that thing’s going to the Moon?
+
+SCOTT: Every time I wake up and get a cup of coffee and look out that door and take a sip. (laughs)
+
+JACOB: It must be a cool feeling.
+
+SCOTT: It is a very cool feeling. This is the most rewarding job that I’ve had. It’s probably the most important one that I’ve had. You know, we are very specialized in what we do and how we do it. And we like to do it down to the T and make it perfect. Nobody’s perfect. We’re all going to make mistakes. But we like to make it as perfect as possible, because we know that we are putting people on there. And we want them to come home to their families—just like when we leave and we travel across the gulf or go down the river, we want to go back and see our family. So we take that same pride in ensuring that our job is done correctly, the way it needs to be done. That way they can have a successful mission, and then go back and see their families.
+
+[Music: New Discoveries by Al Lethbridge]
+
+JACOB: After some more talking, I said goodbye to the Pegasus crew. A few months later, they sailed through the gulf again. This time they carried hardware for Artemis III—
+
+PADI: —the future mission that will return humans to the surface of the Moon and prepare us for the next giant leap.
+
+JACOB: Mars. There is a lot to explore.
+
+PADI: So it’s time to get to work.
+
+[Music: Inner Peace by JC Lemay]
+
+This is NASA’s Curious Universe—an official NASA podcast. Our Artemis II series was written and produced by Christian Elliott and Jacob Pinter. Our executive producer is Katie Konans. Wes Buchanan designed the show art for this series. Music for the series comes from Universal Production Music.
+
+JACOB: We had support throughout this series from Rachel Kraft, Lisa Allen, Lora Bleacher, Brandi Dean, Amber Jacobson, Courtney Beasley, and Thalia Patrinos. Huge thanks to the subject matter experts you heard in this episode, as well as Jose Perez Morales, John Giles, and John Campbell. At Kennedy Space Center, we had help from Toni Jaramillo, Tiffany Fairley, and Allison Tankersley. At Marshall Space Flight Center, we had help from Corinne Beckinger.
+
+You can find transcripts for every episode of Curious Universe and explore NASA’s other podcasts at nasa.gov/podcasts.
+
+If you enjoyed this episode of NASA’s Curious Universe, let us know. Leave us a review wherever you’re listening right now. Maybe send a link to one of your friends. And you can follow NASA’s Curious Universe in your favorite podcast app to get a notification each time we post a new episode.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>artemis-ii-ground-teams</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/artemis-ii-the-ground-teams-powering-nasas-moon-mission</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-03</_collected_at_beijing>
+<_audio_verified>HEAD 跟随重定向得 audio/mpeg + 47148325 字节；整文件下载后 ffprobe 时长 1949.153 秒、字节数一致，ffmpeg 全量解码零报错</_audio_verified>
+<_child_clip_guid>urn:podcast:nasa.gov:curious-universe:artemis-ii-ground-teams:clip:skyscraper:342.7-379.2</_child_clip_guid>
+</item>
+<item>
+<title>Very carefully — clip from Artemis II: Inside NASA's New Ride to the Moon (724.1-782.4s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/artemis-ii-inside-nasas-new-ride-to-the-moon</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:artemis-ii-new-ride:clip:bathroom:724.1-782.4</guid>
+<pubDate>Tue, 27 Jan 2026 14:12:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-artemis-ii-new-ride-clip-bathroom.mp3" length="999139" type="audio/mpeg"/>
+<itunes:duration>58</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】Branelle Rodriguez 回答猎户座里怎么上厕所：非常小心。马桶仿空间站设计，微重力下先用扶手和系绳把自己固定好；液体废物排到舱外，固体废物装进带碳滤的粪便收集容器除味。
+【Reels 角度】太空里怎么上厕所：Branelle Rodriguez 的答案——非常小心；猎户座马桶仿空间站设计，液体排到舱外、固体装进带碳滤的收集容器，微重力下先把自己固定好。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; the episode transcript marks music cues (Supercluster, City Builders, Orion Rises, Early Symptom, Flight, Radiate, Not the End of the World, Conscious of Time, Enigmatic Serenity, Inner Peace) all outside this segment.
+【来源】https://www.nasa.gov/podcasts/curious-universe/artemis-ii-inside-nasas-new-ride-to-the-moon
+【采集日（北京时间）】2026-11-03
+【发布时间精度】exact（Inherits parent original publish date (Megaphone RSS Tue, 27 Jan 2026 14:12:00 -0000); clip itself was modelled 2026-11-03 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:artemis-ii-new-ride
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/artemis-ii-inside-nasas-new-ride-to-the-moon
+【片段】原集 724.1-782.4 秒，58.3 秒，原声，未加 BGM，文件：clips/nasa-artemis-ii-new-ride-clip-bathroom.mp3]]></description>
+<content:encoded><![CDATA[Very carefully. You know, spaceflight and going to the bathroom is probably one of my favorite conversations, I'll be honest. And it's a great one to have actually with kids, because you'd be surprised at how brilliant their answers are. So the toilet that we actually have on Orion is modeled and designed after one of the toilets that we have on the space station today. When you get in there, first and foremost, you're going to find yourself to make sure you get in a good configuration where you're—you know, there's handrails, there's tethers, there's things to secure you, right? Because you're in microgravity, so you're constantly moving around and floating. For liquid wastes—the liquid waste will actually be vented out of the spacecraft, very similar to how Apollo also did it. And solid wastes are actually stored into a container. We call it a fecal collection container, and we utilize filters like carbon filters and things to help with odors and whatnot.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>artemis-ii-new-ride-clip-bathroom</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/artemis-ii-inside-nasas-new-ride-to-the-moon</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-03</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 58.300s / 999139 bytes (ffmpeg cut from verified full MP3 in this run, 2026-11-03); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-artemis-ii-new-ride-clip-bathroom.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-artemis-ii-new-ride-clip-bathroom.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-artemis-ii-new-ride-clip-bathroom-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-artemis-ii-new-ride-clip-bathroom-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:artemis-ii-new-ride</_parent_guid>
+<_parent_id>nasa-artemis-ii-new-ride</_parent_id>
+<_clip_start_s>724.1</_clip_start_s>
+<_clip_end_s>782.4</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>Artemis II: Inside NASA’s New Ride to the Moon</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/artemis-ii-inside-nasas-new-ride-to-the-moon</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:artemis-ii-new-ride</guid>
+<pubDate>Tue, 27 Jan 2026 14:12:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:full-episode</category>
+<category>production:text-script</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION4539378680.mp3" length="49346198" type="audio/mpeg"/>
+<itunes:duration>2041</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】full-episode, text-script
+【摘要】Artemis II 的新座驾一集：猎户座飞船负责人 Branelle Rodriguez 带听众走进只有两辆小货车大小的乘员舱——卫生间、健身飞轮、四个座位与四扇窗；SLS 火箭负责人 David Beaman 拆解固体助推器与 RS-25 发动机，并讲父亲在阿波罗时代的工作如何影响他对“保护乘组高于一切”的理解。
+【Reels 角度】猎户座飞船内部导览：两个舱门、卫生间就在脚下、四个座位像小货车一样紧凑；SLS 火箭的 8 百万磅推力与 8 分钟芯级燃烧，以及第二代火箭科学家 David Beaman“宁可当天不发射，也不能拿人命冒险”的签放逻辑。
+【许可证】Public domain：美国联邦政府作品（NASA 官方播客），一般不受版权保护
+【权利说明】可剪辑/再分发，不得暗示 NASA 背书；本集文字稿中标有音乐 cue（Supercluster、City Builders、Orion Rises、Early Symptom、Flight、Radiate、Not the End of the World、Conscious of Time、Enigmatic Serenity、Inner Peace，系列音乐来自 Universal Production Music），正式发布前需逐项再核片段内音乐；本批 ready-clip 已核为原声讲话段、未加 BGM，片段内无音乐 cue。
+【来源】https://www.nasa.gov/podcasts/curious-universe/artemis-ii-inside-nasas-new-ride-to-the-moon
+【采集日（北京时间）】2026-11-03
+【发布时间精度】exact（NASA Curious Universe Megaphone RSS: Tue, 27 Jan 2026 14:12:00 -0000）
+【子片段 GUID】urn:podcast:nasa.gov:curious-universe:artemis-ii-new-ride:clip:bathroom:724.1-782.4]]></description>
+<content:encoded><![CDATA[[Music: Supercluster by Sergey Azbel]
+
+JACOB PINTER: You’re listening to NASA’s Curious Universe. I’m Jacob Pinter.
+
+PADI BOYD: And I’m Padi Boyd. NASA is leading a golden age of space exploration. The Artemis II mission will send humans around the Moon for the first time in more than 50 years. It sets the stage for future Artemis missions, when astronauts return to the Moon’s surface. And Artemis will build upon the foundation we’ve laid and prepare us for the first human journey to Mars.
+
+JACOB: In this limited series, you’re along for the ride of Artemis II. You’ll meet the astronauts flying around the Moon and go behind the scenes with NASA engineers and scientists powering this mission.
+
+PADI: This is episode three of our Artemis II series. In this episode: NASA’s new ride to the Moon. We’ll get a tour of the spaceship returning astronauts to deep space. And we’ll hear from one of the architects of the Space Launch System, the most powerful rocket NASA has ever built.
+
+NASA’s next-generation spaceship is called Orion. It’s part of NASA’s system to send astronauts on journeys of exploration to the Moon. During the Artemis I mission in 2022, Orion flew around the Moon without humans onboard. Now it’s time to send astronauts.
+
+VICTOR GLOVER: The Orion spacecraft is humanity’s first lunar capable spacecraft in a very long time.
+
+[Music: City Builders by Laurent Levesque]
+
+PADI: That’s Victor Glover, the pilot for Artemis II. Along with Reid Wiseman, Christina Koch, and Jeremy Hansen Victor is part of the crew that will fly Orion for the very first time. Here’s Christina.
+
+CHRISTINA KOCH: The Artemis II mission at its heart is a test mission of the Orion space capsule. This is going to be the first time that humans have ridden inside that capsule and that everything on board keeps us alive. We’ll do different things to test out the vehicle for a few days. We’ll come very close to the moon, go around it, and spend a few days coming home to Earth.
+
+PADI: Throughout the mission, Orion has to protect the astronauts from some extreme conditions. In deep space, it provides air pressure and oxygen that humans need to survive. To return home, the spacecraft pierces Earth’s atmosphere at about 25,000 miles an hour, or 40,000 kilometers an hour. Orion’s heat shield will reach temperatures of 5,000 degrees Fahrenheit. That’s getting close to the temperature of the Sun! But inside the capsule, it will be right around room temperature. According to Reid Wiseman, you can feel how sturdy Orion is.
+
+REID WISEMAN: When you get inside this spacecraft, you start to realize the depth of thought that has gone into everything. I once joked that every lesson that has ever been learned in human spaceflight has been rolled into Orion. Every cable is a little bit thicker than it needs to be. Every computer has more redundancy than it needs to. But at the end of the day, that’s what you want when you’re flying into deep space, when you’re leaving the comfort of planet Earth and you’re heading out to the Moon and on to Mars. You need those redundant and reliable systems.
+
+PADI: The amount of space inside Orion’s crew module—that is, the part where the astronauts actually stay—is along the lines of two minivans. So during their 10 days in space, these four astronauts are going to spend some quality time together. And it’s not just that they need protection from the elements. Orion also has to provide a place to sleep, to eat, and, of course, to use the bathroom.
+
+CHRISTINA: Basically Orion is kind of like our RV, you could say, on these deep space missions.
+
+PADI: The Artemis II astronauts have a unique relationship with Orion, and they also have a unique privilege.
+
+[Music: Orion Rises by JC Lemay]
+
+As the first crew to fly this spaceship, they get to name it. The crew chose Integrity. It’s a core value shared by NASA, the astronaut office, and the Canadian Space Agency. Reid says, at first, Integrity was actually not even on the list. But as the astronauts ran through their options over and over, Integrity appeared and then rose to the top.
+
+REID: And then we started to look through our own core values as a crew, because we spent a lot of time and intentionality on that. And we have a little saying in the crew that you we could either be “in integrity” or “out of integrity”. We use it all the time. If you show up to class prepared and early and ready to go, you’re in integrity. If you show up five minutes late because you had to go grab a coffee or you didn’t plan properly, you’re out of integrity. So we give each other a lot of grace. You know, you’re not always perfect and you’re not always wrong, so you can come in and out of this mindset.
+
+JACOB: Integrity is also an important quality for a spaceship. Orion must maintain integrity to survive the brutal environment of space and to return the astronauts safely. Every single detail is critical. That’s why it has taken the work of many people to get Orion to the launch pad and years of development and testing.
+
+I spent some time talking to one of those people: Branelle Rodriguez. She’s the Orion vehicle manager for Artemis II. Orion draws on lessons learned from basically every NASA mission, especially the International Space Station. After all, humans have been living on the space station continuously for more than 25 years. And that’s where Branelle got started too. She worked her way up as a NASA engineer, starting with equipment used on the space station.
+
+BRANELLE RODRIGUEZ: And I got to work on space flight hardware. Specifically, I got to design life support systems. And I always used to tease, it was always your bedroom, bathroom, and kitchen. You know, the essential things that make us all tick.
+
+JACOB: I was, you know, just getting ready for this, and I was doing some research, and I found some papers you wrote in the past, or like, maybe abstracts for papers you presented at a conference or something. But some of the topics that I found were making a better fire extinguisher on the International Space Station and the Urine Monitoring System on the International Space Station. I mean, how do you describe that part of your background?
+
+BRANELLE: Yeah, those are my two babies. Those are great ones. Actually, just had an opportunity to talk to my daughter’s fifth grade class, and it was a very basic question of, “What do engineers do?” And I had, you know, 50 different kids yelling things at me. But the root of it is, is we just problem solve. We problem solve using math and science, right? And it was a fun thing to kind of talk about, like whether that problem solving is figuring out how to launch and trajectories of a spacecraft, or if it’s as simple as, Hey, we have to put out a fire in microgravity and I don’t have gravity. How would we do it? Emergency response is very critical, right? You always design and build stuff, especially for spaceflight—we rule out the capability of ever getting into that scenario. That being said, what’s the what if? What if we do get into that scenario because we didn’t think of something and we failed to imagine a failure going here, what would we do? We want to arm the crew with any means necessary. And so the fire extinguisher was a super cool project, because not only did you have to understand how fire would react in zero-G, but then you had to understand how your fire extinguisher would basically be expelled, and where all those now mixed up contaminants and things like that would go, and how are we going to effectively fight these fires?
+
+JACOB: Did that fire extinguisher that you worked on, did it end up on the ISS?
+
+BRANELLE: It sure did! And it’s my one piece of hardware that I hope never gets used.
+
+[Music: Early Symptom by Pierre Terrasse and Nicolas Subrechicot]
+
+JACOB: So I am wondering if you can give me a tour of Orion. And I’m almost imagining like this is the Orion episode of MTV Cribs, and we show up at the front door together, such as it is. What do we see first?
+
+BRANELLE: Well, the first thing you’re going to see if you’re on the ground, you’re going to see two spectacular doorways as we enter into Orion. No, so we do have two hatches that—so when the astronauts kind of enter into the vehicle, there’s actually two hatches. The first hatch is what’s called our Launch Abort System, the big tip-top point of the rocket that is only there for the first part of spaceflight. And hopefully we never have to utilize it. And then we’ll jettison it. But then you’ll go into the crew module side hatch, and when you enter into Orion, you’ll step down. And the first thing you’ll step down in 1 g is your hygiene bay. So right below where you step down from Orion is actually the bathroom. Don’t worry, you don’t step into the bathroom. There is a door. We do respect privacy, but that’s actually where that’s at. And when you’re stepping into it, you actually step over what we call our flywheel or it’s our exercise device. Think of it kind of like a rowing machine. And so you’ll step over that, step over there, and we have four seats in Orion. You have your commander, your pilot, and they’re going to be up underneath the displays. And so when I walk in, those are on my left-hand side. And then the mission specialists, which would be Christina and Jeremy, they’re going to be on our right-hand side, kind of sitting below, so to speak, our commander and our pilot, which is Reid and Victor. And so you’ll kind of go in and get buckled up, and when you’re on your backs now ready for launch, you have your displays in your controls that are overhead. So Victor and Reid get to take a look at those as they launch. But then there are going to be four beautiful windows that they also get to look out of and see, you know, Earth and the Moon from their viewpoints. And then, honestly, kind of around is the uniqueness of space, right? We can use every wall—little nooks and crannies that we can to kind of put things.
+
+JACOB: I’ve heard the astronauts say that in terms of the amount of space that they have inside Orion, it’s on par with a minivan, maybe. So it’s not a huge amount of space. But it sounds like it’s sort of segmented. Like, this is the place where you go to the bathroom. This is the place where you fly the spacecraft. This is the place where you can exercise.
+
+BRANELLE: Yeah, absolutely. And if you’ve seen anything about minivans, man, they design those so that there’s all sorts of ways you can take advantage of that space and maximize it to its fullest, and that’s kind of what we’ve done with Orion as well. We are people, you know. Our astronauts are people, right? So having any type of an opportunity for them to have that personal space, whether it is just to go use the restroom or it is, “Hey, this is my little corner of my nook”, right, where I’m going to keep my things is really critical for everybody. Just like you are in a minivan, right? This is my seat. I have my situation right here. I got my bags. I know what I want. I know where my book’s at, that sort of thing too.
+
+JACOB: This is always a point of interest, so I’m just going to go for it. How do you use the bathroom in Orion, in space?
+
+BRANELLE: (Laughs) Very carefully. You know, spaceflight and going to the bathroom is probably one of my favorite conversations, I’ll be honest. And it’s a great one to have actually with kids, because you’d be surprised at how brilliant their answers are. So the toilet that we actually have on Orion is modeled and designed after one of the toilets that we have on the space station today. When you get in there, first and foremost, you’re going to find yourself to make sure you get in a good configuration where you’re—you know, there’s handrails, there’s tethers, there’s things to secure you, right? Because you’re in microgravity, so you’re constantly moving around and floating. For liquid wastes—the liquid waste will actually be vented out of the spacecraft, very similar to how Apollo also did it. And solid wastes are actually stored into a container. We call it a fecal collection container, and we utilize filters like carbon filters and things to help with odors and whatnot.
+
+JACOB: Can you say more about how Orion draws on the 25 years of research that we have from the International Space Station? I mean, are there, like, specific lines you can draw where you say, Oh, yeah, that system, we really learned how to do that on the space station? Or that piece of technology or equipment or whatever it is.
+
+BRANELLE: Our life support system is one of them. The water dispenser that we have is based off the water dispenser that we have on space station as well, kind of different versions, if you want to call it that, because of the need for and the size and constraints and things in Orion. A lot of what we’ve learned is honestly how the human body reacts and responds as well. And we’ve taken those things into account with, you know, what we need to do for radiation protection, what we need to do to do exercise, and how would we accommodate that from that perspective, let alone all your thermal protection systems and everything else that we’ve learned from shuttle and, you know, the years that that team has to understand how to build those systems has really all flowed into Orion and what Orion can do.
+
+[Music: Flight by Alex Kish]
+
+JACOB: Tell me about the relationship that your team has with the Artemis II astronauts. I mean, there are a lot of people building Orion and making it as good as it can possibly be, but they’re the ones who have to climb into it at the end of the day, right?
+
+BRANELLE: They absolutely do. The Artemis II crew, they’re phenomenal. I will be the first one and probably not the only one to say that. They have, from the get-go, made an effort to meet as many of the folks that touch this vehicle, that fly this vehicle, that have anything to do with getting this mission off the ground as they can. They have been really integral in all of that, and we appreciate [that] for them, right? Because they bring a perspective and an aspect that is unique to their viewpoint, and we really appreciate that, and that’s what we need.
+
+JACOB: The astronauts chose the name Integrity for their spacecraft. Did you get a vote? Or your team?
+
+BRANELLE: That was all the crew. This crew has really shown how much this is not just them, but it’s everybody, and I think Integrity—that they chose that—really builds upon, you know, not only the patch that really is encompassing to everybody who’s been involved in it and all of humanity, but also what it takes to kind of do what we do some days, right? It takes that integrity to continue pushing and driving and speaking up when you don’t agree. And that’s—it’s pretty cool that they brought forward that way. But no, I did not get a vote.
+
+JACOB: Have you thought ahead to what it will feel like for you personally when Artemis II and Orion and those four astronauts fly away?
+
+BRANELLE: To some extent, yes. You know, I’m kind of an athlete by heart, right? And so with anything, I think, when you talk with folks who do sports or run races or whatever they might do, everyone at some point thinks, look what I could accomplish, right? Look what I could get to. I can get to, you know, running across the finish line or winning the match. You know, sometimes I’ll envision seeing that moment when the crew pops open the hatch, right? And they get on the helo and land on the deck of the ship and smile and wave at the camera, right? Because that’s the moment that I’m waiting for, because I feel like then, then I can breathe. Then I can take a moment to say we’ve gotten the crew back safely, and that’s the success point, right? After that, I’m going to take a very long vacation and probably a nap, but we’ll get to that bridge when we get to it. So there are moments, yeah, absolutely, you got to remind yourself of ultimately what the goal is, and that’s my goal.
+
+JACOB: Orion is going to help deliver humans back to the surface of the Moon and maintain a long-term presence there, and one day we’re going to watch humans leave the first footprints on Mars. Do you ever step back and think about the role that you are playing and making that all happen? And if so, how do you think about all that, or process all that? Just—it’s a lot. It’s big.
+
+BRANELLE: It is a lot. No, that’s a great way to describe it. It is a lot. I’m very lucky. I have two awesome kiddos that keep me grounded, and we’ve had to have a lot of conversations, because my time with them has been very limited, especially in the last several months, and will be in the months leading up to the flight and the mission. And, you know, it’s kind of interesting, because sometimes when you just put it in the [most] basic of terms, it makes the most sense. And so they’ll sit there and be like, Well, Mom, why do you have to do this? Why do you have to go? And you know, it’s like, well, because we’re making history. And history is not easy sometimes. And so when you have kids and you’re reading a book, this mission is going to be part of that, and Artemis is going to be part of that. And that is pretty darn cool when you think about it.
+
+[Music: Radiate by Janet Overfield]
+
+JACOB: Branelle Rodriguez is the Orion vehicle manager for Artemis II. Now, Orion is an important part of the trip to the Moon, but it’s not the only part. It needs a big rocket to push it off of Earth’s surface and begin the journey to deep space. NASA’s new Moon rocket is called SLS, the Space Launch System. It’s the most powerful rocket NASA has ever built. Fully assembled, SLS stands more than 30 stories tall. If you laid it on its side, SLS would be as long as a football field, and it creates more than 8 million pounds of thrust.
+
+PADI: Like Orion, SLS builds on NASA’s experience over time. Some parts of the rocket use hardware and designs that were proven during the space shuttle program. For example, of the four main engines on SLS for Artemis II, three of the engines flew to space on shuttle missions, and the other one is new, with some hardware that has previously flown.
+
+JACOB: David Beaman is one of the key figures behind this rocket. He’s the acting manager of the Space Launch System. He’s been working on this rocket for over a decade, and before that he was a part of dozens of space shuttle missions. Today David is chomping at the bit to head to the Moon.
+
+DAVID BEAMAN: I’ve heard people ask, why do we need to go back to the Moon, right? We’ve already been. The Moon is the same when we went in the 60s. We are not. We’re different today. Just because you’ve been somewhere doesn’t mean you shouldn’t go back and experience more. We don’t do that with vacations, right? You don’t say, “Well, you know, I’m not going to go on vacation this year. I went on vacation last year,” right? No! You don’t look at it like that. You look at it and say, I have an opportunity to experience more, right, know more and do more. And that’s part of the excitement.
+
+[Music: Not the End of the World by Jay Price]
+
+JACOB: David is actually a second-generation rocket scientist. His father, Robert Beaman, worked on the Apollo program that landed the first astronauts on the Moon. Eventually he held the title of chief engineer at NASA’s Marshall Space Flight Center in Alabama, which is where David is based now.
+
+David is a senior engineer in his own right. He’s part of the Artemis II mission management team. The mission management team assesses risk throughout the mission and is responsible to make key decisions like, are we ready to launch? In fact, on launch day David will be one of the people asked to provide a final sign-off. To begin, I asked if he could boil down the Space Launch System into a sentence or two.
+
+DAVID: It’s the rocket that our forefathers dreamed about, right? You know, they had the Apollo program. They had the Saturn V. We have so much more technology today, so it’s really the most energetic, accurately flying rocket that humans have ever thought about, and it’s capable of carrying humans into deep space and protecting them, not only on the journey there but on the journey back.
+
+JACOB: Can you sort of pop the hood for me and explain, you know, how does it do that? What makes SLS tick?
+
+DAVID: OK, yeah, I’d love to. So the first thing is, you have two solid rocket boosters. The solid rocket boosters were built on the pedigree of the space shuttle program. Those two solids provide about 70 percent of the thrust to get it off the launch pad, millions of pounds of thrust, and they burn for a little over two minutes. And the whole purpose of them is to get that initial oomph to get us off of the launch pad and to take us into an area where we have the opportunity to get the upper stage to orbit. At that point, they separate. The whole time you’re relying on the liquid engines as well. So the RS-25s, which are based on the space shuttle program as well, they’re providing a significant amount of thrust on ascent. But then when the solid rocket boosters separate, they provide the next stage capability, and they go all the way through about 500 seconds, about eight minutes.
+
+[Music: Conscious of Time by Paul Richard O’Brien]
+
+JACOB: After those eight minutes—at which point the rocket has already climbed almost a hundred miles above Earth’s surface, traveling almost 23 times the speed of sound—the core stage falls away, leaving an upper stage to propel Orion to the next leg of its journey.
+
+It’s hard to wrap your head around just how powerful this rocket is, and it’s even harder to imagine being strapped into the spaceship on top of it. Each of the engines in the SLS core stage produces about eight times more thrust than an F-15 fighter jet. And the rocket has four of those engines. The solid rocket boosters—which are the skinny white tubes on the side—burn so hot that when you test-fire them here on Earth, they turn sand into glass.
+
+This is a brawny, powerful rocket, but it also has brains. The core stage of the rocket has three flight computers with sophisticated software designed specifically for SLS. Those computers guide the rocket like an autopilot system. In fact, SLS basically flies itself, although humans can take over if something unexpected happens. NASA engineers have tested the software repeatedly, verifying all of the code that will control the rocket.
+
+DAVID: So we will have done literally thousands of simulations in pieces, and then ultimately we do end to end testing dozens and dozens of times with those particular simulations with the software executing things, and then we introduce the human into the loop, and we do simulations of launches. And you have everybody sitting in the place that they would be, and so all of the data is flowing to the launch team like it would be in a standard launch countdown, and then there are problems that are interjected into that data to see how the humans and how the computers deal with it. So you don’t just do simulations with computers. You introduce the human element into it, because ultimately humans are flying on it. If there are things that happen during launch countdown that require us to accept additional risk before we launch, that’s what the mission management team is responsible for.
+
+JACOB: Once Artemis I flew and you had a chance to sort of step back and look at everything, how did SLS perform during that mission?
+
+DAVID: It really performed well. What I can tell you, from a prediction standpoint, our chief engineer, Dr. Blevins, likes to quote that we flew within 0.02 percent of our prediction. Nothing’s going to fly perfect. I can tell you there were things that we learned in Artemis I that’s going to make Artemis II safer. Spaceflight is inherently risky, so what you want to do is learn from everything that you can. You know, one of the most exciting things to me after Artemis I was to come home and talk to my dad. You know, my dad was an engineer—very similar job to what I have—during the Apollo program. And so to be able to come home and share with him the mission and how it performed and listen to him feed back to me things that they did during the Apollo program, you know, that was priceless to me. And so what I tell you is he always taught me that you learn from your mistakes, right? Success never taught me a single thing, right? I learned something when I didn’t do something that wasn’t quite as successful. And we have to be a learning organization, because we already know how risky spaceflight is. You don’t want to take someone’s mom, dad, aunt or uncle, or brother and sister and put them on a spacecraft and fly on hope, right? Hope is not a management technique.
+
+JACOB: When you were growing up with a dad who worked on the Apollo program, I mean, did you always know you wanted to be in the space program? Did you just have NASA stamped across your forehead?
+
+DAVID: I didn’t, and I took a little bit different path, and I worked on some military projects and other things. You know, when you’re a part—when you’re in the middle of something—you don’t always appreciate the significance of it. And yes, you know, I knew my dad, he worked with von Braun and Rudolph and all those guys, and I knew he did something that was pretty meaningful. But it was your life every day, and you really didn’t appreciate how epic what we did back in the sixties was. I’ve just really come to appreciate that, really in the last 10 years, having an opportunity to work on a program to try to go back to the Moon, seeing the challenges that we have and realizing what those guys did back in the sixties. And they didn’t have the tools we have, right? They’re the true giants from spaceflight. They’re the ones that taught us that we could, right?
+
+JACOB: What does your dad think of the Artemis program? And especially, what does he think about your role in it?
+
+DAVID: Well, I lost my dad three days after we landed Artemis I.
+
+JACOB: Oh, I’m sorry.
+
+DAVID: But, like I said, he was still—I was able to come back after the launch and talk with him about it. He was excited that we were going back to the Moon. He was extremely proud that I was doing something similar to what he did. You know, he was—a hundred times the engineer I ever was. I’m blessed to be in the right place and work with a lot of smart people. He was one of the smart people. And so I would like to think that he’s looking down on me right now, and he continues to be very proud at what I’m doing and how I’m able to continue what he would consider to be a tremendous NASA legacy.
+
+JACOB: Yeah. I have no doubt. Artemis II will put astronauts onto your rocket for the first time. Does that change the way that you and your team get ready for this mission?
+
+DAVID: It does to some extent. So obviously, we wanted to design this rocket from the beginning to be human rated. But it’s just like anything else you do: when it comes down to the point where you’re actually putting another person’s life at risk, yeah, it changes how you look at it. Our job is to protect those people, right? Our number one job is to protect the astronauts. We want to go to space. We want to go to the Moon. We want to execute science. But none of that is worth a life. So it changes how you think about it. It makes you ask yourself questions. When you’re sitting in the mission management room and you’re working an issue, you ask yourself, What if I’m wrong? When you try to solve a problem, it isn’t just, “I think I’m right. I think this is what we should do.” What is the consequence if I’m wrong? And if you don’t really understand the problem, you ought to stand down for that day. Three weeks after the launch, no one is going to care whether you launched on Tuesday or on Friday, right? They care that day. But you need to do what’s right. You need to do what’s right to protect the precious cargo and the astronauts that we have. We go there to do science with humans. We need to make sure those humans are taken care of.
+
+JACOB: I know that there’s still work to do, but have you thought ahead to that moment when, you know, weather is good, everything checks out, it really happens, and Artemis II flies away? I mean, do you know what you’ll be thinking or feeling right then?
+
+DAVID: Yeah, I think about it every day, because decisions we make on a daily basis are much more important than the decisions we make the day we’re sitting in the firing room, right? If we don’t make the right decisions from now till then when we do our flight readiness reviews, that decision that day will not be the decision that causes us to be successful or not successful. So, yeah, I think about it all the time. I just think about what it would be like to fly. You know, would I go tomorrow? Strap me on. I would fly in a heartbeat. Because exploration, it’s built into our DNA. When we’re little, we explore our crib, right? And when we get out of that—finally get to the point where we can crawl out—we explore our room and then our house and then our neighborhood. We don’t stop and say, “I’ve learned enough. I don’t want to go to the next neighborhood,” or “I don’t want to go to the next city.” It’s built into us to have a desire to learn something new, see something new, and do something different.
+
+JACOB: One thing that I always ask people: What are you still curious about? Whether it’s at work or something, like, completely outside of work.
+
+DAVID: Gosh. I’m curious every day. I like anything that challenges me. And the best thing you can do if you want me to do something is just tell me I can’t do it or I’d better not do it. Either one of those is—that’s a trigger for me.
+
+[Music: Enigmatic Serenity by JC Lemay]
+
+You ever laid in your backyard at night and looked up at the stars? What’s out there? Right? We ask ourselves, what’s out there? When I lay out, and I look and I see all the stars, it makes you feel really small in the grand scheme of things, but then it makes you feel really big that you’re a piece of this overall universe. And you can either choose to do something positive and add to it and help add to the legacy of what we’re doing in this country, or you can choose not to be a part of it. I choose to be a part of it.
+
+[Music: Inner Peace by JC Lemay]
+
+PADI: This is NASA’s Curious Universe, an official NASA podcast. Our Artemis II series was written and produced by Christian Elliott and Jacob Pinter. Our executive producer is Katie Konans. Wes Buchanan designed the show art for this series. Music for the series comes from Universal Production Music.
+
+JACOB: We had support throughout this series from Rachel Kraft, Lisa Allen, Lora Bleacher, Brandi Dean, Courtney Beasley, Amber Jacobson, and Thalia Patrinos. Huge thanks to the subject matter experts you heard in this episode, as well as Amy Marasia from NASA and Jim Skaggs from Lockheed Martin. At Kennedy Space Center, we had help from Allison Tankersley. At Johnson Space Center, we had help from Rad Sinyak and Will Flato. At Marshall Space Flight Center, we had help from Marcia Lindstrom, Janet Sudnik, and Alex Russell. You can find transcripts for every episode of Curious Universe — and explore NASA’s other podcasts — at nasa.gov/podcasts.
+
+If you enjoyed this episode of NASA’s Curious Universe, tell us about it! Leave us a review wherever you’re listening right now. Why not send a link to one of your friends? And you can follow NASA’s Curious Universe in your favorite podcast app to get a notification each time we post a new episode.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>artemis-ii-new-ride</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/artemis-ii-inside-nasas-new-ride-to-the-moon</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-03</_collected_at_beijing>
+<_audio_verified>HEAD 跟随重定向得 audio/mpeg + 49346198 字节；整文件下载后 ffprobe 时长 2040.816 秒、字节数一致，ffmpeg 全量解码零报错</_audio_verified>
+<_child_clip_guid>urn:podcast:nasa.gov:curious-universe:artemis-ii-new-ride:clip:bathroom:724.1-782.4</_child_clip_guid>
 </item>
 <item>
 <title>Coral Bleaching</title>

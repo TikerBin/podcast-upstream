@@ -1,0 +1,36 @@
+1
+00:00:00,000 --> 00:00:05,020
+NASA has been using mobile launchers since the Apollo missions in the 1960s and '70s,
+
+2
+00:00:05,260 --> 00:00:08,240
+although the mobile launcher for Artemis missions has new upgrades.
+
+3
+00:00:09,300 --> 00:00:11,500
+The mobile launcher is the rocket's lifeline.
+
+4
+00:00:12,240 --> 00:00:16,840
+It's a platform, it's a source of fuel and electricity, and it even has the elevator
+
+5
+00:00:16,840 --> 00:00:20,000
+that takes astronauts up to the walkway where they board their spacecraft.
+
+6
+00:00:21,000 --> 00:00:25,820
+The backbone of that rocket while it's on Earth is the mobile launcher, which is what
+
+7
+00:00:25,820 --> 00:00:26,800
+we see in front of us.
+
+8
+00:00:27,420 --> 00:00:33,660
+It stands about 380 feet tall. It weighs about 11.5 million pounds, and it is movable.
+
+9
+00:00:34,460 --> 00:00:36,380
+It is basically a skyscraper that can move.
+
