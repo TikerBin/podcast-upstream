@@ -5,7 +5,7 @@
 <link>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main</link>
 <description>仅含独立片段条目：片段 enclosure 为仓库自托管 clips 直链，文案仅覆盖片段音频；整集不在此 feed，整集不得冒充短片段。</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 01:38:33 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 01:19:39 +0000</lastBuildDate>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/feeds/ready-clip.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Their Mars window is a TV — clip from Encore: A Year In Mars Dune Alpha</title>
@@ -823,6 +823,96 @@ the words would be, almost Mars.]]></content:encoded>
 <_parent_id>nasa-artemis-ii-new-ride</_parent_id>
 <_clip_start_s>724.1</_clip_start_s>
 <_clip_end_s>782.4</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>I cried — clip from Artemis II: What NASA Learned From Launching Artemis I (1427.0-1459.6s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/artemis-ii-what-nasa-learned-from-launching-artemis-i</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:artemis-ii-what-learned:clip:cried:1427.0-1459.6</guid>
+<pubDate>Tue, 20 Jan 2026 14:03:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-artemis-ii-what-learned-clip-cried.mp3" length="494047" type="audio/mpeg"/>
+<itunes:duration>33</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】Jacob 问 Joe Pavicic：在帮忙叫停前一次发射尝试后是什么感受；Joe 说自己哭了——不是因为挫折，而是因为成功那一刻的完美：和好友 Max 并肩坐着，看火花与发动机点火，紧紧抓住彼此，火箭真的走了，那一刻他永远不会忘记。
+【Reels 角度】叫停发射的人，哭在成功那一刻：Joe Pavicic 说自己哭得比出问题时还厉害——和好友并肩坐着，看火花与发动机点火，火箭真的走了。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; the episode transcript marks music cues (Supercluster, Rays of Hope, New Generations, Natural Time Cycles, Personally Crafted, Mind Over Matter, Sea of Stars, Shared Future, Touch of Eternity, Mesmerized, Taste of Fear, Ice Splendor, Destiny Calls) all outside this segment.
+【来源】https://www.nasa.gov/podcasts/curious-universe/artemis-ii-what-nasa-learned-from-launching-artemis-i
+【采集日（北京时间）】2026-11-04
+【发布时间精度】exact（Inherits parent original publish date (Megaphone RSS Tue, 20 Jan 2026 14:03:00 -0000); clip itself was modelled 2026-11-04 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:artemis-ii-what-learned
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/artemis-ii-what-nasa-learned-from-launching-artemis-i
+【片段】原集 1427.0-1459.6 秒，32.6 秒，原声，未加 BGM，文件：clips/nasa-artemis-ii-what-learned-clip-cried.mp3]]></description>
+<content:encoded><![CDATA[I asked Joe Pavicic what he was feeling after he had helped wave off one of the previous launch attempts. Oh I cried. I cried—I think I cried more than for the actual issue. No, it was just like—it was perfection. And you know, and then we're going to terminal count. I just remember sitting next to one of my best friends, Max. And we're just sitting there like, Are we going? We're going. Nothing stop us. We're going. And we just saw, like, the sparklers and the engines light. We just grabbed each other like, Oh my god, we're actually going right now! I remember that moment very clearly. It's one of those moments—I'll just never forget it.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>artemis-ii-what-learned-clip-cried</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/artemis-ii-what-nasa-learned-from-launching-artemis-i</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-04</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 32.600s / 494047 bytes (ffmpeg cut from verified full MP3 in this run, 2026-11-04); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-artemis-ii-what-learned-clip-cried.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-artemis-ii-what-learned-clip-cried.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-artemis-ii-what-learned-clip-cried-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-artemis-ii-what-learned-clip-cried-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:artemis-ii-what-learned</_parent_guid>
+<_parent_id>nasa-artemis-ii-what-learned</_parent_id>
+<_clip_start_s>1427.0</_clip_start_s>
+<_clip_end_s>1459.6</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>Telling the family — clip from Artemis II: Meet the Moonbound Astronauts (1943.9-1993.7s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/artemis-ii-meet-the-astronauts</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:artemis-ii-astronauts:clip:family-reactions:1943.9-1993.7</guid>
+<pubDate>Tue, 13 Jan 2026 14:00:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-artemis-ii-astronauts-clip-family-reactions.mp3" length="891663" type="audio/mpeg"/>
+<itunes:duration>50</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】圆桌对谈里聊告诉家人：Jeremy 说孩子和妻子由衷为他高兴，感受到被支持；Reid 是两个女儿的单亲爸爸，告诉女儿们后，第二天早上大女儿做了月球纸杯蛋糕——那个起初最反对的孩子，反而推着他向前，那正是当父母最想感受到的时刻。
+【Reels 角度】告诉家人要去绕月：Jeremy 的孩子和妻子由衷为他高兴；Reid 的大女儿——那个起初最反对的孩子——第二天早上做了月球纸杯蛋糕，推着爸爸向前。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; the episode transcript marks music cues (I Want to Be An Astronaut, Fast Motion Orchestra, Supercluster, Singularity, Aurora Borealis, Redshift, Political Strategy, Busy Life, Turbulent Times, Spacewalk, Towards the Light, The Perfect Process, Contemporary Art Daily, One Step At a Time, Staring Into Infinity, New Horizons, Inner Peace) all outside this segment.
+【来源】https://www.nasa.gov/podcasts/curious-universe/artemis-ii-meet-the-astronauts
+【采集日（北京时间）】2026-11-04
+【发布时间精度】exact（Inherits parent original publish date (Megaphone RSS Tue, 13 Jan 2026 14:00:00 -0000); clip itself was modelled 2026-11-04 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:artemis-ii-astronauts
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/artemis-ii-meet-the-astronauts
+【片段】原集 1943.9-1993.7 秒，49.8 秒，原声，未加 BGM，文件：clips/nasa-artemis-ii-astronauts-clip-family-reactions.mp3]]></description>
+<content:encoded><![CDATA[I also was really pleased by the reaction of my children and my wife. They were just really excited for me. And even though there's, you know, there's a risk aspect to this, they knew it was something that that I was interested in pursuing, and I it just felt really good that they were as excited, genuinely, as excited as they were, which was felt very supported. I'm an only parent with two daughters, and it was hard for me to go home and tell the. I'll just keep this short, but I—once, I told them, they turned it around in their head to an extremely positive thing. And the next morning, I woke up and my older daughter had made Moon cupcakes for the family. And she was the one that was, I think, most against this for her life. And so I just—I thought that was amazing. Like here these two kids I thought were gonna pull me, but they were pushing me, and I that was, I will never forget that like that is exactly the way you want to feel as a parent. It was such a cool moment for me.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>artemis-ii-astronauts-clip-family-reactions</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/artemis-ii-meet-the-astronauts</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-04</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 49.800s / 891663 bytes (ffmpeg cut from verified full MP3 in this run, 2026-11-04); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-artemis-ii-astronauts-clip-family-reactions.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-artemis-ii-astronauts-clip-family-reactions.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-artemis-ii-astronauts-clip-family-reactions-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-artemis-ii-astronauts-clip-family-reactions-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:artemis-ii-astronauts</_parent_guid>
+<_parent_id>nasa-artemis-ii-astronauts</_parent_id>
+<_clip_start_s>1943.9</_clip_start_s>
+<_clip_end_s>1993.7</_clip_end_s>
 <_clip_source_nature>original_audio</_clip_source_nature>
 </item>
 <item>

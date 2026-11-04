@@ -1,0 +1,1173 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.84,
+    "text": "I also was really pleased by their action of my children and my wife.",
+    "words": [
+      {
+        "word": " I",
+        "start": 0.0,
+        "end": 0.44,
+        "probability": 0.503418505191803
+      },
+      {
+        "word": " also",
+        "start": 0.44,
+        "end": 0.78,
+        "probability": 0.813136637210846
+      },
+      {
+        "word": " was",
+        "start": 0.78,
+        "end": 1.4,
+        "probability": 0.888014554977417
+      },
+      {
+        "word": " really",
+        "start": 1.4,
+        "end": 1.68,
+        "probability": 0.9851825833320618
+      },
+      {
+        "word": " pleased",
+        "start": 1.68,
+        "end": 2.18,
+        "probability": 0.9712312817573547
+      },
+      {
+        "word": " by",
+        "start": 2.18,
+        "end": 2.54,
+        "probability": 0.99105304479599
+      },
+      {
+        "word": " their",
+        "start": 2.54,
+        "end": 2.72,
+        "probability": 0.8730962872505188
+      },
+      {
+        "word": " action",
+        "start": 2.72,
+        "end": 3.04,
+        "probability": 0.98234623670578
+      },
+      {
+        "word": " of",
+        "start": 3.04,
+        "end": 3.22,
+        "probability": 0.9669687747955322
+      },
+      {
+        "word": " my",
+        "start": 3.22,
+        "end": 3.56,
+        "probability": 0.9981892704963684
+      },
+      {
+        "word": " children",
+        "start": 3.56,
+        "end": 4.12,
+        "probability": 0.9945656061172485
+      },
+      {
+        "word": " and",
+        "start": 4.12,
+        "end": 4.4,
+        "probability": 0.985231876373291
+      },
+      {
+        "word": " my",
+        "start": 4.4,
+        "end": 4.58,
+        "probability": 0.997545063495636
+      },
+      {
+        "word": " wife.",
+        "start": 4.58,
+        "end": 4.84,
+        "probability": 0.9984134435653687
+      }
+    ]
+  },
+  {
+    "start": 5.44,
+    "end": 9.4,
+    "text": "They were just really excited for me, and even though there's a risk aspect to this,",
+    "words": [
+      {
+        "word": " They",
+        "start": 5.44,
+        "end": 5.54,
+        "probability": 0.9910112619400024
+      },
+      {
+        "word": " were",
+        "start": 5.54,
+        "end": 5.68,
+        "probability": 0.9986257553100586
+      },
+      {
+        "word": " just",
+        "start": 5.68,
+        "end": 5.8,
+        "probability": 0.9961250424385071
+      },
+      {
+        "word": " really",
+        "start": 5.8,
+        "end": 5.98,
+        "probability": 0.9953935146331787
+      },
+      {
+        "word": " excited",
+        "start": 5.98,
+        "end": 6.34,
+        "probability": 0.9990463852882385
+      },
+      {
+        "word": " for",
+        "start": 6.34,
+        "end": 6.58,
+        "probability": 0.9976947903633118
+      },
+      {
+        "word": " me,",
+        "start": 6.58,
+        "end": 6.78,
+        "probability": 0.9997026324272156
+      },
+      {
+        "word": " and",
+        "start": 6.84,
+        "end": 6.92,
+        "probability": 0.9851222038269043
+      },
+      {
+        "word": " even",
+        "start": 6.92,
+        "end": 7.08,
+        "probability": 0.9964179992675781
+      },
+      {
+        "word": " though",
+        "start": 7.08,
+        "end": 7.36,
+        "probability": 0.9965027570724487
+      },
+      {
+        "word": " there's",
+        "start": 7.36,
+        "end": 7.74,
+        "probability": 0.9732511043548584
+      },
+      {
+        "word": " a",
+        "start": 7.74,
+        "end": 8.26,
+        "probability": 0.6059159636497498
+      },
+      {
+        "word": " risk",
+        "start": 8.26,
+        "end": 8.48,
+        "probability": 0.9941653609275818
+      },
+      {
+        "word": " aspect",
+        "start": 8.48,
+        "end": 8.94,
+        "probability": 0.9961531758308411
+      },
+      {
+        "word": " to",
+        "start": 8.94,
+        "end": 9.16,
+        "probability": 0.9849002361297607
+      },
+      {
+        "word": " this,",
+        "start": 9.16,
+        "end": 9.4,
+        "probability": 0.9994482398033142
+      }
+    ]
+  },
+  {
+    "start": 9.5,
+    "end": 14.18,
+    "text": "they knew it was something that I was interested in pursuing, and it just felt really good that",
+    "words": [
+      {
+        "word": " they",
+        "start": 9.5,
+        "end": 9.64,
+        "probability": 0.9941269159317017
+      },
+      {
+        "word": " knew",
+        "start": 9.64,
+        "end": 9.78,
+        "probability": 0.9980108141899109
+      },
+      {
+        "word": " it",
+        "start": 9.78,
+        "end": 9.92,
+        "probability": 0.9925206899642944
+      },
+      {
+        "word": " was",
+        "start": 9.92,
+        "end": 10.06,
+        "probability": 0.9993465542793274
+      },
+      {
+        "word": " something",
+        "start": 10.06,
+        "end": 10.34,
+        "probability": 0.9994311928749084
+      },
+      {
+        "word": " that",
+        "start": 10.34,
+        "end": 10.68,
+        "probability": 0.9909037947654724
+      },
+      {
+        "word": " I",
+        "start": 10.68,
+        "end": 11.34,
+        "probability": 0.9343193769454956
+      },
+      {
+        "word": " was",
+        "start": 11.34,
+        "end": 11.46,
+        "probability": 0.9993294477462769
+      },
+      {
+        "word": " interested",
+        "start": 11.46,
+        "end": 11.8,
+        "probability": 0.9988079071044922
+      },
+      {
+        "word": " in",
+        "start": 11.8,
+        "end": 12.06,
+        "probability": 0.9969045519828796
+      },
+      {
+        "word": " pursuing,",
+        "start": 12.06,
+        "end": 12.44,
+        "probability": 0.997028648853302
+      },
+      {
+        "word": " and",
+        "start": 12.7,
+        "end": 12.82,
+        "probability": 0.9521092176437378
+      },
+      {
+        "word": " it",
+        "start": 12.82,
+        "end": 13.28,
+        "probability": 0.8721892237663269
+      },
+      {
+        "word": " just",
+        "start": 13.28,
+        "end": 13.42,
+        "probability": 0.9910098314285278
+      },
+      {
+        "word": " felt",
+        "start": 13.42,
+        "end": 13.64,
+        "probability": 0.9981653094291687
+      },
+      {
+        "word": " really",
+        "start": 13.64,
+        "end": 13.78,
+        "probability": 0.9982413053512573
+      },
+      {
+        "word": " good",
+        "start": 13.78,
+        "end": 14.0,
+        "probability": 0.9994732737541199
+      },
+      {
+        "word": " that",
+        "start": 14.0,
+        "end": 14.18,
+        "probability": 0.9295966029167175
+      }
+    ]
+  },
+  {
+    "start": 14.18,
+    "end": 19.5,
+    "text": "they were as excited, genuinely as excited as they were, which felt very supported.",
+    "words": [
+      {
+        "word": " they",
+        "start": 14.18,
+        "end": 14.38,
+        "probability": 0.9983783960342407
+      },
+      {
+        "word": " were",
+        "start": 14.38,
+        "end": 14.6,
+        "probability": 0.9979881048202515
+      },
+      {
+        "word": " as",
+        "start": 14.6,
+        "end": 14.8,
+        "probability": 0.9638321399688721
+      },
+      {
+        "word": " excited,",
+        "start": 14.8,
+        "end": 15.28,
+        "probability": 0.9958925247192383
+      },
+      {
+        "word": " genuinely",
+        "start": 15.92,
+        "end": 15.92,
+        "probability": 0.9910833835601807
+      },
+      {
+        "word": " as",
+        "start": 15.92,
+        "end": 16.38,
+        "probability": 0.9335290193557739
+      },
+      {
+        "word": " excited",
+        "start": 16.38,
+        "end": 16.72,
+        "probability": 0.9974024891853333
+      },
+      {
+        "word": " as",
+        "start": 16.72,
+        "end": 17.1,
+        "probability": 0.9511570930480957
+      },
+      {
+        "word": " they",
+        "start": 17.1,
+        "end": 17.46,
+        "probability": 0.9922876358032227
+      },
+      {
+        "word": " were,",
+        "start": 17.46,
+        "end": 17.68,
+        "probability": 0.9989826083183289
+      },
+      {
+        "word": " which",
+        "start": 17.86,
+        "end": 18.08,
+        "probability": 0.9986489415168762
+      },
+      {
+        "word": " felt",
+        "start": 18.08,
+        "end": 18.74,
+        "probability": 0.8837610483169556
+      },
+      {
+        "word": " very",
+        "start": 18.74,
+        "end": 19.0,
+        "probability": 0.9981629252433777
+      },
+      {
+        "word": " supported.",
+        "start": 19.0,
+        "end": 19.5,
+        "probability": 0.6976110935211182
+      }
+    ]
+  },
+  {
+    "start": 20.64,
+    "end": 23.88,
+    "text": "I'm an only parent with two daughters, and it was hard for me to go home and tell them,",
+    "words": [
+      {
+        "word": " I'm",
+        "start": 20.64,
+        "end": 20.96,
+        "probability": 0.944428563117981
+      },
+      {
+        "word": " an",
+        "start": 20.96,
+        "end": 21.02,
+        "probability": 0.9941207766532898
+      },
+      {
+        "word": " only",
+        "start": 21.02,
+        "end": 21.18,
+        "probability": 0.9955397248268127
+      },
+      {
+        "word": " parent",
+        "start": 21.18,
+        "end": 21.36,
+        "probability": 0.9925296902656555
+      },
+      {
+        "word": " with",
+        "start": 21.36,
+        "end": 21.54,
+        "probability": 0.9982879757881165
+      },
+      {
+        "word": " two",
+        "start": 21.54,
+        "end": 21.68,
+        "probability": 0.9937035441398621
+      },
+      {
+        "word": " daughters,",
+        "start": 21.68,
+        "end": 21.96,
+        "probability": 0.9993677735328674
+      },
+      {
+        "word": " and",
+        "start": 22.06,
+        "end": 22.18,
+        "probability": 0.9954952001571655
+      },
+      {
+        "word": " it",
+        "start": 22.18,
+        "end": 22.3,
+        "probability": 0.8600049018859863
+      },
+      {
+        "word": " was",
+        "start": 22.3,
+        "end": 22.58,
+        "probability": 0.9939379692077637
+      },
+      {
+        "word": " hard",
+        "start": 22.58,
+        "end": 22.76,
+        "probability": 0.9957822561264038
+      },
+      {
+        "word": " for",
+        "start": 22.76,
+        "end": 22.92,
+        "probability": 0.9968944787979126
+      },
+      {
+        "word": " me",
+        "start": 22.92,
+        "end": 23.0,
+        "probability": 0.999444305896759
+      },
+      {
+        "word": " to",
+        "start": 23.0,
+        "end": 23.12,
+        "probability": 0.9990366697311401
+      },
+      {
+        "word": " go",
+        "start": 23.12,
+        "end": 23.24,
+        "probability": 0.9989396929740906
+      },
+      {
+        "word": " home",
+        "start": 23.24,
+        "end": 23.36,
+        "probability": 0.9990280866622925
+      },
+      {
+        "word": " and",
+        "start": 23.36,
+        "end": 23.5,
+        "probability": 0.9968748092651367
+      },
+      {
+        "word": " tell",
+        "start": 23.5,
+        "end": 23.62,
+        "probability": 0.9993700385093689
+      },
+      {
+        "word": " them,",
+        "start": 23.62,
+        "end": 23.88,
+        "probability": 0.999620795249939
+      }
+    ]
+  },
+  {
+    "start": 24.42,
+    "end": 29.44,
+    "text": "but once I told them, they turned it around in their head to an extremely positive thing,",
+    "words": [
+      {
+        "word": " but",
+        "start": 24.42,
+        "end": 24.86,
+        "probability": 0.9977052807807922
+      },
+      {
+        "word": " once",
+        "start": 24.86,
+        "end": 25.3,
+        "probability": 0.9821410179138184
+      },
+      {
+        "word": " I",
+        "start": 25.3,
+        "end": 25.46,
+        "probability": 0.9989451766014099
+      },
+      {
+        "word": " told",
+        "start": 25.46,
+        "end": 25.64,
+        "probability": 0.9931893348693848
+      },
+      {
+        "word": " them,",
+        "start": 25.64,
+        "end": 26.02,
+        "probability": 0.9996347427368164
+      },
+      {
+        "word": " they",
+        "start": 26.36,
+        "end": 26.82,
+        "probability": 0.9983454942703247
+      },
+      {
+        "word": " turned",
+        "start": 26.82,
+        "end": 27.08,
+        "probability": 0.9973844885826111
+      },
+      {
+        "word": " it",
+        "start": 27.08,
+        "end": 27.22,
+        "probability": 0.9965421557426453
+      },
+      {
+        "word": " around",
+        "start": 27.22,
+        "end": 27.44,
+        "probability": 0.998306393623352
+      },
+      {
+        "word": " in",
+        "start": 27.44,
+        "end": 27.58,
+        "probability": 0.9927582740783691
+      },
+      {
+        "word": " their",
+        "start": 27.58,
+        "end": 27.68,
+        "probability": 0.9981033802032471
+      },
+      {
+        "word": " head",
+        "start": 27.68,
+        "end": 27.88,
+        "probability": 0.9968886971473694
+      },
+      {
+        "word": " to",
+        "start": 27.88,
+        "end": 28.14,
+        "probability": 0.9878031611442566
+      },
+      {
+        "word": " an",
+        "start": 28.14,
+        "end": 28.38,
+        "probability": 0.9961744546890259
+      },
+      {
+        "word": " extremely",
+        "start": 28.38,
+        "end": 28.66,
+        "probability": 0.999508261680603
+      },
+      {
+        "word": " positive",
+        "start": 28.66,
+        "end": 29.08,
+        "probability": 0.9986188411712646
+      },
+      {
+        "word": " thing,",
+        "start": 29.08,
+        "end": 29.44,
+        "probability": 0.9983092546463013
+      }
+    ]
+  },
+  {
+    "start": 29.44,
+    "end": 33.18,
+    "text": "and the next morning, I woke up, and my older daughter had made moon cupcakes for the family,",
+    "words": [
+      {
+        "word": " and",
+        "start": 29.44,
+        "end": 29.74,
+        "probability": 0.3981415927410126
+      },
+      {
+        "word": " the",
+        "start": 29.74,
+        "end": 29.94,
+        "probability": 0.9697808027267456
+      },
+      {
+        "word": " next",
+        "start": 29.94,
+        "end": 30.1,
+        "probability": 0.9981541037559509
+      },
+      {
+        "word": " morning,",
+        "start": 30.1,
+        "end": 30.32,
+        "probability": 0.9987173080444336
+      },
+      {
+        "word": " I",
+        "start": 30.36,
+        "end": 30.46,
+        "probability": 0.994251012802124
+      },
+      {
+        "word": " woke",
+        "start": 30.46,
+        "end": 30.56,
+        "probability": 0.9986624717712402
+      },
+      {
+        "word": " up,",
+        "start": 30.56,
+        "end": 30.74,
+        "probability": 0.998536229133606
+      },
+      {
+        "word": " and",
+        "start": 30.84,
+        "end": 30.86,
+        "probability": 0.9826864004135132
+      },
+      {
+        "word": " my",
+        "start": 30.86,
+        "end": 31.0,
+        "probability": 0.9977953433990479
+      },
+      {
+        "word": " older",
+        "start": 31.0,
+        "end": 31.24,
+        "probability": 0.9913501739501953
+      },
+      {
+        "word": " daughter",
+        "start": 31.24,
+        "end": 31.48,
+        "probability": 0.9985132813453674
+      },
+      {
+        "word": " had",
+        "start": 31.48,
+        "end": 31.66,
+        "probability": 0.9921535849571228
+      },
+      {
+        "word": " made",
+        "start": 31.66,
+        "end": 31.86,
+        "probability": 0.9967700242996216
+      },
+      {
+        "word": " moon",
+        "start": 31.86,
+        "end": 32.1,
+        "probability": 0.8432577252388
+      },
+      {
+        "word": " cupcakes",
+        "start": 32.1,
+        "end": 32.54,
+        "probability": 0.9977679550647736
+      },
+      {
+        "word": " for",
+        "start": 32.54,
+        "end": 32.72,
+        "probability": 0.9978061318397522
+      },
+      {
+        "word": " the",
+        "start": 32.72,
+        "end": 32.84,
+        "probability": 0.9987601041793823
+      },
+      {
+        "word": " family,",
+        "start": 32.84,
+        "end": 33.18,
+        "probability": 0.9996447563171387
+      }
+    ]
+  },
+  {
+    "start": 33.28,
+    "end": 37.42,
+    "text": "and she was the one that was, I think, most against this for her life,",
+    "words": [
+      {
+        "word": " and",
+        "start": 33.28,
+        "end": 33.84,
+        "probability": 0.4680737555027008
+      },
+      {
+        "word": " she",
+        "start": 33.84,
+        "end": 34.04,
+        "probability": 0.9967883825302124
+      },
+      {
+        "word": " was",
+        "start": 34.04,
+        "end": 34.2,
+        "probability": 0.9989038705825806
+      },
+      {
+        "word": " the",
+        "start": 34.2,
+        "end": 34.34,
+        "probability": 0.9966189861297607
+      },
+      {
+        "word": " one",
+        "start": 34.34,
+        "end": 34.46,
+        "probability": 0.9991638660430908
+      },
+      {
+        "word": " that",
+        "start": 34.46,
+        "end": 34.56,
+        "probability": 0.9109868407249451
+      },
+      {
+        "word": " was,",
+        "start": 34.56,
+        "end": 34.68,
+        "probability": 0.9665040969848633
+      },
+      {
+        "word": " I",
+        "start": 34.68,
+        "end": 34.86,
+        "probability": 0.9994787573814392
+      },
+      {
+        "word": " think,",
+        "start": 34.86,
+        "end": 35.0,
+        "probability": 0.9996919631958008
+      },
+      {
+        "word": " most",
+        "start": 35.02,
+        "end": 35.24,
+        "probability": 0.9919928312301636
+      },
+      {
+        "word": " against",
+        "start": 35.24,
+        "end": 35.56,
+        "probability": 0.9992454051971436
+      },
+      {
+        "word": " this",
+        "start": 35.56,
+        "end": 36.0,
+        "probability": 0.9977177381515503
+      },
+      {
+        "word": " for",
+        "start": 36.0,
+        "end": 36.62,
+        "probability": 0.9481973648071289
+      },
+      {
+        "word": " her",
+        "start": 36.62,
+        "end": 37.12,
+        "probability": 0.9943655729293823
+      },
+      {
+        "word": " life,",
+        "start": 37.12,
+        "end": 37.42,
+        "probability": 0.9992085099220276
+      }
+    ]
+  },
+  {
+    "start": 37.66,
+    "end": 40.0,
+    "text": "and so I thought that was amazing.",
+    "words": [
+      {
+        "word": " and",
+        "start": 37.66,
+        "end": 37.88,
+        "probability": 0.9684821367263794
+      },
+      {
+        "word": " so",
+        "start": 37.88,
+        "end": 38.34,
+        "probability": 0.9847697019577026
+      },
+      {
+        "word": " I",
+        "start": 38.34,
+        "end": 38.76,
+        "probability": 0.7703765034675598
+      },
+      {
+        "word": " thought",
+        "start": 38.76,
+        "end": 39.34,
+        "probability": 0.3714165687561035
+      },
+      {
+        "word": " that",
+        "start": 39.34,
+        "end": 39.48,
+        "probability": 0.9954664707183838
+      },
+      {
+        "word": " was",
+        "start": 39.48,
+        "end": 39.6,
+        "probability": 0.9985021352767944
+      },
+      {
+        "word": " amazing.",
+        "start": 39.6,
+        "end": 40.0,
+        "probability": 0.9976605176925659
+      }
+    ]
+  },
+  {
+    "start": 40.34,
+    "end": 44.48,
+    "text": "Here, these two kids, I thought were going to pull me, but they were pushing me,",
+    "words": [
+      {
+        "word": " Here,",
+        "start": 40.34,
+        "end": 40.56,
+        "probability": 0.4975582957267761
+      },
+      {
+        "word": " these",
+        "start": 40.7,
+        "end": 40.88,
+        "probability": 0.995555579662323
+      },
+      {
+        "word": " two",
+        "start": 40.88,
+        "end": 41.14,
+        "probability": 0.995433509349823
+      },
+      {
+        "word": " kids,",
+        "start": 41.14,
+        "end": 41.5,
+        "probability": 0.9993528723716736
+      },
+      {
+        "word": " I",
+        "start": 41.76,
+        "end": 41.98,
+        "probability": 0.9982208609580994
+      },
+      {
+        "word": " thought",
+        "start": 41.98,
+        "end": 42.2,
+        "probability": 0.9975711703300476
+      },
+      {
+        "word": " were",
+        "start": 42.2,
+        "end": 42.36,
+        "probability": 0.8663190603256226
+      },
+      {
+        "word": " going",
+        "start": 42.36,
+        "end": 42.48,
+        "probability": 0.5137315988540649
+      },
+      {
+        "word": " to",
+        "start": 42.48,
+        "end": 42.62,
+        "probability": 0.9974262118339539
+      },
+      {
+        "word": " pull",
+        "start": 42.62,
+        "end": 42.9,
+        "probability": 0.993866503238678
+      },
+      {
+        "word": " me,",
+        "start": 42.9,
+        "end": 43.14,
+        "probability": 0.999291181564331
+      },
+      {
+        "word": " but",
+        "start": 43.22,
+        "end": 43.38,
+        "probability": 0.9996193647384644
+      },
+      {
+        "word": " they",
+        "start": 43.38,
+        "end": 43.58,
+        "probability": 0.8980334997177124
+      },
+      {
+        "word": " were",
+        "start": 43.58,
+        "end": 43.78,
+        "probability": 0.8898903131484985
+      },
+      {
+        "word": " pushing",
+        "start": 43.78,
+        "end": 44.12,
+        "probability": 0.9982140064239502
+      },
+      {
+        "word": " me,",
+        "start": 44.12,
+        "end": 44.48,
+        "probability": 0.9992985725402832
+      }
+    ]
+  },
+  {
+    "start": 44.56,
+    "end": 46.48,
+    "text": "and I will never forget that.",
+    "words": [
+      {
+        "word": " and",
+        "start": 44.56,
+        "end": 44.66,
+        "probability": 0.9959040284156799
+      },
+      {
+        "word": " I",
+        "start": 44.66,
+        "end": 44.82,
+        "probability": 0.8609063029289246
+      },
+      {
+        "word": " will",
+        "start": 44.82,
+        "end": 45.84,
+        "probability": 0.9535175561904907
+      },
+      {
+        "word": " never",
+        "start": 45.84,
+        "end": 46.06,
+        "probability": 0.9994112253189087
+      },
+      {
+        "word": " forget",
+        "start": 46.06,
+        "end": 46.3,
+        "probability": 0.9989303946495056
+      },
+      {
+        "word": " that.",
+        "start": 46.3,
+        "end": 46.48,
+        "probability": 0.997596800327301
+      }
+    ]
+  },
+  {
+    "start": 46.6,
+    "end": 48.54,
+    "text": "That is exactly the way you want to feel as a parent.",
+    "words": [
+      {
+        "word": " That",
+        "start": 46.6,
+        "end": 46.8,
+        "probability": 0.8694053292274475
+      },
+      {
+        "word": " is",
+        "start": 46.8,
+        "end": 46.96,
+        "probability": 0.983183741569519
+      },
+      {
+        "word": " exactly",
+        "start": 46.96,
+        "end": 47.34,
+        "probability": 0.9983413219451904
+      },
+      {
+        "word": " the",
+        "start": 47.34,
+        "end": 47.56,
+        "probability": 0.9849426746368408
+      },
+      {
+        "word": " way",
+        "start": 47.56,
+        "end": 47.66,
+        "probability": 0.9988085031509399
+      },
+      {
+        "word": " you",
+        "start": 47.66,
+        "end": 47.78,
+        "probability": 0.9933642148971558
+      },
+      {
+        "word": " want",
+        "start": 47.78,
+        "end": 47.9,
+        "probability": 0.9862096905708313
+      },
+      {
+        "word": " to",
+        "start": 47.9,
+        "end": 48.0,
+        "probability": 0.9982940554618835
+      },
+      {
+        "word": " feel",
+        "start": 48.0,
+        "end": 48.14,
+        "probability": 0.9962673783302307
+      },
+      {
+        "word": " as",
+        "start": 48.14,
+        "end": 48.3,
+        "probability": 0.9307460784912109
+      },
+      {
+        "word": " a",
+        "start": 48.3,
+        "end": 48.44,
+        "probability": 0.9956680536270142
+      },
+      {
+        "word": " parent.",
+        "start": 48.44,
+        "end": 48.54,
+        "probability": 0.9994126558303833
+      }
+    ]
+  },
+  {
+    "start": 48.68,
+    "end": 49.76,
+    "text": "It was such a cool moment for me.",
+    "words": [
+      {
+        "word": " It",
+        "start": 48.68,
+        "end": 48.68,
+        "probability": 0.9929585456848145
+      },
+      {
+        "word": " was",
+        "start": 48.68,
+        "end": 48.78,
+        "probability": 0.999279797077179
+      },
+      {
+        "word": " such",
+        "start": 48.78,
+        "end": 48.96,
+        "probability": 0.9965421557426453
+      },
+      {
+        "word": " a",
+        "start": 48.96,
+        "end": 49.1,
+        "probability": 0.9994989633560181
+      },
+      {
+        "word": " cool",
+        "start": 49.1,
+        "end": 49.24,
+        "probability": 0.9981802701950073
+      },
+      {
+        "word": " moment",
+        "start": 49.24,
+        "end": 49.42,
+        "probability": 0.9992419481277466
+      },
+      {
+        "word": " for",
+        "start": 49.42,
+        "end": 49.62,
+        "probability": 0.9983066320419312
+      },
+      {
+        "word": " me.",
+        "start": 49.62,
+        "end": 49.76,
+        "probability": 0.9998379945755005
+      }
+    ]
+  }
+]

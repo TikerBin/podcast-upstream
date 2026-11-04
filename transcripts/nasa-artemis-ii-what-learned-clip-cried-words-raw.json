@@ -1,0 +1,858 @@
+[
+  {
+    "start": 0.0,
+    "end": 1.76,
+    "text": "I asked Joe Pavisic what he was feeling",
+    "words": [
+      {
+        "word": " I",
+        "start": 0.0,
+        "end": 0.12,
+        "probability": 0.8744347095489502
+      },
+      {
+        "word": " asked",
+        "start": 0.12,
+        "end": 0.26,
+        "probability": 0.9736881852149963
+      },
+      {
+        "word": " Joe",
+        "start": 0.26,
+        "end": 0.44,
+        "probability": 0.9476889371871948
+      },
+      {
+        "word": " Pavisic",
+        "start": 0.44,
+        "end": 0.9,
+        "probability": 0.6966029008229574
+      },
+      {
+        "word": " what",
+        "start": 0.9,
+        "end": 1.1,
+        "probability": 0.9853063821792603
+      },
+      {
+        "word": " he",
+        "start": 1.1,
+        "end": 1.3,
+        "probability": 0.9825154542922974
+      },
+      {
+        "word": " was",
+        "start": 1.3,
+        "end": 1.48,
+        "probability": 0.9943581223487854
+      },
+      {
+        "word": " feeling",
+        "start": 1.48,
+        "end": 1.76,
+        "probability": 0.9929409027099609
+      }
+    ]
+  },
+  {
+    "start": 2.22,
+    "end": 3.58,
+    "text": "after he had helped wave off",
+    "words": [
+      {
+        "word": " after",
+        "start": 2.22,
+        "end": 2.62,
+        "probability": 0.8545385003089905
+      },
+      {
+        "word": " he",
+        "start": 2.62,
+        "end": 2.8,
+        "probability": 0.990529477596283
+      },
+      {
+        "word": " had",
+        "start": 2.8,
+        "end": 2.9,
+        "probability": 0.9358281493186951
+      },
+      {
+        "word": " helped",
+        "start": 2.9,
+        "end": 3.06,
+        "probability": 0.976745069026947
+      },
+      {
+        "word": " wave",
+        "start": 3.06,
+        "end": 3.3,
+        "probability": 0.8047388195991516
+      },
+      {
+        "word": " off",
+        "start": 3.3,
+        "end": 3.58,
+        "probability": 0.9762775301933289
+      }
+    ]
+  },
+  {
+    "start": 3.58,
+    "end": 4.96,
+    "text": "one of the previous launch attempts.",
+    "words": [
+      {
+        "word": " one",
+        "start": 3.58,
+        "end": 3.78,
+        "probability": 0.9762715101242065
+      },
+      {
+        "word": " of",
+        "start": 3.78,
+        "end": 3.86,
+        "probability": 0.9925722479820251
+      },
+      {
+        "word": " the",
+        "start": 3.86,
+        "end": 4.0,
+        "probability": 0.9904834032058716
+      },
+      {
+        "word": " previous",
+        "start": 4.0,
+        "end": 4.28,
+        "probability": 0.992638111114502
+      },
+      {
+        "word": " launch",
+        "start": 4.28,
+        "end": 4.56,
+        "probability": 0.9951282739639282
+      },
+      {
+        "word": " attempts.",
+        "start": 4.56,
+        "end": 4.96,
+        "probability": 0.963799238204956
+      }
+    ]
+  },
+  {
+    "start": 5.66,
+    "end": 9.82,
+    "text": "I cried, I cried more than for the actual issue.",
+    "words": [
+      {
+        "word": " I",
+        "start": 5.66,
+        "end": 5.92,
+        "probability": 0.264135479927063
+      },
+      {
+        "word": " cried,",
+        "start": 5.92,
+        "end": 6.2,
+        "probability": 0.9573537111282349
+      },
+      {
+        "word": " I",
+        "start": 6.7,
+        "end": 7.04,
+        "probability": 0.7159023284912109
+      },
+      {
+        "word": " cried",
+        "start": 7.04,
+        "end": 7.28,
+        "probability": 0.9054563641548157
+      },
+      {
+        "word": " more",
+        "start": 7.28,
+        "end": 7.56,
+        "probability": 0.808473527431488
+      },
+      {
+        "word": " than",
+        "start": 7.56,
+        "end": 7.8,
+        "probability": 0.9301680326461792
+      },
+      {
+        "word": " for",
+        "start": 7.8,
+        "end": 8.34,
+        "probability": 0.6411641240119934
+      },
+      {
+        "word": " the",
+        "start": 8.34,
+        "end": 8.48,
+        "probability": 0.995602011680603
+      },
+      {
+        "word": " actual",
+        "start": 8.48,
+        "end": 8.92,
+        "probability": 0.9915347695350647
+      },
+      {
+        "word": " issue.",
+        "start": 8.92,
+        "end": 9.82,
+        "probability": 0.9817649126052856
+      }
+    ]
+  },
+  {
+    "start": 10.02,
+    "end": 14.71,
+    "text": "Now it's just like, it was perfection and you know,",
+    "words": [
+      {
+        "word": " Now",
+        "start": 10.02,
+        "end": 10.12,
+        "probability": 0.3160810172557831
+      },
+      {
+        "word": " it's",
+        "start": 10.12,
+        "end": 10.36,
+        "probability": 0.6861421763896942
+      },
+      {
+        "word": " just",
+        "start": 10.36,
+        "end": 10.52,
+        "probability": 0.9684892296791077
+      },
+      {
+        "word": " like,",
+        "start": 10.52,
+        "end": 10.96,
+        "probability": 0.961195170879364
+      },
+      {
+        "word": " it",
+        "start": 10.96,
+        "end": 12.2,
+        "probability": 0.8153209090232849
+      },
+      {
+        "word": " was",
+        "start": 12.23,
+        "end": 12.33,
+        "probability": 0.896604061126709
+      },
+      {
+        "word": " perfection",
+        "start": 12.33,
+        "end": 12.93,
+        "probability": 0.9930074214935303
+      },
+      {
+        "word": " and",
+        "start": 12.93,
+        "end": 13.39,
+        "probability": 0.387040376663208
+      },
+      {
+        "word": " you",
+        "start": 13.39,
+        "end": 14.47,
+        "probability": 0.5909023284912109
+      },
+      {
+        "word": " know,",
+        "start": 14.47,
+        "end": 14.71,
+        "probability": 0.9974944591522217
+      }
+    ]
+  },
+  {
+    "start": 15.25,
+    "end": 16.59,
+    "text": "and then we were going to terminal college",
+    "words": [
+      {
+        "word": " and",
+        "start": 15.25,
+        "end": 15.41,
+        "probability": 0.9776124358177185
+      },
+      {
+        "word": " then",
+        "start": 15.41,
+        "end": 15.51,
+        "probability": 0.9842324256896973
+      },
+      {
+        "word": " we",
+        "start": 15.51,
+        "end": 15.63,
+        "probability": 0.9871553182601929
+      },
+      {
+        "word": " were",
+        "start": 15.63,
+        "end": 15.69,
+        "probability": 0.6641070246696472
+      },
+      {
+        "word": " going",
+        "start": 15.69,
+        "end": 15.83,
+        "probability": 0.9882385730743408
+      },
+      {
+        "word": " to",
+        "start": 15.83,
+        "end": 15.95,
+        "probability": 0.9244568943977356
+      },
+      {
+        "word": " terminal",
+        "start": 15.95,
+        "end": 16.21,
+        "probability": 0.46469777822494507
+      },
+      {
+        "word": " college",
+        "start": 16.21,
+        "end": 16.59,
+        "probability": 0.2514408826828003
+      }
+    ]
+  },
+  {
+    "start": 16.59,
+    "end": 18.61,
+    "text": "and we're sitting next to one of my best friends Max",
+    "words": [
+      {
+        "word": " and",
+        "start": 16.59,
+        "end": 16.71,
+        "probability": 0.4011315703392029
+      },
+      {
+        "word": " we're",
+        "start": 16.71,
+        "end": 16.81,
+        "probability": 0.6029758155345917
+      },
+      {
+        "word": " sitting",
+        "start": 16.81,
+        "end": 16.95,
+        "probability": 0.950926661491394
+      },
+      {
+        "word": " next",
+        "start": 16.95,
+        "end": 17.19,
+        "probability": 0.9972885847091675
+      },
+      {
+        "word": " to",
+        "start": 17.19,
+        "end": 17.41,
+        "probability": 0.9952585101127625
+      },
+      {
+        "word": " one",
+        "start": 17.41,
+        "end": 17.85,
+        "probability": 0.6624304056167603
+      },
+      {
+        "word": " of",
+        "start": 17.85,
+        "end": 17.93,
+        "probability": 0.9877204298973083
+      },
+      {
+        "word": " my",
+        "start": 17.93,
+        "end": 17.97,
+        "probability": 0.9307138919830322
+      },
+      {
+        "word": " best",
+        "start": 17.97,
+        "end": 18.13,
+        "probability": 0.9953666925430298
+      },
+      {
+        "word": " friends",
+        "start": 18.13,
+        "end": 18.35,
+        "probability": 0.8605384230613708
+      },
+      {
+        "word": " Max",
+        "start": 18.35,
+        "end": 18.61,
+        "probability": 0.4159852862358093
+      }
+    ]
+  },
+  {
+    "start": 18.61,
+    "end": 20.67,
+    "text": "and we're just doing like, are we good?",
+    "words": [
+      {
+        "word": " and",
+        "start": 18.61,
+        "end": 18.93,
+        "probability": 0.5721277594566345
+      },
+      {
+        "word": " we're",
+        "start": 18.93,
+        "end": 19.89,
+        "probability": 0.9290166795253754
+      },
+      {
+        "word": " just",
+        "start": 19.89,
+        "end": 20.01,
+        "probability": 0.9695358276367188
+      },
+      {
+        "word": " doing",
+        "start": 20.01,
+        "end": 20.15,
+        "probability": 0.1983545869588852
+      },
+      {
+        "word": " like,",
+        "start": 20.15,
+        "end": 20.31,
+        "probability": 0.8828218579292297
+      },
+      {
+        "word": " are",
+        "start": 20.37,
+        "end": 20.47,
+        "probability": 0.6286095976829529
+      },
+      {
+        "word": " we",
+        "start": 20.47,
+        "end": 20.57,
+        "probability": 0.9939549565315247
+      },
+      {
+        "word": " good?",
+        "start": 20.57,
+        "end": 20.67,
+        "probability": 0.659122884273529
+      }
+    ]
+  },
+  {
+    "start": 20.77,
+    "end": 21.85,
+    "text": "We're going, like we're going,",
+    "words": [
+      {
+        "word": " We're",
+        "start": 20.77,
+        "end": 20.85,
+        "probability": 0.988644927740097
+      },
+      {
+        "word": " going,",
+        "start": 20.85,
+        "end": 21.09,
+        "probability": 0.9872103929519653
+      },
+      {
+        "word": " like",
+        "start": 21.33,
+        "end": 21.51,
+        "probability": 0.5411369204521179
+      },
+      {
+        "word": " we're",
+        "start": 21.51,
+        "end": 21.65,
+        "probability": 0.7840136289596558
+      },
+      {
+        "word": " going,",
+        "start": 21.65,
+        "end": 21.85,
+        "probability": 0.9908432960510254
+      }
+    ]
+  },
+  {
+    "start": 21.95,
+    "end": 23.09,
+    "text": "I'm like nothing stops us, we're going",
+    "words": [
+      {
+        "word": " I'm",
+        "start": 21.95,
+        "end": 21.97,
+        "probability": 0.6869276165962219
+      },
+      {
+        "word": " like",
+        "start": 21.97,
+        "end": 22.03,
+        "probability": 0.9847917556762695
+      },
+      {
+        "word": " nothing",
+        "start": 22.03,
+        "end": 22.23,
+        "probability": 0.5755097270011902
+      },
+      {
+        "word": " stops",
+        "start": 22.23,
+        "end": 22.51,
+        "probability": 0.4697049856185913
+      },
+      {
+        "word": " us,",
+        "start": 22.51,
+        "end": 22.75,
+        "probability": 0.9216524958610535
+      },
+      {
+        "word": " we're",
+        "start": 22.75,
+        "end": 22.89,
+        "probability": 0.9782110750675201
+      },
+      {
+        "word": " going",
+        "start": 22.89,
+        "end": 23.09,
+        "probability": 0.9965031147003174
+      }
+    ]
+  },
+  {
+    "start": 23.09,
+    "end": 24.69,
+    "text": "and like we just saw like the sparklers",
+    "words": [
+      {
+        "word": " and",
+        "start": 23.09,
+        "end": 23.31,
+        "probability": 0.5235361456871033
+      },
+      {
+        "word": " like",
+        "start": 23.31,
+        "end": 23.47,
+        "probability": 0.8497770428657532
+      },
+      {
+        "word": " we",
+        "start": 23.47,
+        "end": 23.57,
+        "probability": 0.7220054864883423
+      },
+      {
+        "word": " just",
+        "start": 23.57,
+        "end": 23.73,
+        "probability": 0.9959675073623657
+      },
+      {
+        "word": " saw",
+        "start": 23.73,
+        "end": 23.93,
+        "probability": 0.9880899786949158
+      },
+      {
+        "word": " like",
+        "start": 23.93,
+        "end": 24.05,
+        "probability": 0.9244080185890198
+      },
+      {
+        "word": " the",
+        "start": 24.05,
+        "end": 24.19,
+        "probability": 0.9900122284889221
+      },
+      {
+        "word": " sparklers",
+        "start": 24.19,
+        "end": 24.69,
+        "probability": 0.9881630837917328
+      }
+    ]
+  },
+  {
+    "start": 24.69,
+    "end": 26.49,
+    "text": "and the engines light and we just like grab each other.",
+    "words": [
+      {
+        "word": " and",
+        "start": 24.69,
+        "end": 24.97,
+        "probability": 0.9435994029045105
+      },
+      {
+        "word": " the",
+        "start": 24.97,
+        "end": 25.07,
+        "probability": 0.8118617534637451
+      },
+      {
+        "word": " engines",
+        "start": 25.07,
+        "end": 25.35,
+        "probability": 0.9863844513893127
+      },
+      {
+        "word": " light",
+        "start": 25.35,
+        "end": 25.59,
+        "probability": 0.6109948754310608
+      },
+      {
+        "word": " and",
+        "start": 25.59,
+        "end": 25.69,
+        "probability": 0.29616373777389526
+      },
+      {
+        "word": " we",
+        "start": 25.69,
+        "end": 25.77,
+        "probability": 0.9490885138511658
+      },
+      {
+        "word": " just",
+        "start": 25.77,
+        "end": 25.89,
+        "probability": 0.41882655024528503
+      },
+      {
+        "word": " like",
+        "start": 25.89,
+        "end": 26.05,
+        "probability": 0.9759341478347778
+      },
+      {
+        "word": " grab",
+        "start": 26.05,
+        "end": 26.25,
+        "probability": 0.43522849678993225
+      },
+      {
+        "word": " each",
+        "start": 26.25,
+        "end": 26.37,
+        "probability": 0.9912208914756775
+      },
+      {
+        "word": " other.",
+        "start": 26.37,
+        "end": 26.49,
+        "probability": 0.9823367595672607
+      }
+    ]
+  },
+  {
+    "start": 26.63,
+    "end": 28.53,
+    "text": "Oh my God, we're actually going right now.",
+    "words": [
+      {
+        "word": " Oh",
+        "start": 26.63,
+        "end": 26.79,
+        "probability": 0.3351864814758301
+      },
+      {
+        "word": " my",
+        "start": 26.79,
+        "end": 26.89,
+        "probability": 0.9751215577125549
+      },
+      {
+        "word": " God,",
+        "start": 26.89,
+        "end": 27.07,
+        "probability": 0.7912426590919495
+      },
+      {
+        "word": " we're",
+        "start": 27.07,
+        "end": 27.35,
+        "probability": 0.9663832485675812
+      },
+      {
+        "word": " actually",
+        "start": 27.35,
+        "end": 27.69,
+        "probability": 0.9987295269966125
+      },
+      {
+        "word": " going",
+        "start": 27.69,
+        "end": 27.95,
+        "probability": 0.9937250018119812
+      },
+      {
+        "word": " right",
+        "start": 27.95,
+        "end": 28.25,
+        "probability": 0.9697292447090149
+      },
+      {
+        "word": " now.",
+        "start": 28.25,
+        "end": 28.53,
+        "probability": 0.9913737177848816
+      }
+    ]
+  },
+  {
+    "start": 28.99,
+    "end": 30.39,
+    "text": "I remember that moment very clearly.",
+    "words": [
+      {
+        "word": " I",
+        "start": 28.99,
+        "end": 29.15,
+        "probability": 0.848453164100647
+      },
+      {
+        "word": " remember",
+        "start": 29.15,
+        "end": 29.31,
+        "probability": 0.9893847107887268
+      },
+      {
+        "word": " that",
+        "start": 29.31,
+        "end": 29.49,
+        "probability": 0.9909459352493286
+      },
+      {
+        "word": " moment",
+        "start": 29.49,
+        "end": 29.69,
+        "probability": 0.9792063236236572
+      },
+      {
+        "word": " very",
+        "start": 29.69,
+        "end": 29.99,
+        "probability": 0.9859062433242798
+      },
+      {
+        "word": " clearly.",
+        "start": 29.99,
+        "end": 30.39,
+        "probability": 0.9978989362716675
+      }
+    ]
+  },
+  {
+    "start": 30.55,
+    "end": 31.23,
+    "text": "It's one of those moments.",
+    "words": [
+      {
+        "word": " It's",
+        "start": 30.55,
+        "end": 30.57,
+        "probability": 0.8347380459308624
+      },
+      {
+        "word": " one",
+        "start": 30.57,
+        "end": 30.71,
+        "probability": 0.9716194868087769
+      },
+      {
+        "word": " of",
+        "start": 30.71,
+        "end": 30.79,
+        "probability": 0.9892963767051697
+      },
+      {
+        "word": " those",
+        "start": 30.79,
+        "end": 30.93,
+        "probability": 0.9917814135551453
+      },
+      {
+        "word": " moments.",
+        "start": 30.93,
+        "end": 31.23,
+        "probability": 0.990384578704834
+      }
+    ]
+  },
+  {
+    "start": 31.43,
+    "end": 32.43,
+    "text": "It was just, I'll never forget it.",
+    "words": [
+      {
+        "word": " It",
+        "start": 31.43,
+        "end": 31.43,
+        "probability": 0.5547966361045837
+      },
+      {
+        "word": " was",
+        "start": 31.43,
+        "end": 31.55,
+        "probability": 0.6316699981689453
+      },
+      {
+        "word": " just,",
+        "start": 31.55,
+        "end": 31.67,
+        "probability": 0.9782732725143433
+      },
+      {
+        "word": " I'll",
+        "start": 31.81,
+        "end": 31.85,
+        "probability": 0.7880352139472961
+      },
+      {
+        "word": " never",
+        "start": 31.85,
+        "end": 31.97,
+        "probability": 0.9986459612846375
+      },
+      {
+        "word": " forget",
+        "start": 31.97,
+        "end": 32.21,
+        "probability": 0.9983730316162109
+      },
+      {
+        "word": " it.",
+        "start": 32.21,
+        "end": 32.43,
+        "probability": 0.9926235675811768
+      }
+    ]
+  }
+]

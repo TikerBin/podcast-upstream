@@ -1,0 +1,233 @@
+[Music: Supercluster by Sergey Azbel]
+
+JACOB PINTER: You’re listening to NASA’s Curious Universe. I’m Jacob Pinter.
+
+PADI BOYD: And I’m Padi Boyd. NASA is leading a golden age of space exploration. The Artemis II mission will send humans around the Moon for the first time in more than 50 years. It sets the stage for future Artemis missions, when astronauts return to the Moon’s surface to explore new places. And Artemis will build upon the foundation we’ve laid and prepare us for the first human journey to Mars.
+
+JACOB: In this limited series, you’re along for the ride of Artemis II. You’ll meet the astronauts flying around the Moon and go behind the scenes with NASA engineers and scientists powering this mission.
+
+PADI: This is episode two of our Artemis II series. In this episode, we’re going back to Artemis I. We’ll hear directly from the engineers who launched NASA’s new Moon rocket for the first time and how lessons they learned will prepare them as they are about to launch it again, this time with humans flying along.
+
+Let’s start this story on the launch pad.
+
+MEGAN CRUZ (from NASA broadcast): Welcome, and thank you for joining us live at Kennedy Space Center, where the energy here is palpable as we attempt to make history today.
+
+[Music: Rays of Hope by JC Lemay]
+
+PADI: It’s a November night in 2022. NASA is almost ready to launch Artemis I, the first flight test of the rocket that will return astronauts to the Moon. The spaceship on the launchpad will fly to space, orbit the Moon, and splash down safely in the Pacific Ocean.
+
+JACOB: Inside that spaceship there’s a manikin collecting data for future missions. Actually it was called a Moonikin. But no humans. NASA’s new Moon rocket is called SLS, the Space Launch System, and it’s a beast.
+
+DAN HEWITT (from NASA broadcast): So everything looking really good with SLS. Just to recap, most powerful rocket we have ever built. It’s propelled by two solid rocket boosters and four engines on this core stage … (fades out)
+
+JACOB: SLS is more than 300 feet tall—taller than the Statue of Liberty or about the length of a football field if you laid it on the ground. On the launch pad at Kennedy Space Center right along the Atlantic Ocean, it towers above the Florida coast.
+
+PADI: The rocket has an orange belly with two tall, skinny boosters on the side. That orange belly is called the core stage. It holds hundreds of thousands of gallons of fuel. At the base, there are the four engines powering the rocket into space. The white boosters on the side provide most of the thrust at the beginning of launch, to get the rocket off the ground. And sitting at the very top—a white cap piercing the sky—is Orion. This is the spaceship that will carry humans to deep space. Orion will be their office, their vehicle, and their home.
+
+Unidentified voice from launch broadcast: And launch director, NTD, our launch team is ready to proceed at this time.
+
+PADI: It’s late—after 1am. The people in charge of launching the rocket have been working all night, and now they’re near the end of their checklist. The team’s leader is the Artemis launch director, a NASA veteran named Charlie Blackwell-Thompson. The launch team listens to her over their headsets.
+
+CHARLIE BLACKWELL-THOMPSON (from launch broadcast): And attention on 232, this is the launch director performing the final poll for launch. Verify no constraints and go for launch. EGS program, chief engineer. (fades out)
+
+[Music: New Generations by Sergey Azbel]
+
+PADI: Charlie checks around the room. This is one of the final steps, called the go/no-go poll. The opinion of the mission managers is unanimous: Artemis I is ready to fly. Before the countdown resumes and the final minutes tick off the clock, Charlie Blackwell-Thompson has one final message.
+
+CHARLIE BLACKWELL-THOMPSON (from launch broadcast): On behalf of all the men and women across our great nation who have worked to bring this hardware together to make this day possible and for the Artemis generation, this is for you. At this time, I give you a go to resume count and launch Artemis I.
+
+JACOB: Behind every NASA rocket launch is a team of dedicated people and methodical, careful preparation. I wanted to know what goes on behind the scenes—how launch engineers prepare for the big moment and what they’re learning from Artemis I that will make the launch of Artemis II even better. And I had a chance to do that with Joe Pavicic.
+
+JOE PAVICIC : (Sound of door opening) This is coming into Firing Room 1.
+
+JACOB: On a muggy Florida afternoon, Joe brought me into the room where it happens.
+
+[Music: Natural Time Cycles by Laurent Dury]
+
+Welcome to Kennedy Space Center: NASA’s main launch site. From this stretch of the Florida coast, Alan Shepard and John Glenn made America’s first journeys to space, Neil Armstrong and Buzz Aldrin charted a course for the Moon, and now NASA astronauts are set to return to the Moon with Artemis.
+
+The nerve center for Artemis launches is called Firing Room 1 inside a building called the Launch Control Center. About 90 people fill this room for an Artemis launch. There’s an elevated platform where the launch director oversees the team. The rest of the room is filled with computer stations where engineers comb through real-time data coming from the launch pad.
+
+For Artemis I, Joe Pavicic was on a sub-team called cryo propulsion. On the day I visited, the room was mostly empty and very calm. On launch days, it’s a lot busier. Joe is tall—he’s well over six feet—and he showed me how he would lean over a cubicle divider to talk to his neighbors.
+
+JOE: So we kind of go back and forth where we are needed all within. But we—a lot of times, you’ll see chairs scattered around because we just move around constantly. People are—it’s like a little beehive sometimes.
+
+JACOB: When I met Joe, almost two years had gone by since the launch of Artemis I. Preparations for Artemis II were well under way. But when Joe showed me his seat, it felt like a mini-museum exhibit for Artemis I. For launch day, he had printed out everything he’d need. He spread papers across his workspace, packed so thick you couldn’t see the desk underneath, and he bought a piece of cheap, clear plexiglass to put on top and keep it all safe.
+
+JOE: I use every inch of real estate that NASA would pay for for me that—I was using everything.
+
+JACOB: All those papers, is that your stuff?
+
+JOE: Yeah, just, I left—it was my generational hand-down gift. (laughs) It was my hand-me-downs.
+
+[Music: Personally Crafted by Marc Aaron Jacobs]
+
+PADI: NASA compiles data and lessons learned from every single mission. Joe’s papers are just one small example. From the Apollo Moon missions, which also launched from Firing Room 1, to the space shuttle program, which launched well over a hundred times, and now the Artemis campaign, every new launch draws on all of that experience.
+
+JOE: It’s a unique balance that we have, because we have so much good lessons learned. We have thousands and thousands of great men and women who’ve worked here and influence what we’re doing in the future. So we use all the lessons, both good and bad. Every single day we talk about different issues we’ve had.
+
+JACOB: At NASA, safety is one of the guiding lights. When you’re launching rockets with people onboard, there is no room for error. That means that if something doesn’t look right, anybody at NASA has the power to speak up.
+
+PADI: Launch days are exciting. Everyone wants to see that rocket fly. But if there is any reason for doubt, the launch team can stand down and try again another day. This is called a scrub in NASA lingo. We’re going to go inside one scrub, hear how it led to the successful launch of Artemis I, and why it prepared the launch team for Artemis II.
+
+JACOB: Beyond this point, you’re going to need to think like a rocket scientist. But don’t worry. We’re in this together. And we have some help from an expert named Michael Guzmán.
+
+MICHAEL GUZMÁN: I am a[n] operations and launch engineer here at Kennedy Space Center. I love science and space and aviation.
+
+JACOB: Before we get too far, I have to tell you how Michael ended up at NASA. He got his foot in the door with a summer internship. It was with a different team, and he didn’t like the work. In the meantime, he bought a rocket science textbook and started studying on his own. He ended up building and launching his own model rocket. A NASA hiring manager noticed and offered him a job almost on the spot. So if you’ve ever wondered what the right stuff is to be a NASA engineer, that might give you an idea.
+
+MICHAEL: I’m a huge nerd. I love math, science and physics. And, you know, a lot of time—even on my free time—I’ll find myself just kind of watching physics lectures.
+
+JACOB: So I asked Michael if he could be our textbook.
+
+[Music: Mind Over Matter by Luciano Storti]
+
+Could he give us a crash course in rocket science 101?
+
+MICHAEL: No, it’s definitely possible. Might be a little lengthy, but I’m gonna try to be as succinct as possible. So technically speaking, a rocket is any object that can propel itself by using some of its own mass.
+
+PADI: The basic principle behind rockets is Isaac Newton’s third law of motion.
+
+JACOB: You know this one, even if you think you don’t. Say it with me: “For every action, there is an equal and opposite reaction.”
+
+PADI: Creating more than 8 million pounds of thrust—which is what the SLS rocket can do—takes a pretty big action. And for SLS, a lot of that action comes from two elements that are not hard to find on Earth: oxygen and hydrogen.
+
+MICHAEL: We have to combust oxygen and hydrogen. So what does that mean? You have to pipe oxygen and hydrogen to the engine. So what does that mean? You’ve got some tanks, you’ve got some engines, and you’ve got piping between those tanks and those engines. And that’s it. When you look at the rocket, what you’re looking at is two tanks stacked on top of each other, four engines at the bottom, and there’s a bunch of pipes connecting them. And that’s pretty much it. You fill the tanks up, you allow that oxygen and the hydrogen to go down to the engines, they combust, you get a jet coming out one end. You now have the reaction pushing you the other end. That reaction is giving you energy—enough energy to reach your orbit.
+
+JACOB: You can tell Michael’s a good teacher because he makes this sound so easy. But after all, it is rocket science. One detail that makes it complicated is that SLS uses cryogenic fuel. It’s extremely cold, because hydrogen and oxygen in their gas form don’t work.
+
+MICHAEL: To fit the amount that we need into the rocket, we need to make it more dense so that we can stuff more into the rocket. Well, how do you make it more dense? You convert it into a liquid, and converting it into liquid means you’re cooling it down. And so the result is that you end up with a very cold liquid, and that’s where the cryogenic comes into play.
+
+PADI: The liquid oxygen in this rocket is almost minus-300 degrees Fahrenheit or below minus-180 degrees Celsius. And liquid hydrogen is even colder: below minus-400 degrees Fahrenheit or below minus-250 degrees Celsius. When you see Artemis II on the launch pad, you might see white clouds streaming off the rocket. This is the rocket fuel escaping from the fuel tank, condensing into water vapor, and forming a cloud that dissipates harmlessly into the atmosphere.
+
+JOE: Remember, hydrogen is the smallest molecule on the planet, right?
+
+JACOB: This is Joe Pavicic again.
+
+JOE: It’s going to find ways to leak. And so what happens is, there’s a bunch of seals in the system. If a seal’s slightly off, or just slightly, you know, chills imperfect[ly], you know, that’s where we see a leak.
+
+JACOB: As a member of the cryo propulsion team, it was Joe’s job to help fuel the rocket. He jokes that he used to tell people he was a plumber because he was looking at pipes all day.
+
+PADI: Before the rocket could fly, the launch engineers had to spend hours carefully loading liquid hydrogen and liquid oxygen into those tanks and conditioning the engines. And that turned out to be even more delicate than they thought. All those pipes and seals and valves—they need to be brought down to the same temperature as the super-cold rocket fuel.
+
+JOE: So the chill-down, what you hear is literally just the gas slowly—you know, it’s maybe not the minus-400, maybe it’s in the two hundreds—and just slowly starting to get introduced to the vehicle, start chilling things down. Say, OK, here the cryos are coming.
+
+PADI: For safety reasons, almost no one is allowed to get close to a rocket leading up to launch. But people who do get close to a rocket hear it creaking, as it adjusts to the temperature and pressure changes happening inside. The rocket almost sounds alive.
+
+[Music: Sea of Stars by Enrico Cacace]
+
+DERROL NAIL (from NASA broadcast): Want to start you off with the news of the morning, as we just turned to midnight.
+
+PADI: On August 29, 2022, it was time to fly. In the wee hours of the morning, the huge rocket stood alone, illuminated by floodlights. And then, as the Sun rose over the Atlantic Ocean, bright bands of yellow and pink filled the sky, and crowds gathered, hoping to feel the shockwave as the rocket took off.
+
+JACOB: Meanwhile, Derrol Nail from NASA Communications shared an update.
+
+DERROL (from NASA broadcast): The mission management team just met and gave a “go” to proceed with tanking for the Artemis I mission. The launch team has been doing their pre-cryo-loading operations … (fade out)
+
+JACOB: Inside the Launch Control Center, Joe Pavicic kept an eye on the fuel going into the rocket.
+
+JOE: Essentially we’re just flowing the hydrogen through the engine. It’s just being pressurized from the top, just by gravity, and just flowing through the engine to create a nice chill profile so it gets nice and chilled down before we start.
+
+JACOB: As Joe watched the fuel tanks fill up, he realized something didn’t look right. One of the rocket’s four engines wasn’t as cold as it was supposed to be. This was a problem, and Joe raised his hand.
+
+JOE: And we tried everything under—that we can think of. Any contingency procedure we can try, we tried it. And we just never saw those rates that we should have. And so I had to tell [the] launch director, like, we can’t get there today with the current criteria that we have. My recommendation’s a no-go.
+
+DERROL (from NASA broadcast): This is Artemis launch control with an update. Launch director Charlie Blackwell-Thompson has called a scrub for today. Again, launch director Charlie Blackwell-Thompson has called a scrub … (fades out)
+
+JOE: You know, we don’t know what we don’t know, so we have to be safe and say, “I can’t go today.” So it was tough. It was very tough.
+
+JACOB: Yeah. What did it feel like to be either the person or one of the people piping up and saying, “I don’t think we can do this”?
+
+JOE: You know, it’s funny. Going into launch, I remember seeing the news and just seeing all these people all over our county and just driving into work, just seeing people on the side of the road and like, Oh, yeah, that’s cool. We’re going to show people something. At the beginning of the day, you know, we load the vehicle, and we start getting procedures or—like, I think we can get through this issue. We’ve been able to get through so many issues; we can get there. And I just remember, like, after I said, “No go” I just felt like all these people came to watch, all my family. And I’m like, “I’m the guy.” You know, I didn’t do anything wrong. I did something right by saying, you know, we’re not going to be able to go by that criteria. But, you know, end of the day, it was like—it was a bummer.
+
+[Music: Shared Future by Olivier Grim]
+
+JACOB: At this point, Joe says, the launch team had to go back to the drawing board. They needed to figure out what went wrong and how to fix it, so a special team got together and worked around the clock, trying to get to the bottom of it.
+
+JOE: There’s people bringing us food. There’s people who are not even involved—electrical people—trying to help, like, “What can I do? I know nothing about the system, but how can I help? Can I do whatever for you guys?” It was really cool. You felt like you had the whole agency behind you to come to solve the problem, which was just the coolest thing. It really just showed what NASA was about.
+
+PADI: Joe says that in a matter of days, the launch team performed years’ worth of work. They came up with a new fueling strategy—one they called “chill and fill”. The trick was, they needed to go nice and slow.
+
+JOE: We call it a kinder, gentler loading at the end. And it was—it worked. The vehicle behaved perfect.
+
+JACOB: In early September, there was another launch attempt. This one was a scrub too because of a hydrogen leak. A couple of months later, the launch team was ready to try again.
+
+PADI: On November 16, 2022, the rocket stood ready on the launchpad. And the Artemis launch director, Charlie Blackwell-Thompson, scanned Firing Room 1 from her desk looking out over the room.
+
+CHARLIE: Launch day is an incredibly special day, and there’s a certain energy in the Launch Control Center that is different from the days that come before it.
+
+PADI: As launch director, Charlie is one of NASA’s key leaders behind the Artemis program. Ever since she was a kid, Charlie couldn’t help looking up at the sky, seeing the Moon or a twinkling star, and just wondering what it was.
+
+JACOB: By the time she was in college, she managed to get a job interview at Kennedy Space Center, and they took her on a tour of Firing Room 1.
+
+[Music: Touch of Eternity by Sergey Azbel]
+
+CHARLIE: The folks that were in the room on that particular day when I got my—when I had my interview and they gave me a tour. I walked through the room, and there was a team there testing space shuttle Discovery, getting her ready to go fly after the Challenger accident. And they let me put on a headset, and I listened for just a moment, and I could hear the teams talking to one another, the steps that they were running in the procedure. And, you know, at NASA, we talk in call signs and acronyms.
+
+JACOB: Oh, I know.
+
+CHARLIE: And so I wasn’t exactly sure all that they were doing. But as I listened to the teams work together, I thought, Wow, I would love to be a part of this team. I would love to walk in this room and put on a headset and run a test procedure that enabled a vehicle to go fly.
+
+JACOB: Charlie has been launching rockets for decades. She worked her way up the ladder until NASA selected her as the Artemis launch director. On launch day, she has to sift through tons of details: Is everything happening on time? What issues is the team seeing, and do they have a plan to solve them? But she also tries to soak in the moment.
+
+CHARLIE: You know, this vehicle stands 323 feet tall, and it sits on a mobile launcher platform that is 50 feet off the ground. And when you’re coming in at night and you have all those lights around the vehicle, I mean, it is visible from a long way away. And as I roll into the Launch Control Center parking lot, you can’t help but see that vehicle sitting out on the pad. I’ll go take a look, and I’ll think about for a moment what the team has accomplished and what is in front of us. And I’ll also think about how lucky I feel to be a part of it.
+
+PADI: So, on that night in November 2022, the launch team tried again. They chilled and filled the fuel tanks on the rocket. They worked for hours and watched the clock tick down to one of the final milestones: T-minus 10 minutes.
+
+[Music: Mesmerized by JC Lemay]
+
+JACOB: And I’m just going to let Charlie describe what happened next:
+
+CHARLIE: And so for the first time—because we didn’t get this far in our prior launch attempts—we got to a step in our procedure that the NASA Test Director, the NTD, comes to the launch director and says …
+
+Unidentified voice from launch broadcast: And launch director, NTD. Our launch team is ready to proceed at this time.
+
+CHARLIE: … “Launch Director, NTD, our launch team is ready to proceed. We are working no constraints.” And that team and myself had waited on that step. We practiced it hundreds of times in sims and training exercises, but to hear on that night that we are ready to proceed into terminal count. And of course, I did my poll …
+
+Unidentified voice from launch broadcast: Launch director, mission manager. You have a go to proceed with terminal count and launch of Artemis I.
+
+CHARLIE: … Gave direction to pick up the clock and launch Artemis I.
+
+[Music: Taste of Fear by JC Lemay]
+
+And as you begin to count through those last five minutes, again, the room is so quiet as everyone is focused. I mean, there’s an intensity in the room, and you begin to terminate propellant to the vehicle. You begin to pressurize tanks for flight. You begin to spin up those APUs, and you’re getting down into the transfer of power from the ground to the flight elements. T-minus 1:30, you transition the core stage from ground power to onboard power, and then we have no hold time remaining, and the countdown clock continues to run. You hear the operator enunciate that we are at T-minus 33, 31 seconds, and then you hear around 10 seconds, “GLS is go for core stage engines start.” And a few seconds later, those core stage engines begin to rumble to life, and you are into the “Five, four … “
+
+DERROL (from NASA broadcast): … Three, two, one.
+
+CHARLIE: Booster ignition and liftoff …
+
+DERROL (from NASA broadcast): Liftoff of Artemis I!
+
+(Sound of rocket firing as Artemis I lifts off)
+
+CHARLIE: And that moment that we had been working toward—the beginning of that mission—just like that had started.
+
+JACOB: I mean, once you make it through all that and Artemis I is flying, like, are you on a high? Do you feel like you just ran a marathon and you’re about to collapse?
+
+CHARLIE: Well, no, actually, right after launch, it’s such a joyful time, because it is the achievement of a milestone. And so strangely enough, it—some may have felt like there was a marathon involved, but certainly immediately after launch, it was exhilarating.
+
+JACOB: There were nearly 100 launch engineers in Firing Room 1 and even more working in back rooms nearby, and they launched Artemis I as a team. I asked Joe Pavicic what he was feeling after he had helped wave off one of the previous launch attempts.
+
+JOE: Oh I cried. I cried—I think I cried more than for the actual issue. No, it was just like—it was perfection. And you know, and then we’re going to terminal count. I just remember sitting next to one of my best friends, Max. And we’re just sitting there like, Are we going? We’re going. Nothing stop us. We’re going. And we just saw, like, the sparklers and the engines light. We just grabbed each other like, Oh my god, we’re actually going right now! I remember that moment very clearly. It’s one of those moments—I’ll just never forget it.
+
+[Music: Ice Splendor by Rémi Boubal]
+
+PADI: As SLS lifted off, it reached a speed of more than 17,000 miles per hour by the time its main engines cut off. It sent Orion on its course to the Moon. In a summary of Artemis I, the leaders of NASA’s SLS program called the rocket’s performance “incredibly successful” and wrote that it “sets the stage for an era of unparalleled space exploration.”
+
+JACOB: Now, for Artemis II, humans are along for the ride. The launch engineers I talked to—including Charlie, Joe, Michael, and others—say their experience from Artemis I, on top of another rigorous testing program leading up to Artemis II, sets up the mission for success. They’re ready to send humans around the Moon.
+
+CHARLIE: I was just a kid in grade school at the end of the Apollo program, and I remember watching those Moon landings with my classmates and being so intrigued, so curious, so inspired. Apollo made the world stop and look, and I think that Artemis will do the same thing. The world will stop and look up in wonder, in intrigue, and will feel a sense of accomplishment.
+
+JACOB: What does it feel like to be one of the people making that happen? I mean, that’s a gift for the rest of us, you know?
+
+CHARLIE: You know, it’s hard to put into words what it means. To me, the best word I can come up with is I feel incredibly blessed. And you know, Artemis II is our first crewed flight. And I think about Artemis II as that next step.
+
+[Music: Destiny Calls by JC Lemay]
+
+I think about Artemis III landing on the Moon. And I think about taking all of this and applying it to other deep space destinations. What will it be like when we land on Mars? What will that be like? Now, I’ll probably be retired, but you know, having had a little piece of enabling that capability is an incredibly special thing to be a part of.
+
+PADI: This is NASA’s Curious Universe—an official NASA podcast. Our Artemis II series was written and produced by Christian Elliott and Jacob Pinter. Our executive producer is Katie Konans. Wes Buchanan designed the show art for this series. Music for the series comes from Universal Production Music.
+
+JACOB: We had support throughout this series from Rachel Kraft, Lisa Allen, Lora Bleacher, Brandi Dean, Courtney Beasley, and Thalia Patrinos. Huge thanks to the subject matter experts you heard in this episode, as well as Jeremy Graeber and Anton Kiriwas. At Kennedy Space Center, we had help from Toni Jaramillo, Tiffany Fairley, Allison Tankersley, and Lorne Mathre.
+
+You can find transcripts for every episode of Curious Universe and explore NASA’s other podcasts at nasa.gov/podcasts. If you enjoyed this episode of NASA’s Curious Universe, let us know! Leave us a review wherever you’re listening right now. Why not send a link to one of your friends. And you can follow NASA’s Curious Universe in your favorite podcast app to get a notification each time we post a new episode.

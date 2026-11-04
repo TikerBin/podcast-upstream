@@ -5,7 +5,7 @@
 <link>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main</link>
 <description>待制作播客素材上游 v2：每条 = 一份待制作内容。父集标 full-episode，片段为独立条目、仅标 ready-clip，两集合不相交。片段 enclosure 为仓库自托管 clips 直链，不依赖整集音频。全部为美国政府官方播客（NASA / NOAA），公有领域、可剪辑但不得暗示官方背书。</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 01:38:33 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 01:19:39 +0000</lastBuildDate>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Their Mars window is a TV — clip from Encore: A Year In Mars Dune Alpha</title>
@@ -5297,6 +5297,778 @@ If you enjoyed this episode of NASA’s Curious Universe, tell us about it! Leav
 <_collected_at_beijing>2026-11-03</_collected_at_beijing>
 <_audio_verified>HEAD 跟随重定向得 audio/mpeg + 49346198 字节；整文件下载后 ffprobe 时长 2040.816 秒、字节数一致，ffmpeg 全量解码零报错</_audio_verified>
 <_child_clip_guid>urn:podcast:nasa.gov:curious-universe:artemis-ii-new-ride:clip:bathroom:724.1-782.4</_child_clip_guid>
+</item>
+<item>
+<title>I cried — clip from Artemis II: What NASA Learned From Launching Artemis I (1427.0-1459.6s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/artemis-ii-what-nasa-learned-from-launching-artemis-i</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:artemis-ii-what-learned:clip:cried:1427.0-1459.6</guid>
+<pubDate>Tue, 20 Jan 2026 14:03:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-artemis-ii-what-learned-clip-cried.mp3" length="494047" type="audio/mpeg"/>
+<itunes:duration>33</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】Jacob 问 Joe Pavicic：在帮忙叫停前一次发射尝试后是什么感受；Joe 说自己哭了——不是因为挫折，而是因为成功那一刻的完美：和好友 Max 并肩坐着，看火花与发动机点火，紧紧抓住彼此，火箭真的走了，那一刻他永远不会忘记。
+【Reels 角度】叫停发射的人，哭在成功那一刻：Joe Pavicic 说自己哭得比出问题时还厉害——和好友并肩坐着，看火花与发动机点火，火箭真的走了。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; the episode transcript marks music cues (Supercluster, Rays of Hope, New Generations, Natural Time Cycles, Personally Crafted, Mind Over Matter, Sea of Stars, Shared Future, Touch of Eternity, Mesmerized, Taste of Fear, Ice Splendor, Destiny Calls) all outside this segment.
+【来源】https://www.nasa.gov/podcasts/curious-universe/artemis-ii-what-nasa-learned-from-launching-artemis-i
+【采集日（北京时间）】2026-11-04
+【发布时间精度】exact（Inherits parent original publish date (Megaphone RSS Tue, 20 Jan 2026 14:03:00 -0000); clip itself was modelled 2026-11-04 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:artemis-ii-what-learned
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/artemis-ii-what-nasa-learned-from-launching-artemis-i
+【片段】原集 1427.0-1459.6 秒，32.6 秒，原声，未加 BGM，文件：clips/nasa-artemis-ii-what-learned-clip-cried.mp3]]></description>
+<content:encoded><![CDATA[I asked Joe Pavicic what he was feeling after he had helped wave off one of the previous launch attempts. Oh I cried. I cried—I think I cried more than for the actual issue. No, it was just like—it was perfection. And you know, and then we're going to terminal count. I just remember sitting next to one of my best friends, Max. And we're just sitting there like, Are we going? We're going. Nothing stop us. We're going. And we just saw, like, the sparklers and the engines light. We just grabbed each other like, Oh my god, we're actually going right now! I remember that moment very clearly. It's one of those moments—I'll just never forget it.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>artemis-ii-what-learned-clip-cried</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/artemis-ii-what-nasa-learned-from-launching-artemis-i</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-04</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 32.600s / 494047 bytes (ffmpeg cut from verified full MP3 in this run, 2026-11-04); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-artemis-ii-what-learned-clip-cried.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-artemis-ii-what-learned-clip-cried.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-artemis-ii-what-learned-clip-cried-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-artemis-ii-what-learned-clip-cried-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:artemis-ii-what-learned</_parent_guid>
+<_parent_id>nasa-artemis-ii-what-learned</_parent_id>
+<_clip_start_s>1427.0</_clip_start_s>
+<_clip_end_s>1459.6</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>Artemis II: What NASA Learned From Launching Artemis I</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/artemis-ii-what-nasa-learned-from-launching-artemis-i</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:artemis-ii-what-learned</guid>
+<pubDate>Tue, 20 Jan 2026 14:03:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:full-episode</category>
+<category>production:text-script</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION1015112791.mp3" length="41557882" type="audio/mpeg"/>
+<itunes:duration>1716</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】full-episode, text-script
+【摘要】Artemis I 首飞教训一集：走进 Firing Room 1，听低温推进剂团队讲 SLS 火箭如何加注零下几百度的液氧液氢；2022 年 8 月 29 日因发动机温度不达标叫停首飞、9 月又因氢泄漏再度 scrub，团队以“chill and fill”慢加注翻盘，11 月 16 日终于把 Artemis I 送上天；发射主管 Charlie Blackwell-Thompson 讲 go/no-go poll 与倒数最后五分钟。
+【Reels 角度】喊停也是一种成功：低温燃料加注出问题时，工程师 Joe Pavicic 宁可叫停首飞也不勉强发射；团队用“chill and fill”慢加注改写流程，三个月后 Artemis I 终于升空。
+【许可证】Public domain：美国联邦政府作品（NASA 官方播客），一般不受版权保护
+【权利说明】可剪辑/再分发，不得暗示 NASA 背书；本集文字稿中标有音乐 cue（Supercluster、Rays of Hope、New Generations、Natural Time Cycles、Personally Crafted、Mind Over Matter、Sea of Stars、Shared Future、Touch of Eternity、Mesmerized、Taste of Fear、Ice Splendor、Destiny Calls，系列音乐来自 Universal Production Music），正式发布前需逐项再核片段内音乐；本批 ready-clip 已核为原声讲话段、未加 BGM，片段内无音乐 cue。官方页含 2026-03-04 更新版编辑注，本轮按更新后全文核对。
+【来源】https://www.nasa.gov/podcasts/curious-universe/artemis-ii-what-nasa-learned-from-launching-artemis-i
+【采集日（北京时间）】2026-11-04
+【发布时间精度】exact（NASA Curious Universe Megaphone RSS: Tue, 20 Jan 2026 14:03:00 -0000）
+【子片段 GUID】urn:podcast:nasa.gov:curious-universe:artemis-ii-what-learned:clip:cried:1427.0-1459.6]]></description>
+<content:encoded><![CDATA[[Music: Supercluster by Sergey Azbel]
+
+JACOB PINTER: You’re listening to NASA’s Curious Universe. I’m Jacob Pinter.
+
+PADI BOYD: And I’m Padi Boyd. NASA is leading a golden age of space exploration. The Artemis II mission will send humans around the Moon for the first time in more than 50 years. It sets the stage for future Artemis missions, when astronauts return to the Moon’s surface to explore new places. And Artemis will build upon the foundation we’ve laid and prepare us for the first human journey to Mars.
+
+JACOB: In this limited series, you’re along for the ride of Artemis II. You’ll meet the astronauts flying around the Moon and go behind the scenes with NASA engineers and scientists powering this mission.
+
+PADI: This is episode two of our Artemis II series. In this episode, we’re going back to Artemis I. We’ll hear directly from the engineers who launched NASA’s new Moon rocket for the first time and how lessons they learned will prepare them as they are about to launch it again, this time with humans flying along.
+
+Let’s start this story on the launch pad.
+
+MEGAN CRUZ (from NASA broadcast): Welcome, and thank you for joining us live at Kennedy Space Center, where the energy here is palpable as we attempt to make history today.
+
+[Music: Rays of Hope by JC Lemay]
+
+PADI: It’s a November night in 2022. NASA is almost ready to launch Artemis I, the first flight test of the rocket that will return astronauts to the Moon. The spaceship on the launchpad will fly to space, orbit the Moon, and splash down safely in the Pacific Ocean.
+
+JACOB: Inside that spaceship there’s a manikin collecting data for future missions. Actually it was called a Moonikin. But no humans. NASA’s new Moon rocket is called SLS, the Space Launch System, and it’s a beast.
+
+DAN HEWITT (from NASA broadcast): So everything looking really good with SLS. Just to recap, most powerful rocket we have ever built. It’s propelled by two solid rocket boosters and four engines on this core stage … (fades out)
+
+JACOB: SLS is more than 300 feet tall—taller than the Statue of Liberty or about the length of a football field if you laid it on the ground. On the launch pad at Kennedy Space Center right along the Atlantic Ocean, it towers above the Florida coast.
+
+PADI: The rocket has an orange belly with two tall, skinny boosters on the side. That orange belly is called the core stage. It holds hundreds of thousands of gallons of fuel. At the base, there are the four engines powering the rocket into space. The white boosters on the side provide most of the thrust at the beginning of launch, to get the rocket off the ground. And sitting at the very top—a white cap piercing the sky—is Orion. This is the spaceship that will carry humans to deep space. Orion will be their office, their vehicle, and their home.
+
+Unidentified voice from launch broadcast: And launch director, NTD, our launch team is ready to proceed at this time.
+
+PADI: It’s late—after 1am. The people in charge of launching the rocket have been working all night, and now they’re near the end of their checklist. The team’s leader is the Artemis launch director, a NASA veteran named Charlie Blackwell-Thompson. The launch team listens to her over their headsets.
+
+CHARLIE BLACKWELL-THOMPSON (from launch broadcast): And attention on 232, this is the launch director performing the final poll for launch. Verify no constraints and go for launch. EGS program, chief engineer. (fades out)
+
+[Music: New Generations by Sergey Azbel]
+
+PADI: Charlie checks around the room. This is one of the final steps, called the go/no-go poll. The opinion of the mission managers is unanimous: Artemis I is ready to fly. Before the countdown resumes and the final minutes tick off the clock, Charlie Blackwell-Thompson has one final message.
+
+CHARLIE BLACKWELL-THOMPSON (from launch broadcast): On behalf of all the men and women across our great nation who have worked to bring this hardware together to make this day possible and for the Artemis generation, this is for you. At this time, I give you a go to resume count and launch Artemis I.
+
+JACOB: Behind every NASA rocket launch is a team of dedicated people and methodical, careful preparation. I wanted to know what goes on behind the scenes—how launch engineers prepare for the big moment and what they’re learning from Artemis I that will make the launch of Artemis II even better. And I had a chance to do that with Joe Pavicic.
+
+JOE PAVICIC : (Sound of door opening) This is coming into Firing Room 1.
+
+JACOB: On a muggy Florida afternoon, Joe brought me into the room where it happens.
+
+[Music: Natural Time Cycles by Laurent Dury]
+
+Welcome to Kennedy Space Center: NASA’s main launch site. From this stretch of the Florida coast, Alan Shepard and John Glenn made America’s first journeys to space, Neil Armstrong and Buzz Aldrin charted a course for the Moon, and now NASA astronauts are set to return to the Moon with Artemis.
+
+The nerve center for Artemis launches is called Firing Room 1 inside a building called the Launch Control Center. About 90 people fill this room for an Artemis launch. There’s an elevated platform where the launch director oversees the team. The rest of the room is filled with computer stations where engineers comb through real-time data coming from the launch pad.
+
+For Artemis I, Joe Pavicic was on a sub-team called cryo propulsion. On the day I visited, the room was mostly empty and very calm. On launch days, it’s a lot busier. Joe is tall—he’s well over six feet—and he showed me how he would lean over a cubicle divider to talk to his neighbors.
+
+JOE: So we kind of go back and forth where we are needed all within. But we—a lot of times, you’ll see chairs scattered around because we just move around constantly. People are—it’s like a little beehive sometimes.
+
+JACOB: When I met Joe, almost two years had gone by since the launch of Artemis I. Preparations for Artemis II were well under way. But when Joe showed me his seat, it felt like a mini-museum exhibit for Artemis I. For launch day, he had printed out everything he’d need. He spread papers across his workspace, packed so thick you couldn’t see the desk underneath, and he bought a piece of cheap, clear plexiglass to put on top and keep it all safe.
+
+JOE: I use every inch of real estate that NASA would pay for for me that—I was using everything.
+
+JACOB: All those papers, is that your stuff?
+
+JOE: Yeah, just, I left—it was my generational hand-down gift. (laughs) It was my hand-me-downs.
+
+[Music: Personally Crafted by Marc Aaron Jacobs]
+
+PADI: NASA compiles data and lessons learned from every single mission. Joe’s papers are just one small example. From the Apollo Moon missions, which also launched from Firing Room 1, to the space shuttle program, which launched well over a hundred times, and now the Artemis campaign, every new launch draws on all of that experience.
+
+JOE: It’s a unique balance that we have, because we have so much good lessons learned. We have thousands and thousands of great men and women who’ve worked here and influence what we’re doing in the future. So we use all the lessons, both good and bad. Every single day we talk about different issues we’ve had.
+
+JACOB: At NASA, safety is one of the guiding lights. When you’re launching rockets with people onboard, there is no room for error. That means that if something doesn’t look right, anybody at NASA has the power to speak up.
+
+PADI: Launch days are exciting. Everyone wants to see that rocket fly. But if there is any reason for doubt, the launch team can stand down and try again another day. This is called a scrub in NASA lingo. We’re going to go inside one scrub, hear how it led to the successful launch of Artemis I, and why it prepared the launch team for Artemis II.
+
+JACOB: Beyond this point, you’re going to need to think like a rocket scientist. But don’t worry. We’re in this together. And we have some help from an expert named Michael Guzmán.
+
+MICHAEL GUZMÁN: I am a[n] operations and launch engineer here at Kennedy Space Center. I love science and space and aviation.
+
+JACOB: Before we get too far, I have to tell you how Michael ended up at NASA. He got his foot in the door with a summer internship. It was with a different team, and he didn’t like the work. In the meantime, he bought a rocket science textbook and started studying on his own. He ended up building and launching his own model rocket. A NASA hiring manager noticed and offered him a job almost on the spot. So if you’ve ever wondered what the right stuff is to be a NASA engineer, that might give you an idea.
+
+MICHAEL: I’m a huge nerd. I love math, science and physics. And, you know, a lot of time—even on my free time—I’ll find myself just kind of watching physics lectures.
+
+JACOB: So I asked Michael if he could be our textbook.
+
+[Music: Mind Over Matter by Luciano Storti]
+
+Could he give us a crash course in rocket science 101?
+
+MICHAEL: No, it’s definitely possible. Might be a little lengthy, but I’m gonna try to be as succinct as possible. So technically speaking, a rocket is any object that can propel itself by using some of its own mass.
+
+PADI: The basic principle behind rockets is Isaac Newton’s third law of motion.
+
+JACOB: You know this one, even if you think you don’t. Say it with me: “For every action, there is an equal and opposite reaction.”
+
+PADI: Creating more than 8 million pounds of thrust—which is what the SLS rocket can do—takes a pretty big action. And for SLS, a lot of that action comes from two elements that are not hard to find on Earth: oxygen and hydrogen.
+
+MICHAEL: We have to combust oxygen and hydrogen. So what does that mean? You have to pipe oxygen and hydrogen to the engine. So what does that mean? You’ve got some tanks, you’ve got some engines, and you’ve got piping between those tanks and those engines. And that’s it. When you look at the rocket, what you’re looking at is two tanks stacked on top of each other, four engines at the bottom, and there’s a bunch of pipes connecting them. And that’s pretty much it. You fill the tanks up, you allow that oxygen and the hydrogen to go down to the engines, they combust, you get a jet coming out one end. You now have the reaction pushing you the other end. That reaction is giving you energy—enough energy to reach your orbit.
+
+JACOB: You can tell Michael’s a good teacher because he makes this sound so easy. But after all, it is rocket science. One detail that makes it complicated is that SLS uses cryogenic fuel. It’s extremely cold, because hydrogen and oxygen in their gas form don’t work.
+
+MICHAEL: To fit the amount that we need into the rocket, we need to make it more dense so that we can stuff more into the rocket. Well, how do you make it more dense? You convert it into a liquid, and converting it into liquid means you’re cooling it down. And so the result is that you end up with a very cold liquid, and that’s where the cryogenic comes into play.
+
+PADI: The liquid oxygen in this rocket is almost minus-300 degrees Fahrenheit or below minus-180 degrees Celsius. And liquid hydrogen is even colder: below minus-400 degrees Fahrenheit or below minus-250 degrees Celsius. When you see Artemis II on the launch pad, you might see white clouds streaming off the rocket. This is the rocket fuel escaping from the fuel tank, condensing into water vapor, and forming a cloud that dissipates harmlessly into the atmosphere.
+
+JOE: Remember, hydrogen is the smallest molecule on the planet, right?
+
+JACOB: This is Joe Pavicic again.
+
+JOE: It’s going to find ways to leak. And so what happens is, there’s a bunch of seals in the system. If a seal’s slightly off, or just slightly, you know, chills imperfect[ly], you know, that’s where we see a leak.
+
+JACOB: As a member of the cryo propulsion team, it was Joe’s job to help fuel the rocket. He jokes that he used to tell people he was a plumber because he was looking at pipes all day.
+
+PADI: Before the rocket could fly, the launch engineers had to spend hours carefully loading liquid hydrogen and liquid oxygen into those tanks and conditioning the engines. And that turned out to be even more delicate than they thought. All those pipes and seals and valves—they need to be brought down to the same temperature as the super-cold rocket fuel.
+
+JOE: So the chill-down, what you hear is literally just the gas slowly—you know, it’s maybe not the minus-400, maybe it’s in the two hundreds—and just slowly starting to get introduced to the vehicle, start chilling things down. Say, OK, here the cryos are coming.
+
+PADI: For safety reasons, almost no one is allowed to get close to a rocket leading up to launch. But people who do get close to a rocket hear it creaking, as it adjusts to the temperature and pressure changes happening inside. The rocket almost sounds alive.
+
+[Music: Sea of Stars by Enrico Cacace]
+
+DERROL NAIL (from NASA broadcast): Want to start you off with the news of the morning, as we just turned to midnight.
+
+PADI: On August 29, 2022, it was time to fly. In the wee hours of the morning, the huge rocket stood alone, illuminated by floodlights. And then, as the Sun rose over the Atlantic Ocean, bright bands of yellow and pink filled the sky, and crowds gathered, hoping to feel the shockwave as the rocket took off.
+
+JACOB: Meanwhile, Derrol Nail from NASA Communications shared an update.
+
+DERROL (from NASA broadcast): The mission management team just met and gave a “go” to proceed with tanking for the Artemis I mission. The launch team has been doing their pre-cryo-loading operations … (fade out)
+
+JACOB: Inside the Launch Control Center, Joe Pavicic kept an eye on the fuel going into the rocket.
+
+JOE: Essentially we’re just flowing the hydrogen through the engine. It’s just being pressurized from the top, just by gravity, and just flowing through the engine to create a nice chill profile so it gets nice and chilled down before we start.
+
+JACOB: As Joe watched the fuel tanks fill up, he realized something didn’t look right. One of the rocket’s four engines wasn’t as cold as it was supposed to be. This was a problem, and Joe raised his hand.
+
+JOE: And we tried everything under—that we can think of. Any contingency procedure we can try, we tried it. And we just never saw those rates that we should have. And so I had to tell [the] launch director, like, we can’t get there today with the current criteria that we have. My recommendation’s a no-go.
+
+DERROL (from NASA broadcast): This is Artemis launch control with an update. Launch director Charlie Blackwell-Thompson has called a scrub for today. Again, launch director Charlie Blackwell-Thompson has called a scrub … (fades out)
+
+JOE: You know, we don’t know what we don’t know, so we have to be safe and say, “I can’t go today.” So it was tough. It was very tough.
+
+JACOB: Yeah. What did it feel like to be either the person or one of the people piping up and saying, “I don’t think we can do this”?
+
+JOE: You know, it’s funny. Going into launch, I remember seeing the news and just seeing all these people all over our county and just driving into work, just seeing people on the side of the road and like, Oh, yeah, that’s cool. We’re going to show people something. At the beginning of the day, you know, we load the vehicle, and we start getting procedures or—like, I think we can get through this issue. We’ve been able to get through so many issues; we can get there. And I just remember, like, after I said, “No go” I just felt like all these people came to watch, all my family. And I’m like, “I’m the guy.” You know, I didn’t do anything wrong. I did something right by saying, you know, we’re not going to be able to go by that criteria. But, you know, end of the day, it was like—it was a bummer.
+
+[Music: Shared Future by Olivier Grim]
+
+JACOB: At this point, Joe says, the launch team had to go back to the drawing board. They needed to figure out what went wrong and how to fix it, so a special team got together and worked around the clock, trying to get to the bottom of it.
+
+JOE: There’s people bringing us food. There’s people who are not even involved—electrical people—trying to help, like, “What can I do? I know nothing about the system, but how can I help? Can I do whatever for you guys?” It was really cool. You felt like you had the whole agency behind you to come to solve the problem, which was just the coolest thing. It really just showed what NASA was about.
+
+PADI: Joe says that in a matter of days, the launch team performed years’ worth of work. They came up with a new fueling strategy—one they called “chill and fill”. The trick was, they needed to go nice and slow.
+
+JOE: We call it a kinder, gentler loading at the end. And it was—it worked. The vehicle behaved perfect.
+
+JACOB: In early September, there was another launch attempt. This one was a scrub too because of a hydrogen leak. A couple of months later, the launch team was ready to try again.
+
+PADI: On November 16, 2022, the rocket stood ready on the launchpad. And the Artemis launch director, Charlie Blackwell-Thompson, scanned Firing Room 1 from her desk looking out over the room.
+
+CHARLIE: Launch day is an incredibly special day, and there’s a certain energy in the Launch Control Center that is different from the days that come before it.
+
+PADI: As launch director, Charlie is one of NASA’s key leaders behind the Artemis program. Ever since she was a kid, Charlie couldn’t help looking up at the sky, seeing the Moon or a twinkling star, and just wondering what it was.
+
+JACOB: By the time she was in college, she managed to get a job interview at Kennedy Space Center, and they took her on a tour of Firing Room 1.
+
+[Music: Touch of Eternity by Sergey Azbel]
+
+CHARLIE: The folks that were in the room on that particular day when I got my—when I had my interview and they gave me a tour. I walked through the room, and there was a team there testing space shuttle Discovery, getting her ready to go fly after the Challenger accident. And they let me put on a headset, and I listened for just a moment, and I could hear the teams talking to one another, the steps that they were running in the procedure. And, you know, at NASA, we talk in call signs and acronyms.
+
+JACOB: Oh, I know.
+
+CHARLIE: And so I wasn’t exactly sure all that they were doing. But as I listened to the teams work together, I thought, Wow, I would love to be a part of this team. I would love to walk in this room and put on a headset and run a test procedure that enabled a vehicle to go fly.
+
+JACOB: Charlie has been launching rockets for decades. She worked her way up the ladder until NASA selected her as the Artemis launch director. On launch day, she has to sift through tons of details: Is everything happening on time? What issues is the team seeing, and do they have a plan to solve them? But she also tries to soak in the moment.
+
+CHARLIE: You know, this vehicle stands 323 feet tall, and it sits on a mobile launcher platform that is 50 feet off the ground. And when you’re coming in at night and you have all those lights around the vehicle, I mean, it is visible from a long way away. And as I roll into the Launch Control Center parking lot, you can’t help but see that vehicle sitting out on the pad. I’ll go take a look, and I’ll think about for a moment what the team has accomplished and what is in front of us. And I’ll also think about how lucky I feel to be a part of it.
+
+PADI: So, on that night in November 2022, the launch team tried again. They chilled and filled the fuel tanks on the rocket. They worked for hours and watched the clock tick down to one of the final milestones: T-minus 10 minutes.
+
+[Music: Mesmerized by JC Lemay]
+
+JACOB: And I’m just going to let Charlie describe what happened next:
+
+CHARLIE: And so for the first time—because we didn’t get this far in our prior launch attempts—we got to a step in our procedure that the NASA Test Director, the NTD, comes to the launch director and says …
+
+Unidentified voice from launch broadcast: And launch director, NTD. Our launch team is ready to proceed at this time.
+
+CHARLIE: … “Launch Director, NTD, our launch team is ready to proceed. We are working no constraints.” And that team and myself had waited on that step. We practiced it hundreds of times in sims and training exercises, but to hear on that night that we are ready to proceed into terminal count. And of course, I did my poll …
+
+Unidentified voice from launch broadcast: Launch director, mission manager. You have a go to proceed with terminal count and launch of Artemis I.
+
+CHARLIE: … Gave direction to pick up the clock and launch Artemis I.
+
+[Music: Taste of Fear by JC Lemay]
+
+And as you begin to count through those last five minutes, again, the room is so quiet as everyone is focused. I mean, there’s an intensity in the room, and you begin to terminate propellant to the vehicle. You begin to pressurize tanks for flight. You begin to spin up those APUs, and you’re getting down into the transfer of power from the ground to the flight elements. T-minus 1:30, you transition the core stage from ground power to onboard power, and then we have no hold time remaining, and the countdown clock continues to run. You hear the operator enunciate that we are at T-minus 33, 31 seconds, and then you hear around 10 seconds, “GLS is go for core stage engines start.” And a few seconds later, those core stage engines begin to rumble to life, and you are into the “Five, four … “
+
+DERROL (from NASA broadcast): … Three, two, one.
+
+CHARLIE: Booster ignition and liftoff …
+
+DERROL (from NASA broadcast): Liftoff of Artemis I!
+
+(Sound of rocket firing as Artemis I lifts off)
+
+CHARLIE: And that moment that we had been working toward—the beginning of that mission—just like that had started.
+
+JACOB: I mean, once you make it through all that and Artemis I is flying, like, are you on a high? Do you feel like you just ran a marathon and you’re about to collapse?
+
+CHARLIE: Well, no, actually, right after launch, it’s such a joyful time, because it is the achievement of a milestone. And so strangely enough, it—some may have felt like there was a marathon involved, but certainly immediately after launch, it was exhilarating.
+
+JACOB: There were nearly 100 launch engineers in Firing Room 1 and even more working in back rooms nearby, and they launched Artemis I as a team. I asked Joe Pavicic what he was feeling after he had helped wave off one of the previous launch attempts.
+
+JOE: Oh I cried. I cried—I think I cried more than for the actual issue. No, it was just like—it was perfection. And you know, and then we’re going to terminal count. I just remember sitting next to one of my best friends, Max. And we’re just sitting there like, Are we going? We’re going. Nothing stop us. We’re going. And we just saw, like, the sparklers and the engines light. We just grabbed each other like, Oh my god, we’re actually going right now! I remember that moment very clearly. It’s one of those moments—I’ll just never forget it.
+
+[Music: Ice Splendor by Rémi Boubal]
+
+PADI: As SLS lifted off, it reached a speed of more than 17,000 miles per hour by the time its main engines cut off. It sent Orion on its course to the Moon. In a summary of Artemis I, the leaders of NASA’s SLS program called the rocket’s performance “incredibly successful” and wrote that it “sets the stage for an era of unparalleled space exploration.”
+
+JACOB: Now, for Artemis II, humans are along for the ride. The launch engineers I talked to—including Charlie, Joe, Michael, and others—say their experience from Artemis I, on top of another rigorous testing program leading up to Artemis II, sets up the mission for success. They’re ready to send humans around the Moon.
+
+CHARLIE: I was just a kid in grade school at the end of the Apollo program, and I remember watching those Moon landings with my classmates and being so intrigued, so curious, so inspired. Apollo made the world stop and look, and I think that Artemis will do the same thing. The world will stop and look up in wonder, in intrigue, and will feel a sense of accomplishment.
+
+JACOB: What does it feel like to be one of the people making that happen? I mean, that’s a gift for the rest of us, you know?
+
+CHARLIE: You know, it’s hard to put into words what it means. To me, the best word I can come up with is I feel incredibly blessed. And you know, Artemis II is our first crewed flight. And I think about Artemis II as that next step.
+
+[Music: Destiny Calls by JC Lemay]
+
+I think about Artemis III landing on the Moon. And I think about taking all of this and applying it to other deep space destinations. What will it be like when we land on Mars? What will that be like? Now, I’ll probably be retired, but you know, having had a little piece of enabling that capability is an incredibly special thing to be a part of.
+
+PADI: This is NASA’s Curious Universe—an official NASA podcast. Our Artemis II series was written and produced by Christian Elliott and Jacob Pinter. Our executive producer is Katie Konans. Wes Buchanan designed the show art for this series. Music for the series comes from Universal Production Music.
+
+JACOB: We had support throughout this series from Rachel Kraft, Lisa Allen, Lora Bleacher, Brandi Dean, Courtney Beasley, and Thalia Patrinos. Huge thanks to the subject matter experts you heard in this episode, as well as Jeremy Graeber and Anton Kiriwas. At Kennedy Space Center, we had help from Toni Jaramillo, Tiffany Fairley, Allison Tankersley, and Lorne Mathre.
+
+You can find transcripts for every episode of Curious Universe and explore NASA’s other podcasts at nasa.gov/podcasts. If you enjoyed this episode of NASA’s Curious Universe, let us know! Leave us a review wherever you’re listening right now. Why not send a link to one of your friends. And you can follow NASA’s Curious Universe in your favorite podcast app to get a notification each time we post a new episode.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>artemis-ii-what-learned</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/artemis-ii-what-nasa-learned-from-launching-artemis-i</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-04</_collected_at_beijing>
+<_audio_verified>HEAD 跟随重定向得 audio/mpeg + 41557882 字节；整文件下载后 ffprobe 时长 1716.219 秒、字节数一致，ffmpeg 全量解码零报错</_audio_verified>
+<_child_clip_guid>urn:podcast:nasa.gov:curious-universe:artemis-ii-what-learned:clip:cried:1427.0-1459.6</_child_clip_guid>
+</item>
+<item>
+<title>Telling the family — clip from Artemis II: Meet the Moonbound Astronauts (1943.9-1993.7s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/artemis-ii-meet-the-astronauts</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:artemis-ii-astronauts:clip:family-reactions:1943.9-1993.7</guid>
+<pubDate>Tue, 13 Jan 2026 14:00:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-artemis-ii-astronauts-clip-family-reactions.mp3" length="891663" type="audio/mpeg"/>
+<itunes:duration>50</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】圆桌对谈里聊告诉家人：Jeremy 说孩子和妻子由衷为他高兴，感受到被支持；Reid 是两个女儿的单亲爸爸，告诉女儿们后，第二天早上大女儿做了月球纸杯蛋糕——那个起初最反对的孩子，反而推着他向前，那正是当父母最想感受到的时刻。
+【Reels 角度】告诉家人要去绕月：Jeremy 的孩子和妻子由衷为他高兴；Reid 的大女儿——那个起初最反对的孩子——第二天早上做了月球纸杯蛋糕，推着爸爸向前。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; the episode transcript marks music cues (I Want to Be An Astronaut, Fast Motion Orchestra, Supercluster, Singularity, Aurora Borealis, Redshift, Political Strategy, Busy Life, Turbulent Times, Spacewalk, Towards the Light, The Perfect Process, Contemporary Art Daily, One Step At a Time, Staring Into Infinity, New Horizons, Inner Peace) all outside this segment.
+【来源】https://www.nasa.gov/podcasts/curious-universe/artemis-ii-meet-the-astronauts
+【采集日（北京时间）】2026-11-04
+【发布时间精度】exact（Inherits parent original publish date (Megaphone RSS Tue, 13 Jan 2026 14:00:00 -0000); clip itself was modelled 2026-11-04 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:artemis-ii-astronauts
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/artemis-ii-meet-the-astronauts
+【片段】原集 1943.9-1993.7 秒，49.8 秒，原声，未加 BGM，文件：clips/nasa-artemis-ii-astronauts-clip-family-reactions.mp3]]></description>
+<content:encoded><![CDATA[I also was really pleased by the reaction of my children and my wife. They were just really excited for me. And even though there's, you know, there's a risk aspect to this, they knew it was something that that I was interested in pursuing, and I it just felt really good that they were as excited, genuinely, as excited as they were, which was felt very supported. I'm an only parent with two daughters, and it was hard for me to go home and tell the. I'll just keep this short, but I—once, I told them, they turned it around in their head to an extremely positive thing. And the next morning, I woke up and my older daughter had made Moon cupcakes for the family. And she was the one that was, I think, most against this for her life. And so I just—I thought that was amazing. Like here these two kids I thought were gonna pull me, but they were pushing me, and I that was, I will never forget that like that is exactly the way you want to feel as a parent. It was such a cool moment for me.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>artemis-ii-astronauts-clip-family-reactions</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/artemis-ii-meet-the-astronauts</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-04</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 49.800s / 891663 bytes (ffmpeg cut from verified full MP3 in this run, 2026-11-04); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-artemis-ii-astronauts-clip-family-reactions.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-artemis-ii-astronauts-clip-family-reactions.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-artemis-ii-astronauts-clip-family-reactions-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-artemis-ii-astronauts-clip-family-reactions-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:artemis-ii-astronauts</_parent_guid>
+<_parent_id>nasa-artemis-ii-astronauts</_parent_id>
+<_clip_start_s>1943.9</_clip_start_s>
+<_clip_end_s>1993.7</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>Artemis II: Meet the Moonbound Astronauts</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/artemis-ii-meet-the-astronauts</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:artemis-ii-astronauts</guid>
+<pubDate>Tue, 13 Jan 2026 14:00:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:full-episode</category>
+<category>production:text-script</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION7844590620.mp3" length="73213984" type="audio/mpeg"/>
+<itunes:duration>3035</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】full-episode, text-script
+【摘要】Artemis II 乘组介绍一集：指令长 Reid Wiseman、飞行员 Victor Glover、任务专家 Christina Koch 与加拿大航天员 Jeremy Hansen——四人的成长、选拔与三年合练，圆桌对谈里聊被选中那一刻的沉重、告诉家人的方式、以及“我们不想被记住，只想当好接力赛一棒”的团队信条；并拆解 10 天绕月之旅：发射、远地点抬升、近距离 prox ops、月背 45 分钟失联与太平洋溅落。
+【Reels 角度】四个人，一场接力赛：Reid Wiseman、Victor Glover、Christina Koch 与 Jeremy Hansen——他们不想被记住为“第一”，只想当好把火炬递给登月乘组的那一棒。
+【许可证】Public domain：美国联邦政府作品（NASA 官方播客），一般不受版权保护
+【权利说明】可剪辑/再分发，不得暗示 NASA 背书；本集文字稿中标有音乐 cue（I Want to Be An Astronaut、Fast Motion Orchestra、Supercluster、Singularity、Aurora Borealis、Redshift、Political Strategy、Busy Life、Turbulent Times、Spacewalk、Towards the Light、The Perfect Process、Contemporary Art Daily、One Step At a Time、Staring Into Infinity、New Horizons、Inner Peace，系列音乐来自 Universal Production Music），正式发布前需逐项再核片段内音乐；本批 ready-clip 已核为原声讲话段、未加 BGM，片段内无音乐 cue。官方页含 2026-03-04 更新版编辑注，本轮按更新后全文核对。
+【来源】https://www.nasa.gov/podcasts/curious-universe/artemis-ii-meet-the-astronauts
+【采集日（北京时间）】2026-11-04
+【发布时间精度】exact（NASA Curious Universe Megaphone RSS: Tue, 13 Jan 2026 14:00:00 -0000）
+【子片段 GUID】urn:podcast:nasa.gov:curious-universe:artemis-ii-astronauts:clip:family-reactions:1943.9-1993.7]]></description>
+<content:encoded><![CDATA[[Music: I Want to Be An Astronaut by Alan D. Boyd]
+
+APOLLO 8 ARCHIVAL: Transmission is coming to you approximately halfway between the Moon and the Earth. It’s a beautiful, beautiful view.
+
+CHARLIE BLACKWELL-THOMPSON: I was just a kid in grade school at the end of the Apollo program, and I remember watching those moon landings with my classmates…
+
+APOLLO 11 ARCHIVAL: Tranquility Base here, the Eagle has landed. Roger Tranquility, we copy you on the ground.
+
+CHARLIE: …and being so intrigued, so curious, so inspired.
+
+APOLLO 11 ARCHIVAL: That’s one small step for man, one giant leap for mankind.
+
+CHARLIE: Apollo made the world stop and look.
+
+APOLLO 17 ARCHIVAL: And as we leave the Moon and Taurus-Littrow, we leave it we came and God willing as we shall return, with peace and hope for all mankind.
+
+CHARLIE BLACKWELL-THOMPSON: And I think that Artemis will do the same thing. The world will stop and look up in wonder, in intrigue, and will feel a sense of accomplishment.
+
+[Music: Fast Motion Orchestra by Laurent Levesque]
+
+ARTEMIS I ARCHIVAL: And here we go. Hydrogen burn off…
+
+VICTOR GLOVER: Pushing ourselves to explore is just core to who we are. That’s a part of being a human.
+
+ARTEMIS I ARCHIVAL: Core stage engine start.
+
+VICTOR GLOVER: We want to know what’s out there just beyond the horizon, and so the Artemis program is our opportunity.
+
+ARTEMIS I LAUNCH ARCHIVAL: And liftoff of Artemis I. We rise together back to the Moon and beyond.
+
+REID WISEMAN: At a high level, the Artemis II mission launches out of Kennedy Space Center on the Space Launch System and Orion spacecraft, and the crew will travel two orbits around Earth and then head on to the Moon, 250,000 miles from Earth. There’s only one primary goal of Artemis II, is to prepare this spacecraft for Artemis III and for our NASA astronauts to go land on the Moon.
+
+JEREMY HANSEN: Artemis is the twin sister of Apollo. That’s intentional. It is to remind us that we’re going to go do great things. Yes, we’re going to put humans back on the surface of the Moon. But we’re not stopping there. When you see us fly around the Moon on Artemis II, that is just a snippet of the incredible things that are to come.
+
+REID: We’re going back to the Moon because it’s the next step in our journey to Mars. We need to go explore the Moon. There’s vast regions of unexplored areas with the coldest, darkest places in our solar system.
+
+CHRISTINA KOCH: From the time humans started exploring this was always in our future and in our fate. We were always going to the moon.
+
+REID: In our lifetime, we’ve looked at the Moon knowing that people had been there. And now in the Artemis generation, kids will walk out and look at the Moon going, we are there. We are there now, and we are going further into our solar system.
+
+CHRISTINA: I’m Christina Koch.
+
+JEREMY: Jeremy Hansen.
+
+VICTOR: I’m Victor Glover.
+
+REID: NASA astronaut Reid Wiseman, I’m gonna fly with Victor Glover, Christina Koch, and Jeremy Hansen around the Moon and safely back to Earth.
+
+[Music: Supercluster by Sergey Azbel]
+
+PADI BOYD: This has got to be one of the most exciting things we are preparing for and that we’ve ever prepared for. You’re listening to NASA’s Curious Universe. I’m Padi Boyd.
+
+JACOB PINTER: And I’m Jacob Pinter. NASA is leading a golden age of space exploration. Through the Artemis campaign, humans are returning to the Moon for the first time in more than 50 years. In Artemis I, NASA tested the mighty SLS lunar rocket and the Orion space capsule with an uncrewed flight test around the Moon in 2022. Now, NASA is about to launch Artemis II with four astronauts who will fly Orion around the Moon and back to Earth.
+
+PADI: And it gets even better. The Artemis II test flight will prepare us for the next Artemis missions, when astronauts return to the surface of the Moon and explore places where humans have never ventured before. And Artemis will build upon the foundation we’ve laid and prepare us for the first human journey to Mars.
+
+JACOB: In this limited series–you are along for the ride of Artemis II. You’ll meet the astronauts flying around the Moon and go behind the scenes with NASA engineers and scientists powering this mission.
+
+PADI: Basically, you’re going behind the scenes as the astronauts go behind the Moon! In this episode: the astronauts. We’re introducing you to the Artemis II mission through the people flying on it.
+
+JACOB: We also had the rare chance to get these four very busy astronauts into a room together for a roundtable conversation about the bonds they’ve built as a team, the hard conversations they’re having with their families, and what’s going through their heads leading up to launch.
+
+Now, are you ready to meet your crew?
+
+PADI: First up, your Artemis II commander: NASA astronaut Reid Wiseman.
+
+[Music: Singularity by Sergey Azbel]
+
+REID: My role as commander on this mission is simply to take care of my crew, take care of this Orion spacecraft, get us around the Moon, and get us safely back to planet Earth.
+
+PADI: Reid joined the astronaut corps in 2009. This will be his second trip to space. He’s flown all sorts of fighter jets as a Navy test pilot. He’s a natural leader. He’s got a good sense of humor and a high-level view of the mission always in mind. He’s also served as chief of NASA’s astronaut office. But before all that, he was a kid from Baltimore.
+
+REID: I was a tiny kid. Like, I was really skinny. I was really small. I never thought I’d be an astronaut. I mean, come on, it’s like an unobtainable dream.
+
+PADI: But Reid knew one thing: he wanted to fly.
+
+REID: Growing up in Maryland, there was a National Guard base nearby my house. And there were A-10 aircraft that would fly over every now and then, and I just would look up at them be like, Man, I want to be up there. I want to go do that. Flying is freedom to me. When you come off that aircraft carrier, you are truly just alone with yourself out there.
+
+PADI: Reid spent 165 days on the International Space Station in 2014 as a flight engineer. He climbed into a spacesuit and stepped out of the space station airlock to make repairs on two spacewalks, and he’s conducted over 300 science experiments. But he says the best parts were the friends he made along the way.
+
+REID: When you laugh so hard that you get tears in your eyes in space, they just stay in your eyes. They don’t run down your cheeks. That’s like one of the most memorable things.
+
+PADI: Huh, wow, that is pretty cool. OK, now, meet your pilot: NASA astronaut and U.S. Navy captain and test pilot Victor Glover.
+
+[Music: Aurora Borealis by Frederik Helmut Wiedmann]
+
+VICTOR: As a test pilot, the opportunity to fly a spaceship is just a dream. In all of human history, you know, we haven’t flown that many spaceships, and so the ability to fly one, actually in space on a test mission, is just a really unique opportunity.
+
+JACOB: As the pilot, it’ll be Victor’s job to grab hold of the flight control stick and demonstrate Orion’s handling capabilities in space.
+
+VICTOR: In the shuttle era, the pilot’s job was not to fly the spacecraft. The orbiter was landed by the commander, the pilot’s main responsibility was to make sure the toilet worked. And it’s funny, because in my interview back in 2012 maybe early 2013 I said to them, you know, if you need somebody to repair the sink or to fix the toilet, I’m your guy, you know.
+
+JACOB: Victor joined the astronaut corps in 2013. This is his second trip to space. And second time flying a new spaceship. He was the pilot for the Crew-1 Dragon spacecraft to the space station on its first operational mission. Victor lived and worked for 168 days on the International Space Station in 2020 and 2021, and he conducted four spacewalks. Victor is a procedures guy. He’s very analytical, whether he’s flying a spaceship or making sure the crew’s checklists are in order. In fact, years ago one of his bosses gave him the nickname “Ike” for “I Know Everything.” Victor grew up all over Southern California. And moving around a lot, school was a constant for him.
+
+VICTOR: My favorite subjects in school were math recess and lunch. My close friends, we called ourselves the Knights of the Round Table, and I’m not afraid to admit that. But we would stand around this water fountain, and we would just tell jokes and tell stories. And that group of friends to this day, they’re still my closest friends, and we still refer to ourselves as the knights.
+
+JACOB: Victor is a super smart guy and a great engineer, but he’s always felt more confident on the field than in the classroom. Growing up, he wrestled, played football and ran track. Once he joined the Navy, he flew more than 30 different aircraft and picked up a masters degree in his spare time.
+
+VICTOR: When I applied to be an astronaut, I thought I was going to get a nice letter saying, Hey, thanks, kid, we got this covered, you know? So being a part of Artemis II or Crew-1 , and flying on an expedition on the space station, I think these things are gifts.
+
+JACOB: Let’s move on to our next astronaut. Your first mission specialist is NASA astronaut Christina Koch. Artemis II will be her second trip to space – although her first trip was a long one. Christina spent almost a full year on the International Space Station, where she participated in the first all-female spacewalk. Christina’s background is in engineering. In fact, before she became an astronaut, her resume included working as an electrical engineer at NASA, helping to develop instruments for missions to space. She’s also conducted science in some very remote places, including Antarctica. In her spare time, she’s a rock climber, a surfer, and a DIY motorcycle mechanic. Christina’s from the South. She grew up in nature, in the forests of coastal North Carolina and on her family’s farm in Michigan, where she spent summers.
+
+[Music: Redshift by Sergey Azbel]
+
+CHRISTINA: I was always outside. I was climbing trees in my backyard. I was going to the beach. I loved things that made me feel small. I love looking at the night sky, oftentimes between the pine tree branches, I love the ocean. North Carolina also has mountains and when we’d go there, I’d just love the vastness of those things. I loved how they made me feel and what they made me think about, and the vastness of the universe and how much out there was to learn, and just that perspective of there’s so much more out there than we can see in our day to day lives, and what do we learn about ourselves when we go to explore it?
+
+PADI: Christina came to NASA through civilian life. But ever since she was in elementary school, she wanted to be an astronaut. She had a poster of Earthrise hanging in her bedroom—that famous photo of Earth from the perspective of the first astronauts ever to fly around the Moon. And it was a dream she never outgrew. Christina studied engineering in college and took a semester off to study abroad in Ghana, which is where she started to learn to love exploration—going to new places like tropical islands in the middle of the South Pacific or Antarctica. She feels more comfortable in a space suit or a snow suit than at a computer desk. The research she did in extreme environments prepared her for the challenges of space.
+
+CHRISTINA: There are things about our universe we can only learn if we go to certain places. Only those places can tell us those things about the universe. I always say to people, do what scares you. And that means I have to follow my own advice. So doing what scares me meant getting on a plane and going to the Antarctic, getting on a plane and going to study abroad in Ghana, applying to become an astronaut, strapping myself onto a rocket, opening the EVA hatch in the airlock and going out of it into the darkness.
+
+JACOB: Rounding out your crew: Jeremy Hansen, also a mission specialist.
+
+JEREMY: Je suis Colonel Jeremy Hansen. Un astronaute avec l’agence spatiale canadienne.
+
+JACOB: Jeremy is an astronaut with the Canadian Space Agency, which means he has to speak French as well as English. His spot on the crew makes him the first non-U.S. astronaut to venture to the Moon. He’s a pilot with the Canadian Royal Air Force. He joined the Canadian Astronaut program in 2009 and has worked closely with NASA astronauts since then.
+
+[Music: Political Strategy by Pip Heywood]
+
+This will be his first trip to space, but he’s well prepared. He’s lived underwater for a week in the Aquarius undersea research station. He even went on simulated moonwalks on the seafloor as an aquanaut. He’s also delved into caves with the European Space Agency to learn to work together with other astronauts in harsh environments.
+
+JEREMY: And every day we just explored deeper. We slept in the cave. We ate there. So for seven days, we were truly just inside Mother Earth, exploring deeper and deeper. It’s one of the most dangerous things I’ve ever done. Caves are a really dangerous environment, where one moment you can be in this safe environment, and the next moment there’s a huge cliff that you could fall off of and you have to make decisions. Are we going to take time to set up safety ropes, or can we manage this risk if we just go slowly and carefully?
+
+JACOB: Jeremy grew up on a farm in Ontario in southern Canada, helping his dad in the fields and fixing tractors. He loved airplanes, even when he was a little kid. He loved them so much that he would pull down the “A” volume of the encyclopedia and open it to the entry for “airplane”. And then one time, he opened it to the wrong page. He was looking at A for Armstrong. There was a photo of Neil Armstrong standing on the Moon.
+
+Now here is the part where I get really jealous of Jeremy. He had a tree house—a real one, like you see in the movies. And with that picture of Neil Armstrong burned into his brain. Jeremy’s tree house became a spaceship.
+
+JEREMY: Although my dad did most of the building of the tree house, it was a pretty elaborate tree house, it even had a fireman’s pole you could slide down. But inside, I put a lot of effort into it. I went to the barn and I rummaged around and found some scrap wood, and I made a control column that I could steer with hinges. I had the switches that I found in the barn that were circuit breakers, and I mounted them in there. I had dials I’d cut out cardboard, and then some popsicle sticks so I could change the altitudes and the speeds. I’m not much of an artist, but I did draw on the wall with crayon, some kind of star fields. And I would just go on these missions to explore space. And when my friends and cousins would come over, we would go on these missions as well, together.
+
+JACOB: So that’s your crew for Artemis II: Reid, Victor, Christina, and Jeremy. These are the explorers bringing humanity back to the Moon.
+
+PADI: Over the past almost three years, these astronauts have trained, traveled and lived together, preparing for this mission with endless hours of simulations and grueling trainings.
+
+[Music: Busy Life by Laurent Levesque]
+
+PADI: They’ve practiced flying Orion in simulators and escaping the capsule in a giant pool. They’ve even hiked through craters in Iceland to learn geology. And they’ve emerged as just about as tight knit a team as possible. Now they’re about to make history.
+
+JACOB: So let’s talk about how Artemis II is going to go. I have to put in a quick plug because NASA is going to be covering all of this. You can watch the launch; the lunar flyby, when a new generation of NASA astronauts sees the Moon up close with their own eyes; their return to Earth; and every second in between at nasa.gov/artemis.
+
+This show is your behind-the-scenes guide.
+
+PADI: So Artemis II astronauts, we’re all going with you in spirit.
+
+JACOB: So suit up. And don’t forget your helmet.
+
+JEREMY: Artemis II, the second in this campaign of missions to take humanity back to the moon with an eye towards Mars, will be the first time we put humans on this rocket. So on Artemis I we flew an uncrewed test mission of the Orion capsule and the SLS rocket. But this time, there will be a crew of four, be Reid, Victor, Christina and myself, and we’ll be testing this Orion capsule, making sure the life support systems work all the manual control systems work. To do that, we’ll fly it around Earth, initially, test some things out, then take it around the Moon and ultimately, our goal is to make sure it is ready to take humans back to the surface.
+
+JACOB: OK, let’s get into that in a little more detail. On launch day, the crew will wake up about eight hours before liftoff.
+
+[Music: Turbulent Times by Laurent Levesque]
+
+JACOB: They’ll say goodbye to their families, get checked out by doctors, suit up, and then drive out to the launch pad and ride an elevator up 274 feet or about 84 meters to the Orion spacecraft, which the astronauts have named Integrity.
+
+When the crew are strapped in and the countdown reaches zero, four big rocket engines ignite, followed by the two solid rocket boosters. And then the SLS rocket soars.
+
+REID: When the four RS-25s light up, we got about seven seconds before we lift off. And then our two solid rocket boosters light, and we are definitely going when those five-segment solids light.
+
+JACOB: Seven seconds later, the bottom of the rocket clears the launch tower and flies into the sky, and off they go.
+
+REID: Once that happens, the vehicle will do an automated roll and start tracking down range. It’s pretty neat to see how quickly we pick up speed and how quickly the nose of the spacecraft drops down as we accelerate across planet Earth to build up that orbital velocity.
+
+PADI: Once the astronauts reach Earth orbit, they’ll check out the systems in Orion. If everything looks good, they’ll do a maneuver called an apogee raise burn to reach an orbit 38,000 nautical miles above Earth. Just to put that in perspective, that’s about 150 times farther from Earth than the International Space Station—farther than anyone has been in decades. From that distance, Earth will be about the size of a basketball held at arm’s length out Orion’s windows. And that’s just the start.
+
+REID: About an hour and a half after that apogee raise burn, we will disconnect from our interim cryogenic propulsion stage, our upper stage, and we’ll turn the Orion spacecraft around. At this point in time, Victor Glover will be flying, and we’ll do a prox operations demo.
+
+JACOB: OK, let’s break down some astronaut jargon. “Prox ops” is short for “proximity operations.” Even though this happens before the astronauts head to the Moon, this is a really important milestone. It’s basically a test drive. So first, Orion’s software automatically spins the spacecraft around to face the discarded upper stage of the rocket. At this point, Victor takes control manually with Orion about a football field away from the rocket. Victor flies Orion closer, like a practice run for docking with a lunar lander on future missions. Orion gets to within 30 feet of its target. In space terms, that’s really close.
+
+[Music: Spacewalk by Sergey Azbel]
+
+JACOB: Ok, phew. That’s a lot, right? Well that’s just the first day of a 10-day mission! At this point, the crew is only about one-sixth the distance to the Moon. At this point, they’ll have a few more hours of checkout, making sure all systems are go. And then it’s time to head to the Moon. They’ll make one big engine burn, a major milestone called translunar injection. Then, it’s a four day trip to the Moon.
+
+PADI: Now, the part I’m most excited about: the crew will fly around the lunar far side. During the three or more hours of lunar flyby, these four humans will have a better view of the Moon’s surface than anyone has for decades. And with eyes trained by NASA geologists, they’ll observe lunar features up close and may see parts of the Moon that no one has ever seen before. For about 45 minutes, when they are on the opposite side of the Moon, they won’t be able to communicate with Earth at all. It will just be the four astronauts floating in their capsule and the Moon.
+
+Then, the pull of Earth’s gravity will bring Artemis II back home. Four days later, Orion will parachute through the sky and splash down into the Pacific Ocean. Results from this mission will prepare NASA for future Artemis missions, when humans again leave footprints on the Moon and establish a long-term presence there.
+
+JACOB: These four intrepid explorers are going to be responsible for a lot of firsts. The first to return to the Moon. The first to fly Orion. But they have this saying: they insist that they don’t want people in the future to remember those firsts—or to remember them at all—because even bigger things are coming.
+
+CHRISTINA: I have to be honest, I hope that they don’t remember Artemis II. I hope that people recognize that Artemis II was the stepping stone for something so much greater
+
+JEREMY: Victor coined this term in our crew early on about a relay race. And it just really resonates.
+
+CHRISTINA: We are enablers. We are here to make sure that the future is as good as it can be every bit of effort that we spend a lot of it actually won’t affect our mission, but we’re making it better for the people that are coming,
+
+JEREMY: We are just proving out the Orion capsule. The next crew has to prove out a lunar lander, and you put those two together, and then you can put people on the surface of the moon. I do hope that the globe will pause when there are humans who have left the planet and are on the far side of the Moon. I hope that we all pause during that time frame. I think that would be good for us as a human race.
+
+PADI: During Artemis II, the astronauts will bring their unique skillsets and perspectives and act as one unit. To prepare for this remarkable mission, the astronauts have gone through an intensive training program. For almost three years, they have studied their spacecraft, simulated as many mission scenarios as NASA engineers can think of, and immersed themselves in geology so they can gather valuable data as they fly past the Moon. And they have also worked hard to be a better team. They’ve studied psychology and worked with coaches to maximize their performance together.
+
+JACOB: As you’re about to hear, they have formed a unique bond. There are just some things about being an astronaut that nobody else can relate to. But I wanted to try.
+
+[Music: Towards the Light by Cliff Haywood]
+
+So we gathered these four astronauts for a round-table interview to learn about their training and how it feels to be in their shoes. And to really make the most of it, we teamed up with Houston We Have a Podcast. Houston We Have a Podcast is another official NASA podcast. As you probably guessed, it is based in Houston, at the Johnson Space Center. It explores the world of human spaceflight through in-depth conversations with episodes dropping every week. So let me introduce you to Nilufar Ramji. She is a NASA public affairs officer. She’s one of the hosts of Houston We Have a Podcast. Hi Nilufar!
+
+NILUFAR RAMJI: Hey Jacob! Excited for this collaboration.
+
+JACOB: Me too. OK, so during the Artemis II mission, you have a super cool job. You’re going to be taking shifts inside mission control. You’ll be one of the public affairs officers communicating with the world in real-time. And can you just describe what it feels like to be in that room?
+
+NILUFAR: Yes I can. I’ve been in simulations practicing for this mission over the last nine months, and let me tell you, it is an absolute honor to be sharing this mission to the world. What we’ll be doing is taking what you hear on the communications loops. We’ll hear what they’re talking about, what they’re doing over the course of the mission, and our job on console is to be able to translate what is being said to the world so you can go ahead and talk about the Artemis II mission to your family and friends.
+
+JACOB: So you’re listening in to the real communications between the astronauts and mission control and people within mission control and picking out the salient parts and then explaining it for the rest of us.
+
+NILUFAR: Exactly. I will have probably 10 or 15 other voices going on in my head—literally on a headset—and I will be listening for those, as well as the public loops and be articulating what exactly is going on. If the crew is talking about something they’re repairing or going through a procedure, then I should be able to articulate that to you.
+
+JACOB: And so, the four astronauts of Artemis II—you’ve worked with each of these four astronauts over the years. What stands out to you about them and just what you’ve seen from them during that time?
+
+[Music: The Perfect Process by Laurent Levesque]
+
+NILUFAR: All four of these individuals—along with the entire astronaut corps—are incredibly talented, and the combination of any three or four crew just makes for an epic team. I am so happy that I got to record this episode with them.
+
+JACOB: Alright, well you and I sat down with the astronauts for about an hour. We’re going to hear a portion of that interview now. The full version will air on Houston We Have a Podcast.
+
+Here’s Nilufar, along with Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen.
+
+NILUFAR: So y’all have some deep roots with each other, going back to the selection as astronaut candidates. Reid and Jeremy, y’all were in astronaut group 20, aka The Chumps, in 2009. And Victor and Christina, you were both in astronaut group 21, The Eight Balls, in 2013. So first off, tell us a little bit about what your first impressions were of each other.
+
+REID: Well, Jeremy asked me to move in with him when I was looking for a place to live when we first got here, and I was like, there is no way I’m moving in with that guy. Like, we’ll never graduate from our astronaut candidate period. So I said no. And I look back and really regret that. I think we would have had a lot of fun if I said yes to that request.
+
+JEREMY: Yeah, you should regret that life choice.
+
+CHRISTINA: My biggest memory of Victor from our astronaut—of Ike from our astronaut candidate years—was something he said to our entire class to start us out on the right foot and set the stage for what I think was a really successful training period. And he said, “Our goal as a class is to cross the finish line together.” And I will never forget that. It set the bit for what an amazing human you are. And I think about that all the time.
+
+VICTOR: Wow. I’m gonna need a minute. [laughs]
+
+JACOB: You looked really concerned, Victor.
+
+VICTOR: I was like, Oh gosh. I said a lot during that time. The single biggest impression that Christina made on me—during astronaut candidate training, we were having a conversation about what it was like to transition here from our previous lives. And I just remember a moment in this conversation where I felt like, “Oh, you think this place is like the military? It’s not!” And she’s like, “Wait, you think this place is like the civilian world? It’s not!” And so I just remember feeling like, OK, that’s cool. We’re both in a culture that’s new to us. And that was a very important part of my transition to NASA.
+
+JEREMY: Well, I feel a bit guilty for not giving an impression on Reid. Something that just carried forward—and I think people probably pick up on this from Reid themselves very quickly—but it’s just very easy and natural to have a friendship with someone like Reid, and that just translated through our entire time here at NASA as part of this crew. It’s just easy. You never feel like you have to be someone else. And I think that’s just a really important and genuine person.
+
+NILUFAR: So the four of your names were announced to the world in early 2023. I want to know a little bit about how you were told and how you were feeling in that exact moment.
+
+REID: Everybody always asks this question. First, we would have to have shown up to the meeting on time.
+
+VICTOR: Will never forget. March 7, 2023. A date that will live in infamy.
+
+CHRISTINA: We really demonstrated to our leadership that they chose the right crew. None of us were on time. [laughter] Yeah, we were late because I had the wrong impression that it was a virtual meeting, which I took from a different NASA site here. And I know my impression was when I finally did make it, 15 minutes late, walked into the room, saw my boss and my boss’s boss, and you—yeah, just Victor and those other two. And I thought, Oh, wow, we’re in for something here. And sat down and got the question.
+
+VICTOR: So they tried to set it up so that we wouldn’t have any idea what was happening. And I think that backfired a little bit. You know, it was as much of a joke for them as it was for us. We got there, and, you know, they were kind of keeping up the ruse, talking about whatever the surreptitious subject was. But he says, “How would you like to fly Artemis II?” I believe that was what he said.
+
+CHRISTINA: Those were the exact words. I remember.
+
+VICTOR: There were a lot of feelings, a lot of feelings. It was a very profound moment.
+
+REID: I think most people think you get told that and you run out like jumping for joy. And that is not the typical reaction to that moment. The typical reaction to that moment is you just, you’re thinking about this whole astronaut office, and there’s very few people that are going to get to go do this. And then you also think about the tremendous workload that’s coming. Who are you going to go fly with? What is now going to be on your shoulders? And so more of like—I guess maybe it’s because we’re operators. We’re astronauts. We’re always operating. As soon as you find out one piece of information now, it’s on to the next part of this journey and that it just kind of felt surreal. But also it was—it was pretty heavy. It was not like you just won the lottery and you’re running out and jumping for joy. It was not that feeling at all.
+
+JACOB: You’re thinking about the to do list, not the accomplishment.
+
+REID: It’s a lot. It’s just a lot of things.
+
+VICTOR: A lot of things. You know, he said one of them that was really heavy for me. At the time, I was the assigned Crew Branch Chief, so the office that is responsible for getting astronauts prepared directly for their missions, supporting them while they’re in flight, and then transitioning them back when they get home. And that job was really meaningful, and we were also trying to change some things and to really make that time in that branch what it ought to be for the crew members and their families. And I was 11 months into that job, and I was really hoping to do it for two years. And I will tell you—I don’t talk about it much, but I felt like I was letting that group down. And so it was hard for me to just be happy, because it felt selfish.
+
+NILUFAR: How did your families react when you told them?
+
+CHRISTINA: My husband was very excited. We live at the beach, and so we took a bike ride at night out to the end of a jetty when the Moon rose, and that’s when I told him. He was very excited and happy for me.
+
+NILUFAR: That’s really romantic.
+
+CHRISTINA: It was actually too foggy to see the Moon.
+
+[Everyone laughs]
+
+JEREMY: But it was there.
+
+CHRISTINA: It was there.
+
+VICTOR: You had one job! [laughter]
+
+JEREMY: I also was really pleased by the reaction of my children and my wife. They were just really excited for me. And even though there’s, you know, there’s a risk aspect to this, they knew it was something that that I was interested in pursuing, and I it just felt really good that they were as excited, genuinely, as excited as they were, which was felt very supported.
+
+REID: I’m an only parent with two daughters, and it was hard for me to go home and tell the. I’ll just keep this short, but I—once, I told them, they turned it around in their head to an extremely positive thing. And the next morning, I woke up and my older daughter had made Moon cupcakes for the family. And she was the one that was, I think, most against this for her life. And so I just—I thought that was amazing. Like here these two kids I thought were gonna pull me, but they were pushing me, and I that was, I will never forget that like that is exactly the way you want to feel as a parent. It was such a cool moment for me.
+
+VICTOR: At the time I had two children away in college, and they’re in California. And so we happened to go out there to visit them. So we were all together in a hotel room, and it was a heavy conversation, and knowing that, you know, it is this thing, what’s coming. There’s the estate planning and all of these other things, and it’s dangerous. We know dad’s job is dangerous. And I told them, and one of my kids just yelled out, “Let’s go!” And that set the—it was just contagious, like it caught fire. And Dionna, my wife, already knew, but even her reaction was just different. And I needed that. Very similar, like it just was so nourishing to my soul. It was like, OK, yep, we can celebrate. And that’s actually when I started to really feel the celebration.
+
+JACOB: And so these conversations you’re talking about, these were more than two years ago. And so now these people in your life have seen you going through the training. That date on the calendar is getting closer and closer. What are the conversations like now that you’re having with the people you’re close to?
+
+[Music: Contemporary Art Daily by Laurent Dury]
+
+CHRISTINA: Well, I will say it got real for my husband when he saw the rocket. You know, we talk about it a lot, but until that gigantic 300 foot rocket was in front of him, I don’t think it had really sunk in. I don’t think it can. And I don’t think it really ever can fully. But I can say our conversations changed that day. They just feel a lot more real, and I think that internalizing what we’re doing together has become real.
+
+JEREMY: I had an experience standing on the roof of the Launch Control Center at Kennedy Space Center with my family on the tour. That’s where they’re going to watch the launch from. And that—I could just tell that was a moment for them where they’re like, Oh, there’s going to be some emotions on that day. You know, we’re gonna have to lean into one another and support mom. And there are just a lot of comments like that. And that was a very real moment for us thinking about those things. And then people ask them—they get asked that a lot, like, what do you think about your dad going on this risky mission around the Moon? And I think that definitely—well, I know—it has made them contemplate those things, which is good, because you have to think about those realities. We have to have those honest conversations. The most likely outcome—and this is how I truly feel about it—is that we’ll be fine and we’ll make it back. That is the most likely outcome. But it’s not the only outcome, and we do have to prepare for that as well.
+
+REID: I think when I talked to my kids about that, it actually liberated them. I don’t think it scared them. I think it liberated them that we just looked at it head on and I talked to them. If I don’t come back, here is where you’ll go, and here’s the estate plan, and here is exactly what I have built this foundation for the both of you. And it’s incredible. It was hard for me to have that conversation, but then it was also very freeing, I think for all of us.
+
+VICTOR: That is a—that’s what just keeps running through my mind, is that there’s a lot of logistics, some of which is not fun to discuss. But the thing that I have appreciated the most at the end of it—I just sit there and meditate about it, or write about it, pray about it. And I’ve written in my journal several times how this conversation was quick, this one was long, but I’m glad they feel they have the space to say what they think. My kids are all average age adults now, and it’s just really cool to see their contribution. They bring up things and talk about things. It’s been cool just to think about it afterward, like, Wow, all these adults having this discussion.
+
+NILUFAR: So what’s something about your job that all of you understand but nobody else understands?
+
+JEREMY: Well, just one thing people probably wouldn’t know is, like, just before we came out here to record this and do some filming, we were in a spacesuit, completely covered in sweat, doing emergency egresses from the capsule in Building 9, and then we completely put on a different hat and come over here and do this. And I just think it’s something people would not expect.
+
+VICTOR: There’s a lot. I thought when you brought up Building 9, Jeremy, that you were going to talk about how often we have to pee on ourselves.
+
+[Everyone laughs]
+
+You know, sleeping and using the bathroom in uncomfortable positions and places is actually a very important part of this job, and it can be very challenging to do both. So that’s one I think most people don’t know. But actually I was, I was, I was thinking about something else. You made me think—you put that there. You put that there. [Everyone laughs again]
+
+REID: I’m so glad you went there, Ike. Thank you.
+
+VICTOR: It’s a reality. I’m not kidding. Sleeping and using the bathroom—and it can be a challenge. We try very hard not to speak for the crew, for each other, when it’s not appropriate. I’m going to take a little bit of liberty here and speak for the crew. We understand why so many people focus on our names, why our pictures hang all over the center, but that we—we are happy for humanity sending people to the Moon, even though a lot of humanity is happy for the four of us going to the Moon. And that little nuance, like it’s not about us. We try very hard to make it not about us. It’s about landing on the Moon and eventually landing on Mars, and it’s about the next thing. And I think people hear us say it a lot, but really that’s truly our focus.
+
+JACOB: Jeremy, I have a question for you. Artemis II will be your first trip to space. What is the best advice that you’ve gotten from these three?
+
+JEREMY: Lots of advice on just how things are different in microgravity and how, I mean—they were just telling me the other day in a sim, you know, I was simulating, kind of throwing something across Integrity to one of them, they’re like, Hey, you’re gonna throw that too hard in space. I’m just telling you right now. You’ve got to take some time to get used to it and go slow. And then I also see them carving out time mentally. You know, when we’re doing sims that, hey, let’s just make sure that you take a few moments in these early hours in space to really take it in, like sneak over the window and have a look at the Earth when it’s zipping by. I mean, because even in the sim, the view is just unreal, the things you see in the first few hours.
+
+JACOB: You guys are going to have a really busy schedule. How are you guys going to find time—or are you going to be able to find time to just appreciate what you’re doing and seeing?
+
+REID: Day one is hard. This is going to probably be the most dynamic first day of a mission, I think NASA—at least in NASA’s recent history, for sure. So day one is highly orchestrated. We’ve practiced the first 48 hours a lot. And when I say day one, I really mean probably the first 36 hours in space, and we’re getting up eight hours before that. It’s a long day. I think that period is, it’s so highly orchestrated, and we have trained it so many times, that is going to be the most difficult part, getting that one down. And even in that there are moments, as Jeremy said, where we’re like, Whoa. Like, look at all of Canada there. All of Greenland. Oh, there’s the entire Earth the size of a basketball out the window now, and so you still take these little, tiny, acute human moments in this huge, choreographed plan of day one and day two, and then the mission sort of slows down as we head out towards the Moon. We do have a little bit of time to regroup. There’s a lot of testing, there’s a lot of science that we’re going to do. And then again, as we go around the far side of the Moon, we get into this very choreographed structure for about eight hours of our trip, and then we’re coming back. So there, I think there will be some time to appreciate a touch of downtime, but those first two days, for sure, it’s just all go.
+
+CHRISTINA: I think it’s going to be neat to just be spending time as a crew together. And we won’t always be at the windows, because there won’t necessarily be a view at all times of either Earth or the Moon or the Milky Way. There will sometimes, but I think there’s gonna be times when we just bust out a show and watch a movie together or all put on our headphones and sit in separate corners and read something off of our tablet. So I think there’ll be a lot of human and that’s—I’m excited for that
+
+JACOB: You need that too.
+
+CHRISTINA: Yep.
+
+[Music: One Step At a Time by Alan D. Boyd]
+
+JACOB: Other countries can go to space. There are private companies that can send people and machines to space, but still only NASA can send people around the Moon. What is it that makes this agency special?
+
+CHRISTINA: Well, like Jeremy says, everyone’s using their gifts. We are a group of people that has come together, a big team, and everyone is here because they found what fulfills them. They found something that they can do and work hard at and be passionate about, because they care about something bigger than themselves. And I think people aren’t afraid to really dig in here and be selfless.
+
+VICTOR: NASA’s mission is to explore the unknown in air and space, to innovate for the benefit of humanity, and to inspire the world through discovery. And I really believe, even if people can’t rattle that off, they come to work to do that, and that’s what makes us special. I mean, the mission—we all believe in this. And at every level, I don’t mean the human spaceflight piece. You know, the human spaceflight is kind of like the face of it. We get to be the ambassadors of all of these amazing things NASA does. But NASA does so many more amazing things besides sending humans to space. And I think people show up because of that.
+
+NILUFAR: I want to know a little bit about what you hope your legacy is, not just as an astronaut, not just as someone who flew around the Moon, but just as you—as individuals, as people.
+
+JEREMY: For me—and you kind of hit on it when you were talking about the team that makes this possible and asking if there are people we could highlight, and it’s just so amazing how complex it is and how many people have to come together to do this. And, like, I have lived and breathed space for so long, you know, as a child, growing up, and I couldn’t—I’m still shocked at how much intricacy is involved in actually making this happen and how many people are grinding it out to actually send the four of us around the Moon. It still blows me away. And so we’re all just doing the exact same thing. We’re all just showing up and using our energy every single day for something that’s bigger than ourselves, like Victor was talking about, and just investing in the future of humanity. That’s not my legacy, but that is a great legacy for any human being to just simply just use your energy for good. You can’t fix all the problems of the world. Artemis II isn’t going to fix it all. But one thing we all can do is we can get up every morning, say, I’m just going to try and make sure the energy that I have today adds a little bit of value to this world.
+
+REID: Nobody’s going to speak after that. That was perfect.
+
+NILUFAR: OK, take us home. I know that a lot of people are—when they look up at the Moon, they’re like, I am looking at the Moon differently now, now that I’m going on this mission, now that I’ve been part of a lunar mission. When I look up at the sky, it’s a whole different ball game for me. So what does the Moon and this mission mean to you?
+
+[Music: Staring Into Infinity by Carl David Harms]
+
+REID: I do love looking up at the Moon, especially when I was younger. I would look at the moon when my brother was away at college, and we had a pretty close relationship, and just knowing he’s looking at that same Moon. We’re pretty far apart from each other, but when I’m looking at the Moon, he’s looking at the Moon. Like, I think the Moon, for so many humans, is an anchor. It is a calendar, it is a spiritual symbol. The Moon can be so many things, but it is just that concept is the one thing that we all look up at, and it is the same, and we have very similar dreams across the entire planet. And to me, when I look at the moon, it is connection to civilization on planet Earth. That is what I think about.
+
+CHRISTINA: My dad told me a story once, when he was young, that him and his mom were looking at the Moon, and it was maybe around when the human space flight program was starting, and there was some maybe talk of sending humans there. And she looked at the Moon and she said, “Don’t worry, Ronny, we’ll never get there.” And fast forwarding 70 years now, his daughter is going there, her granddaughter. And I think that’s why I would say it just means possibility, and it means to me reaching for something, no matter how impossible it might seem like it is.
+
+VICTOR: When we first got assigned to this mission, my dad asked me if I see the moon differently, and I was pretty quick to say, no. No, I don’t. But somewhere in the middle of this training—during the lunar geology training, specifically—it changed, and I wrote a note to my family and my dad included to say that it is a different thing. And it’s kind of like the gravity. It’s the center of this mission now, and just to feel that through this training flow—and it surprised me. I hope people open themselves to the possibility of seeing it differently.
+
+JACOB: I was really struck by the way a couple of you talked about your family seeing the SLS rocket or seeing the spot where you’ll launch from and where they’ll be, and that really making it real for them. And of course, you guys have seen all those things too. Do you expect that you know what you’ll be feeling on launch day? And do you have a, like, a strategy to kind of get your mind right if you need it? I always think of athletes in the locker room with their headphones on, just, like, getting in their own little world. Do you have a process or a mantra or something like that?
+
+JEREMY: We have a nap strategy.
+
+[Everyone laughs]
+
+CHRISTINA: Napping and food. Revolves around those two things.
+
+REID: This is gonna sound really weird, but I think we have the easiest job on launch day. We have a scripted schedule. We have people that are there to support us. We know exactly what we have to go do. Our families, they have the hard job on launch day, watching their loved ones go do this, and watching from afar. That is very, very difficult. Our job that day is crystal clear, and it’s—it is easy.
+
+JEREMY: I think more about the day before. You know, saying goodbye to family, giving them that last hug. And I think that’ll be the tough day. But like Reid said, day-of it’s going to be go time.
+
+VICTOR: I do appreciate that you’ve opened the door to this, though, and I won’t even go deep into it, just crack the lid on. There are lots of emotions swirling around on that day. And even having been through something like it before—three of us have sat on top of a rocket and gone to space and been a fireball coming back to Earth—but it doesn’t make doing that the next time easier, especially now on a new system that humans haven’t sat atop. And so there is a lot. Just like we don’t talk about it enough, that this job is dangerous, it’s also quite emotional, and just so the ability to focus and work through that. And a big part of that is being together. I mean, we make time intentionally. NASA brings our families to Kennedy Space Center, because that’s an important part of processing it all, and it is not an afterthought. I mean, there’s a lot to process.
+
+[Music: New Horizons by Cliff Haywood]
+
+VICTOR: When you go into quarantine, life gets a little bit simpler. It’s nice. Training is done.
+
+NILUFAR: Well, Reid, Christina, Victor, Jeremy, we are rooting for you. Congratulations, and we wish you all the best on this mission.
+
+ALL: Thank you.
+
+REID: Let’s go!
+
+[Music: Inner Peace by J.C. Lemay]
+
+PADI: This is NASA’s Curious Universe—an official NASA podcast.
+
+Our Artemis II series was written and produced by Christian Elliott and Jacob Pinter.
+
+Our executive producer is Katie Konans.
+
+Wes Buchanan designed the show art for this series. Music for the series comes from Universal Production Music.
+
+JACOB: We had support throughout this series from Rachel Kraft, Lisa Allen, Lora Bleacher, Brandi Dean, Courtney Beasley and Thalia Patrinos.
+
+Huge thanks to the multimedia team at Johnson Space Center – especially Nilufar Ramji, Dane Turner, and Daniel Tohill.
+
+You can find transcripts for every episode of Curious Universe — and explore NASA’s other podcasts — at nasa.gov/podcasts.
+
+If you enjoyed this episode of NASA’s Curious Universe … let us know! Leave us a review wherever you’re listening right now. Why not send a link to one of your friends. And you can follow NASA’s Curious Universe in your favorite podcast app to get a notification each time we post a new episode.
+
+NASA PODCASTS STINGER: 3, 2, 1… This is an official NASA podcast.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>artemis-ii-astronauts</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/artemis-ii-meet-the-astronauts</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-04</_collected_at_beijing>
+<_audio_verified>HEAD 跟随重定向得 audio/mpeg + 73213984 字节；整文件下载后 ffprobe 时长 3035.22 秒、字节数一致，ffmpeg 全量解码零报错</_audio_verified>
+<_child_clip_guid>urn:podcast:nasa.gov:curious-universe:artemis-ii-astronauts:clip:family-reactions:1943.9-1993.7</_child_clip_guid>
 </item>
 <item>
 <title>Coral Bleaching</title>
