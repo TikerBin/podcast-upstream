@@ -1,0 +1,1113 @@
+[
+  {
+    "start": 0.0,
+    "end": 3.38,
+    "text": "At a high level, the Artemis 2 mission launches out of Kennedy Space Center.",
+    "words": [
+      {
+        "word": " At",
+        "start": 0.0,
+        "end": 0.1,
+        "probability": 0.5062114596366882
+      },
+      {
+        "word": " a",
+        "start": 0.1,
+        "end": 0.2,
+        "probability": 0.9679876565933228
+      },
+      {
+        "word": " high",
+        "start": 0.2,
+        "end": 0.3,
+        "probability": 0.9946511387825012
+      },
+      {
+        "word": " level,",
+        "start": 0.3,
+        "end": 0.58,
+        "probability": 0.9607498049736023
+      },
+      {
+        "word": " the",
+        "start": 1.08,
+        "end": 1.1,
+        "probability": 0.9773445725440979
+      },
+      {
+        "word": " Artemis",
+        "start": 1.1,
+        "end": 1.42,
+        "probability": 0.9782721996307373
+      },
+      {
+        "word": " 2",
+        "start": 1.42,
+        "end": 1.66,
+        "probability": 0.6273359060287476
+      },
+      {
+        "word": " mission",
+        "start": 1.66,
+        "end": 1.86,
+        "probability": 0.9546335935592651
+      },
+      {
+        "word": " launches",
+        "start": 1.86,
+        "end": 2.22,
+        "probability": 0.9932996034622192
+      },
+      {
+        "word": " out",
+        "start": 2.22,
+        "end": 2.46,
+        "probability": 0.9917927384376526
+      },
+      {
+        "word": " of",
+        "start": 2.46,
+        "end": 2.66,
+        "probability": 0.9975753426551819
+      },
+      {
+        "word": " Kennedy",
+        "start": 2.66,
+        "end": 2.78,
+        "probability": 0.9189650416374207
+      },
+      {
+        "word": " Space",
+        "start": 2.78,
+        "end": 3.1,
+        "probability": 0.9874322414398193
+      },
+      {
+        "word": " Center.",
+        "start": 3.1,
+        "end": 3.38,
+        "probability": 0.9940032362937927
+      }
+    ]
+  },
+  {
+    "start": 3.54,
+    "end": 7.92,
+    "text": "On the Space Launch System, Orion spacecraft and the crew will travel two orbits around Earth",
+    "words": [
+      {
+        "word": " On",
+        "start": 3.54,
+        "end": 3.7,
+        "probability": 0.9804701209068298
+      },
+      {
+        "word": " the",
+        "start": 3.7,
+        "end": 3.82,
+        "probability": 0.9933105707168579
+      },
+      {
+        "word": " Space",
+        "start": 3.82,
+        "end": 4.0,
+        "probability": 0.8651683926582336
+      },
+      {
+        "word": " Launch",
+        "start": 4.0,
+        "end": 4.2,
+        "probability": 0.9939285516738892
+      },
+      {
+        "word": " System,",
+        "start": 4.2,
+        "end": 4.54,
+        "probability": 0.9854592084884644
+      },
+      {
+        "word": " Orion",
+        "start": 4.66,
+        "end": 4.86,
+        "probability": 0.7144333124160767
+      },
+      {
+        "word": " spacecraft",
+        "start": 4.86,
+        "end": 5.32,
+        "probability": 0.9369131922721863
+      },
+      {
+        "word": " and",
+        "start": 5.32,
+        "end": 6.1,
+        "probability": 0.9151125550270081
+      },
+      {
+        "word": " the",
+        "start": 6.1,
+        "end": 6.18,
+        "probability": 0.9885479211807251
+      },
+      {
+        "word": " crew",
+        "start": 6.18,
+        "end": 6.4,
+        "probability": 0.9976485371589661
+      },
+      {
+        "word": " will",
+        "start": 6.4,
+        "end": 6.66,
+        "probability": 0.934287428855896
+      },
+      {
+        "word": " travel",
+        "start": 6.66,
+        "end": 6.88,
+        "probability": 0.9977688789367676
+      },
+      {
+        "word": " two",
+        "start": 6.88,
+        "end": 7.18,
+        "probability": 0.905846118927002
+      },
+      {
+        "word": " orbits",
+        "start": 7.18,
+        "end": 7.44,
+        "probability": 0.9909018874168396
+      },
+      {
+        "word": " around",
+        "start": 7.44,
+        "end": 7.7,
+        "probability": 0.9918564558029175
+      },
+      {
+        "word": " Earth",
+        "start": 7.7,
+        "end": 7.92,
+        "probability": 0.9138712882995605
+      }
+    ]
+  },
+  {
+    "start": 7.92,
+    "end": 10.38,
+    "text": "and then head onto the moon, 250,000 miles from Earth.",
+    "words": [
+      {
+        "word": " and",
+        "start": 7.92,
+        "end": 8.18,
+        "probability": 0.8089255690574646
+      },
+      {
+        "word": " then",
+        "start": 8.18,
+        "end": 8.28,
+        "probability": 0.9436867237091064
+      },
+      {
+        "word": " head",
+        "start": 8.28,
+        "end": 8.4,
+        "probability": 0.9935581088066101
+      },
+      {
+        "word": " onto",
+        "start": 8.4,
+        "end": 8.56,
+        "probability": 0.5692576169967651
+      },
+      {
+        "word": " the",
+        "start": 8.56,
+        "end": 8.7,
+        "probability": 0.9962647557258606
+      },
+      {
+        "word": " moon,",
+        "start": 8.7,
+        "end": 8.86,
+        "probability": 0.639681875705719
+      },
+      {
+        "word": " 250",
+        "start": 9.02,
+        "end": 9.24,
+        "probability": 0.968582808971405
+      },
+      {
+        "word": ",000",
+        "start": 9.24,
+        "end": 9.88,
+        "probability": 0.9758906662464142
+      },
+      {
+        "word": " miles",
+        "start": 9.88,
+        "end": 10.0,
+        "probability": 0.9989148378372192
+      },
+      {
+        "word": " from",
+        "start": 10.0,
+        "end": 10.22,
+        "probability": 0.9974966645240784
+      },
+      {
+        "word": " Earth.",
+        "start": 10.22,
+        "end": 10.38,
+        "probability": 0.9803902506828308
+      }
+    ]
+  },
+  {
+    "start": 10.8,
+    "end": 14.52,
+    "text": "There's only one primary goal of Artemis 2, is to prepare this spacecraft for Artemis 3",
+    "words": [
+      {
+        "word": " There's",
+        "start": 10.8,
+        "end": 11.04,
+        "probability": 0.9577099084854126
+      },
+      {
+        "word": " only",
+        "start": 11.04,
+        "end": 11.22,
+        "probability": 0.9980553388595581
+      },
+      {
+        "word": " one",
+        "start": 11.22,
+        "end": 11.44,
+        "probability": 0.996334433555603
+      },
+      {
+        "word": " primary",
+        "start": 11.44,
+        "end": 11.72,
+        "probability": 0.9986609220504761
+      },
+      {
+        "word": " goal",
+        "start": 11.72,
+        "end": 11.9,
+        "probability": 0.99918133020401
+      },
+      {
+        "word": " of",
+        "start": 11.9,
+        "end": 12.06,
+        "probability": 0.9944431185722351
+      },
+      {
+        "word": " Artemis",
+        "start": 12.06,
+        "end": 12.26,
+        "probability": 0.9987658262252808
+      },
+      {
+        "word": " 2,",
+        "start": 12.26,
+        "end": 12.52,
+        "probability": 0.9801417589187622
+      },
+      {
+        "word": " is",
+        "start": 12.54,
+        "end": 12.82,
+        "probability": 0.9489504098892212
+      },
+      {
+        "word": " to",
+        "start": 12.82,
+        "end": 12.94,
+        "probability": 0.9989114999771118
+      },
+      {
+        "word": " prepare",
+        "start": 12.94,
+        "end": 13.2,
+        "probability": 0.9977937936782837
+      },
+      {
+        "word": " this",
+        "start": 13.2,
+        "end": 13.38,
+        "probability": 0.421098530292511
+      },
+      {
+        "word": " spacecraft",
+        "start": 13.38,
+        "end": 13.76,
+        "probability": 0.9808456897735596
+      },
+      {
+        "word": " for",
+        "start": 13.76,
+        "end": 13.96,
+        "probability": 0.9960547685623169
+      },
+      {
+        "word": " Artemis",
+        "start": 13.96,
+        "end": 14.22,
+        "probability": 0.9984057545661926
+      },
+      {
+        "word": " 3",
+        "start": 14.22,
+        "end": 14.52,
+        "probability": 0.9540092349052429
+      }
+    ]
+  },
+  {
+    "start": 14.52,
+    "end": 17.14,
+    "text": "and for our NASA astronauts to go land on the moon.",
+    "words": [
+      {
+        "word": " and",
+        "start": 14.52,
+        "end": 15.06,
+        "probability": 0.665948748588562
+      },
+      {
+        "word": " for",
+        "start": 15.06,
+        "end": 15.2,
+        "probability": 0.9973068237304688
+      },
+      {
+        "word": " our",
+        "start": 15.2,
+        "end": 15.34,
+        "probability": 0.946947455406189
+      },
+      {
+        "word": " NASA",
+        "start": 15.34,
+        "end": 15.56,
+        "probability": 0.9970059990882874
+      },
+      {
+        "word": " astronauts",
+        "start": 15.56,
+        "end": 15.96,
+        "probability": 0.9759615063667297
+      },
+      {
+        "word": " to",
+        "start": 15.96,
+        "end": 16.18,
+        "probability": 0.9938569664955139
+      },
+      {
+        "word": " go",
+        "start": 16.18,
+        "end": 16.3,
+        "probability": 0.9876132011413574
+      },
+      {
+        "word": " land",
+        "start": 16.3,
+        "end": 16.54,
+        "probability": 0.9956918358802795
+      },
+      {
+        "word": " on",
+        "start": 16.54,
+        "end": 16.86,
+        "probability": 0.9981212019920349
+      },
+      {
+        "word": " the",
+        "start": 16.86,
+        "end": 16.98,
+        "probability": 0.9819598197937012
+      },
+      {
+        "word": " moon.",
+        "start": 16.98,
+        "end": 17.14,
+        "probability": 0.917904794216156
+      }
+    ]
+  },
+  {
+    "start": 17.86,
+    "end": 21.0,
+    "text": "Artemis is the twin sister of Apollo. That's intentional.",
+    "words": [
+      {
+        "word": " Artemis",
+        "start": 17.86,
+        "end": 18.12,
+        "probability": 0.9528668522834778
+      },
+      {
+        "word": " is",
+        "start": 18.12,
+        "end": 18.6,
+        "probability": 0.9961531758308411
+      },
+      {
+        "word": " the",
+        "start": 18.6,
+        "end": 18.9,
+        "probability": 0.9903890490531921
+      },
+      {
+        "word": " twin",
+        "start": 18.9,
+        "end": 19.12,
+        "probability": 0.9952108263969421
+      },
+      {
+        "word": " sister",
+        "start": 19.12,
+        "end": 19.38,
+        "probability": 0.9922752976417542
+      },
+      {
+        "word": " of",
+        "start": 19.38,
+        "end": 19.62,
+        "probability": 0.9979654550552368
+      },
+      {
+        "word": " Apollo.",
+        "start": 19.62,
+        "end": 19.94,
+        "probability": 0.9996362924575806
+      },
+      {
+        "word": " That's",
+        "start": 20.18,
+        "end": 20.56,
+        "probability": 0.9960888624191284
+      },
+      {
+        "word": " intentional.",
+        "start": 20.56,
+        "end": 21.0,
+        "probability": 0.9953768253326416
+      }
+    ]
+  },
+  {
+    "start": 21.66,
+    "end": 24.44,
+    "text": "It is to remind us that we're going to go do great things.",
+    "words": [
+      {
+        "word": " It",
+        "start": 21.66,
+        "end": 21.9,
+        "probability": 0.995788037776947
+      },
+      {
+        "word": " is",
+        "start": 21.9,
+        "end": 22.08,
+        "probability": 0.9972355961799622
+      },
+      {
+        "word": " to",
+        "start": 22.08,
+        "end": 22.28,
+        "probability": 0.9989318251609802
+      },
+      {
+        "word": " remind",
+        "start": 22.28,
+        "end": 22.6,
+        "probability": 0.9997192025184631
+      },
+      {
+        "word": " us",
+        "start": 22.6,
+        "end": 22.86,
+        "probability": 0.9995262622833252
+      },
+      {
+        "word": " that",
+        "start": 22.86,
+        "end": 23.04,
+        "probability": 0.992343008518219
+      },
+      {
+        "word": " we're",
+        "start": 23.04,
+        "end": 23.22,
+        "probability": 0.9893438220024109
+      },
+      {
+        "word": " going",
+        "start": 23.22,
+        "end": 23.4,
+        "probability": 0.9974455833435059
+      },
+      {
+        "word": " to",
+        "start": 23.4,
+        "end": 23.56,
+        "probability": 0.9984948635101318
+      },
+      {
+        "word": " go",
+        "start": 23.56,
+        "end": 23.74,
+        "probability": 0.9871288537979126
+      },
+      {
+        "word": " do",
+        "start": 23.74,
+        "end": 23.94,
+        "probability": 0.9916524291038513
+      },
+      {
+        "word": " great",
+        "start": 23.94,
+        "end": 24.14,
+        "probability": 0.9980320334434509
+      },
+      {
+        "word": " things.",
+        "start": 24.14,
+        "end": 24.44,
+        "probability": 0.9988462924957275
+      }
+    ]
+  },
+  {
+    "start": 24.6,
+    "end": 28.16,
+    "text": "Yes, we're going to put humans back on the surface of the moon, but we're not stopping there.",
+    "words": [
+      {
+        "word": " Yes,",
+        "start": 24.6,
+        "end": 24.7,
+        "probability": 0.9924553632736206
+      },
+      {
+        "word": " we're",
+        "start": 24.76,
+        "end": 24.94,
+        "probability": 0.9982071816921234
+      },
+      {
+        "word": " going",
+        "start": 24.94,
+        "end": 25.0,
+        "probability": 0.8678429126739502
+      },
+      {
+        "word": " to",
+        "start": 25.0,
+        "end": 25.1,
+        "probability": 0.9973291158676147
+      },
+      {
+        "word": " put",
+        "start": 25.1,
+        "end": 25.24,
+        "probability": 0.9990981817245483
+      },
+      {
+        "word": " humans",
+        "start": 25.24,
+        "end": 25.54,
+        "probability": 0.9986791014671326
+      },
+      {
+        "word": " back",
+        "start": 25.54,
+        "end": 25.86,
+        "probability": 0.9988344311714172
+      },
+      {
+        "word": " on",
+        "start": 25.86,
+        "end": 26.06,
+        "probability": 0.9978930354118347
+      },
+      {
+        "word": " the",
+        "start": 26.06,
+        "end": 26.18,
+        "probability": 0.9994613528251648
+      },
+      {
+        "word": " surface",
+        "start": 26.18,
+        "end": 26.4,
+        "probability": 0.9993292093276978
+      },
+      {
+        "word": " of",
+        "start": 26.4,
+        "end": 26.64,
+        "probability": 0.9979004859924316
+      },
+      {
+        "word": " the",
+        "start": 26.64,
+        "end": 26.76,
+        "probability": 0.9986039996147156
+      },
+      {
+        "word": " moon,",
+        "start": 26.76,
+        "end": 26.9,
+        "probability": 0.9398994445800781
+      },
+      {
+        "word": " but",
+        "start": 26.9,
+        "end": 27.1,
+        "probability": 0.9989160299301147
+      },
+      {
+        "word": " we're",
+        "start": 27.1,
+        "end": 27.24,
+        "probability": 0.9986314475536346
+      },
+      {
+        "word": " not",
+        "start": 27.24,
+        "end": 27.4,
+        "probability": 0.9988031387329102
+      },
+      {
+        "word": " stopping",
+        "start": 27.4,
+        "end": 27.8,
+        "probability": 0.9993652701377869
+      },
+      {
+        "word": " there.",
+        "start": 27.8,
+        "end": 28.16,
+        "probability": 0.9981220364570618
+      }
+    ]
+  },
+  {
+    "start": 28.16,
+    "end": 31.82,
+    "text": "When you see us fly around the moon on Artemis 2,",
+    "words": [
+      {
+        "word": " When",
+        "start": 28.16,
+        "end": 28.54,
+        "probability": 0.5762363076210022
+      },
+      {
+        "word": " you",
+        "start": 28.54,
+        "end": 28.72,
+        "probability": 0.9982730150222778
+      },
+      {
+        "word": " see",
+        "start": 28.72,
+        "end": 29.12,
+        "probability": 0.9987385869026184
+      },
+      {
+        "word": " us",
+        "start": 29.12,
+        "end": 29.82,
+        "probability": 0.9982197880744934
+      },
+      {
+        "word": " fly",
+        "start": 29.82,
+        "end": 30.06,
+        "probability": 0.9953632354736328
+      },
+      {
+        "word": " around",
+        "start": 30.06,
+        "end": 30.32,
+        "probability": 0.9963091015815735
+      },
+      {
+        "word": " the",
+        "start": 30.32,
+        "end": 30.48,
+        "probability": 0.9977952241897583
+      },
+      {
+        "word": " moon",
+        "start": 30.48,
+        "end": 30.78,
+        "probability": 0.7024896740913391
+      },
+      {
+        "word": " on",
+        "start": 30.78,
+        "end": 31.18,
+        "probability": 0.867102861404419
+      },
+      {
+        "word": " Artemis",
+        "start": 31.18,
+        "end": 31.48,
+        "probability": 0.9952183365821838
+      },
+      {
+        "word": " 2,",
+        "start": 31.48,
+        "end": 31.82,
+        "probability": 0.6085853576660156
+      }
+    ]
+  },
+  {
+    "start": 31.98,
+    "end": 35.7,
+    "text": "that is just a snippet of the incredible things that are to come.",
+    "words": [
+      {
+        "word": " that",
+        "start": 31.98,
+        "end": 32.24,
+        "probability": 0.9907259941101074
+      },
+      {
+        "word": " is",
+        "start": 32.24,
+        "end": 32.4,
+        "probability": 0.9961848855018616
+      },
+      {
+        "word": " just",
+        "start": 32.4,
+        "end": 32.64,
+        "probability": 0.9952012300491333
+      },
+      {
+        "word": " a",
+        "start": 32.64,
+        "end": 32.86,
+        "probability": 0.9944106936454773
+      },
+      {
+        "word": " snippet",
+        "start": 32.86,
+        "end": 33.16,
+        "probability": 0.9978830218315125
+      },
+      {
+        "word": " of",
+        "start": 33.16,
+        "end": 33.6,
+        "probability": 0.9979462027549744
+      },
+      {
+        "word": " the",
+        "start": 33.6,
+        "end": 33.86,
+        "probability": 0.9978407621383667
+      },
+      {
+        "word": " incredible",
+        "start": 33.86,
+        "end": 34.28,
+        "probability": 0.9984086155891418
+      },
+      {
+        "word": " things",
+        "start": 34.28,
+        "end": 34.88,
+        "probability": 0.998013973236084
+      },
+      {
+        "word": " that",
+        "start": 34.88,
+        "end": 35.28,
+        "probability": 0.9964809417724609
+      },
+      {
+        "word": " are",
+        "start": 35.28,
+        "end": 35.42,
+        "probability": 0.9983029365539551
+      },
+      {
+        "word": " to",
+        "start": 35.42,
+        "end": 35.54,
+        "probability": 0.95667964220047
+      },
+      {
+        "word": " come.",
+        "start": 35.54,
+        "end": 35.7,
+        "probability": 0.999072790145874
+      }
+    ]
+  },
+  {
+    "start": 35.96,
+    "end": 38.9,
+    "text": "We're going back to the moon because it's the next step in our journey to Mars.",
+    "words": [
+      {
+        "word": " We're",
+        "start": 35.96,
+        "end": 36.14,
+        "probability": 0.9062213003635406
+      },
+      {
+        "word": " going",
+        "start": 36.14,
+        "end": 36.28,
+        "probability": 0.9975115060806274
+      },
+      {
+        "word": " back",
+        "start": 36.28,
+        "end": 36.42,
+        "probability": 0.9974067807197571
+      },
+      {
+        "word": " to",
+        "start": 36.42,
+        "end": 36.56,
+        "probability": 0.9982413053512573
+      },
+      {
+        "word": " the",
+        "start": 36.56,
+        "end": 36.66,
+        "probability": 0.9982642531394958
+      },
+      {
+        "word": " moon",
+        "start": 36.66,
+        "end": 36.84,
+        "probability": 0.8986982107162476
+      },
+      {
+        "word": " because",
+        "start": 36.84,
+        "end": 37.1,
+        "probability": 0.9131091833114624
+      },
+      {
+        "word": " it's",
+        "start": 37.1,
+        "end": 37.28,
+        "probability": 0.9918432831764221
+      },
+      {
+        "word": " the",
+        "start": 37.28,
+        "end": 37.42,
+        "probability": 0.9965163469314575
+      },
+      {
+        "word": " next",
+        "start": 37.42,
+        "end": 37.64,
+        "probability": 0.9991227984428406
+      },
+      {
+        "word": " step",
+        "start": 37.64,
+        "end": 37.96,
+        "probability": 0.9989243149757385
+      },
+      {
+        "word": " in",
+        "start": 37.96,
+        "end": 38.26,
+        "probability": 0.9924660921096802
+      },
+      {
+        "word": " our",
+        "start": 38.26,
+        "end": 38.38,
+        "probability": 0.9986361861228943
+      },
+      {
+        "word": " journey",
+        "start": 38.38,
+        "end": 38.56,
+        "probability": 0.9978938698768616
+      },
+      {
+        "word": " to",
+        "start": 38.56,
+        "end": 38.74,
+        "probability": 0.9981569647789001
+      },
+      {
+        "word": " Mars.",
+        "start": 38.74,
+        "end": 38.9,
+        "probability": 0.9893627762794495
+      }
+    ]
+  },
+  {
+    "start": 39.58,
+    "end": 41.28,
+    "text": "We need to go explore the moon.",
+    "words": [
+      {
+        "word": " We",
+        "start": 39.58,
+        "end": 39.74,
+        "probability": 0.9975022673606873
+      },
+      {
+        "word": " need",
+        "start": 39.74,
+        "end": 39.84,
+        "probability": 0.9996101260185242
+      },
+      {
+        "word": " to",
+        "start": 39.84,
+        "end": 39.98,
+        "probability": 0.9990917444229126
+      },
+      {
+        "word": " go",
+        "start": 39.98,
+        "end": 40.22,
+        "probability": 0.9975734353065491
+      },
+      {
+        "word": " explore",
+        "start": 40.22,
+        "end": 40.78,
+        "probability": 0.9982520937919617
+      },
+      {
+        "word": " the",
+        "start": 40.78,
+        "end": 41.06,
+        "probability": 0.999313235282898
+      },
+      {
+        "word": " moon.",
+        "start": 41.06,
+        "end": 41.28,
+        "probability": 0.950569748878479
+      }
+    ]
+  },
+  {
+    "start": 41.46,
+    "end": 46.36,
+    "text": "There's vast regions of unexplored areas with the coldest, darkest places in our solar system.",
+    "words": [
+      {
+        "word": " There's",
+        "start": 41.46,
+        "end": 41.62,
+        "probability": 0.9479820132255554
+      },
+      {
+        "word": " vast",
+        "start": 41.62,
+        "end": 41.96,
+        "probability": 0.9988263249397278
+      },
+      {
+        "word": " regions",
+        "start": 41.96,
+        "end": 42.38,
+        "probability": 0.9964248538017273
+      },
+      {
+        "word": " of",
+        "start": 42.38,
+        "end": 42.6,
+        "probability": 0.9981310963630676
+      },
+      {
+        "word": " unexplored",
+        "start": 42.6,
+        "end": 43.04,
+        "probability": 0.9973031878471375
+      },
+      {
+        "word": " areas",
+        "start": 43.04,
+        "end": 43.38,
+        "probability": 0.9975626468658447
+      },
+      {
+        "word": " with",
+        "start": 43.38,
+        "end": 43.7,
+        "probability": 0.9161458611488342
+      },
+      {
+        "word": " the",
+        "start": 43.7,
+        "end": 43.9,
+        "probability": 0.997361958026886
+      },
+      {
+        "word": " coldest,",
+        "start": 43.9,
+        "end": 44.58,
+        "probability": 0.9924411475658417
+      },
+      {
+        "word": " darkest",
+        "start": 44.64,
+        "end": 44.98,
+        "probability": 0.9960846900939941
+      },
+      {
+        "word": " places",
+        "start": 44.98,
+        "end": 45.32,
+        "probability": 0.9940007328987122
+      },
+      {
+        "word": " in",
+        "start": 45.32,
+        "end": 45.68,
+        "probability": 0.9975152015686035
+      },
+      {
+        "word": " our",
+        "start": 45.68,
+        "end": 45.84,
+        "probability": 0.99843829870224
+      },
+      {
+        "word": " solar",
+        "start": 45.84,
+        "end": 46.02,
+        "probability": 0.955578625202179
+      },
+      {
+        "word": " system.",
+        "start": 46.02,
+        "end": 46.36,
+        "probability": 0.9891721606254578
+      }
+    ]
+  }
+]

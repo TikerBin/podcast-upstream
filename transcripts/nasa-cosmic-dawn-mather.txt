@@ -1,0 +1,151 @@
+[Music: Curiosity by SYSTEM Sounds]
+
+PADI BOYD: You’re listening to NASA’s Curious Universe. I’m your host, Padi Boyd. NASA is doing something astronomers dreamed about for decades.
+
+[Music: Eternal Sunshine by Jay Woods]
+
+The James Webb Space Telescope is peering into our universe’s early past, at some of the very first stars and galaxies to ever form and the first light after the Big Bang: cosmic dawn.
+
+Cosmic Dawn is also the title of a brand new NASA+ documentary. It covers the untold story of the Webb Telescope’s design, construction and launch. You’re in for a treat. You get to peek inside NASA clean rooms, beryllium mines, and even weather a hurricane. There are a lot of twists and turns. And ahead of the big premiere, I wanted to talk to someone who knows the Webb Telescope better than just about anyone, because he was one of the people who first dreamed it up.
+
+John Mather is a senior astrophysicist at NASA. He’s always been a bit of a science celebrity here, and that was even before he won the Nobel Prize in Physics in 2006. I’ve known John for decades, and it was so much fun to sit down and ask him about his life, his research, and what it really feels like to win a Nobel Prize.
+
+[to John Mather] John Mather, welcome to Curious Universe.
+
+JOHN MATHER: Thank you, Padi. It’s great to be here with you.
+
+PADI: I’m delighted that you’re here. It’s the first time we’ve seen each other in a while, since the James Webb Space Telescope launched. So first of all, congratulations on what an amazingly successful—
+
+JOHN: It’s a wonderful, wonderful observatory, and it’s working beautifully.
+
+PADI: So we referenced cosmic dawn just a moment ago. What is cosmic dawn?
+
+JOHN: The cosmic dawn is the beginning of things turning on after the Big Bang. So we didn’t know until now how that started. But, you know, the Big Bang gave us an expanding universe, but didn’t have stars and galaxies in it yet. That was 13.8 billion years ago. So time passed and something happened, and stars turned up and black holes, and we’d like to know what that was about. We call it the cosmic dawn. It’s the first lights in the universe.
+
+PADI: So let me take you back a little bit to a different kind of cosmic dawn, a different beginning: your origin story. So you grew up in rural part of New Jersey, right?
+
+JOHN: Yes.
+
+PADI: Do you remember, like a certain moment in your childhood when your curiosity about the universe was first ignited?
+
+JOHN: It’s hard to remember accurately that far back, I didn’t have a lab notebook to write in when I was six, but I do remember when I was about six, my dad told me at bedtime, you know, you’re made out of cells, and there are chromosomes inside, and they control your future in some way, and you don’t know how. And I thought, “That’s really interesting,” so—but I did not end up becoming a biologist. Then by the time I was eight, I was already aware of astronomy. We’d been to see the Museum of Natural History in New York City and the planetarium show, and they showed the planets going around on the ceiling, and there was a giant meteorite that sits just outside the door of the planetarium. I thought this is pretty exciting.
+
+PADI: Did you have a telescope?
+
+JOHN: Eventually I did. In high school I finally got my allowance together, and I bought a mirror from Edmond Scientific, and it was that big around. And I bought some lenses, and I made some eyepieces and—with cardboard and tubes and things, and I made my telescope so I can see through it.
+
+PADI: Amazing.
+
+JOHN: I still have it.
+
+PADI: That’s amazing. So were you ever thinking that moment as you were building this first telescope, that someday I’m going to build the most amazing telescope that will launch a million miles away from Earth?
+
+JOHN: No, that was long before the Space Age. So no, there was no hint of that.
+
+[Music: Research and Development by Carl David Harms]
+
+PADI: So let me just pop in for a second here and explain how John Mather and his groundbreaking research became a big deal. While John was beginning his career in the 1960s, scientists made a remarkable discovery. We refer to it as the cosmic microwave background radiation. This radiation is actually a faint afterglow left over from the Big Bang, and it could hold clues to understanding where the universe and all of us come from.
+
+Eventually, John led a mission to measure and study that radiation from space. NASA launched a spacecraft called Cosmic Background Explorer, or COBE for short. John led COBE’s entire life cycle, conceptualizing the mission and leading the team who pioneered some really elegant scientific techniques. This work with COBE is what earned him a Nobel Prize. I was at a meeting of astronomers in 1990 when John shared the very first findings from COBE. And this might sound crazy, but that presentation was absolutely electric.
+
+[Music: Designing the Future by Carl David Harms]
+
+I was a graduate student, and I was so excited to see the first results from COBE, and what I didn’t realize was that virtually everybody else at the meeting was as excited as I was. In fact, it was a packed house, standing room only. I’m telling you, it felt like a rock concert, and as soon as John showed the early results from COBE on an overhead projector, we all jumped to our feet and gave him a standing ovation, because what he was showing us was the clearest picture yet of the early evolution of our universe, and it was just a taste of things to come.
+
+Anyway, long before he started developing the James Webb Space Telescope, John made a name for himself by revolutionizing what we know about some of the universe’s earliest moments shortly after what we call the Big Bang,.
+
+[to John] When did you first hear about the Big Bang?
+
+JOHN: Ah! Well, I had a summer school in physics after my junior year in high school, went up to Cornell. By the time I got to college, you know, people had discovered the cosmic microwave background radiation in 1965. I didn’t know how much it was going to turn out to be a big deal for us. At first, you know, OK, it exists. You have no idea that you’re going to get so much information out of it that we eventually got from the COBE satellite and others that followed. So that, to me, is the biggest surprise of that work, not that the Big Bang happened, because I thought, well, that’s normal. Why wouldn’t it? But how could we find out so much, which we have.
+
+PADI: So you learn about the big the cosmic microwave background radiation being measured in the ‘60s. How do you go from that to leading a project to launch a telescope?
+
+JOHN: Oh my goodness. Well, it’s a long story, but NASA says we want proposals for new science missions. It’s just, what, 1969 we landed on the moon. This is five years later, I guess. OK, so, OK, anybody got any ideas? OK boss, my thesis project failed, but we should try it in outer space, and he knew it was a good idea. He was already familiar with the reasons why it would be good idea. So what NASA did was they said, that’s interesting. Well, here’s a little money to go a little farther, and we made an idea, and that’s what we eventually built.
+
+PADI: Built it, launched it, operated it, and got an amazing result.
+
+JOHN: And within weeks of the launch, we knew the expanding universe story that everybody calls the Big Bang was correct, because there’s a thing called the spectrum, which says, How bright is this radiation at every wavelength? And it is exactly as it was supposed to be, if it’s really the remnant of that early moment. And so, got a standing ovation for that.
+
+PADI: I was there, John.
+
+JOHN: You were there?
+
+PADI: Yes! I don’t know if I’ve ever told you that.
+
+JOHN: Thousands of people were there. And I thought—my perspective was warped. I thought it’s Saturday, nobody’s coming. But everybody came.
+
+PADI: It was jammed.
+
+JOHN: It was jammed.
+
+PADI: Yes. It was standing room only. I think we all knew it was never going to be like that in our career again. We’re not going to have a moment like that where everybody just has this simultaneously, sort of joyful recognition of what’s happening here with this data. But what was like for you? Like, the first time you saw that curve that you just described, what was the moment like when you were seeing it? What
+
+JOHN: What actually happened, as I remember it, is the people that worked on the calibration process, on the software, called me up one morning, You got to see this. So they had a graph and, Oh, you’ve got to see this. OK. Ah! This is exactly what I thought it would be, and I hope we get to announce this real soon.
+
+PADI: And such an important result as time goes on that it ends up being the Nobel Prize winning work.
+
+JOHN: Well, yes it does, although that’s only part of it, because [there] was a second, even more significant result that we got from another instrument on the mission. We made a map to see if this radiation is equally bright in every direction. And it should be if it’s really cosmic, and it should be a little bit different in over there than over here, because we’re moving relative to the rest of the universe. And that’s true, and that sort of matches up with what we thought. And then the big question is, does it have spots in it? Is it spotty? Is the Big Bang non-uniform or totally smooth? And this was the first real proof that it was totally spotty. So other people had been working on it, and there was evidence measured from the ground. Other people had claims, but it wasn’t such a big deal. We made a map of the entire sky so you couldn’t miss that the pattern was there.
+
+PADI: So not only did you know it was spotty, but you knew where the spots were,.
+
+JOHN: We knew where the spots were. And so Stephen Hawking saw that map, he said, “That’s the most important scientific discovery of the century, if not of all time.” So I thought, OK, well, that’s really sweet of you, and it didn’t fully appreciate right away why he thought it was so important. But I think what he meant was the early universe was not the same everywhere. So it means gravity could pull back some of the expanding material and pull it back together and make galaxies. So we’re here because there’s—the early universe has spots, and then, of course, there’s the big puzzle of what made the spots. And we have no idea. Some year we might have a reason why those spots are there. Maybe it’ll be quantum gravity. Maybe it’ll be some other story. Right now, we don’t know why they’re there.
+
+PADI: This is a long time ago now, 2006: the day that you found out that you won the Nobel Prize. Can you tell us what that moment was like?
+
+JOHN: The way it happens is you get a phone call at a quarter of six in the morning in the eastern time zone.
+
+PADI: Were you told to be like, to be on the lookout for a call?
+
+JOHN: I had been given some hint that this might be our year. So anyway, the phone call does come, and I’m lying in bed, I’m awake. So that happens, you talk to the people in Sweden for a little while, yeah. And then they say, Can we put the journalist on? You do that for a little while. Then you hang up, and the second you do that the phone rings again, and again and again, and they talk. And after a little while, you realize you’re never getting any breakfast. You’re still in your pajamas. You’re not going anywhere if you keep talking to these people. So put the phone off the hook and go about your day. So—but within an hour, there were journalists at my door and my neighbors had balloons up. So it was wonderful.
+
+PADI: Yeah! And how long is it between when you get the phone call and when you go accept the prize?
+
+JOHN: Well, I guess it was October when we got the phone call, and the ceremony is on December 10.
+
+PADI: Oh.
+
+JOHN: So when you go to Stockholm, it’s a totally overwhelming experience. And you don’t just get off the airplane. You’re met by diplomats and whisked away on a car to a special waiting room, in which there is a stack of chocolate Nobel medals that high. And before you can walk into the hotel, there are autograph seekers everywhere. Oh, my God, I don’t want to do this. I want to go to the bathroom. So anyway, you deal with that, and then you fall asleep soon as you can. And it’s a very, very overwhelming experience. I can’t tell you how it makes my little heart go pitter-patter even now to even remember that.
+
+PADI: What an amazing day.
+
+JOHN: Yeah. So I think we all felt we’re family. We did this together, and we’re proud of ourselves because we did it together.
+
+PADI: So you’ve got all this amazing information now building up on COBE. How did you go from, say, COBE and the Nobel Prize in Stockholm—like a great accomplishment, maybe a lot of people would be like, “Ah, all done.” But no, you weren’t all done. You moved on to a next amazing thing, right?
+
+JOHN: Actually, what happened, was I was thinking, Well, we’re never going to do anything as cool as that again. And I got a phone message from Ed Weiler at NASA Headquarters: We’re going to start a study of the new telescope that will follow after Hubble. OK. And by the way, if you want to do this, I need a proposal tomorrow.
+
+PADI: Oh boy.
+
+JOHN: I started meeting with engineers and other scientists to say, well, what is it we need to build, and why should we build it that way?
+
+PADI: So how did you know, like, what would be the telescope after Hubble? What was the next big innovation? And how did that idea come about?
+
+JOHN: Well, people had been thinking about this for, like, 20 years, even before I got to it. So they knew what the next opportunity would be. What can you do in space that you can’t do any other way? And so it turned out to be infrared astronomy. So why can’t you do it from the ground? Well, the telescope on the ground glows with its own infrared radiation. The atmosphere is—glows and it’s also opaque in many wavelengths. So you just can’t do it any other way. You have to build a telescope if you want to make any progress. And what could you see if you could build it? Number one, you could see much farther back in time, which is the very first galaxies. You could see inside clouds of dust and gas where stars are being born, because dust clouds are more transparent for infrared wavelengths. And number three, you can see things that are not even warm enough to light up and to sign with their visible wavelengths. So OK, so this is the great new opportunity, and we knew right away what we had to do and why we had to do it. And it turns out, as you know, it’d be extremely hard to do it.
+
+PADI: Right. The documentary is an amazing story, you know, very emotional, and there are a lot of moments in there where things looked hard, right? Things looked like maybe too hard. That must have been very stressful for your team. How do you as a leader navigate those struggles? How do you keep the team working together towards something when it gets tough?
+
+JOHN: Well, I don’t think I did anything very obvious about leadership, about this. But my perspective has always been, we’re going to do this. I always felt that our leadership above us had support, that they wanted us to finish. They wanted us to find a way. I never felt anybody above us wanted to stop us. So they’ll find a way. So we, on our technical level, will find a solution, and they’ll find a way to make sure we can actually carry it out.
+
+PADI: So you always kept that, like—the shining knowledge that this had to go, if we wanted to do the science that we say we want to do it’s got to be through this pathway.
+
+JOHN: That’s how we always felt, and I always felt confident of the support from our levels above. You know, there’s the there’s the famous thing about persistence and patience. It’s called the marshmallow test that they give to children.
+
+PADI: Oh. What’s the marshmallow test?
+
+JOHN: The marshmallow test is you promise a child that they can have this marshmallow, but if they can wait 10 minutes, they can have two. So the answer is, well, some kids will jump right away and take the one, and some will wait longer and take two. And I think the reason that some are patient is they trust the adults around them. It’s not so much that some kids are impatient and some are patient. It’s more like, what do they think the world is like around them? So I knew that we had a pretty good system, that our NASA organization is good enough to carry this off.
+
+[Music: Between Surprise and Fear by Alan David Myson]
+
+PADI: I’m so happy for your team, John, for the project science team, for all the engineers and scientists that worked for their entire careers in some cases—
+
+JOHN: Yes, many have.
+
+PADI: —to make this idea into an amazing reality. And it’s just so exciting to see all the results coming out in all these different areas. The first galaxies, exoplanet atmospheres. Congratulations once again to you and the whole team.
+
+JOHN: Thank you. I think our team has earned lots of respect, and it’s a very much of a team project. People think it’s my telescope. It’s a team telescope.
+
+PADI: John Mather is a senior astrophysicist at NASA. You can experience the full, behind-the-scenes story of the James Webb Space Telescope in the NASA documentary Cosmic Dawn. Find the film starting June 11 at nasa.gov/cosmic dawn.
+
+And it will also be streaming on NASA+, NASA’s very own free, on-demand streaming platform. Check it out at plus.nasa.gov
+
+This is NASA’s Curious universe. This episode was produced by Christian Elliott and Jacob Pinter. Our executive producer is Katie Konans. Krystofer Kim is our show artist. Our theme song was composed by Matt Russo and Andrew Santaguida of SYSTEM Sounds. If you like, hearing stories from NASA, scientists, engineers and astronauts, let us know. We love to hear what you think. Leave us a review, and send this episode to a friend who needs more of the cosmos in their life. Don’t forget, you can also follow NASA’s Curious Universe in your favorite podcast app to get a notification each time we post a new episode.

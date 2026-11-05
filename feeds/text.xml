@@ -5,7 +5,7 @@
 <link>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main</link>
 <description>形态 text 的待制作播客条目，GUID 与总 feed 完全一致。</description>
 <language>en</language>
-<lastBuildDate>Wed, 04 Nov 2026 01:19:39 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 01:12:32 +0000</lastBuildDate>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/feeds/text.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Their Mars window is a TV — clip from Encore: A Year In Mars Dune Alpha</title>
@@ -6069,6 +6069,376 @@ NASA PODCASTS STINGER: 3, 2, 1… This is an official NASA podcast.]]></content:
 <_collected_at_beijing>2026-11-04</_collected_at_beijing>
 <_audio_verified>HEAD 跟随重定向得 audio/mpeg + 73213984 字节；整文件下载后 ffprobe 时长 3035.22 秒、字节数一致，ffmpeg 全量解码零报错</_audio_verified>
 <_child_clip_guid>urn:podcast:nasa.gov:curious-universe:artemis-ii-astronauts:clip:family-reactions:1943.9-1993.7</_child_clip_guid>
+</item>
+<item>
+<title>At a high level — clip from Launching Soon: Artemis II (112.8-159.3s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/launching-soon-artemis-ii</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:launching-soon-artemis-ii:clip:mission:112.8-159.3</guid>
+<pubDate>Thu, 08 Jan 2026 14:58:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-launching-soon-artemis-ii-clip-mission.mp3" length="1169632" type="audio/mpeg"/>
+<itunes:duration>46</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】任务书 46 秒：Reid Wiseman 讲 Artemis II 绕地两圈奔月、唯一目标是为登月验证飞船；Jeremy Hansen 接话：Artemis 是 Apollo 的孪生姐妹，登月只是开始。
+【Reels 角度】任务书 46 秒：Reid Wiseman 讲 Artemis II 绕地两圈奔月、唯一目标是为登月验证飞船；Jeremy Hansen 接话：Artemis 是 Apollo 的孪生姐妹，登月只是开始。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; the episode transcript marks music cues (I Want to Be An Astronaut, Fast Motion Orchestra) all outside this segment.
+【来源】https://www.nasa.gov/podcasts/curious-universe/launching-soon-artemis-ii
+【采集日（北京时间）】2026-11-05
+【发布时间精度】exact（Inherits parent original publish date (NASA Curious Universe Megaphone RSS: Thu, 08 Jan 2026 14:58:00 -0000); clip itself was modelled 2026-11-05 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:launching-soon-artemis-ii
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/launching-soon-artemis-ii
+【片段】原集 112.8-159.3 秒，46.5 秒，原声，未加 BGM，文件：clips/nasa-launching-soon-artemis-ii-clip-mission.mp3]]></description>
+<content:encoded><![CDATA[At a high level, the Artemis II mission launches out of Kennedy Space Center. On the Space Launch System, Orion spacecraft and the crew will travel two orbits around Earth and then head on to the moon, 250,000 miles from Earth. There's only one primary goal of Artemis II, is to prepare this spacecraft for Artemis III and for our NASA astronauts to go land on the moon. Artemis is the twin sister of Apollo. That's intentional. It is to remind us that we're going to go do great things. Yes, we're going to put humans back on the surface of the moon, but we're not stopping there. When you see us fly around the moon on Artemis II, that is just a snippet of the incredible things that are to come. We're going back to the moon because it's the next step in our journey to Mars. We need to go explore the moon. There's vast regions of unexplored areas with the coldest, darkest places in our solar system.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>launching-soon-artemis-ii-clip-mission</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/launching-soon-artemis-ii</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-05</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 46.5s / 1169632 bytes (ffmpeg cut from verified full MP3 in this run, 2026-11-05); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-launching-soon-artemis-ii-clip-mission.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-launching-soon-artemis-ii-clip-mission.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-launching-soon-artemis-ii-clip-mission-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-launching-soon-artemis-ii-clip-mission-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:launching-soon-artemis-ii</_parent_guid>
+<_parent_id>nasa-launching-soon-artemis-ii</_parent_id>
+<_clip_start_s>112.8</_clip_start_s>
+<_clip_end_s>159.3</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>Launching Soon: Artemis II</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/launching-soon-artemis-ii</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:launching-soon-artemis-ii</guid>
+<pubDate>Thu, 08 Jan 2026 14:58:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:full-episode</category>
+<category>production:text-script</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION1957708732.mp3" length="5845069" type="audio/mpeg"/>
+<itunes:duration>226</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】full-episode, text-script
+【摘要】Artemis II 系列预告一集：用 Apollo 历史录音与 Artemis I 发射录音开场，指令长 Reid Wiseman 一句话讲清任务——肯尼迪中心 SLS + Orion 升空，绕地球两圈后奔月 25 万英里，唯一目标是为 Artemis III 登月验证飞船；Jeremy Hansen 讲 Artemis 是 Apollo 的孪生姐妹，登月只是开始，月球是通往火星的下一步。
+【Reels 角度】预告片里的一句话任务书：绕月两圈、25 万英里、唯一目标是为登月做准备——Artemis II 不是去插旗，而是去验证飞船。
+【许可证】Public domain：美国联邦政府作品（NASA 官方播客），一般不受版权保护
+【权利说明】可剪辑/再分发，不得暗示 NASA 背书；本集文字稿中标有音乐 cue（I Want to Be An Astronaut、Fast Motion Orchestra），正式发布前需逐项再核片段内音乐；本批 ready-clip 已核为原声讲话段、未加 BGM，片段内无音乐 cue。本集为 Artemis II 系列预告，含 Apollo/Artemis I 历史录音片段。
+【来源】https://www.nasa.gov/podcasts/curious-universe/launching-soon-artemis-ii
+【采集日（北京时间）】2026-11-05
+【发布时间精度】exact（NASA Curious Universe Megaphone RSS: Thu, 08 Jan 2026 14:58:00 -0000）
+【子片段 GUID】urn:podcast:nasa.gov:curious-universe:launching-soon-artemis-ii:clip:mission:112.8-159.3]]></description>
+<content:encoded><![CDATA[[Music: “I Want to Be An Astronaut” by Alan D. Boyd]
+
+APOLLO 8 ARCHIVAL: Transmission is coming to you approximately halfway between the Moon and the Earth. It’s a beautiful, beautiful view.
+
+CHARLIE BLACKWELL-THOMPSON: I was just a kid in grade school at the end of the Apollo program, and I remember watching those moon landings with my classmates…
+
+APOLLO 11 ARCHIVAL: Tranquility Base here, the Eagle has landed. Roger Tranquility, we copy you on the ground.
+
+CHARLIE: …and being so intrigued, so curious, so inspired.
+
+APOLLO 11 ARCHIVAL: That’s one small step for man, one giant leap for mankind.
+
+CHARLIE: Apollo made the world stop and look.
+
+APOLLO 17 ARCHIVAL: And as we leave the moon and Taurus-Littrow, we leave it we came and God willing as we shall return. With peace and hope for all mankind.
+
+CHARLIE: And I think that Artemis will do the same thing. The world will stop and look up in wonder, in intrigue, and will feel a sense of accomplishment.
+
+[Music: “Fast Motion Orchestra” by Laurent Levesque]
+
+ARTEMIS I LAUNCH ARCHIVAL: And here we go. Hydrogen burn off…
+
+VICTOR GLOVER: Pushing ourselves to explore is just core to who we are. That’s a part of being a human.
+
+ARTEMIS I LAUNCH ARCHIVAL: Core stage engine start.
+
+VICTOR GLOVER: We want to know what’s out there, just beyond the horizon. And so the Artemis program is our opportunity…
+
+ARTEMIS I LAUNCH ARCHIVAL: And liftoff of Artemis I. We rise together back to the moon and beyond.
+
+REID WISEMAN: At a high level, the Artemis II mission launches out of Kennedy Space Center on the Space Launch System and Orion spacecraft and the crew, will travel two orbits around Earth and then head on to the Moon, 250,000 miles from Earth. There’s only one primary goal of Artemis II, is to prepare this spacecraft for Artemis III and for our NASA astronauts to go land on the moon.
+
+JEREMY HANSEN: Artemis is the twin sister of Apollo. That’s intentional. It is to remind us that we’re going to go do great things. Yes, we’re going to put humans back on the surface of the Moon. But we’re not stopping there. When you see us fly around the Moon on Artemis II, that is just a snippet of the incredible things that are to come.
+
+REID: We’re going back to the moon because it’s the next step in our journey to Mars. We need to go explore the Moon. There’s vast regions of unexplored areas with the coldest, darkest places in our solar system.
+
+CHRISTINA KOCH: We were always going to the Moon. From the time humans started exploring this was always in our future and in our fate.
+
+REID: In our lifetime, we’ve looked at the Moon knowing that people had been there. And now in the Artemis generation, kids will walk out and look at the Moon going, we are there. We are there now, and we are going further into our solar system.
+
+CHRISTINA: Hi, I’m Christina Koch.
+
+JEREMY: Jeremy Hansen.
+
+VICTOR: I’m Victor Glover.
+
+REID: NASA astronaut Reid Wiseman, I’m gonna fly with Victor Glover, Christina Koch and Jeremy Hansen around the moon and safely back to earth.
+
+HOST JACOB PINTER: NASA is making history.
+
+HOST PADI BOYD: And we’re bringing you the inside story.
+
+JACOB: Get to know the Artemis II astronauts like you won’t hear them anywhere else… and meet the people behind the scenes, lifting them to space.
+
+PADI: Experience a special Artemis II series of Curious Universe.
+
+JACOB: An official NASA podcast.
+
+PADI: Coming soon.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>launching-soon-artemis-ii</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/launching-soon-artemis-ii</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-05</_collected_at_beijing>
+<_audio_verified>HEAD 跟随重定向得 audio/mpeg + 5845069 字节；整文件下载后 ffprobe 时长 226.090 秒、字节数一致，ffmpeg 全量解码零报错</_audio_verified>
+<_child_clip_guid>urn:podcast:nasa.gov:curious-universe:launching-soon-artemis-ii:clip:mission:112.8-159.3</_child_clip_guid>
+</item>
+<item>
+<title>The Nobel phone call — clip from Cosmic Dawn with Nobel Laureate John Mather (670.0-723.7s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/cosmic-dawn-with-nobel-laureate-john-mather</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:cosmic-dawn-mather:clip:nobel-call:670.0-723.7</guid>
+<pubDate>Fri, 19 Dec 2025 15:07:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-cosmic-dawn-mather-clip-nobel-call.mp3" length="866793" type="audio/mpeg"/>
+<itunes:duration>54</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】凌晨 5 点 45 分的电话：John Mather 躺在床上接到瑞典来电，记者接连打来、早餐吃不上、睡衣没换邻居已挂起气球——诺贝尔奖那天早晨就是这样开始的。
+【Reels 角度】凌晨 5 点 45 分的电话：John Mather 躺在床上接到瑞典来电，记者接连打来、早餐吃不上、睡衣没换邻居已挂起气球——诺贝尔奖那天早晨就是这样开始的。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; the episode transcript marks music cues (Curiosity, Eternal Sunshine, Research and Development, Designing the Future, Between Surprise and Fear) all outside this segment.
+【来源】https://www.nasa.gov/podcasts/curious-universe/cosmic-dawn-with-nobel-laureate-john-mather
+【采集日（北京时间）】2026-11-05
+【发布时间精度】exact（Inherits parent original publish date (NASA Curious Universe Megaphone RSS: Fri, 19 Dec 2025 15:07:00 -0000); clip itself was modelled 2026-11-05 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:cosmic-dawn-mather
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/cosmic-dawn-with-nobel-laureate-john-mather
+【片段】原集 670.0-723.7 秒，53.7 秒，原声，未加 BGM，文件：clips/nasa-cosmic-dawn-mather-clip-nobel-call.mp3]]></description>
+<content:encoded><![CDATA[The way it happens is you get a phone call at a quarter of six in the morning in the Eastern time zone. Were you told to be like to be on the lookout for a call? I had been given some hint that this might be our year. So anyway, the phone call does come and I'm lying in bed, I'm awake. So that happens, you talk to the people in Sweden for a little while. And then they say, can we put the journalist on? You do that for a little while, then you hang up. And then the second you do that, the phone rings again. And again, and again. And they talk and after a little while, you realize you're never getting any breakfast, You're still in your pajamas, not going anywhere if you keep talking to these people. So put the phone off the hook and go about your day. But within an hour, there were journalists at my door and my neighbors had balloons up. So it was wonderful.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>cosmic-dawn-mather-clip-nobel-call</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/cosmic-dawn-with-nobel-laureate-john-mather</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-05</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 53.7s / 866793 bytes (ffmpeg cut from verified full MP3 in this run, 2026-11-05); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-cosmic-dawn-mather-clip-nobel-call.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-cosmic-dawn-mather-clip-nobel-call.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-cosmic-dawn-mather-clip-nobel-call-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-cosmic-dawn-mather-clip-nobel-call-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:cosmic-dawn-mather</_parent_guid>
+<_parent_id>nasa-cosmic-dawn-mather</_parent_id>
+<_clip_start_s>670.0</_clip_start_s>
+<_clip_end_s>723.7</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>Cosmic Dawn with Nobel Laureate John Mather</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/cosmic-dawn-with-nobel-laureate-john-mather</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:cosmic-dawn-mather</guid>
+<pubDate>Fri, 19 Dec 2025 15:07:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:full-episode</category>
+<category>production:text-script</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION1029647421.mp3" length="27492956" type="audio/mpeg"/>
+<itunes:duration>1131</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】full-episode, text-script
+【摘要】诺贝尔物理学奖得主 John Mather 访谈一集：从六岁听父亲讲细胞、八岁在天文馆看星空，到高中自制望远镜；讲 COBE 如何测出宇宙微波背景辐射的“斑点”——霍金称之为世纪最重要的科学发现；再讲 2006 年凌晨的获奖电话、斯德哥尔摩领奖的眩晕，以及接到 Ed Weiler 电话、次日就要交出后 Hubble 望远镜方案，Webb 由此起步。
+【Reels 角度】诺贝尔奖得主的清晨电话：凌晨 5 点 45 分瑞典来电，睡衣还没换记者已到门口——John Mather 讲 COBE 与 Webb 背后的那通电话。
+【许可证】Public domain：美国联邦政府作品（NASA 官方播客），一般不受版权保护
+【权利说明】可剪辑/再分发，不得暗示 NASA 背书；本集文字稿中标有音乐 cue（Curiosity、Eternal Sunshine、Research and Development、Designing the Future、Between Surprise and Fear，SYSTEM Sounds 等），正式发布前需逐项再核片段内音乐；本批 ready-clip 已核为原声讲话段、未加 BGM，片段内无音乐 cue。
+【来源】https://www.nasa.gov/podcasts/curious-universe/cosmic-dawn-with-nobel-laureate-john-mather
+【采集日（北京时间）】2026-11-05
+【发布时间精度】exact（NASA Curious Universe Megaphone RSS: Fri, 19 Dec 2025 15:07:00 -0000）
+【子片段 GUID】urn:podcast:nasa.gov:curious-universe:cosmic-dawn-mather:clip:nobel-call:670.0-723.7]]></description>
+<content:encoded><![CDATA[[Music: Curiosity by SYSTEM Sounds]
+
+PADI BOYD: You’re listening to NASA’s Curious Universe. I’m your host, Padi Boyd. NASA is doing something astronomers dreamed about for decades.
+
+[Music: Eternal Sunshine by Jay Woods]
+
+The James Webb Space Telescope is peering into our universe’s early past, at some of the very first stars and galaxies to ever form and the first light after the Big Bang: cosmic dawn.
+
+Cosmic Dawn is also the title of a brand new NASA+ documentary. It covers the untold story of the Webb Telescope’s design, construction and launch. You’re in for a treat. You get to peek inside NASA clean rooms, beryllium mines, and even weather a hurricane. There are a lot of twists and turns. And ahead of the big premiere, I wanted to talk to someone who knows the Webb Telescope better than just about anyone, because he was one of the people who first dreamed it up.
+
+John Mather is a senior astrophysicist at NASA. He’s always been a bit of a science celebrity here, and that was even before he won the Nobel Prize in Physics in 2006. I’ve known John for decades, and it was so much fun to sit down and ask him about his life, his research, and what it really feels like to win a Nobel Prize.
+
+[to John Mather] John Mather, welcome to Curious Universe.
+
+JOHN MATHER: Thank you, Padi. It’s great to be here with you.
+
+PADI: I’m delighted that you’re here. It’s the first time we’ve seen each other in a while, since the James Webb Space Telescope launched. So first of all, congratulations on what an amazingly successful—
+
+JOHN: It’s a wonderful, wonderful observatory, and it’s working beautifully.
+
+PADI: So we referenced cosmic dawn just a moment ago. What is cosmic dawn?
+
+JOHN: The cosmic dawn is the beginning of things turning on after the Big Bang. So we didn’t know until now how that started. But, you know, the Big Bang gave us an expanding universe, but didn’t have stars and galaxies in it yet. That was 13.8 billion years ago. So time passed and something happened, and stars turned up and black holes, and we’d like to know what that was about. We call it the cosmic dawn. It’s the first lights in the universe.
+
+PADI: So let me take you back a little bit to a different kind of cosmic dawn, a different beginning: your origin story. So you grew up in rural part of New Jersey, right?
+
+JOHN: Yes.
+
+PADI: Do you remember, like a certain moment in your childhood when your curiosity about the universe was first ignited?
+
+JOHN: It’s hard to remember accurately that far back, I didn’t have a lab notebook to write in when I was six, but I do remember when I was about six, my dad told me at bedtime, you know, you’re made out of cells, and there are chromosomes inside, and they control your future in some way, and you don’t know how. And I thought, “That’s really interesting,” so—but I did not end up becoming a biologist. Then by the time I was eight, I was already aware of astronomy. We’d been to see the Museum of Natural History in New York City and the planetarium show, and they showed the planets going around on the ceiling, and there was a giant meteorite that sits just outside the door of the planetarium. I thought this is pretty exciting.
+
+PADI: Did you have a telescope?
+
+JOHN: Eventually I did. In high school I finally got my allowance together, and I bought a mirror from Edmond Scientific, and it was that big around. And I bought some lenses, and I made some eyepieces and—with cardboard and tubes and things, and I made my telescope so I can see through it.
+
+PADI: Amazing.
+
+JOHN: I still have it.
+
+PADI: That’s amazing. So were you ever thinking that moment as you were building this first telescope, that someday I’m going to build the most amazing telescope that will launch a million miles away from Earth?
+
+JOHN: No, that was long before the Space Age. So no, there was no hint of that.
+
+[Music: Research and Development by Carl David Harms]
+
+PADI: So let me just pop in for a second here and explain how John Mather and his groundbreaking research became a big deal. While John was beginning his career in the 1960s, scientists made a remarkable discovery. We refer to it as the cosmic microwave background radiation. This radiation is actually a faint afterglow left over from the Big Bang, and it could hold clues to understanding where the universe and all of us come from.
+
+Eventually, John led a mission to measure and study that radiation from space. NASA launched a spacecraft called Cosmic Background Explorer, or COBE for short. John led COBE’s entire life cycle, conceptualizing the mission and leading the team who pioneered some really elegant scientific techniques. This work with COBE is what earned him a Nobel Prize. I was at a meeting of astronomers in 1990 when John shared the very first findings from COBE. And this might sound crazy, but that presentation was absolutely electric.
+
+[Music: Designing the Future by Carl David Harms]
+
+I was a graduate student, and I was so excited to see the first results from COBE, and what I didn’t realize was that virtually everybody else at the meeting was as excited as I was. In fact, it was a packed house, standing room only. I’m telling you, it felt like a rock concert, and as soon as John showed the early results from COBE on an overhead projector, we all jumped to our feet and gave him a standing ovation, because what he was showing us was the clearest picture yet of the early evolution of our universe, and it was just a taste of things to come.
+
+Anyway, long before he started developing the James Webb Space Telescope, John made a name for himself by revolutionizing what we know about some of the universe’s earliest moments shortly after what we call the Big Bang,.
+
+[to John] When did you first hear about the Big Bang?
+
+JOHN: Ah! Well, I had a summer school in physics after my junior year in high school, went up to Cornell. By the time I got to college, you know, people had discovered the cosmic microwave background radiation in 1965. I didn’t know how much it was going to turn out to be a big deal for us. At first, you know, OK, it exists. You have no idea that you’re going to get so much information out of it that we eventually got from the COBE satellite and others that followed. So that, to me, is the biggest surprise of that work, not that the Big Bang happened, because I thought, well, that’s normal. Why wouldn’t it? But how could we find out so much, which we have.
+
+PADI: So you learn about the big the cosmic microwave background radiation being measured in the ‘60s. How do you go from that to leading a project to launch a telescope?
+
+JOHN: Oh my goodness. Well, it’s a long story, but NASA says we want proposals for new science missions. It’s just, what, 1969 we landed on the moon. This is five years later, I guess. OK, so, OK, anybody got any ideas? OK boss, my thesis project failed, but we should try it in outer space, and he knew it was a good idea. He was already familiar with the reasons why it would be good idea. So what NASA did was they said, that’s interesting. Well, here’s a little money to go a little farther, and we made an idea, and that’s what we eventually built.
+
+PADI: Built it, launched it, operated it, and got an amazing result.
+
+JOHN: And within weeks of the launch, we knew the expanding universe story that everybody calls the Big Bang was correct, because there’s a thing called the spectrum, which says, How bright is this radiation at every wavelength? And it is exactly as it was supposed to be, if it’s really the remnant of that early moment. And so, got a standing ovation for that.
+
+PADI: I was there, John.
+
+JOHN: You were there?
+
+PADI: Yes! I don’t know if I’ve ever told you that.
+
+JOHN: Thousands of people were there. And I thought—my perspective was warped. I thought it’s Saturday, nobody’s coming. But everybody came.
+
+PADI: It was jammed.
+
+JOHN: It was jammed.
+
+PADI: Yes. It was standing room only. I think we all knew it was never going to be like that in our career again. We’re not going to have a moment like that where everybody just has this simultaneously, sort of joyful recognition of what’s happening here with this data. But what was like for you? Like, the first time you saw that curve that you just described, what was the moment like when you were seeing it? What
+
+JOHN: What actually happened, as I remember it, is the people that worked on the calibration process, on the software, called me up one morning, You got to see this. So they had a graph and, Oh, you’ve got to see this. OK. Ah! This is exactly what I thought it would be, and I hope we get to announce this real soon.
+
+PADI: And such an important result as time goes on that it ends up being the Nobel Prize winning work.
+
+JOHN: Well, yes it does, although that’s only part of it, because [there] was a second, even more significant result that we got from another instrument on the mission. We made a map to see if this radiation is equally bright in every direction. And it should be if it’s really cosmic, and it should be a little bit different in over there than over here, because we’re moving relative to the rest of the universe. And that’s true, and that sort of matches up with what we thought. And then the big question is, does it have spots in it? Is it spotty? Is the Big Bang non-uniform or totally smooth? And this was the first real proof that it was totally spotty. So other people had been working on it, and there was evidence measured from the ground. Other people had claims, but it wasn’t such a big deal. We made a map of the entire sky so you couldn’t miss that the pattern was there.
+
+PADI: So not only did you know it was spotty, but you knew where the spots were,.
+
+JOHN: We knew where the spots were. And so Stephen Hawking saw that map, he said, “That’s the most important scientific discovery of the century, if not of all time.” So I thought, OK, well, that’s really sweet of you, and it didn’t fully appreciate right away why he thought it was so important. But I think what he meant was the early universe was not the same everywhere. So it means gravity could pull back some of the expanding material and pull it back together and make galaxies. So we’re here because there’s—the early universe has spots, and then, of course, there’s the big puzzle of what made the spots. And we have no idea. Some year we might have a reason why those spots are there. Maybe it’ll be quantum gravity. Maybe it’ll be some other story. Right now, we don’t know why they’re there.
+
+PADI: This is a long time ago now, 2006: the day that you found out that you won the Nobel Prize. Can you tell us what that moment was like?
+
+JOHN: The way it happens is you get a phone call at a quarter of six in the morning in the eastern time zone.
+
+PADI: Were you told to be like, to be on the lookout for a call?
+
+JOHN: I had been given some hint that this might be our year. So anyway, the phone call does come, and I’m lying in bed, I’m awake. So that happens, you talk to the people in Sweden for a little while, yeah. And then they say, Can we put the journalist on? You do that for a little while. Then you hang up, and the second you do that the phone rings again, and again and again, and they talk. And after a little while, you realize you’re never getting any breakfast. You’re still in your pajamas. You’re not going anywhere if you keep talking to these people. So put the phone off the hook and go about your day. So—but within an hour, there were journalists at my door and my neighbors had balloons up. So it was wonderful.
+
+PADI: Yeah! And how long is it between when you get the phone call and when you go accept the prize?
+
+JOHN: Well, I guess it was October when we got the phone call, and the ceremony is on December 10.
+
+PADI: Oh.
+
+JOHN: So when you go to Stockholm, it’s a totally overwhelming experience. And you don’t just get off the airplane. You’re met by diplomats and whisked away on a car to a special waiting room, in which there is a stack of chocolate Nobel medals that high. And before you can walk into the hotel, there are autograph seekers everywhere. Oh, my God, I don’t want to do this. I want to go to the bathroom. So anyway, you deal with that, and then you fall asleep soon as you can. And it’s a very, very overwhelming experience. I can’t tell you how it makes my little heart go pitter-patter even now to even remember that.
+
+PADI: What an amazing day.
+
+JOHN: Yeah. So I think we all felt we’re family. We did this together, and we’re proud of ourselves because we did it together.
+
+PADI: So you’ve got all this amazing information now building up on COBE. How did you go from, say, COBE and the Nobel Prize in Stockholm—like a great accomplishment, maybe a lot of people would be like, “Ah, all done.” But no, you weren’t all done. You moved on to a next amazing thing, right?
+
+JOHN: Actually, what happened, was I was thinking, Well, we’re never going to do anything as cool as that again. And I got a phone message from Ed Weiler at NASA Headquarters: We’re going to start a study of the new telescope that will follow after Hubble. OK. And by the way, if you want to do this, I need a proposal tomorrow.
+
+PADI: Oh boy.
+
+JOHN: I started meeting with engineers and other scientists to say, well, what is it we need to build, and why should we build it that way?
+
+PADI: So how did you know, like, what would be the telescope after Hubble? What was the next big innovation? And how did that idea come about?
+
+JOHN: Well, people had been thinking about this for, like, 20 years, even before I got to it. So they knew what the next opportunity would be. What can you do in space that you can’t do any other way? And so it turned out to be infrared astronomy. So why can’t you do it from the ground? Well, the telescope on the ground glows with its own infrared radiation. The atmosphere is—glows and it’s also opaque in many wavelengths. So you just can’t do it any other way. You have to build a telescope if you want to make any progress. And what could you see if you could build it? Number one, you could see much farther back in time, which is the very first galaxies. You could see inside clouds of dust and gas where stars are being born, because dust clouds are more transparent for infrared wavelengths. And number three, you can see things that are not even warm enough to light up and to sign with their visible wavelengths. So OK, so this is the great new opportunity, and we knew right away what we had to do and why we had to do it. And it turns out, as you know, it’d be extremely hard to do it.
+
+PADI: Right. The documentary is an amazing story, you know, very emotional, and there are a lot of moments in there where things looked hard, right? Things looked like maybe too hard. That must have been very stressful for your team. How do you as a leader navigate those struggles? How do you keep the team working together towards something when it gets tough?
+
+JOHN: Well, I don’t think I did anything very obvious about leadership, about this. But my perspective has always been, we’re going to do this. I always felt that our leadership above us had support, that they wanted us to finish. They wanted us to find a way. I never felt anybody above us wanted to stop us. So they’ll find a way. So we, on our technical level, will find a solution, and they’ll find a way to make sure we can actually carry it out.
+
+PADI: So you always kept that, like—the shining knowledge that this had to go, if we wanted to do the science that we say we want to do it’s got to be through this pathway.
+
+JOHN: That’s how we always felt, and I always felt confident of the support from our levels above. You know, there’s the there’s the famous thing about persistence and patience. It’s called the marshmallow test that they give to children.
+
+PADI: Oh. What’s the marshmallow test?
+
+JOHN: The marshmallow test is you promise a child that they can have this marshmallow, but if they can wait 10 minutes, they can have two. So the answer is, well, some kids will jump right away and take the one, and some will wait longer and take two. And I think the reason that some are patient is they trust the adults around them. It’s not so much that some kids are impatient and some are patient. It’s more like, what do they think the world is like around them? So I knew that we had a pretty good system, that our NASA organization is good enough to carry this off.
+
+[Music: Between Surprise and Fear by Alan David Myson]
+
+PADI: I’m so happy for your team, John, for the project science team, for all the engineers and scientists that worked for their entire careers in some cases—
+
+JOHN: Yes, many have.
+
+PADI: —to make this idea into an amazing reality. And it’s just so exciting to see all the results coming out in all these different areas. The first galaxies, exoplanet atmospheres. Congratulations once again to you and the whole team.
+
+JOHN: Thank you. I think our team has earned lots of respect, and it’s a very much of a team project. People think it’s my telescope. It’s a team telescope.
+
+PADI: John Mather is a senior astrophysicist at NASA. You can experience the full, behind-the-scenes story of the James Webb Space Telescope in the NASA documentary Cosmic Dawn. Find the film starting June 11 at nasa.gov/cosmic dawn.
+
+And it will also be streaming on NASA+, NASA’s very own free, on-demand streaming platform. Check it out at plus.nasa.gov
+
+This is NASA’s Curious universe. This episode was produced by Christian Elliott and Jacob Pinter. Our executive producer is Katie Konans. Krystofer Kim is our show artist. Our theme song was composed by Matt Russo and Andrew Santaguida of SYSTEM Sounds. If you like, hearing stories from NASA, scientists, engineers and astronauts, let us know. We love to hear what you think. Leave us a review, and send this episode to a friend who needs more of the cosmos in their life. Don’t forget, you can also follow NASA’s Curious Universe in your favorite podcast app to get a notification each time we post a new episode.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>cosmic-dawn-mather</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/cosmic-dawn-with-nobel-laureate-john-mather</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-05</_collected_at_beijing>
+<_audio_verified>HEAD 跟随重定向得 audio/mpeg + 27492956 字节；整文件下载后 ffprobe 时长 1131.128 秒、字节数一致，ffmpeg 全量解码零报错</_audio_verified>
+<_child_clip_guid>urn:podcast:nasa.gov:curious-universe:cosmic-dawn-mather:clip:nobel-call:670.0-723.7</_child_clip_guid>
 </item>
 <item>
 <title>Coral Bleaching</title>

@@ -1,0 +1,1145 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.18,
+    "text": "What happens is you get a phone call at a quarter of six in the morning in the Eastern",
+    "words": [
+      {
+        "word": " What",
+        "start": 0.0,
+        "end": 0.12,
+        "probability": 0.1087678000330925
+      },
+      {
+        "word": " happens",
+        "start": 0.12,
+        "end": 0.88,
+        "probability": 0.8861902952194214
+      },
+      {
+        "word": " is",
+        "start": 0.88,
+        "end": 1.28,
+        "probability": 0.9793786406517029
+      },
+      {
+        "word": " you",
+        "start": 1.28,
+        "end": 1.58,
+        "probability": 0.7799159288406372
+      },
+      {
+        "word": " get",
+        "start": 1.58,
+        "end": 1.7,
+        "probability": 0.9937816262245178
+      },
+      {
+        "word": " a",
+        "start": 1.7,
+        "end": 1.82,
+        "probability": 0.9976671934127808
+      },
+      {
+        "word": " phone",
+        "start": 1.82,
+        "end": 2.0,
+        "probability": 0.9973838925361633
+      },
+      {
+        "word": " call",
+        "start": 2.0,
+        "end": 2.26,
+        "probability": 0.9978041052818298
+      },
+      {
+        "word": " at",
+        "start": 2.26,
+        "end": 2.5,
+        "probability": 0.970550537109375
+      },
+      {
+        "word": " a",
+        "start": 2.5,
+        "end": 2.64,
+        "probability": 0.9228948950767517
+      },
+      {
+        "word": " quarter",
+        "start": 2.64,
+        "end": 2.86,
+        "probability": 0.978739857673645
+      },
+      {
+        "word": " of",
+        "start": 2.86,
+        "end": 3.06,
+        "probability": 0.8322646021842957
+      },
+      {
+        "word": " six",
+        "start": 3.06,
+        "end": 3.24,
+        "probability": 0.7025326490402222
+      },
+      {
+        "word": " in",
+        "start": 3.24,
+        "end": 3.4,
+        "probability": 0.9954631924629211
+      },
+      {
+        "word": " the",
+        "start": 3.4,
+        "end": 3.5,
+        "probability": 0.9996192455291748
+      },
+      {
+        "word": " morning",
+        "start": 3.5,
+        "end": 3.66,
+        "probability": 0.9956052899360657
+      },
+      {
+        "word": " in",
+        "start": 3.66,
+        "end": 3.86,
+        "probability": 0.9496600031852722
+      },
+      {
+        "word": " the",
+        "start": 3.86,
+        "end": 3.94,
+        "probability": 0.9688810706138611
+      },
+      {
+        "word": " Eastern",
+        "start": 3.94,
+        "end": 4.18,
+        "probability": 0.7565516829490662
+      }
+    ]
+  },
+  {
+    "start": 4.18,
+    "end": 4.8,
+    "text": "time zone.",
+    "words": [
+      {
+        "word": " time",
+        "start": 4.18,
+        "end": 4.42,
+        "probability": 0.6656071543693542
+      },
+      {
+        "word": " zone.",
+        "start": 4.42,
+        "end": 4.8,
+        "probability": 0.9294587969779968
+      }
+    ]
+  },
+  {
+    "start": 5.12,
+    "end": 8.34,
+    "text": "Were you told to be like to be on the lookout for a call or?",
+    "words": [
+      {
+        "word": " Were",
+        "start": 5.12,
+        "end": 5.52,
+        "probability": 0.8400790691375732
+      },
+      {
+        "word": " you",
+        "start": 5.52,
+        "end": 5.68,
+        "probability": 0.9950103759765625
+      },
+      {
+        "word": " told",
+        "start": 5.68,
+        "end": 5.84,
+        "probability": 0.957156240940094
+      },
+      {
+        "word": " to",
+        "start": 5.84,
+        "end": 6.08,
+        "probability": 0.9471415281295776
+      },
+      {
+        "word": " be",
+        "start": 6.08,
+        "end": 6.28,
+        "probability": 0.9542886018753052
+      },
+      {
+        "word": " like",
+        "start": 6.28,
+        "end": 6.42,
+        "probability": 0.582214891910553
+      },
+      {
+        "word": " to",
+        "start": 6.42,
+        "end": 6.64,
+        "probability": 0.809048056602478
+      },
+      {
+        "word": " be",
+        "start": 6.64,
+        "end": 6.86,
+        "probability": 0.994044840335846
+      },
+      {
+        "word": " on",
+        "start": 6.86,
+        "end": 7.06,
+        "probability": 0.9976376295089722
+      },
+      {
+        "word": " the",
+        "start": 7.06,
+        "end": 7.26,
+        "probability": 0.998590886592865
+      },
+      {
+        "word": " lookout",
+        "start": 7.26,
+        "end": 7.42,
+        "probability": 0.9834334850311279
+      },
+      {
+        "word": " for",
+        "start": 7.42,
+        "end": 7.72,
+        "probability": 0.9974889755249023
+      },
+      {
+        "word": " a",
+        "start": 7.72,
+        "end": 7.8,
+        "probability": 0.9919440746307373
+      },
+      {
+        "word": " call",
+        "start": 7.8,
+        "end": 8.04,
+        "probability": 0.9587472677230835
+      },
+      {
+        "word": " or?",
+        "start": 8.04,
+        "end": 8.34,
+        "probability": 0.6349775791168213
+      }
+    ]
+  },
+  {
+    "start": 9.14,
+    "end": 12.52,
+    "text": "I had been given some hint that this might be our year.",
+    "words": [
+      {
+        "word": " I",
+        "start": 9.14,
+        "end": 9.16,
+        "probability": 0.9637855291366577
+      },
+      {
+        "word": " had",
+        "start": 9.16,
+        "end": 9.4,
+        "probability": 0.9881343245506287
+      },
+      {
+        "word": " been",
+        "start": 9.4,
+        "end": 10.1,
+        "probability": 0.997421383857727
+      },
+      {
+        "word": " given",
+        "start": 10.1,
+        "end": 10.36,
+        "probability": 0.9992753863334656
+      },
+      {
+        "word": " some",
+        "start": 10.36,
+        "end": 10.76,
+        "probability": 0.9975507855415344
+      },
+      {
+        "word": " hint",
+        "start": 10.76,
+        "end": 11.04,
+        "probability": 0.975692868232727
+      },
+      {
+        "word": " that",
+        "start": 11.04,
+        "end": 11.28,
+        "probability": 0.8026217818260193
+      },
+      {
+        "word": " this",
+        "start": 11.28,
+        "end": 11.5,
+        "probability": 0.9624955654144287
+      },
+      {
+        "word": " might",
+        "start": 11.5,
+        "end": 11.7,
+        "probability": 0.9977108240127563
+      },
+      {
+        "word": " be",
+        "start": 11.7,
+        "end": 12.0,
+        "probability": 0.9982566237449646
+      },
+      {
+        "word": " our",
+        "start": 12.0,
+        "end": 12.16,
+        "probability": 0.9952776432037354
+      },
+      {
+        "word": " year.",
+        "start": 12.16,
+        "end": 12.52,
+        "probability": 0.9944952130317688
+      }
+    ]
+  },
+  {
+    "start": 13.76,
+    "end": 16.56,
+    "text": "So anyway, the phone call does come and I'm lying in bed, I'm awake.",
+    "words": [
+      {
+        "word": " So",
+        "start": 13.76,
+        "end": 13.78,
+        "probability": 0.9418513178825378
+      },
+      {
+        "word": " anyway,",
+        "start": 13.78,
+        "end": 14.06,
+        "probability": 0.9529842734336853
+      },
+      {
+        "word": " the",
+        "start": 14.06,
+        "end": 14.22,
+        "probability": 0.9993191957473755
+      },
+      {
+        "word": " phone",
+        "start": 14.22,
+        "end": 14.42,
+        "probability": 0.9994316697120667
+      },
+      {
+        "word": " call",
+        "start": 14.42,
+        "end": 14.6,
+        "probability": 0.9831644892692566
+      },
+      {
+        "word": " does",
+        "start": 14.6,
+        "end": 14.8,
+        "probability": 0.9984849095344543
+      },
+      {
+        "word": " come",
+        "start": 14.8,
+        "end": 15.08,
+        "probability": 0.996842622756958
+      },
+      {
+        "word": " and",
+        "start": 15.08,
+        "end": 15.24,
+        "probability": 0.8031461834907532
+      },
+      {
+        "word": " I'm",
+        "start": 15.24,
+        "end": 15.42,
+        "probability": 0.9973979890346527
+      },
+      {
+        "word": " lying",
+        "start": 15.42,
+        "end": 15.58,
+        "probability": 0.984012246131897
+      },
+      {
+        "word": " in",
+        "start": 15.58,
+        "end": 15.76,
+        "probability": 0.9966458678245544
+      },
+      {
+        "word": " bed,",
+        "start": 15.76,
+        "end": 15.94,
+        "probability": 0.999681830406189
+      },
+      {
+        "word": " I'm",
+        "start": 15.98,
+        "end": 16.2,
+        "probability": 0.9970518946647644
+      },
+      {
+        "word": " awake.",
+        "start": 16.2,
+        "end": 16.56,
+        "probability": 0.9989137649536133
+      }
+    ]
+  },
+  {
+    "start": 17.58,
+    "end": 21.38,
+    "text": "So that happens, you talk to the people in Sweden for a little while.",
+    "words": [
+      {
+        "word": " So",
+        "start": 17.58,
+        "end": 17.62,
+        "probability": 0.9961102604866028
+      },
+      {
+        "word": " that",
+        "start": 17.62,
+        "end": 18.26,
+        "probability": 0.9668911099433899
+      },
+      {
+        "word": " happens,",
+        "start": 18.26,
+        "end": 18.56,
+        "probability": 0.9936701059341431
+      },
+      {
+        "word": " you",
+        "start": 18.66,
+        "end": 18.74,
+        "probability": 0.9948896169662476
+      },
+      {
+        "word": " talk",
+        "start": 18.74,
+        "end": 18.9,
+        "probability": 0.9265434741973877
+      },
+      {
+        "word": " to",
+        "start": 18.9,
+        "end": 19.06,
+        "probability": 0.9957996010780334
+      },
+      {
+        "word": " the",
+        "start": 19.06,
+        "end": 19.42,
+        "probability": 0.964379608631134
+      },
+      {
+        "word": " people",
+        "start": 19.42,
+        "end": 20.2,
+        "probability": 0.9958338737487793
+      },
+      {
+        "word": " in",
+        "start": 20.2,
+        "end": 20.38,
+        "probability": 0.9989410042762756
+      },
+      {
+        "word": " Sweden",
+        "start": 20.38,
+        "end": 20.62,
+        "probability": 0.9991583824157715
+      },
+      {
+        "word": " for",
+        "start": 20.62,
+        "end": 20.88,
+        "probability": 0.9978971481323242
+      },
+      {
+        "word": " a",
+        "start": 20.88,
+        "end": 20.96,
+        "probability": 0.9995809197425842
+      },
+      {
+        "word": " little",
+        "start": 20.96,
+        "end": 21.08,
+        "probability": 0.9991620779037476
+      },
+      {
+        "word": " while.",
+        "start": 21.08,
+        "end": 21.38,
+        "probability": 0.9992221593856812
+      }
+    ]
+  },
+  {
+    "start": 22.22,
+    "end": 26.12,
+    "text": "And then they say, can we put the journalist on and do that for a little while, then you",
+    "words": [
+      {
+        "word": " And",
+        "start": 22.22,
+        "end": 22.22,
+        "probability": 0.5029850006103516
+      },
+      {
+        "word": " then",
+        "start": 22.22,
+        "end": 22.38,
+        "probability": 0.997692346572876
+      },
+      {
+        "word": " they",
+        "start": 22.38,
+        "end": 22.52,
+        "probability": 0.9989439845085144
+      },
+      {
+        "word": " say,",
+        "start": 22.52,
+        "end": 22.78,
+        "probability": 0.9991649389266968
+      },
+      {
+        "word": " can",
+        "start": 22.96,
+        "end": 23.22,
+        "probability": 0.8448712229728699
+      },
+      {
+        "word": " we",
+        "start": 23.22,
+        "end": 23.34,
+        "probability": 0.9944572448730469
+      },
+      {
+        "word": " put",
+        "start": 23.34,
+        "end": 23.48,
+        "probability": 0.9990146160125732
+      },
+      {
+        "word": " the",
+        "start": 23.48,
+        "end": 23.6,
+        "probability": 0.9425855278968811
+      },
+      {
+        "word": " journalist",
+        "start": 23.6,
+        "end": 23.9,
+        "probability": 0.7634798884391785
+      },
+      {
+        "word": " on",
+        "start": 23.9,
+        "end": 24.28,
+        "probability": 0.9891564846038818
+      },
+      {
+        "word": " and",
+        "start": 24.28,
+        "end": 24.42,
+        "probability": 0.36387136578559875
+      },
+      {
+        "word": " do",
+        "start": 24.42,
+        "end": 24.54,
+        "probability": 0.8583680987358093
+      },
+      {
+        "word": " that",
+        "start": 24.54,
+        "end": 24.72,
+        "probability": 0.9996664524078369
+      },
+      {
+        "word": " for",
+        "start": 24.72,
+        "end": 24.92,
+        "probability": 0.9982696771621704
+      },
+      {
+        "word": " a",
+        "start": 24.92,
+        "end": 24.98,
+        "probability": 0.9992910623550415
+      },
+      {
+        "word": " little",
+        "start": 24.98,
+        "end": 25.1,
+        "probability": 0.9984941482543945
+      },
+      {
+        "word": " while,",
+        "start": 25.1,
+        "end": 25.38,
+        "probability": 0.9990905523300171
+      },
+      {
+        "word": " then",
+        "start": 25.8,
+        "end": 26.0,
+        "probability": 0.5917090177536011
+      },
+      {
+        "word": " you",
+        "start": 26.0,
+        "end": 26.12,
+        "probability": 0.997955322265625
+      }
+    ]
+  },
+  {
+    "start": 26.12,
+    "end": 26.52,
+    "text": "hang up.",
+    "words": [
+      {
+        "word": " hang",
+        "start": 26.12,
+        "end": 26.3,
+        "probability": 0.9936402440071106
+      },
+      {
+        "word": " up.",
+        "start": 26.3,
+        "end": 26.52,
+        "probability": 0.999510645866394
+      }
+    ]
+  },
+  {
+    "start": 27.04,
+    "end": 30.14,
+    "text": "And then the second you do that, the phone rings again.",
+    "words": [
+      {
+        "word": " And",
+        "start": 27.04,
+        "end": 27.44,
+        "probability": 0.4868696331977844
+      },
+      {
+        "word": " then",
+        "start": 27.44,
+        "end": 27.86,
+        "probability": 0.7986979484558105
+      },
+      {
+        "word": " the",
+        "start": 27.86,
+        "end": 28.02,
+        "probability": 0.6198211312294006
+      },
+      {
+        "word": " second",
+        "start": 28.02,
+        "end": 28.78,
+        "probability": 0.9579759240150452
+      },
+      {
+        "word": " you",
+        "start": 28.78,
+        "end": 29.0,
+        "probability": 0.9820539951324463
+      },
+      {
+        "word": " do",
+        "start": 29.0,
+        "end": 29.16,
+        "probability": 0.9962204098701477
+      },
+      {
+        "word": " that,",
+        "start": 29.16,
+        "end": 29.32,
+        "probability": 0.9971849322319031
+      },
+      {
+        "word": " the",
+        "start": 29.42,
+        "end": 29.44,
+        "probability": 0.9958497285842896
+      },
+      {
+        "word": " phone",
+        "start": 29.44,
+        "end": 29.6,
+        "probability": 0.9986830353736877
+      },
+      {
+        "word": " rings",
+        "start": 29.6,
+        "end": 29.86,
+        "probability": 0.9982865452766418
+      },
+      {
+        "word": " again.",
+        "start": 29.86,
+        "end": 30.14,
+        "probability": 0.9979402422904968
+      }
+    ]
+  },
+  {
+    "start": 31.16,
+    "end": 31.84,
+    "text": "And again, and again.",
+    "words": [
+      {
+        "word": " And",
+        "start": 31.16,
+        "end": 31.2,
+        "probability": 0.9650205373764038
+      },
+      {
+        "word": " again,",
+        "start": 31.2,
+        "end": 31.4,
+        "probability": 0.9671049118041992
+      },
+      {
+        "word": " and",
+        "start": 31.54,
+        "end": 31.64,
+        "probability": 0.9759913682937622
+      },
+      {
+        "word": " again.",
+        "start": 31.64,
+        "end": 31.84,
+        "probability": 0.9909071922302246
+      }
+    ]
+  },
+  {
+    "start": 32.12,
+    "end": 35.24,
+    "text": "And they talk and after a little while, you realize you're never getting any",
+    "words": [
+      {
+        "word": " And",
+        "start": 32.12,
+        "end": 32.12,
+        "probability": 0.900790810585022
+      },
+      {
+        "word": " they",
+        "start": 32.12,
+        "end": 32.26,
+        "probability": 0.8463206887245178
+      },
+      {
+        "word": " talk",
+        "start": 32.26,
+        "end": 32.48,
+        "probability": 0.8144389390945435
+      },
+      {
+        "word": " and",
+        "start": 32.48,
+        "end": 32.72,
+        "probability": 0.3101460933685303
+      },
+      {
+        "word": " after",
+        "start": 32.72,
+        "end": 33.4,
+        "probability": 0.8748503923416138
+      },
+      {
+        "word": " a",
+        "start": 33.4,
+        "end": 33.54,
+        "probability": 0.9981959462165833
+      },
+      {
+        "word": " little",
+        "start": 33.54,
+        "end": 33.64,
+        "probability": 0.9990026354789734
+      },
+      {
+        "word": " while,",
+        "start": 33.64,
+        "end": 33.88,
+        "probability": 0.9988707900047302
+      },
+      {
+        "word": " you",
+        "start": 33.98,
+        "end": 34.02,
+        "probability": 0.9584861993789673
+      },
+      {
+        "word": " realize",
+        "start": 34.02,
+        "end": 34.38,
+        "probability": 0.9271602034568787
+      },
+      {
+        "word": " you're",
+        "start": 34.38,
+        "end": 34.58,
+        "probability": 0.9870131313800812
+      },
+      {
+        "word": " never",
+        "start": 34.58,
+        "end": 34.74,
+        "probability": 0.9984346032142639
+      },
+      {
+        "word": " getting",
+        "start": 34.74,
+        "end": 34.98,
+        "probability": 0.9991957545280457
+      },
+      {
+        "word": " any",
+        "start": 34.98,
+        "end": 35.24,
+        "probability": 0.9973582625389099
+      }
+    ]
+  },
+  {
+    "start": 35.24,
+    "end": 39.14,
+    "text": "breakfast, stealing your pajamas, not going anywhere if you keep talking to these",
+    "words": [
+      {
+        "word": " breakfast,",
+        "start": 35.24,
+        "end": 35.56,
+        "probability": 0.9978001713752747
+      },
+      {
+        "word": " stealing",
+        "start": 36.0,
+        "end": 36.32,
+        "probability": 0.45419061183929443
+      },
+      {
+        "word": " your",
+        "start": 36.32,
+        "end": 36.58,
+        "probability": 0.9703566431999207
+      },
+      {
+        "word": " pajamas,",
+        "start": 36.58,
+        "end": 37.0,
+        "probability": 0.9646140336990356
+      },
+      {
+        "word": " not",
+        "start": 37.38,
+        "end": 37.56,
+        "probability": 0.619784951210022
+      },
+      {
+        "word": " going",
+        "start": 37.56,
+        "end": 37.74,
+        "probability": 0.9986925721168518
+      },
+      {
+        "word": " anywhere",
+        "start": 37.74,
+        "end": 38.18,
+        "probability": 0.998598039150238
+      },
+      {
+        "word": " if",
+        "start": 38.18,
+        "end": 38.36,
+        "probability": 0.657007098197937
+      },
+      {
+        "word": " you",
+        "start": 38.36,
+        "end": 38.48,
+        "probability": 0.9983494281768799
+      },
+      {
+        "word": " keep",
+        "start": 38.48,
+        "end": 38.62,
+        "probability": 0.9991389513015747
+      },
+      {
+        "word": " talking",
+        "start": 38.62,
+        "end": 38.86,
+        "probability": 0.9951443076133728
+      },
+      {
+        "word": " to",
+        "start": 38.86,
+        "end": 39.02,
+        "probability": 0.9954166412353516
+      },
+      {
+        "word": " these",
+        "start": 39.02,
+        "end": 39.14,
+        "probability": 0.9979071617126465
+      }
+    ]
+  },
+  {
+    "start": 39.14,
+    "end": 45.52,
+    "text": "people. So put the phone off the hook and go about your day.",
+    "words": [
+      {
+        "word": " people.",
+        "start": 39.14,
+        "end": 39.42,
+        "probability": 0.9995160102844238
+      },
+      {
+        "word": " So",
+        "start": 40.62,
+        "end": 40.68,
+        "probability": 0.9917685985565186
+      },
+      {
+        "word": " put",
+        "start": 40.68,
+        "end": 41.44,
+        "probability": 0.8897607326507568
+      },
+      {
+        "word": " the",
+        "start": 41.44,
+        "end": 41.58,
+        "probability": 0.9995298385620117
+      },
+      {
+        "word": " phone",
+        "start": 41.58,
+        "end": 41.8,
+        "probability": 0.9996515512466431
+      },
+      {
+        "word": " off",
+        "start": 41.8,
+        "end": 42.42,
+        "probability": 0.9972363114356995
+      },
+      {
+        "word": " the",
+        "start": 42.42,
+        "end": 42.6,
+        "probability": 0.9980815649032593
+      },
+      {
+        "word": " hook",
+        "start": 42.6,
+        "end": 42.84,
+        "probability": 0.9997140765190125
+      },
+      {
+        "word": " and",
+        "start": 42.84,
+        "end": 44.0,
+        "probability": 0.7442589998245239
+      },
+      {
+        "word": " go",
+        "start": 44.0,
+        "end": 44.82,
+        "probability": 0.9899963140487671
+      },
+      {
+        "word": " about",
+        "start": 44.82,
+        "end": 45.06,
+        "probability": 0.9968275427818298
+      },
+      {
+        "word": " your",
+        "start": 45.06,
+        "end": 45.22,
+        "probability": 0.9961727261543274
+      },
+      {
+        "word": " day.",
+        "start": 45.22,
+        "end": 45.52,
+        "probability": 0.999086856842041
+      }
+    ]
+  },
+  {
+    "start": 46.34,
+    "end": 51.56,
+    "text": "But within an hour, there were journalists at my door and my neighbors had balloons",
+    "words": [
+      {
+        "word": " But",
+        "start": 46.34,
+        "end": 46.36,
+        "probability": 0.9192637205123901
+      },
+      {
+        "word": " within",
+        "start": 46.36,
+        "end": 46.88,
+        "probability": 0.9980089068412781
+      },
+      {
+        "word": " an",
+        "start": 46.88,
+        "end": 47.6,
+        "probability": 0.9957693815231323
+      },
+      {
+        "word": " hour,",
+        "start": 47.6,
+        "end": 47.94,
+        "probability": 0.9998621940612793
+      },
+      {
+        "word": " there",
+        "start": 48.22,
+        "end": 48.84,
+        "probability": 0.9778688549995422
+      },
+      {
+        "word": " were",
+        "start": 48.84,
+        "end": 48.98,
+        "probability": 0.9953935146331787
+      },
+      {
+        "word": " journalists",
+        "start": 48.98,
+        "end": 49.38,
+        "probability": 0.963454008102417
+      },
+      {
+        "word": " at",
+        "start": 49.38,
+        "end": 49.62,
+        "probability": 0.9840912222862244
+      },
+      {
+        "word": " my",
+        "start": 49.62,
+        "end": 49.76,
+        "probability": 0.9993473887443542
+      },
+      {
+        "word": " door",
+        "start": 49.76,
+        "end": 49.98,
+        "probability": 0.999468982219696
+      },
+      {
+        "word": " and",
+        "start": 49.98,
+        "end": 50.66,
+        "probability": 0.41853851079940796
+      },
+      {
+        "word": " my",
+        "start": 50.66,
+        "end": 50.8,
+        "probability": 0.9992353916168213
+      },
+      {
+        "word": " neighbors",
+        "start": 50.8,
+        "end": 51.02,
+        "probability": 0.9820942282676697
+      },
+      {
+        "word": " had",
+        "start": 51.02,
+        "end": 51.26,
+        "probability": 0.9953511953353882
+      },
+      {
+        "word": " balloons",
+        "start": 51.26,
+        "end": 51.56,
+        "probability": 0.9976135492324829
+      }
+    ]
+  },
+  {
+    "start": 51.56,
+    "end": 53.56,
+    "text": "up. Oh, yes, it was wonderful.",
+    "words": [
+      {
+        "word": " up.",
+        "start": 51.56,
+        "end": 52.06,
+        "probability": 0.9923415184020996
+      },
+      {
+        "word": " Oh,",
+        "start": 52.14,
+        "end": 52.38,
+        "probability": 0.5316887497901917
+      },
+      {
+        "word": " yes,",
+        "start": 52.74,
+        "end": 53.08,
+        "probability": 0.34675687551498413
+      },
+      {
+        "word": " it",
+        "start": 53.14,
+        "end": 53.2,
+        "probability": 0.9681450724601746
+      },
+      {
+        "word": " was",
+        "start": 53.2,
+        "end": 53.34,
+        "probability": 0.9988419413566589
+      },
+      {
+        "word": " wonderful.",
+        "start": 53.34,
+        "end": 53.56,
+        "probability": 0.9735202789306641
+      }
+    ]
+  }
+]

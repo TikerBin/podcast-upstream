@@ -5,7 +5,7 @@
 <link>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main</link>
 <description>仅含独立片段条目：片段 enclosure 为仓库自托管 clips 直链，文案仅覆盖片段音频；整集不在此 feed，整集不得冒充短片段。</description>
 <language>en</language>
-<lastBuildDate>Wed, 04 Nov 2026 01:19:39 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 01:12:32 +0000</lastBuildDate>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/feeds/ready-clip.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Their Mars window is a TV — clip from Encore: A Year In Mars Dune Alpha</title>
@@ -913,6 +913,96 @@ the words would be, almost Mars.]]></content:encoded>
 <_parent_id>nasa-artemis-ii-astronauts</_parent_id>
 <_clip_start_s>1943.9</_clip_start_s>
 <_clip_end_s>1993.7</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>At a high level — clip from Launching Soon: Artemis II (112.8-159.3s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/launching-soon-artemis-ii</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:launching-soon-artemis-ii:clip:mission:112.8-159.3</guid>
+<pubDate>Thu, 08 Jan 2026 14:58:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-launching-soon-artemis-ii-clip-mission.mp3" length="1169632" type="audio/mpeg"/>
+<itunes:duration>46</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】任务书 46 秒：Reid Wiseman 讲 Artemis II 绕地两圈奔月、唯一目标是为登月验证飞船；Jeremy Hansen 接话：Artemis 是 Apollo 的孪生姐妹，登月只是开始。
+【Reels 角度】任务书 46 秒：Reid Wiseman 讲 Artemis II 绕地两圈奔月、唯一目标是为登月验证飞船；Jeremy Hansen 接话：Artemis 是 Apollo 的孪生姐妹，登月只是开始。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; the episode transcript marks music cues (I Want to Be An Astronaut, Fast Motion Orchestra) all outside this segment.
+【来源】https://www.nasa.gov/podcasts/curious-universe/launching-soon-artemis-ii
+【采集日（北京时间）】2026-11-05
+【发布时间精度】exact（Inherits parent original publish date (NASA Curious Universe Megaphone RSS: Thu, 08 Jan 2026 14:58:00 -0000); clip itself was modelled 2026-11-05 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:launching-soon-artemis-ii
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/launching-soon-artemis-ii
+【片段】原集 112.8-159.3 秒，46.5 秒，原声，未加 BGM，文件：clips/nasa-launching-soon-artemis-ii-clip-mission.mp3]]></description>
+<content:encoded><![CDATA[At a high level, the Artemis II mission launches out of Kennedy Space Center. On the Space Launch System, Orion spacecraft and the crew will travel two orbits around Earth and then head on to the moon, 250,000 miles from Earth. There's only one primary goal of Artemis II, is to prepare this spacecraft for Artemis III and for our NASA astronauts to go land on the moon. Artemis is the twin sister of Apollo. That's intentional. It is to remind us that we're going to go do great things. Yes, we're going to put humans back on the surface of the moon, but we're not stopping there. When you see us fly around the moon on Artemis II, that is just a snippet of the incredible things that are to come. We're going back to the moon because it's the next step in our journey to Mars. We need to go explore the moon. There's vast regions of unexplored areas with the coldest, darkest places in our solar system.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>launching-soon-artemis-ii-clip-mission</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/launching-soon-artemis-ii</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-05</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 46.5s / 1169632 bytes (ffmpeg cut from verified full MP3 in this run, 2026-11-05); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-launching-soon-artemis-ii-clip-mission.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-launching-soon-artemis-ii-clip-mission.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-launching-soon-artemis-ii-clip-mission-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-launching-soon-artemis-ii-clip-mission-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:launching-soon-artemis-ii</_parent_guid>
+<_parent_id>nasa-launching-soon-artemis-ii</_parent_id>
+<_clip_start_s>112.8</_clip_start_s>
+<_clip_end_s>159.3</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>The Nobel phone call — clip from Cosmic Dawn with Nobel Laureate John Mather (670.0-723.7s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/cosmic-dawn-with-nobel-laureate-john-mather</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:cosmic-dawn-mather:clip:nobel-call:670.0-723.7</guid>
+<pubDate>Fri, 19 Dec 2025 15:07:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-cosmic-dawn-mather-clip-nobel-call.mp3" length="866793" type="audio/mpeg"/>
+<itunes:duration>54</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】凌晨 5 点 45 分的电话：John Mather 躺在床上接到瑞典来电，记者接连打来、早餐吃不上、睡衣没换邻居已挂起气球——诺贝尔奖那天早晨就是这样开始的。
+【Reels 角度】凌晨 5 点 45 分的电话：John Mather 躺在床上接到瑞典来电，记者接连打来、早餐吃不上、睡衣没换邻居已挂起气球——诺贝尔奖那天早晨就是这样开始的。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; the episode transcript marks music cues (Curiosity, Eternal Sunshine, Research and Development, Designing the Future, Between Surprise and Fear) all outside this segment.
+【来源】https://www.nasa.gov/podcasts/curious-universe/cosmic-dawn-with-nobel-laureate-john-mather
+【采集日（北京时间）】2026-11-05
+【发布时间精度】exact（Inherits parent original publish date (NASA Curious Universe Megaphone RSS: Fri, 19 Dec 2025 15:07:00 -0000); clip itself was modelled 2026-11-05 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:cosmic-dawn-mather
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/cosmic-dawn-with-nobel-laureate-john-mather
+【片段】原集 670.0-723.7 秒，53.7 秒，原声，未加 BGM，文件：clips/nasa-cosmic-dawn-mather-clip-nobel-call.mp3]]></description>
+<content:encoded><![CDATA[The way it happens is you get a phone call at a quarter of six in the morning in the Eastern time zone. Were you told to be like to be on the lookout for a call? I had been given some hint that this might be our year. So anyway, the phone call does come and I'm lying in bed, I'm awake. So that happens, you talk to the people in Sweden for a little while. And then they say, can we put the journalist on? You do that for a little while, then you hang up. And then the second you do that, the phone rings again. And again, and again. And they talk and after a little while, you realize you're never getting any breakfast, You're still in your pajamas, not going anywhere if you keep talking to these people. So put the phone off the hook and go about your day. But within an hour, there were journalists at my door and my neighbors had balloons up. So it was wonderful.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>cosmic-dawn-mather-clip-nobel-call</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/cosmic-dawn-with-nobel-laureate-john-mather</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-05</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 53.7s / 866793 bytes (ffmpeg cut from verified full MP3 in this run, 2026-11-05); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-cosmic-dawn-mather-clip-nobel-call.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-cosmic-dawn-mather-clip-nobel-call.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-cosmic-dawn-mather-clip-nobel-call-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-cosmic-dawn-mather-clip-nobel-call-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:cosmic-dawn-mather</_parent_guid>
+<_parent_id>nasa-cosmic-dawn-mather</_parent_id>
+<_clip_start_s>670.0</_clip_start_s>
+<_clip_end_s>723.7</_clip_end_s>
 <_clip_source_nature>original_audio</_clip_source_nature>
 </item>
 <item>
