@@ -1,0 +1,107 @@
+[Music: Curiosity by SYSTEM Sounds]
+
+HOST JACOB PINTER: You’re listening to NASA’s Curious Universe. I’m your host, Jacob Pinter. Out in the cosmos, in the space between stars, gas, dust, and ice mingle in dark clouds. Eventually, after millions of years, these clouds will evolve into stars with planets orbiting them. With telescopes, we can see how it all happens.
+
+[Music: Blurred by Robert Leonard Lewis]
+
+And in a lab in the Netherlands, you can almost put your hands on it.
+
+EWINE VAN DISHOECK: I always like to say that this is one cubic centimeter of interstellar space—or something like that—that we have in the lab.
+
+JACOB: Ewine van Dishoeck is an astronomer based at the University of Leiden in the Netherlands. To figure out how those dark clouds become stars, she combines telescope data with what she sees in the laboratory.
+
+EWINE: Your experiments in the lab on Earth will take hours, which is good because then a student can finish it in a day, whereas in space they would take hundreds of thousands of years.
+
+JACOB: On Earth, you can’t manage a perfect simulation of space. But in some ways, you can get close. Those clouds of dust and gas are far colder than anything that happens naturally on Earth. They can be below minus-400 degrees Fahrenheit, not far from absolute zero. Reaching those temperatures is actually not the hard part. We can’t achieve the emptiness of space.
+
+EWINE: And even the best ultra-high vacuum that we can make in a laboratory on Earth is still a million times more dense than what we have in space. So when an astronomer talks about a dense, dark cloud, it’s still much more empty than anything we have in a laboratory here on Earth.
+
+JACOB: In the lab you get a close-up view of the same chemicals we find out in space, and that helps us understand how they behave and how we can detect them. Scientists study these clouds and their chemistry in a number of ways, a nd they have a groundbreaking new tool: NASA’s James Webb Space Telescope. In space, a million miles from Earth, Webb is giving us views of the cosmos that no other telescope can. And that includes the clouds where stars form.
+
+JACOB: Now, Ewine is a distinguished astronomer who has won a number of major awards, but at the beginning of her career she didn’t set out to study space. As a high school student, Ewine decided she wanted to be a chemist. At university, she realized she was interested in physics, too. And then there was one other influence.
+
+EWINE: And then my boyfriend—now husband—was actually studying astronomy.
+
+[Music: Mapped Out by Christopher Mcguire]
+
+And he realized that there were also molecules in space, that there was chemistry in space. And so at some stage he actually said to me, “Well, isn’t that something for you?” And so that is how I actually made the transition from pure chemistry—studying theoretical chemistry, quantum chemistry—to astronomy.
+
+JACOB: I mean, that’s a good boyfriend who points you in the right direction, I guess. [laughs]
+
+EWINE: Well, I’ve never regretted that transition because the space between the stars is such a fantastic chemical laboratory also. It’s much more exciting than a laboratory here on Earth.
+
+JACOB: Scientists are studying those chemicals to understand not only how planets form but how they end up with water and even the building blocks of life. And by exploring this process in space, we can also learn more about why Earth has water and life. For decades, Ewine has been part of an international collaboration to make that research possible. NASA and ESA, the European Space Agency, built an instrument on the James Webb Space Telescope called MIRI. MIRI is an acronym that stands for Mid-Infrared Instrument. One of the things that’s so special about Webb is that it sees in infrared, a part of the light spectrum human eyes can’t see. If you’ve ever seen a movie character use night-vision goggles that detect heat signatures, even in the dark, well, Webb is doing something similar to that. Looking at infrared light allows scientists to peer inside dark clouds and see details that otherwise stay hidden.
+
+[Music: Steady Flow by Carl David Harms]
+
+Of the four instruments onboard Webb, three of them focus on a portion called the near-infrared. MIRI gives a different view, like a painter unlocking a new set of colors. It collects images and also spectra—scientific data that provide detailed information about molecules in space.
+
+But MIRI also presents a unique challenge. Webb has to stay cold. Otherwise, heat from the Sun and Earth would interfere with its night-vision-goggle view. So Webb has a huge sunshield that blocks the Sun’s radiation, keeping the telescope extra cold. MIRI needs to stay even colder than the rest of the telescope. So onboard Webb, MIRI has its own special refrigerator called the cryocooler, which uses helium to maintain a temperature below minus-440 degrees Fahrenheit, hovering just a few degrees above absolute zero.
+
+JACOB: And Webb doesn’t do this research alone. Scientists like Ewine can use Webb to tag-team with other telescopes, including a powerful one in Chile called ALMA, the Atacama Large Millimeter Array. I was excited to ask Ewine about Webb and how she helped bring part of the telescope to life.
+
+(to Ewine) When did you first start working on the James Webb Space Telescope? I wonder if you can take me back right to the beginning.
+
+EWINE: Right. So that must have been sort of the late 1990s. We were just coming out of the Infrared Space Observatory, the ISO satellite. That was an ESA satellite that for the first time had measured infrared spectra above the Earth’s atmosphere, and we had realized how incredibly rich these spectra were. And at that time, the Mid-Infrared Instrument was still sort of TBD. It was still not sure that it was going to be on Webb. And so it was the late 1990s, early 2000s when as a small group we started to make the case and said, you know, Webb really has to have also a mid-infrared instrument. And fortunately we were successful in making that case, and it became not just a simple imager but also with a proper spectrometer on it that we argued very hard for based on the data that we had gotten from that earlier satellite. And that’s what we now have.
+
+JACOB: And so the first public data came six or seven months, I think, after the telescope launched?
+
+EWINE: Those were some agonizing months still where, you know, the telescope had unfolded and it was getting sharp, but MIRI still had to be cooled. And so that was always one of those moments: you know, will the refrigerator turn on? Will the cooler turn on to make the instrument cold? So that was, for me, an enormous relief when we could see on the live webcam the temperature actually of MIRI going down and down and down until finally it was at the temperature where it could actually operate.
+
+JACOB: What a whirlwind.
+
+EWINE: Yeah, yeah, yeah. But it had a happy ending.
+
+JACOB: And once you did get that data for the first time and then you got more data and you got the chance to work through it, what did you actually see at first? And I guess, can you compare the details you saw from James Webb to data that you had had before James Webb launched?
+
+EWINE: Yeah, that’s a very good question. Of course, in the beginning, you tried to also look at something that you’ve seen before. One of that was images. So one thing that JWST of course excels at is the imaging and the really fantastic and beautiful in-depth imaging that is now possible with Webb. So much detail that you see there. But my scientific heart is mostly in the spectra. And when we first got some of those spectra, you know, it was just much richer and much higher quality than we had been anticipating. And so I remember seeing some of it and saying, Wow, if I compare that with—in particular, either the Infrared Space Observatory from the 1990s or the Spitzer Space Telescope, which also has been a fantastic trailblazer for Webb, then we could see just the enormous improvement in quality of the spectra. What used to be just tiny little wiggles in the older data now were sort of booming lines that we could very clearly see and identify. So that was just one of these moments that you dream of.
+
+JACOB: So let’s talk a little bit more about what we know about the science and what we’re learning. I’m imagining a planetary system kind of like a cake. Like, by the time you get to our solar system and you have all these beautiful planets, it’s done and the frosting is on it and it’s ready to eat. But if you’re going to make a cake, you need a recipe, and before you start the recipe you have to gather your ingredients. So I’m wondering, if we are going to make a star or a planetary system, what are the ingredients that we need or that we might see at the beginning that will turn into that system?
+
+EWINE: Right! So, indeed, that’s an analogy that I very much like. There’s a lot of excellent research being done on exoplanets, but they have already come out of the oven, and we are actually providing the ingredients that go into making that cake.
+
+[Music: Golden Pathway by Hugh Robert Edwin Wilkinson]
+
+So actually, those ingredients start already at the very early stage, when the dark cloud in which a star forms is actually collapsing under its own weight. And those clouds are cold, and that means that atoms and molecules that are in the gas can actually freeze out, collide with the cold dust grains and form an icy layer. Think a little bit about when you have your car on a cold winter day and you know that, you know, an icy layer can form on it simply from the atmosphere, molecules freezing out onto your windshield. So the same thing happens there with these dust grains. Atoms, molecules freeze out. But then also new reactions can actually occur on those tiny little dust grains. They are sort of a place where atoms and molecules meet and greet and can actually form new compounds, like water for example. Most of the water that we see that we have here on planetary systems was actually formed on those tiny little dust grains in the cloud, out of which the star and its planetary system collapsed. OK, so that is something that Webb can now study with exquisite detail. It sees not just the water ice and the carbon dioxide ice, but it sees also molecules—much more complex molecules. For example, methanol. But even ethanol, simple alcohols, simple sugars, molecules that, you know, could be important in not just bringing water but also bringing organic material to the surfaces of new planets. So a lot of the chemistry—a lot of those ingredients, actually, that you need to make your cake are already inherited from that very early stage.
+
+JACOB: And so if those are our ingredients, what does the recipe look like then? Like, how does all of that come together and get smushed into something and come out the other side as a star and maybe a planet or some planets orbiting it?
+
+EWINE: Well, that is a very good question. The star basically originates from the collapse of the cloud, and then the process of it heating up over time—that’s basically gravity doing its work. Exactly how a planetary system is formed, that is still one of the big questions in astrophysics. What we do know is that these tiny little dust grains—just a small fraction of the width of your hair—that they can actually collide and grow to larger bodies: say, pebbles; say, rocks; say, planetesimals, as we call them, comet-sized bodies about a kilometer in size. Those pebbles and those planetesimals, those are actually the building blocks of new planets.
+
+[Music: The Circle of Life by Carl David Harms]
+
+JACOB: I remember way back in elementary school or something, you know, we learn that the earth is 4.6 billion years old and that before it became a planet, it was this disk of spinning—I don’t even know what—dust and gas maybe? Is that something that you see out there in the cosmos as well?
+
+EWINE: Oh yes, indeed. It was in the 1990s that actually these disks were actually seen—convincingly seen—for the first time. And then ALMA, the Atacama Large Millimeter Array, has now beautifully imaged these rotating disks of gas and dust around many young stars. So we now know that they have the size of, typically, our solar system and they are also not smooth. They contain gaps, cavities, structures, bumps, in which the dust grains actually collect. We call them dust traps. And so that all now plays a role in what we are now seeing with JWST. And what we see there is just an incredible richness of molecules. Some of them are very rich in water. Others are rich in CO 2 . And then the big surprise is that we have found some disks that are actually very rich in carbon-containing molecules. They have very little water, but they are booming in, for example, acetylene. And some of them even in benzene. So there’s a lot of sort of chemistry and cooking still going on in that inner part of the disks around the young stars that we do not fully understand yet, but that may have a large influence on what kind of planets we actually make there.
+
+JACOB: I mean, one of the big—maybe the biggest questions that NASA and other space organizations want to know is, could there be life out there? Could we somehow detect signs of life? And we’re looking for it in all kinds of different ways, but when I hear you talk about the ingredients for stars and planetary systems and finding water in lots of places and finding some organic chemistry—or precursors to organic chemistry—that’s where my mind goes right away. Is that something you think about? Is it something you look for? And I guess, how do you think your research fits into that?
+
+EWINE: Yeah, it’s, of course, the ultimate question, and the question that certainly fascinates humanity. I always like to get to the point of providing the biologists with the ingredients. Water? Water is clearly there. It’s a lot of that. There’s plenty of water around most forming stars and in most disks around these young stars where planet formation occurs. So there is quite a lot of water. Not all of that may make it to the terrestrial planet-forming region, but certainly in the disk as a whole, there is a lot of water. There’s certainly a lot of organic material. So those ingredients are available. What the steps are that then will ultimately produce life is something that I very much like to leave to my organic chemistry and biology colleagues. There’s a lot of work going on now in trying to understand how to make the first cell, for example. We know we have all the basic building blocks, but how to actually put a puzzle together—how to put sort of the Lego pieces together to get there—that is something that certainly I don’t have enough expertise in. I’m probably a little bit more conservative than some of my other colleagues in terms of when we will find the signatures of life. That’s—it’s still going to take some time and instruments and missions beyond JWST, but all the steps that we are making now in terms of knowing what the ingredients are—where and how everything is coming together—that are just all key steps in this whole sort of story towards finding life elsewhere in the universe.
+
+JACOB: Well, I’ve got one final question for you. The name of our show is Curious Universe, so I always like to ask: what are you still curious about?
+
+EWINE: Well, I should say, as a chemist, I’m really curious as to how those atoms come together to form, you know, even the simplest molecules. We have theories for that, but at some stage, you would really like to see it with your own eyes.
+
+[Music: Building Ideas by Todd James Carlin Baker]
+
+I think actually, just knowing what made our Earth and whether or not it is special, I think that would also be an incredibly important question. Putting our own Earth into context. I’m still from the Star Trek generation, so sometimes I wish that I could just be a science officer on a starship and just travel to the Orion Nebula and really take a scoop of the material there and just study it in great detail and then see what is everything that is really there.
+
+JACOB: Ewine van Dishoeck is an astronomer based at the University of Leiden in the Netherlands.
+
+JACOB: You know, some of Webb’s most striking images feature nebulae where stars are born. We’re going to include one of those images in the webpage for this episode. It’s a section of the Lobster Nebula, which is several thousand lightyears away from Earth. In this image, you see young stars that are extremely hot—some of them eight times hotter than the Sun. And these infant stars have shaped jagged peaks in the nebula’s cloud and carved out a cavity in the gas. I mean, you can really see how punishing the winds and radiation are that come from stars being born. You can find that webpage and transcripts for every episode of this show at nasa.gov/curiousuniverse .
+
+For more information and the latest news about the James Webb Space Telescope, head to nasa.gov/webb . And if you liked this story, you will love NASA’s documentary Cosmic Dawn.
+
+[Music: Evolving Earth by Todd James Carlin Baker]
+
+To deliver the science data you heard about in this episode, Webb’s engineers spent decades designing the telescope, building and testing it, and finally, launching it a million miles into space.
+
+PAUL GEITHNER (Deputy Project Manager – Technical for the James Webb Space Telescope): We had this singular purpose for 25 years: to make the James Webb Space Telescope a reality. And, you know, people did think we were nuts at first because the technical challenges were so daunting and the number of things we had to advance or literally invent were numerous.
+
+JACOB: Pop some popcorn and experience the incredible true story of the James Webb Space Telescope in the NASA documentary Cosmic Dawn. Head to nasa.gov/cosmicdawn.
+
+This is NASA’s Curious Universe. This episode was written and produced by me, Jacob Pinter. Our executive producer is Katie Konans. The Curious Universe team also includes Christian Elliott and, of course, Padi Boyd. Krystofer Kim designed our show art. Our theme song was composed by Matt Russo and Andrew Santaguida of SYSTEM Sounds.
+
+We had fact-checking help on this episode and others in our Webb series from Laura Betz, Alise Fisher, Amber Straughn, and Stefanie Milam.
+
+As always, if you enjoyed this episode of NASA’s Curious Universe, we would love to hear about it. Leave us a review wherever you’re listening right now. Maybe send a link to this show to one of your friends. And remember, you can follow NASA’s Curious Universe in your favorite podcast app to get a notification each time we post a new episode.

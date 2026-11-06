@@ -1,0 +1,583 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.46,
+    "text": "But MIRI also presents a unique challenge.",
+    "words": [
+      {
+        "word": " But",
+        "start": 0.0,
+        "end": 0.2,
+        "probability": 0.7412942051887512
+      },
+      {
+        "word": " MIRI",
+        "start": 0.2,
+        "end": 0.54,
+        "probability": 0.4894159287214279
+      },
+      {
+        "word": " also",
+        "start": 0.54,
+        "end": 0.82,
+        "probability": 0.9940167665481567
+      },
+      {
+        "word": " presents",
+        "start": 0.82,
+        "end": 1.22,
+        "probability": 0.9966714382171631
+      },
+      {
+        "word": " a",
+        "start": 1.22,
+        "end": 1.54,
+        "probability": 0.9964460730552673
+      },
+      {
+        "word": " unique",
+        "start": 1.54,
+        "end": 1.86,
+        "probability": 0.9989639520645142
+      },
+      {
+        "word": " challenge.",
+        "start": 1.86,
+        "end": 2.46,
+        "probability": 0.9983111619949341
+      }
+    ]
+  },
+  {
+    "start": 3.91,
+    "end": 5.01,
+    "text": "Webb has to stay cold.",
+    "words": [
+      {
+        "word": " Webb",
+        "start": 3.91,
+        "end": 3.91,
+        "probability": 0.8645509481430054
+      },
+      {
+        "word": " has",
+        "start": 3.91,
+        "end": 4.13,
+        "probability": 0.9973166584968567
+      },
+      {
+        "word": " to",
+        "start": 4.13,
+        "end": 4.27,
+        "probability": 0.9982630610466003
+      },
+      {
+        "word": " stay",
+        "start": 4.27,
+        "end": 4.57,
+        "probability": 0.997995138168335
+      },
+      {
+        "word": " cold.",
+        "start": 4.57,
+        "end": 5.01,
+        "probability": 0.9807119369506836
+      }
+    ]
+  },
+  {
+    "start": 5.67,
+    "end": 7.57,
+    "text": "Otherwise, heat from the Sun and Earth",
+    "words": [
+      {
+        "word": " Otherwise,",
+        "start": 5.67,
+        "end": 6.05,
+        "probability": 0.9949181079864502
+      },
+      {
+        "word": " heat",
+        "start": 6.17,
+        "end": 6.43,
+        "probability": 0.9978542923927307
+      },
+      {
+        "word": " from",
+        "start": 6.43,
+        "end": 6.65,
+        "probability": 0.9988391995429993
+      },
+      {
+        "word": " the",
+        "start": 6.65,
+        "end": 6.81,
+        "probability": 0.9975601434707642
+      },
+      {
+        "word": " Sun",
+        "start": 6.81,
+        "end": 7.07,
+        "probability": 0.6522488594055176
+      },
+      {
+        "word": " and",
+        "start": 7.07,
+        "end": 7.29,
+        "probability": 0.9945533275604248
+      },
+      {
+        "word": " Earth",
+        "start": 7.29,
+        "end": 7.57,
+        "probability": 0.5860562324523926
+      }
+    ]
+  },
+  {
+    "start": 7.57,
+    "end": 10.01,
+    "text": "would interfere with its night-vision-goggle view.",
+    "words": [
+      {
+        "word": " would",
+        "start": 7.57,
+        "end": 7.87,
+        "probability": 0.9948239326477051
+      },
+      {
+        "word": " interfere",
+        "start": 7.87,
+        "end": 8.37,
+        "probability": 0.9987177848815918
+      },
+      {
+        "word": " with",
+        "start": 8.37,
+        "end": 8.67,
+        "probability": 0.9981374740600586
+      },
+      {
+        "word": " its",
+        "start": 8.67,
+        "end": 8.85,
+        "probability": 0.9736517071723938
+      },
+      {
+        "word": " night-vision-goggle",
+        "start": 8.85,
+        "end": 9.71,
+        "probability": 0.9875174164772034
+      },
+      {
+        "word": " view.",
+        "start": 9.71,
+        "end": 10.01,
+        "probability": 0.9992189407348633
+      }
+    ]
+  },
+  {
+    "start": 11.08,
+    "end": 14.3,
+    "text": "So Webb has a huge sunshield that blocks the Sun's",
+    "words": [
+      {
+        "word": " So",
+        "start": 11.08,
+        "end": 11.24,
+        "probability": 0.9929956793785095
+      },
+      {
+        "word": " Webb",
+        "start": 11.24,
+        "end": 11.5,
+        "probability": 0.9556612372398376
+      },
+      {
+        "word": " has",
+        "start": 11.5,
+        "end": 11.72,
+        "probability": 0.9973829388618469
+      },
+      {
+        "word": " a",
+        "start": 11.72,
+        "end": 12.08,
+        "probability": 0.9956596493721008
+      },
+      {
+        "word": " huge",
+        "start": 12.08,
+        "end": 12.36,
+        "probability": 0.997259259223938
+      },
+      {
+        "word": " sunshield",
+        "start": 12.36,
+        "end": 13.18,
+        "probability": 0.9460524320602417
+      },
+      {
+        "word": " that",
+        "start": 13.18,
+        "end": 13.5,
+        "probability": 0.9848079681396484
+      },
+      {
+        "word": " blocks",
+        "start": 13.5,
+        "end": 13.8,
+        "probability": 0.9983678460121155
+      },
+      {
+        "word": " the",
+        "start": 13.8,
+        "end": 14.02,
+        "probability": 0.998416543006897
+      },
+      {
+        "word": " Sun's",
+        "start": 14.02,
+        "end": 14.3,
+        "probability": 0.9746638834476471
+      }
+    ]
+  },
+  {
+    "start": 14.3,
+    "end": 17.12,
+    "text": "radiation, keeping the telescope extra cold.",
+    "words": [
+      {
+        "word": " radiation,",
+        "start": 14.3,
+        "end": 14.78,
+        "probability": 0.9992228746414185
+      },
+      {
+        "word": " keeping",
+        "start": 15.3,
+        "end": 15.56,
+        "probability": 0.9977201819419861
+      },
+      {
+        "word": " the",
+        "start": 15.56,
+        "end": 15.78,
+        "probability": 0.9992414712905884
+      },
+      {
+        "word": " telescope",
+        "start": 15.78,
+        "end": 16.22,
+        "probability": 0.9988259673118591
+      },
+      {
+        "word": " extra",
+        "start": 16.22,
+        "end": 16.74,
+        "probability": 0.9962445497512817
+      },
+      {
+        "word": " cold.",
+        "start": 16.74,
+        "end": 17.12,
+        "probability": 0.986486554145813
+      }
+    ]
+  },
+  {
+    "start": 18.72,
+    "end": 21.74,
+    "text": "MIRI needs to stay even colder than the rest of the telescope.",
+    "words": [
+      {
+        "word": " MIRI",
+        "start": 18.72,
+        "end": 18.96,
+        "probability": 0.9944047033786774
+      },
+      {
+        "word": " needs",
+        "start": 18.96,
+        "end": 19.2,
+        "probability": 0.9962875843048096
+      },
+      {
+        "word": " to",
+        "start": 19.2,
+        "end": 19.4,
+        "probability": 0.9994520545005798
+      },
+      {
+        "word": " stay",
+        "start": 19.4,
+        "end": 19.68,
+        "probability": 0.9986922144889832
+      },
+      {
+        "word": " even",
+        "start": 19.68,
+        "end": 20.02,
+        "probability": 0.9966232776641846
+      },
+      {
+        "word": " colder",
+        "start": 20.02,
+        "end": 20.44,
+        "probability": 0.9970681071281433
+      },
+      {
+        "word": " than",
+        "start": 20.44,
+        "end": 20.74,
+        "probability": 0.9966073036193848
+      },
+      {
+        "word": " the",
+        "start": 20.74,
+        "end": 20.86,
+        "probability": 0.9992782473564148
+      },
+      {
+        "word": " rest",
+        "start": 20.86,
+        "end": 21.02,
+        "probability": 0.9985352754592896
+      },
+      {
+        "word": " of",
+        "start": 21.02,
+        "end": 21.22,
+        "probability": 0.9987693428993225
+      },
+      {
+        "word": " the",
+        "start": 21.22,
+        "end": 21.3,
+        "probability": 0.9991346001625061
+      },
+      {
+        "word": " telescope.",
+        "start": 21.3,
+        "end": 21.74,
+        "probability": 0.9993994235992432
+      }
+    ]
+  },
+  {
+    "start": 22.58,
+    "end": 26.08,
+    "text": "So onboard Webb, MIRI has its own special refrigerator,",
+    "words": [
+      {
+        "word": " So",
+        "start": 22.58,
+        "end": 22.8,
+        "probability": 0.9868655800819397
+      },
+      {
+        "word": " onboard",
+        "start": 22.8,
+        "end": 23.32,
+        "probability": 0.3856036067008972
+      },
+      {
+        "word": " Webb,",
+        "start": 23.32,
+        "end": 23.72,
+        "probability": 0.9933121800422668
+      },
+      {
+        "word": " MIRI",
+        "start": 24.08,
+        "end": 24.22,
+        "probability": 0.9960188865661621
+      },
+      {
+        "word": " has",
+        "start": 24.22,
+        "end": 24.38,
+        "probability": 0.9983313679695129
+      },
+      {
+        "word": " its",
+        "start": 24.38,
+        "end": 24.58,
+        "probability": 0.9773750901222229
+      },
+      {
+        "word": " own",
+        "start": 24.58,
+        "end": 24.88,
+        "probability": 0.9984269142150879
+      },
+      {
+        "word": " special",
+        "start": 24.88,
+        "end": 25.38,
+        "probability": 0.9961422085762024
+      },
+      {
+        "word": " refrigerator,",
+        "start": 25.38,
+        "end": 26.08,
+        "probability": 0.9969281554222107
+      }
+    ]
+  },
+  {
+    "start": 26.28,
+    "end": 29.04,
+    "text": "called the cryocooler, which uses helium",
+    "words": [
+      {
+        "word": " called",
+        "start": 26.28,
+        "end": 26.58,
+        "probability": 0.9972742199897766
+      },
+      {
+        "word": " the",
+        "start": 26.58,
+        "end": 26.8,
+        "probability": 0.9789063930511475
+      },
+      {
+        "word": " cryocooler,",
+        "start": 26.8,
+        "end": 27.52,
+        "probability": 0.5815268009901047
+      },
+      {
+        "word": " which",
+        "start": 28.02,
+        "end": 28.3,
+        "probability": 0.9979639053344727
+      },
+      {
+        "word": " uses",
+        "start": 28.3,
+        "end": 28.62,
+        "probability": 0.9989994168281555
+      },
+      {
+        "word": " helium",
+        "start": 28.62,
+        "end": 29.04,
+        "probability": 0.9957402944564819
+      }
+    ]
+  },
+  {
+    "start": 29.04,
+    "end": 33.64,
+    "text": "to maintain a temperature below minus-440 degrees Fahrenheit,",
+    "words": [
+      {
+        "word": " to",
+        "start": 29.04,
+        "end": 29.28,
+        "probability": 0.9477721452713013
+      },
+      {
+        "word": " maintain",
+        "start": 29.28,
+        "end": 29.68,
+        "probability": 0.995821475982666
+      },
+      {
+        "word": " a",
+        "start": 29.68,
+        "end": 29.86,
+        "probability": 0.9958947896957397
+      },
+      {
+        "word": " temperature",
+        "start": 29.86,
+        "end": 30.24,
+        "probability": 0.9987886548042297
+      },
+      {
+        "word": " below",
+        "start": 30.24,
+        "end": 30.72,
+        "probability": 0.9936536550521851
+      },
+      {
+        "word": " minus-440",
+        "start": 30.72,
+        "end": 32.32,
+        "probability": 0.5767261981964111
+      },
+      {
+        "word": " degrees",
+        "start": 32.32,
+        "end": 33.02,
+        "probability": 0.901759922504425
+      },
+      {
+        "word": " Fahrenheit,",
+        "start": 33.02,
+        "end": 33.64,
+        "probability": 0.9426339864730835
+      }
+    ]
+  },
+  {
+    "start": 34.4,
+    "end": 37.22,
+    "text": "hovering just a few degrees above absolute zero.",
+    "words": [
+      {
+        "word": " hovering",
+        "start": 34.4,
+        "end": 34.66,
+        "probability": 0.9932653903961182
+      },
+      {
+        "word": " just",
+        "start": 34.66,
+        "end": 34.98,
+        "probability": 0.9916883111000061
+      },
+      {
+        "word": " a",
+        "start": 34.98,
+        "end": 35.14,
+        "probability": 0.9966493248939514
+      },
+      {
+        "word": " few",
+        "start": 35.14,
+        "end": 35.52,
+        "probability": 0.9982085227966309
+      },
+      {
+        "word": " degrees",
+        "start": 35.52,
+        "end": 35.94,
+        "probability": 0.9984340071678162
+      },
+      {
+        "word": " above",
+        "start": 35.94,
+        "end": 36.32,
+        "probability": 0.9947407841682434
+      },
+      {
+        "word": " absolute",
+        "start": 36.32,
+        "end": 36.92,
+        "probability": 0.9818105697631836
+      },
+      {
+        "word": " zero.",
+        "start": 36.92,
+        "end": 37.22,
+        "probability": 0.8895745277404785
+      }
+    ]
+  }
+]

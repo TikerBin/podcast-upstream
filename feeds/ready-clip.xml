@@ -5,7 +5,7 @@
 <link>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main</link>
 <description>仅含独立片段条目：片段 enclosure 为仓库自托管 clips 直链，文案仅覆盖片段音频；整集不在此 feed，整集不得冒充短片段。</description>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 01:12:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 01:18:23 +0000</lastBuildDate>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/feeds/ready-clip.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Their Mars window is a TV — clip from Encore: A Year In Mars Dune Alpha</title>
@@ -1003,6 +1003,96 @@ the words would be, almost Mars.]]></content:encoded>
 <_parent_id>nasa-cosmic-dawn-mather</_parent_id>
 <_clip_start_s>670.0</_clip_start_s>
 <_clip_end_s>723.7</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>The thermal amine scrubber — clip from Encore: A Day In Space (959.5-1004.8s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/encore-a-day-in-space</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:encore-a-day-in-space:clip:scrubber:959.5-1004.8</guid>
+<pubDate>Tue, 02 Dec 2025 14:22:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-day-in-space-encore-clip-scrubber.mp3" length="708592" type="audio/mpeg"/>
+<itunes:duration>45</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】Megan McArthur 讲空间站里最让她意外的声音：热胺洗涤器像巨兽在耳边叹气，幸好老宇航员 Shannon Walker 说“它一直这样”；主持人接话：微重力与极端温差正是空间站实验的独特条件。
+【Reels 角度】空间站里最吓人的声音：一台机器像巨兽在你耳边叹气——宇航员原声讲述。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; the episode transcript marks music cues (Curiosity theme, 11 Alive Underscore, Hope and Glory Underscore, A Warm Embrace 1 Instrumental, Innocent Activities Instrumental, Jungle Dawn Underscore, astronauts singing 'Happy birthday', Thomas Pesquet saxophone) all outside this segment. Mid-clip station sound is the thermal amine scrubber exhale (original ISS audio, not music).
+【来源】https://www.nasa.gov/podcasts/curious-universe/encore-a-day-in-space
+【采集日（北京时间）】2026-11-06
+【发布时间精度】exact（Inherits parent original publish date (NASA Curious Universe Megaphone RSS: Tue, 02 Dec 2025 14:22:00 -0000); clip itself was modelled 2026-11-06 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:encore-a-day-in-space
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/encore-a-day-in-space
+【片段】原集 959.5-1004.8 秒，45.3 秒，原声，未加 BGM，文件：clips/nasa-day-in-space-encore-clip-scrubber.mp3]]></description>
+<content:encoded><![CDATA[When I first came to space station, the sound that surprised me was actually here in the lab, and it's the thermal amine scrubber. And if we're lucky, we might hear it make this noise but I was floating through the lab directly underneath it and it makes kind of this big, it's almost like an exhale, it sounded like something very large exhaling right next to me and it really startled me. Fortunately Shannon Walker who had, was outgoing crew, had been up here for six months. She said, Oh, don't worry about that. It does that all the time. The unique features of the space station, like microgravity and proximity to extreme temperatures, create a prime opportunity for experimentation in the different labs.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>encore-a-day-in-space-clip-scrubber</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/encore-a-day-in-space</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-06</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 45.3s / 708592 bytes (ffmpeg cut from verified full MP3 in this run, 2026-11-06); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-day-in-space-encore-clip-scrubber.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-day-in-space-encore-clip-scrubber.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-day-in-space-encore-clip-scrubber-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-day-in-space-encore-clip-scrubber-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:encore-a-day-in-space</_parent_guid>
+<_parent_id>nasa-encore-a-day-in-space</_parent_id>
+<_clip_start_s>959.5</_clip_start_s>
+<_clip_end_s>1004.8</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>The cryocooler — clip from How Webb Illuminates Stars’ Cloudy Origins (314.0-351.3s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/how-webb-illuminates-stars-cloudy-origins</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:webb-cloudy-origins:clip:cryocooler:314.0-351.3</guid>
+<pubDate>Tue, 30 Sep 2025 13:19:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-webb-cloudy-origins-clip-cryocooler.mp3" length="692633" type="audio/mpeg"/>
+<itunes:duration>37</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】Webb 的 MIRI 仪器必须比望远镜其余部分更冷：巨大的遮阳板挡住阳光，星载氦制冷机把 MIRI 维持在零下 440 华氏度以下、只比绝对零度高几度，才能看清恒星诞生云里的分子。
+【Reels 角度】韦伯望远镜的冰箱：零下 440 华氏度，只比绝对零度高几度——没有它就看不见恒星的诞生云。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; the episode transcript marks music cues (Curiosity, Blurred, Mapped Out, Steady Flow, Golden Pathway, The Circle of Life, Building Ideas, Evolving Earth) all outside this segment; the Steady Flow cue precedes this segment.
+【来源】https://www.nasa.gov/podcasts/curious-universe/how-webb-illuminates-stars-cloudy-origins
+【采集日（北京时间）】2026-11-06
+【发布时间精度】exact（Inherits parent original publish date (NASA Curious Universe Megaphone RSS: Tue, 30 Sep 2025 13:19:00 -0000); clip itself was modelled 2026-11-06 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:webb-cloudy-origins
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/how-webb-illuminates-stars-cloudy-origins
+【片段】原集 314.0-351.3 秒，37.3 秒，原声，未加 BGM，文件：clips/nasa-webb-cloudy-origins-clip-cryocooler.mp3]]></description>
+<content:encoded><![CDATA[But MIRI also presents a unique challenge. Webb has to stay cold. Otherwise, heat from the Sun and Earth would interfere with its night-vision-goggle view. So Webb has a huge sunshield that blocks the Sun's radiation, keeping the telescope extra cold. MIRI needs to stay even colder than the rest of the telescope. So onboard Webb, MIRI has its own special refrigerator, called the cryocooler, which uses helium to maintain a temperature below minus-440 degrees Fahrenheit, hovering just a few degrees above absolute zero.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>webb-cloudy-origins-clip-cryocooler</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/how-webb-illuminates-stars-cloudy-origins</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-06</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 37.3s / 692633 bytes (ffmpeg cut from verified full MP3 in this run, 2026-11-06); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-webb-cloudy-origins-clip-cryocooler.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-webb-cloudy-origins-clip-cryocooler.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-webb-cloudy-origins-clip-cryocooler-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-webb-cloudy-origins-clip-cryocooler-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:webb-cloudy-origins</_parent_guid>
+<_parent_id>nasa-webb-cloudy-origins</_parent_id>
+<_clip_start_s>314.0</_clip_start_s>
+<_clip_end_s>351.3</_clip_end_s>
 <_clip_source_nature>original_audio</_clip_source_nature>
 </item>
 <item>

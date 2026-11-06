@@ -1,0 +1,802 @@
+[
+  {
+    "start": 0.0,
+    "end": 5.08,
+    "text": "When I first came to space station the sound that surprised me was actually here in the lab",
+    "words": [
+      {
+        "word": " When",
+        "start": 0.0,
+        "end": 0.26,
+        "probability": 0.5952834486961365
+      },
+      {
+        "word": " I",
+        "start": 0.26,
+        "end": 0.44,
+        "probability": 0.9927679300308228
+      },
+      {
+        "word": " first",
+        "start": 0.44,
+        "end": 0.68,
+        "probability": 0.99702388048172
+      },
+      {
+        "word": " came",
+        "start": 0.68,
+        "end": 1.02,
+        "probability": 0.9975621700286865
+      },
+      {
+        "word": " to",
+        "start": 1.02,
+        "end": 1.24,
+        "probability": 0.9970580339431763
+      },
+      {
+        "word": " space",
+        "start": 1.24,
+        "end": 1.48,
+        "probability": 0.47224318981170654
+      },
+      {
+        "word": " station",
+        "start": 1.48,
+        "end": 1.86,
+        "probability": 0.9844867587089539
+      },
+      {
+        "word": " the",
+        "start": 1.86,
+        "end": 2.02,
+        "probability": 0.34189754724502563
+      },
+      {
+        "word": " sound",
+        "start": 2.02,
+        "end": 2.5,
+        "probability": 0.9956588745117188
+      },
+      {
+        "word": " that",
+        "start": 2.5,
+        "end": 2.94,
+        "probability": 0.9926618337631226
+      },
+      {
+        "word": " surprised",
+        "start": 2.94,
+        "end": 3.4,
+        "probability": 0.9933544397354126
+      },
+      {
+        "word": " me",
+        "start": 3.4,
+        "end": 3.74,
+        "probability": 0.9956315755844116
+      },
+      {
+        "word": " was",
+        "start": 3.74,
+        "end": 4.02,
+        "probability": 0.9903077483177185
+      },
+      {
+        "word": " actually",
+        "start": 4.02,
+        "end": 4.38,
+        "probability": 0.9869913458824158
+      },
+      {
+        "word": " here",
+        "start": 4.38,
+        "end": 4.62,
+        "probability": 0.9666151404380798
+      },
+      {
+        "word": " in",
+        "start": 4.62,
+        "end": 4.76,
+        "probability": 0.9955940842628479
+      },
+      {
+        "word": " the",
+        "start": 4.76,
+        "end": 4.86,
+        "probability": 0.9988172054290771
+      },
+      {
+        "word": " lab",
+        "start": 4.86,
+        "end": 5.08,
+        "probability": 0.983468770980835
+      }
+    ]
+  },
+  {
+    "start": 5.08,
+    "end": 11.14,
+    "text": "and it's the thermal amine scrubber and if we're lucky we might hear it make this noise but I was",
+    "words": [
+      {
+        "word": " and",
+        "start": 5.08,
+        "end": 5.58,
+        "probability": 0.6806845664978027
+      },
+      {
+        "word": " it's",
+        "start": 5.58,
+        "end": 5.78,
+        "probability": 0.9838104844093323
+      },
+      {
+        "word": " the",
+        "start": 5.78,
+        "end": 5.92,
+        "probability": 0.9912776947021484
+      },
+      {
+        "word": " thermal",
+        "start": 5.92,
+        "end": 6.22,
+        "probability": 0.6483919620513916
+      },
+      {
+        "word": " amine",
+        "start": 6.22,
+        "end": 6.6,
+        "probability": 0.8386940062046051
+      },
+      {
+        "word": " scrubber",
+        "start": 6.6,
+        "end": 7.24,
+        "probability": 0.9957375526428223
+      },
+      {
+        "word": " and",
+        "start": 7.24,
+        "end": 7.78,
+        "probability": 0.5229100584983826
+      },
+      {
+        "word": " if",
+        "start": 7.78,
+        "end": 7.96,
+        "probability": 0.9818019270896912
+      },
+      {
+        "word": " we're",
+        "start": 7.96,
+        "end": 8.1,
+        "probability": 0.9790574908256531
+      },
+      {
+        "word": " lucky",
+        "start": 8.1,
+        "end": 8.3,
+        "probability": 0.9983782768249512
+      },
+      {
+        "word": " we",
+        "start": 8.3,
+        "end": 8.48,
+        "probability": 0.9177899956703186
+      },
+      {
+        "word": " might",
+        "start": 8.48,
+        "end": 8.68,
+        "probability": 0.9990212917327881
+      },
+      {
+        "word": " hear",
+        "start": 8.68,
+        "end": 9.0,
+        "probability": 0.9672133922576904
+      },
+      {
+        "word": " it",
+        "start": 9.0,
+        "end": 9.38,
+        "probability": 0.9878707528114319
+      },
+      {
+        "word": " make",
+        "start": 9.38,
+        "end": 10.02,
+        "probability": 0.9577813148498535
+      },
+      {
+        "word": " this",
+        "start": 10.02,
+        "end": 10.3,
+        "probability": 0.9990155696868896
+      },
+      {
+        "word": " noise",
+        "start": 10.3,
+        "end": 10.62,
+        "probability": 0.9990899562835693
+      },
+      {
+        "word": " but",
+        "start": 10.62,
+        "end": 10.82,
+        "probability": 0.776493489742279
+      },
+      {
+        "word": " I",
+        "start": 10.82,
+        "end": 10.96,
+        "probability": 0.9522286653518677
+      },
+      {
+        "word": " was",
+        "start": 10.96,
+        "end": 11.14,
+        "probability": 0.999658465385437
+      }
+    ]
+  },
+  {
+    "start": 11.14,
+    "end": 15.4,
+    "text": "floating through the lab directly underneath it and it makes kind of this big it's almost like",
+    "words": [
+      {
+        "word": " floating",
+        "start": 11.14,
+        "end": 11.5,
+        "probability": 0.9980923533439636
+      },
+      {
+        "word": " through",
+        "start": 11.5,
+        "end": 11.84,
+        "probability": 0.9965999722480774
+      },
+      {
+        "word": " the",
+        "start": 11.84,
+        "end": 11.98,
+        "probability": 0.9992079138755798
+      },
+      {
+        "word": " lab",
+        "start": 11.98,
+        "end": 12.18,
+        "probability": 0.9985186457633972
+      },
+      {
+        "word": " directly",
+        "start": 12.18,
+        "end": 12.52,
+        "probability": 0.9858227372169495
+      },
+      {
+        "word": " underneath",
+        "start": 12.52,
+        "end": 12.98,
+        "probability": 0.9968492388725281
+      },
+      {
+        "word": " it",
+        "start": 12.98,
+        "end": 13.16,
+        "probability": 0.9748679399490356
+      },
+      {
+        "word": " and",
+        "start": 13.16,
+        "end": 13.26,
+        "probability": 0.9595836400985718
+      },
+      {
+        "word": " it",
+        "start": 13.26,
+        "end": 13.36,
+        "probability": 0.9960105419158936
+      },
+      {
+        "word": " makes",
+        "start": 13.36,
+        "end": 13.58,
+        "probability": 0.9891680479049683
+      },
+      {
+        "word": " kind",
+        "start": 13.58,
+        "end": 13.8,
+        "probability": 0.9647903442382812
+      },
+      {
+        "word": " of",
+        "start": 13.8,
+        "end": 13.92,
+        "probability": 0.9992586970329285
+      },
+      {
+        "word": " this",
+        "start": 13.92,
+        "end": 14.06,
+        "probability": 0.9956585168838501
+      },
+      {
+        "word": " big",
+        "start": 14.06,
+        "end": 14.36,
+        "probability": 0.99458247423172
+      },
+      {
+        "word": " it's",
+        "start": 14.36,
+        "end": 14.98,
+        "probability": 0.7319565266370773
+      },
+      {
+        "word": " almost",
+        "start": 14.98,
+        "end": 15.16,
+        "probability": 0.9981220364570618
+      },
+      {
+        "word": " like",
+        "start": 15.16,
+        "end": 15.4,
+        "probability": 0.9988483190536499
+      }
+    ]
+  },
+  {
+    "start": 15.4,
+    "end": 19.62,
+    "text": "an exhale it sounded like something very large exhaling right next to me and it really startled",
+    "words": [
+      {
+        "word": " an",
+        "start": 15.4,
+        "end": 15.56,
+        "probability": 0.9980766773223877
+      },
+      {
+        "word": " exhale",
+        "start": 15.56,
+        "end": 16.08,
+        "probability": 0.9985402524471283
+      },
+      {
+        "word": " it",
+        "start": 16.08,
+        "end": 16.28,
+        "probability": 0.7365116477012634
+      },
+      {
+        "word": " sounded",
+        "start": 16.28,
+        "end": 16.44,
+        "probability": 0.9986560344696045
+      },
+      {
+        "word": " like",
+        "start": 16.44,
+        "end": 16.64,
+        "probability": 0.9988038539886475
+      },
+      {
+        "word": " something",
+        "start": 16.64,
+        "end": 16.82,
+        "probability": 0.9988906979560852
+      },
+      {
+        "word": " very",
+        "start": 16.82,
+        "end": 17.24,
+        "probability": 0.9968365430831909
+      },
+      {
+        "word": " large",
+        "start": 17.24,
+        "end": 17.66,
+        "probability": 0.9994354844093323
+      },
+      {
+        "word": " exhaling",
+        "start": 17.66,
+        "end": 18.16,
+        "probability": 0.9947880804538727
+      },
+      {
+        "word": " right",
+        "start": 18.16,
+        "end": 18.42,
+        "probability": 0.9977351427078247
+      },
+      {
+        "word": " next",
+        "start": 18.42,
+        "end": 18.64,
+        "probability": 0.9995730519294739
+      },
+      {
+        "word": " to",
+        "start": 18.64,
+        "end": 18.74,
+        "probability": 0.9975615739822388
+      },
+      {
+        "word": " me",
+        "start": 18.74,
+        "end": 18.82,
+        "probability": 0.9993104934692383
+      },
+      {
+        "word": " and",
+        "start": 18.82,
+        "end": 18.9,
+        "probability": 0.9792919754981995
+      },
+      {
+        "word": " it",
+        "start": 18.9,
+        "end": 19.0,
+        "probability": 0.9989948868751526
+      },
+      {
+        "word": " really",
+        "start": 19.0,
+        "end": 19.32,
+        "probability": 0.99946528673172
+      },
+      {
+        "word": " startled",
+        "start": 19.32,
+        "end": 19.62,
+        "probability": 0.998099148273468
+      }
+    ]
+  },
+  {
+    "start": 19.62,
+    "end": 25.18,
+    "text": "me. Fortunately Shannon Walker who was outgoing crew had been up here for six months she said oh",
+    "words": [
+      {
+        "word": " me.",
+        "start": 19.62,
+        "end": 19.9,
+        "probability": 0.9992278814315796
+      },
+      {
+        "word": " Fortunately",
+        "start": 21.16,
+        "end": 21.46,
+        "probability": 0.9909461736679077
+      },
+      {
+        "word": " Shannon",
+        "start": 21.46,
+        "end": 21.78,
+        "probability": 0.8923547863960266
+      },
+      {
+        "word": " Walker",
+        "start": 21.78,
+        "end": 22.1,
+        "probability": 0.9949967861175537
+      },
+      {
+        "word": " who",
+        "start": 22.1,
+        "end": 22.48,
+        "probability": 0.8881500363349915
+      },
+      {
+        "word": " was",
+        "start": 22.48,
+        "end": 22.98,
+        "probability": 0.8912891745567322
+      },
+      {
+        "word": " outgoing",
+        "start": 22.98,
+        "end": 23.4,
+        "probability": 0.9600156545639038
+      },
+      {
+        "word": " crew",
+        "start": 23.4,
+        "end": 23.7,
+        "probability": 0.9969305396080017
+      },
+      {
+        "word": " had",
+        "start": 23.7,
+        "end": 23.86,
+        "probability": 0.9873068332672119
+      },
+      {
+        "word": " been",
+        "start": 23.86,
+        "end": 23.98,
+        "probability": 0.9996891021728516
+      },
+      {
+        "word": " up",
+        "start": 23.98,
+        "end": 24.1,
+        "probability": 0.9983519315719604
+      },
+      {
+        "word": " here",
+        "start": 24.1,
+        "end": 24.22,
+        "probability": 0.9991148114204407
+      },
+      {
+        "word": " for",
+        "start": 24.22,
+        "end": 24.4,
+        "probability": 0.9987927675247192
+      },
+      {
+        "word": " six",
+        "start": 24.4,
+        "end": 24.58,
+        "probability": 0.9828353524208069
+      },
+      {
+        "word": " months",
+        "start": 24.58,
+        "end": 24.76,
+        "probability": 0.9991235136985779
+      },
+      {
+        "word": " she",
+        "start": 24.76,
+        "end": 24.92,
+        "probability": 0.8144760131835938
+      },
+      {
+        "word": " said",
+        "start": 24.92,
+        "end": 25.04,
+        "probability": 0.9993566870689392
+      },
+      {
+        "word": " oh",
+        "start": 25.04,
+        "end": 25.18,
+        "probability": 0.6964243054389954
+      }
+    ]
+  },
+  {
+    "start": 25.18,
+    "end": 37.11,
+    "text": "don't worry about that it does that all the time. The unique features of the space station",
+    "words": [
+      {
+        "word": " don't",
+        "start": 25.18,
+        "end": 25.32,
+        "probability": 0.996454507112503
+      },
+      {
+        "word": " worry",
+        "start": 25.32,
+        "end": 25.42,
+        "probability": 0.9997847676277161
+      },
+      {
+        "word": " about",
+        "start": 25.42,
+        "end": 25.62,
+        "probability": 0.9995172023773193
+      },
+      {
+        "word": " that",
+        "start": 25.62,
+        "end": 25.76,
+        "probability": 0.9962373971939087
+      },
+      {
+        "word": " it",
+        "start": 25.76,
+        "end": 25.86,
+        "probability": 0.9340583682060242
+      },
+      {
+        "word": " does",
+        "start": 25.86,
+        "end": 26.0,
+        "probability": 0.999408483505249
+      },
+      {
+        "word": " that",
+        "start": 26.0,
+        "end": 26.16,
+        "probability": 0.9967390894889832
+      },
+      {
+        "word": " all",
+        "start": 26.16,
+        "end": 26.3,
+        "probability": 0.9987577199935913
+      },
+      {
+        "word": " the",
+        "start": 26.3,
+        "end": 26.44,
+        "probability": 0.9993382096290588
+      },
+      {
+        "word": " time.",
+        "start": 26.44,
+        "end": 26.68,
+        "probability": 0.9997686743736267
+      },
+      {
+        "word": " The",
+        "start": 35.19,
+        "end": 35.53,
+        "probability": 0.9695820808410645
+      },
+      {
+        "word": " unique",
+        "start": 35.53,
+        "end": 35.77,
+        "probability": 0.9979610443115234
+      },
+      {
+        "word": " features",
+        "start": 35.77,
+        "end": 36.19,
+        "probability": 0.9993230104446411
+      },
+      {
+        "word": " of",
+        "start": 36.19,
+        "end": 36.37,
+        "probability": 0.99703049659729
+      },
+      {
+        "word": " the",
+        "start": 36.37,
+        "end": 36.49,
+        "probability": 0.9946601986885071
+      },
+      {
+        "word": " space",
+        "start": 36.49,
+        "end": 36.69,
+        "probability": 0.923646867275238
+      },
+      {
+        "word": " station",
+        "start": 36.69,
+        "end": 37.11,
+        "probability": 0.9979640245437622
+      }
+    ]
+  },
+  {
+    "start": 37.11,
+    "end": 43.01,
+    "text": "like microgravity and proximity to extreme temperatures create a prime opportunity",
+    "words": [
+      {
+        "word": " like",
+        "start": 37.11,
+        "end": 37.71,
+        "probability": 0.7156618237495422
+      },
+      {
+        "word": " microgravity",
+        "start": 37.71,
+        "end": 38.55,
+        "probability": 0.969341516494751
+      },
+      {
+        "word": " and",
+        "start": 38.55,
+        "end": 38.93,
+        "probability": 0.964774489402771
+      },
+      {
+        "word": " proximity",
+        "start": 38.93,
+        "end": 39.35,
+        "probability": 0.9973441958427429
+      },
+      {
+        "word": " to",
+        "start": 39.35,
+        "end": 39.71,
+        "probability": 0.9989499449729919
+      },
+      {
+        "word": " extreme",
+        "start": 39.71,
+        "end": 40.23,
+        "probability": 0.9986041188240051
+      },
+      {
+        "word": " temperatures",
+        "start": 40.23,
+        "end": 40.89,
+        "probability": 0.9959055185317993
+      },
+      {
+        "word": " create",
+        "start": 40.89,
+        "end": 41.81,
+        "probability": 0.16960746049880981
+      },
+      {
+        "word": " a",
+        "start": 41.81,
+        "end": 42.01,
+        "probability": 0.9966387748718262
+      },
+      {
+        "word": " prime",
+        "start": 42.01,
+        "end": 42.45,
+        "probability": 0.9976509213447571
+      },
+      {
+        "word": " opportunity",
+        "start": 42.45,
+        "end": 43.01,
+        "probability": 0.9980906844139099
+      }
+    ]
+  },
+  {
+    "start": 43.01,
+    "end": 45.27,
+    "text": "for experimentation in the different labs.",
+    "words": [
+      {
+        "word": " for",
+        "start": 43.01,
+        "end": 43.39,
+        "probability": 0.9980509281158447
+      },
+      {
+        "word": " experimentation",
+        "start": 43.39,
+        "end": 44.19,
+        "probability": 0.9971300959587097
+      },
+      {
+        "word": " in",
+        "start": 44.19,
+        "end": 44.55,
+        "probability": 0.9967595934867859
+      },
+      {
+        "word": " the",
+        "start": 44.55,
+        "end": 44.67,
+        "probability": 0.9653913378715515
+      },
+      {
+        "word": " different",
+        "start": 44.67,
+        "end": 44.95,
+        "probability": 0.9991106390953064
+      },
+      {
+        "word": " labs.",
+        "start": 44.95,
+        "end": 45.27,
+        "probability": 0.717509388923645
+      }
+    ]
+  }
+]

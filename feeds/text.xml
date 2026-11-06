@@ -5,7 +5,7 @@
 <link>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main</link>
 <description>形态 text 的待制作播客条目，GUID 与总 feed 完全一致。</description>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 01:12:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 01:18:23 +0000</lastBuildDate>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/feeds/text.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Their Mars window is a TV — clip from Encore: A Year In Mars Dune Alpha</title>
@@ -6439,6 +6439,546 @@ This is NASA’s Curious universe. This episode was produced by Christian Elliot
 <_collected_at_beijing>2026-11-05</_collected_at_beijing>
 <_audio_verified>HEAD 跟随重定向得 audio/mpeg + 27492956 字节；整文件下载后 ffprobe 时长 1131.128 秒、字节数一致，ffmpeg 全量解码零报错</_audio_verified>
 <_child_clip_guid>urn:podcast:nasa.gov:curious-universe:cosmic-dawn-mather:clip:nobel-call:670.0-723.7</_child_clip_guid>
+</item>
+<item>
+<title>Encore: A Day In Space</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/encore-a-day-in-space</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:encore-a-day-in-space</guid>
+<pubDate>Tue, 02 Dec 2025 14:22:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:full-episode</category>
+<category>production:text-script</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION9583563017.mp3" length="33438693" type="audio/mpeg"/>
+<itunes:duration>1379</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】full-episode, text-script
+【摘要】空间站 25 周年重播 2021 年名集：Shane Kimbrough、Megan McArthur、Thomas Pesquet 带录音机漫游国际空间站——睡袋拉链、早餐燕麦、厕所风扇、跑步机、失重健身、热胺洗涤器的“叹气”声、太空种辣椒、学生提问“地球从太空看什么样”，以及萨克斯收尾。用声音拼出一名宇航员在空间站的一天。
+【Reels 角度】空间站里最吓人的声音：一台机器像巨兽在你耳边叹气——Megan McArthur 讲热胺洗涤器的“exhale”，配上原声。
+【许可证】Public domain：美国联邦政府作品（NASA 官方播客），一般不受版权保护
+【权利说明】可剪辑/再分发，不得暗示 NASA 背书；本集为 2021 年原集的 2025 年重播（Encore），文字稿中标有音乐 cue（Curiosity 主题曲，11 Alive Underscore、Hope and Glory Underscore、A Warm Embrace 1 Instrumental、Innocent Activities Instrumental、Jungle Dawn Underscore 等配乐）及宇航员合唱生日歌、Thomas Pesquet 萨克斯演奏段，正式发布前需逐项再核片段内音乐；本批 ready-clip 已核为原声讲话段、未加 BGM，片段内无音乐 cue，片段中段含热胺洗涤器原声 exhale 音效（空间站实录，非音乐）。
+【来源】https://www.nasa.gov/podcasts/curious-universe/encore-a-day-in-space
+【采集日（北京时间）】2026-11-06
+【发布时间精度】exact（NASA Curious Universe Megaphone RSS: Tue, 02 Dec 2025 14:22:00 -0000）
+【子片段 GUID】urn:podcast:nasa.gov:curious-universe:encore-a-day-in-space:clip:scrubber:959.5-1004.8]]></description>
+<content:encoded><![CDATA[[Music: Curiosity by SYSTEM Sounds]
+
+PADI BOYD: You’re listening to NASA’s Curious Universe. I’m your host, Padi Boyd. Above Earth’s surface, an international team is living in a space station, conducting scientific research, and orbiting Earth at five miles per second. And here’s the really cool part: that sentence is old news.
+
+This fall, the International Space Station reached 25 years of continuous occupation. Think about how incredible that is: an unbroken streak of humans living hundreds of miles above Earth’s surface. That’s 25 years of sending astronauts to space and back, 25 years of international cooperation, and 25 years of science that is paving the way for humans to return to the Moon and take the next giant leap to Mars.
+
+So to celebrate the big anniversary, we’re revisiting one of our favorite episodes. It’s called “A Day In Space”. And it lets you experience the ISS through the ears of astronauts who live there. This episode was recorded in 2021, and some details you’re about to hear have changed since then. The number of science experiments on ISS keeps going up. It is now over 4,000 . And some of the experiments from back then have changed or are no longer active. After you listen, you can catch up on the latest ISS news at nasa.gov/station.
+
+OK, here we go.
+
+[Song: 11 Alive Underscore by Spoof]
+
+Shane Kimbrough: Hello, everyone, I’m actually in the Dragon spacecraft now called Endeavour. This was the vehicle that we flew up on, and just want to give you some sounds of this vehicle.
+
+Thomas Pesquet: Welcome to safety tour of Space Station. I’m your captain today.
+
+Megan McArthur: Right now, I’m in the node one module of the International Space Station, which is where we prepare and eat our meals. And node one is right next to node three, which is where we typically conduct our exercise, we have a treadmill…
+
+HOST PADI BOYD: Hi Curious Universe listeners. We have a very exciting episode for you today to finish out season three of NASA’s Curious Universe.
+
+HOST PADI BOYD: Right now, in August of 2021, there are seven people living and working aboard the International Space Station.
+
+HOST PADI BOYD: A few weeks ago, we asked some of those astronauts, NASA’s Shane Kimbrough, and Megan McArthur, and European Space Agency’s Thomas Pesquet, to take their microphones and walk us, or should I say “float us”, through a day in space.
+
+HOST PADI BOYD: We’re excited to share the audio that they recorded in this episode. So let’s listen in on our explorers on the International Space Station…and find out what a day in space really sounds like!
+
+Ground Control: Station, this is Houston. Are you ready for the event?
+
+Megan McArthur: Houston, we are ready.
+
+[Theme Song: Curiosity by SYSTEM Sounds]
+
+Shane Kimbrough: Hello, I’m in one of the sleep stations on the International Space Station. We call it crew quarters.
+
+HOST PADI BOYD: This is Shane Kimbrough. Shane is a retired US Army officer and three-time space explorer. He served as the commander of the SpaceX Crew-2 flight to the space station in April 2021, and is a flight engineer for the current mission: Expedition 65.
+
+HOST PADI BOYD: The International Space Station is made up of different “nodes” and “modules”, a lot like rooms or hallways in a house. Right now, he’s in one of the crew cabin modules, taking us through the steps and sounds of his morning routine.
+
+Shane Kimbrough: So this is where, it’s kind of our private space, it’s where you get a chance to sleep, of course, but other things as well.
+
+HOST PADI BOYD: The crew quarters on the space station look kind of like a padded pod. On the inside there’s a sleeping bag for each astronaut to zip into and space for personal items like laptops.
+
+Shane Kimbrough: But here’s the sound that this makes.
+
+[sleeping bag zip]
+
+Shane Kimbrough: As I get ready to come out or get in this sleeping bag, it’s mounted to a wall, and it’s connected to the wall so that we don’t just bounce around in here as we’re trying to sleep at night.
+
+Shane Kimbrough: We want to get a good night’s sleep. So that’s why we mount this thing to the wall. And then you just climb in, zip it up.
+
+[sleeping bag zip]
+
+Shane Kimbrough: And then hopefully have a good night’s sleep.
+
+Shane Kimbrough: Also, in here you have some personal items, usually have pictures of your family. I have a computer here that I can do my email on or I can check the schedule out for the day. You can watch movies, you can watch TV shows, those kind of things as well in here, but it’s a nice space.
+
+Shane Kimbrough: So when I close the door, it gets really quiet. It’s a really private space.
+
+[door closing sounds]
+
+Shane Kimbrough: So you can kind of get away from everybody if you need to, which we all need at some point. And then when you open up the doors and you, you get the sounds of the International Space Station, which in general, just some background fans running, it’s not very loud at all, which is really impressive, with all the things that we have going on up here.
+
+HOST PADI BOYD: And there is so much going on up there. The International Space Station has been continuously occupied since November of 2000 by astronauts from 19 different countries.
+
+[Song: Hope and Glory Underscore by Cacace Castellarin]
+
+HOST PADI BOYD: During that time, the station has evolved from an orbital outpost into a full-fledged orbiting laboratory.
+
+HOST PADI BOYD: An acre of solar panels power the orbiting lab, which is larger than a 6 bedroom house, containing around 8 miles of wire weaving throughout the station, keeping all the science running!
+
+Shane Kimbrough: We come out of our crew quarters and float through the lab here. You can hear some fans a little louder here than our sleep stations for sure.
+
+Shane Kimbrough: And then once we get through the US lab, we’ll be heading into node one, which is where I usually get my breakfast ready to go before I go do anything else.
+
+Shane Kimbrough: We’re in the galley now, which is in node one and I’ll give you a few sounds of what it’s like to go get our food out of our pantries.
+
+[clanking container sounds]
+
+Shane Kimbrough: So these are metal containers that we get from the Russians and we just pull out our food.
+
+Shane Kimbrough: I’ll pull out some oatmeal today. And then put that back and do the same thing with the drink. I’m gonna have a hint of orange to drink.
+
+Shane Kimbrough: So then we come over here. We have packaging that we have most of our food in. I’ll open this up.
+
+[packaging opening sounds]
+
+Shane Kimbrough: I’ll hydrate it here with our machine. Put in 75 milliliters, you hear kind of a click when it’s done. And then you know, its safe to, we always put this in the off position so that if water is coming out, it doesn’t spray you. It’s a good safety tip for us.
+
+[water filling sound]
+
+Shane Kimbrough: And this oatmeal takes about five to 10 minutes to kind of to be ready to go.
+
+HOST PADI BOYD: Some food on the International Space Station doesn’t need to be rehydrated because it can be sent it up in the natural form, like fruit and brownies…but most of their food starts out dehydrated.
+
+HOST PADI BOYD: And you can’t just sprinkle on extra seasonings as you want. Shaking salt particles in space could mean trouble for instruments on station. Instead, the seasonings come in liquid form.
+
+Shane Kimbrough: So we’ll head over and I’ll show you what I do in the mornings as well to just get ready for the day, brush my teeth, go to the restroom, that sort of thing.
+
+Shane Kimbrough: Everybody has their own little station where they keep all their items.
+
+[clanking/velcro sounds]
+
+HOST PADI BOYD: The sounds you hear are coming from all the tinkering that has to be done to get Shane’s morning items ready to go. With everything on station experiencing the condition of microgravity, things need to be latched down to keep from floating away and unlatched when you’re ready to use them.
+
+Shane Kimbrough: Now let me just briefly show you over here to the restroom, and won’t really show you a whole lot but I just want to turn it on so you can hear the sound that it makes.
+
+[ISS toilet fan sounds]
+
+Shane Kimbrough: So that’s the fans cranking up, as you go to use the restroom, as the system cranks up, and while you’re using it.
+
+Shane Kimbrough: I just shut it off. Can hear it winding down now.
+
+HOST PADI BOYD: Microgravity can make doing things we normally do here on Earth really complicated in space. The first modules of the orbiting laboratory were sent into space in 1998 and since then, scientists have worked to create and upgrade the different systems humans need to live in space!
+
+[Song: A Warm Embrace 1 Instrumental by Goodman]
+
+HOST PADI BOYD: In upcoming space missions for the Artemis program, NASA plans to build another outpost. This time, it will be orbiting our moon.
+
+HOST PADI BOYD: The research we’re doing in low-Earth orbit aboard the International Space Station continues to provide important new information on what humans need in order to survive…and thrive…in space! The ISS is a critical stepping stone for NASA’s further exploration of deep space.
+
+HOST PADI BOYD: The other NASA astronaut we miked up for this episode was Megan McArthur. Megan is an oceanographer who flew her first mission in 2009 on Space Shuttle Atlantis to service the Hubble Space Telescope. She serves as pilot of the SpaceX Crew-2 mission, and she’s also a flight engineer for Expedition 65.
+
+Megan McArthur: Right now, I’m in the node one module of the International Space Station, which is where we prepare and eat our meals.
+
+Megan McArthur: And node one is right next to node three, which is where we typically conduct our exercise. We have a treadmill and the Advanced Resistive Exercise Device in Node three.
+
+[treadmill sounds]
+
+Megan McArthur: So the sound that you’re hearing is the sound of the treadmill. Let’s listen for a minute.
+
+[treadmill sounds]
+
+HOST PADI BOYD: Exercising in space is important in space because it prevents bone and muscle loss while in microgravity.
+
+Megan McArthur: So one of the things that we have also in node one in the deck is a toolbox that people are getting into all day long to get tools they need to accomplish various tasks. So Aki is about to put away a socket that was used earlier.
+
+[toolbox clank sounds]
+
+HOST PADI BOYD: “Aki” is Aki Hoshide, a Japanese engineer, astronaut, and current commander of the International space station. He works for the Japan Aerospace Exploration Agency called JAXA.
+
+Megan McArthur: As Thomas begins setting up for his workout, let’s pause and listen to how the device sounds as it’s getting prepared for activity.
+
+[exercise machine repetitive sounds]
+
+HOST PADI BOYD: Thomas works for the European Space Agency, or ESA…and was born in Rouen, France.
+
+[exercise machine repetitive sounds]
+
+Megan McArthur: Ok in between sets, what do you usually like to listen to during your workouts?
+
+Thomas Pesquet: Some really cool music. Cranked up sometimes by Megan, sometimes carefully curated by Mark, sometimes just random music from the internet.
+
+Megan McArthur: All right, well, we’ll let you get to that, enjoy your workout.
+
+HOST PADI BOYD: Even though the names and faces change, people from all around the world have been living and working together continuously while they’re sharing the close quarters of the international space station.
+
+[Song: Innocent Activities Instrumental by Parsons]
+
+HOST PADI BOYD: A day in the life of an astronaut includes many of the normal things we do here on Earth – exercising, eating, chatting with coworkers. But the majority of an astronaut’s day is spent doing important research that can only be done in space.
+
+HOST PADI BOYD: They also participate in video interviews with schools and the media.
+
+HOST PADI BOYD: On this day, the astronauts kicked off an experiment growing peppers for the first time in space, performed combustion research, and even set up a camera that allows middle school students on Earth to take pictures of our home planet from space.
+
+Megan McArthur: I’m in the US lab now, which is a location that we do a lot of experiments, obviously, it’s also a location for some of our exercise.
+
+Megan McArthur: There’s always an ambient sound of fans and pump noise in here. This is probably one of the loudest places on the International Space Station. And like I said, we conduct science in here. We also conduct a lot of our conferences with the ground.
+
+Megan McArthur:We communicate with ground throughout the day for all of the activities that we do. They give us permission to proceed in different places. They answer our questions, they maybe make changes to procedures. So we really need that communication with them throughout the day. And it’s very important that we’re able to hear that.
+
+HOST PADI BOYD: While they work, space station astronauts are talking to mission control centers around the world. Here is Shane checking in on some of the research he’s conducting:
+
+Shane Kimbrough: Houston station on two, for triple A.
+
+Ground Control: Go ahead Shane.
+
+Shane Kimbrough:I’m ready to get going, waiting, just checking with you on step one decimal one.
+
+Ground Control: Everything is place in one dot one, you’re good to go.
+
+Shane Kimbrough: Copy thanks.
+
+HOST PADI BOYD: There are also opportunities for astronauts to connect with people on the ground – to hear from curious space enthusiasts, and talk about their life on station.
+
+Student: Hi, my name is Olivia. And, and I’m from North Carolina. My question is, what does the Earth look like from outer space?
+
+Shane Kimbrough: Thanks for the question. The Earth looks absolutely amazing. It’s really beautiful. The colors are just striking, no matter if you’re looking at the Bahamas, like a beach or the desert, to me that, it’s very striking…
+
+HOST PADI BOYD: Being able to communicate in space is critical, not only with the ground but with each other. And with all the background noise of fans and systems running to keep things operational, it can get pretty noisy on station.
+
+HOST PADI BOYD: Research projects like the ISS Acoustics experiment have been conducted on station to monitor these sounds and make sure things don’t get too loud for the astronauts.
+
+Megan McArthur:One of the things that we talk about before we come into space is what the sounds of the environment are going to be like.
+
+Megan McArthur: We don’t really exactly model on Earth the amount of background noise that we have up here. But we do work in a variety of noisy environments as part of our training.
+
+Megan McArthur: So for example, we fly in T-38 jets, which are quite loud, of course on their own. And so thinking about how to communicate effectively in a loud environment is really important.
+
+Megan McArthur: When I first came to space station, the sound that surprised me was actually here in the lab, and it’s the thermal amine scrubber. And if we’re lucky, we might hear it make this noise but I was floating through the lab directly underneath it and it makes kind of this big, it’s almost like an exhale, it sounded like something very large exhaling right next to me and it really startled me. Fortunately Shannon Walker who had, was outgoing crew, had been up here for six months. She said, Oh, don’t worry about that. It does that all the time.
+
+[Thermal Amine Scrubber ‘exhale’ sound]
+
+HOST PADI BOYD: The unique features of the space station, like microgravity and proximity to extreme temperatures, create a prime opportunity for experimentation in the different labs.
+
+[Song: Jungle Dawn Underscore by Stroud]
+
+HOST PADI BOYD: Since the year 2000, there have been over 3000 experiments conducted on the International Space Station and each astronaut plays a role in making sure these experiments are successful.
+
+HOST PADI BOYD: On any given day, they could be developing new treatments for diseases or even testing concrete for future space structures!
+
+HOST PADI BOYD: Today, Shane is working on agriculture in space. On his last trip to the station, Shane grew lettuce, and made a bit of a name for himself as a microgravity gardener. If all goes according to plan, this experiment could add some spice to the astronaut’s daily lives. Let’s listen in.
+
+Shane Kimbrough: Alright I’m working on plant habitat now which is going to be back in here. I’m going to refill some water into that system so we can grow some chili peppers!
+
+[plant experiment sounds, water, syringes]
+
+Astronaut: Dude, you’re a beast!
+
+Shane Kimbrough: It’s nothing man.
+
+Astronaut:Thanks for that. Help you with the water?
+
+Shane Kimbrough: Nah, I’m almost done. Almost done. Thanks.
+
+Shane Kimbrough: Huntsville station on two for water refill. So we do a lot of talking to the ground. They have a lot of data that we don’t have. So they’re checking right now to make sure I put enough water in and if not we’ll add some more. Let’s get these plants growing.
+
+Ground Control: Shane I’ve got you on two. We’re gonna need another full syringe, if you can try that again please.
+
+Shane Kimbrough: Ok Huntsville. That’s one more syringe. Let me know what you think.
+
+Megan McArthur: The quietest places on space station are probably…our sleeping quarters do have some soundproofing, but you can still always hear fan noise in there. The cupola is a little bit quieter and that’s nice when you’re watching the Earth go by to have a little bit of calm but that’s probably the sound that I miss the most from Earth is really the lack of sound, it’s just that quiet and we don’t ever get true quiet up here.
+
+[sounds of the space station – piano playing, talking, clanks]
+
+Megan McArthur: And so we, we listen to music or maybe we watch programs with headphones in to try to really be able to hear, hear well what we’re, what we’re trying to listen to.
+
+[sound of strong rain, birds singing begins]
+
+Megan McArthur:The other things that are sounds I miss from Earth are natural sounds so the sound of rain or the sound of really strong wind.
+
+Megan McArthur:Those are some of the things that I miss from sounds on Earth and of course birds singing, you know, that kind of thing. We don’t get any of that up here.
+
+[rain and bird songs stop]
+
+HOST PADI BOYD: Living in space is a dream come true for these explorers, but it can also be challenging. You’re isolated away from your family and can only access a limited living space.
+
+HOST PADI BOYD: With such a small team working so closely together, it’s important to keep morale up…and over the years, astronauts have found some pretty fun ways to shake things up. This is astronaut Chris Cassidy, on a mission in 2020.
+
+Chris Cassidy: We’re having our Russian crewmates over for dinner, so preparing a bunch of drinks, apple cider, grapefruit juice, lemon lime drink, another grapefruit juice…
+
+HOST PADI BOYD: Here are astronauts aboard the station, marking an important birthday celebration.
+
+[astronauts singing ‘Happy birthday’]
+
+HOST PADI BOYD: And this is current astronaut Thomas Pesquet, showing off his saxophone skills in microgravity.
+
+[Thomas plays saxophone]
+
+HOST PADI BOYD: Thank you so much for joining us for our listen in…on day in space. And a huge thank you to the astronauts of the International Space Station for giving us a backstage pass into the out-of-this- world experience of living in space.
+
+HOST PADI BOYD: Thomas, if you wouldn’t mind, would you play us out?
+
+Thomas Pesquet: Alright, I think that concludes our tour. Thanks a lot for flying with us today on air ISS.
+
+[plays saxophone]
+
+HOST PADI BOYD: This is NASA’s Curious Universe. This episode was originally released in 2021. It was written and produced by Christina Dana.
+
+You can find the latest information about the International Space Station at nasa.gov/station.
+
+The executive producer of Curious Universe is Katie Konans. Our team includes Christian Elliott and Jacob Pinter. Krystofer Kim designed our show art. Our theme song was composed by Matt Russo and Andrew Santaguida of SYSTEM Sounds.
+
+If you enjoyed this episode of NASA’s Curious Universe, let us know! Leave us a review wherever you’re listening right now, or share a link to this show with one of your friends. You can also follow NASA’s Curious Universe in your favorite podcast app to get a notification each time we post a new episode.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>encore-a-day-in-space</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/encore-a-day-in-space</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-06</_collected_at_beijing>
+<_audio_verified>HEAD 跟随重定向得 audio/mpeg + 33438693 字节；整文件下载后 ffprobe 时长 1378.900 秒、字节数一致，ffmpeg 全量解码零报错</_audio_verified>
+<_child_clip_guid>urn:podcast:nasa.gov:curious-universe:encore-a-day-in-space:clip:scrubber:959.5-1004.8</_child_clip_guid>
+</item>
+<item>
+<title>The thermal amine scrubber — clip from Encore: A Day In Space (959.5-1004.8s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/encore-a-day-in-space</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:encore-a-day-in-space:clip:scrubber:959.5-1004.8</guid>
+<pubDate>Tue, 02 Dec 2025 14:22:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-day-in-space-encore-clip-scrubber.mp3" length="708592" type="audio/mpeg"/>
+<itunes:duration>45</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】Megan McArthur 讲空间站里最让她意外的声音：热胺洗涤器像巨兽在耳边叹气，幸好老宇航员 Shannon Walker 说“它一直这样”；主持人接话：微重力与极端温差正是空间站实验的独特条件。
+【Reels 角度】空间站里最吓人的声音：一台机器像巨兽在你耳边叹气——宇航员原声讲述。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; the episode transcript marks music cues (Curiosity theme, 11 Alive Underscore, Hope and Glory Underscore, A Warm Embrace 1 Instrumental, Innocent Activities Instrumental, Jungle Dawn Underscore, astronauts singing 'Happy birthday', Thomas Pesquet saxophone) all outside this segment. Mid-clip station sound is the thermal amine scrubber exhale (original ISS audio, not music).
+【来源】https://www.nasa.gov/podcasts/curious-universe/encore-a-day-in-space
+【采集日（北京时间）】2026-11-06
+【发布时间精度】exact（Inherits parent original publish date (NASA Curious Universe Megaphone RSS: Tue, 02 Dec 2025 14:22:00 -0000); clip itself was modelled 2026-11-06 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:encore-a-day-in-space
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/encore-a-day-in-space
+【片段】原集 959.5-1004.8 秒，45.3 秒，原声，未加 BGM，文件：clips/nasa-day-in-space-encore-clip-scrubber.mp3]]></description>
+<content:encoded><![CDATA[When I first came to space station, the sound that surprised me was actually here in the lab, and it's the thermal amine scrubber. And if we're lucky, we might hear it make this noise but I was floating through the lab directly underneath it and it makes kind of this big, it's almost like an exhale, it sounded like something very large exhaling right next to me and it really startled me. Fortunately Shannon Walker who had, was outgoing crew, had been up here for six months. She said, Oh, don't worry about that. It does that all the time. The unique features of the space station, like microgravity and proximity to extreme temperatures, create a prime opportunity for experimentation in the different labs.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>encore-a-day-in-space-clip-scrubber</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/encore-a-day-in-space</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-06</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 45.3s / 708592 bytes (ffmpeg cut from verified full MP3 in this run, 2026-11-06); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-day-in-space-encore-clip-scrubber.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-day-in-space-encore-clip-scrubber.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-day-in-space-encore-clip-scrubber-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-day-in-space-encore-clip-scrubber-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:encore-a-day-in-space</_parent_guid>
+<_parent_id>nasa-encore-a-day-in-space</_parent_id>
+<_clip_start_s>959.5</_clip_start_s>
+<_clip_end_s>1004.8</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>The cryocooler — clip from How Webb Illuminates Stars’ Cloudy Origins (314.0-351.3s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/how-webb-illuminates-stars-cloudy-origins</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:webb-cloudy-origins:clip:cryocooler:314.0-351.3</guid>
+<pubDate>Tue, 30 Sep 2025 13:19:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-webb-cloudy-origins-clip-cryocooler.mp3" length="692633" type="audio/mpeg"/>
+<itunes:duration>37</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】Webb 的 MIRI 仪器必须比望远镜其余部分更冷：巨大的遮阳板挡住阳光，星载氦制冷机把 MIRI 维持在零下 440 华氏度以下、只比绝对零度高几度，才能看清恒星诞生云里的分子。
+【Reels 角度】韦伯望远镜的冰箱：零下 440 华氏度，只比绝对零度高几度——没有它就看不见恒星的诞生云。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; the episode transcript marks music cues (Curiosity, Blurred, Mapped Out, Steady Flow, Golden Pathway, The Circle of Life, Building Ideas, Evolving Earth) all outside this segment; the Steady Flow cue precedes this segment.
+【来源】https://www.nasa.gov/podcasts/curious-universe/how-webb-illuminates-stars-cloudy-origins
+【采集日（北京时间）】2026-11-06
+【发布时间精度】exact（Inherits parent original publish date (NASA Curious Universe Megaphone RSS: Tue, 30 Sep 2025 13:19:00 -0000); clip itself was modelled 2026-11-06 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:webb-cloudy-origins
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/how-webb-illuminates-stars-cloudy-origins
+【片段】原集 314.0-351.3 秒，37.3 秒，原声，未加 BGM，文件：clips/nasa-webb-cloudy-origins-clip-cryocooler.mp3]]></description>
+<content:encoded><![CDATA[But MIRI also presents a unique challenge. Webb has to stay cold. Otherwise, heat from the Sun and Earth would interfere with its night-vision-goggle view. So Webb has a huge sunshield that blocks the Sun's radiation, keeping the telescope extra cold. MIRI needs to stay even colder than the rest of the telescope. So onboard Webb, MIRI has its own special refrigerator, called the cryocooler, which uses helium to maintain a temperature below minus-440 degrees Fahrenheit, hovering just a few degrees above absolute zero.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>webb-cloudy-origins-clip-cryocooler</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/how-webb-illuminates-stars-cloudy-origins</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-06</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 37.3s / 692633 bytes (ffmpeg cut from verified full MP3 in this run, 2026-11-06); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-webb-cloudy-origins-clip-cryocooler.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-webb-cloudy-origins-clip-cryocooler.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-webb-cloudy-origins-clip-cryocooler-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-webb-cloudy-origins-clip-cryocooler-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:webb-cloudy-origins</_parent_guid>
+<_parent_id>nasa-webb-cloudy-origins</_parent_id>
+<_clip_start_s>314.0</_clip_start_s>
+<_clip_end_s>351.3</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>How Webb Illuminates Stars’ Cloudy Origins</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/how-webb-illuminates-stars-cloudy-origins</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:webb-cloudy-origins</guid>
+<pubDate>Tue, 30 Sep 2025 13:19:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:full-episode</category>
+<category>production:text-script</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION1470044317.mp3" length="33377511" type="audio/mpeg"/>
+<itunes:duration>1376</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】full-episode, text-script
+【摘要】Webb 如何照亮恒星的 cloudy 起源：天文学家 Ewine van Dishoeck 讲星际暗云里的气体、尘埃与冰如何成为化学实验室——一立方厘米的实验室星际空间、比实验室真空稀薄百万倍的暗云、MIRI 中红外仪器与零下 440 华氏度的制冷机，以及水、甲醇、乙醇、糖类等“蛋糕配料”如何在尘埃颗粒上形成，最终成为行星与生命的原料。
+【Reels 角度】韦伯望远镜的冰箱：MIRI 要冷到零下 440 华氏度、只比绝对零度高几度——没有这台氦制冷机，就看不见恒星诞生的云。
+【许可证】Public domain：美国联邦政府作品（NASA 官方播客），一般不受版权保护
+【权利说明】可剪辑/再分发，不得暗示 NASA 背书；本集文字稿中标有音乐 cue（Curiosity、Blurred、Mapped Out、Steady Flow、Golden Pathway、The Circle of Life、Building Ideas、Evolving Earth 等配乐），正式发布前需逐项再核片段内音乐；本批 ready-clip 已核为原声讲话段、未加 BGM，片段内无音乐 cue。
+【来源】https://www.nasa.gov/podcasts/curious-universe/how-webb-illuminates-stars-cloudy-origins
+【采集日（北京时间）】2026-11-06
+【发布时间精度】exact（NASA Curious Universe Megaphone RSS: Tue, 30 Sep 2025 13:19:00 -0000）
+【子片段 GUID】urn:podcast:nasa.gov:curious-universe:webb-cloudy-origins:clip:cryocooler:314.0-351.3]]></description>
+<content:encoded><![CDATA[[Music: Curiosity by SYSTEM Sounds]
+
+HOST JACOB PINTER: You’re listening to NASA’s Curious Universe. I’m your host, Jacob Pinter. Out in the cosmos, in the space between stars, gas, dust, and ice mingle in dark clouds. Eventually, after millions of years, these clouds will evolve into stars with planets orbiting them. With telescopes, we can see how it all happens.
+
+[Music: Blurred by Robert Leonard Lewis]
+
+And in a lab in the Netherlands, you can almost put your hands on it.
+
+EWINE VAN DISHOECK: I always like to say that this is one cubic centimeter of interstellar space—or something like that—that we have in the lab.
+
+JACOB: Ewine van Dishoeck is an astronomer based at the University of Leiden in the Netherlands. To figure out how those dark clouds become stars, she combines telescope data with what she sees in the laboratory.
+
+EWINE: Your experiments in the lab on Earth will take hours, which is good because then a student can finish it in a day, whereas in space they would take hundreds of thousands of years.
+
+JACOB: On Earth, you can’t manage a perfect simulation of space. But in some ways, you can get close. Those clouds of dust and gas are far colder than anything that happens naturally on Earth. They can be below minus-400 degrees Fahrenheit, not far from absolute zero. Reaching those temperatures is actually not the hard part. We can’t achieve the emptiness of space.
+
+EWINE: And even the best ultra-high vacuum that we can make in a laboratory on Earth is still a million times more dense than what we have in space. So when an astronomer talks about a dense, dark cloud, it’s still much more empty than anything we have in a laboratory here on Earth.
+
+JACOB: In the lab you get a close-up view of the same chemicals we find out in space, and that helps us understand how they behave and how we can detect them. Scientists study these clouds and their chemistry in a number of ways, a nd they have a groundbreaking new tool: NASA’s James Webb Space Telescope. In space, a million miles from Earth, Webb is giving us views of the cosmos that no other telescope can. And that includes the clouds where stars form.
+
+JACOB: Now, Ewine is a distinguished astronomer who has won a number of major awards, but at the beginning of her career she didn’t set out to study space. As a high school student, Ewine decided she wanted to be a chemist. At university, she realized she was interested in physics, too. And then there was one other influence.
+
+EWINE: And then my boyfriend—now husband—was actually studying astronomy.
+
+[Music: Mapped Out by Christopher Mcguire]
+
+And he realized that there were also molecules in space, that there was chemistry in space. And so at some stage he actually said to me, “Well, isn’t that something for you?” And so that is how I actually made the transition from pure chemistry—studying theoretical chemistry, quantum chemistry—to astronomy.
+
+JACOB: I mean, that’s a good boyfriend who points you in the right direction, I guess. [laughs]
+
+EWINE: Well, I’ve never regretted that transition because the space between the stars is such a fantastic chemical laboratory also. It’s much more exciting than a laboratory here on Earth.
+
+JACOB: Scientists are studying those chemicals to understand not only how planets form but how they end up with water and even the building blocks of life. And by exploring this process in space, we can also learn more about why Earth has water and life. For decades, Ewine has been part of an international collaboration to make that research possible. NASA and ESA, the European Space Agency, built an instrument on the James Webb Space Telescope called MIRI. MIRI is an acronym that stands for Mid-Infrared Instrument. One of the things that’s so special about Webb is that it sees in infrared, a part of the light spectrum human eyes can’t see. If you’ve ever seen a movie character use night-vision goggles that detect heat signatures, even in the dark, well, Webb is doing something similar to that. Looking at infrared light allows scientists to peer inside dark clouds and see details that otherwise stay hidden.
+
+[Music: Steady Flow by Carl David Harms]
+
+Of the four instruments onboard Webb, three of them focus on a portion called the near-infrared. MIRI gives a different view, like a painter unlocking a new set of colors. It collects images and also spectra—scientific data that provide detailed information about molecules in space.
+
+But MIRI also presents a unique challenge. Webb has to stay cold. Otherwise, heat from the Sun and Earth would interfere with its night-vision-goggle view. So Webb has a huge sunshield that blocks the Sun’s radiation, keeping the telescope extra cold. MIRI needs to stay even colder than the rest of the telescope. So onboard Webb, MIRI has its own special refrigerator called the cryocooler, which uses helium to maintain a temperature below minus-440 degrees Fahrenheit, hovering just a few degrees above absolute zero.
+
+JACOB: And Webb doesn’t do this research alone. Scientists like Ewine can use Webb to tag-team with other telescopes, including a powerful one in Chile called ALMA, the Atacama Large Millimeter Array. I was excited to ask Ewine about Webb and how she helped bring part of the telescope to life.
+
+(to Ewine) When did you first start working on the James Webb Space Telescope? I wonder if you can take me back right to the beginning.
+
+EWINE: Right. So that must have been sort of the late 1990s. We were just coming out of the Infrared Space Observatory, the ISO satellite. That was an ESA satellite that for the first time had measured infrared spectra above the Earth’s atmosphere, and we had realized how incredibly rich these spectra were. And at that time, the Mid-Infrared Instrument was still sort of TBD. It was still not sure that it was going to be on Webb. And so it was the late 1990s, early 2000s when as a small group we started to make the case and said, you know, Webb really has to have also a mid-infrared instrument. And fortunately we were successful in making that case, and it became not just a simple imager but also with a proper spectrometer on it that we argued very hard for based on the data that we had gotten from that earlier satellite. And that’s what we now have.
+
+JACOB: And so the first public data came six or seven months, I think, after the telescope launched?
+
+EWINE: Those were some agonizing months still where, you know, the telescope had unfolded and it was getting sharp, but MIRI still had to be cooled. And so that was always one of those moments: you know, will the refrigerator turn on? Will the cooler turn on to make the instrument cold? So that was, for me, an enormous relief when we could see on the live webcam the temperature actually of MIRI going down and down and down until finally it was at the temperature where it could actually operate.
+
+JACOB: What a whirlwind.
+
+EWINE: Yeah, yeah, yeah. But it had a happy ending.
+
+JACOB: And once you did get that data for the first time and then you got more data and you got the chance to work through it, what did you actually see at first? And I guess, can you compare the details you saw from James Webb to data that you had had before James Webb launched?
+
+EWINE: Yeah, that’s a very good question. Of course, in the beginning, you tried to also look at something that you’ve seen before. One of that was images. So one thing that JWST of course excels at is the imaging and the really fantastic and beautiful in-depth imaging that is now possible with Webb. So much detail that you see there. But my scientific heart is mostly in the spectra. And when we first got some of those spectra, you know, it was just much richer and much higher quality than we had been anticipating. And so I remember seeing some of it and saying, Wow, if I compare that with—in particular, either the Infrared Space Observatory from the 1990s or the Spitzer Space Telescope, which also has been a fantastic trailblazer for Webb, then we could see just the enormous improvement in quality of the spectra. What used to be just tiny little wiggles in the older data now were sort of booming lines that we could very clearly see and identify. So that was just one of these moments that you dream of.
+
+JACOB: So let’s talk a little bit more about what we know about the science and what we’re learning. I’m imagining a planetary system kind of like a cake. Like, by the time you get to our solar system and you have all these beautiful planets, it’s done and the frosting is on it and it’s ready to eat. But if you’re going to make a cake, you need a recipe, and before you start the recipe you have to gather your ingredients. So I’m wondering, if we are going to make a star or a planetary system, what are the ingredients that we need or that we might see at the beginning that will turn into that system?
+
+EWINE: Right! So, indeed, that’s an analogy that I very much like. There’s a lot of excellent research being done on exoplanets, but they have already come out of the oven, and we are actually providing the ingredients that go into making that cake.
+
+[Music: Golden Pathway by Hugh Robert Edwin Wilkinson]
+
+So actually, those ingredients start already at the very early stage, when the dark cloud in which a star forms is actually collapsing under its own weight. And those clouds are cold, and that means that atoms and molecules that are in the gas can actually freeze out, collide with the cold dust grains and form an icy layer. Think a little bit about when you have your car on a cold winter day and you know that, you know, an icy layer can form on it simply from the atmosphere, molecules freezing out onto your windshield. So the same thing happens there with these dust grains. Atoms, molecules freeze out. But then also new reactions can actually occur on those tiny little dust grains. They are sort of a place where atoms and molecules meet and greet and can actually form new compounds, like water for example. Most of the water that we see that we have here on planetary systems was actually formed on those tiny little dust grains in the cloud, out of which the star and its planetary system collapsed. OK, so that is something that Webb can now study with exquisite detail. It sees not just the water ice and the carbon dioxide ice, but it sees also molecules—much more complex molecules. For example, methanol. But even ethanol, simple alcohols, simple sugars, molecules that, you know, could be important in not just bringing water but also bringing organic material to the surfaces of new planets. So a lot of the chemistry—a lot of those ingredients, actually, that you need to make your cake are already inherited from that very early stage.
+
+JACOB: And so if those are our ingredients, what does the recipe look like then? Like, how does all of that come together and get smushed into something and come out the other side as a star and maybe a planet or some planets orbiting it?
+
+EWINE: Well, that is a very good question. The star basically originates from the collapse of the cloud, and then the process of it heating up over time—that’s basically gravity doing its work. Exactly how a planetary system is formed, that is still one of the big questions in astrophysics. What we do know is that these tiny little dust grains—just a small fraction of the width of your hair—that they can actually collide and grow to larger bodies: say, pebbles; say, rocks; say, planetesimals, as we call them, comet-sized bodies about a kilometer in size. Those pebbles and those planetesimals, those are actually the building blocks of new planets.
+
+[Music: The Circle of Life by Carl David Harms]
+
+JACOB: I remember way back in elementary school or something, you know, we learn that the earth is 4.6 billion years old and that before it became a planet, it was this disk of spinning—I don’t even know what—dust and gas maybe? Is that something that you see out there in the cosmos as well?
+
+EWINE: Oh yes, indeed. It was in the 1990s that actually these disks were actually seen—convincingly seen—for the first time. And then ALMA, the Atacama Large Millimeter Array, has now beautifully imaged these rotating disks of gas and dust around many young stars. So we now know that they have the size of, typically, our solar system and they are also not smooth. They contain gaps, cavities, structures, bumps, in which the dust grains actually collect. We call them dust traps. And so that all now plays a role in what we are now seeing with JWST. And what we see there is just an incredible richness of molecules. Some of them are very rich in water. Others are rich in CO 2 . And then the big surprise is that we have found some disks that are actually very rich in carbon-containing molecules. They have very little water, but they are booming in, for example, acetylene. And some of them even in benzene. So there’s a lot of sort of chemistry and cooking still going on in that inner part of the disks around the young stars that we do not fully understand yet, but that may have a large influence on what kind of planets we actually make there.
+
+JACOB: I mean, one of the big—maybe the biggest questions that NASA and other space organizations want to know is, could there be life out there? Could we somehow detect signs of life? And we’re looking for it in all kinds of different ways, but when I hear you talk about the ingredients for stars and planetary systems and finding water in lots of places and finding some organic chemistry—or precursors to organic chemistry—that’s where my mind goes right away. Is that something you think about? Is it something you look for? And I guess, how do you think your research fits into that?
+
+EWINE: Yeah, it’s, of course, the ultimate question, and the question that certainly fascinates humanity. I always like to get to the point of providing the biologists with the ingredients. Water? Water is clearly there. It’s a lot of that. There’s plenty of water around most forming stars and in most disks around these young stars where planet formation occurs. So there is quite a lot of water. Not all of that may make it to the terrestrial planet-forming region, but certainly in the disk as a whole, there is a lot of water. There’s certainly a lot of organic material. So those ingredients are available. What the steps are that then will ultimately produce life is something that I very much like to leave to my organic chemistry and biology colleagues. There’s a lot of work going on now in trying to understand how to make the first cell, for example. We know we have all the basic building blocks, but how to actually put a puzzle together—how to put sort of the Lego pieces together to get there—that is something that certainly I don’t have enough expertise in. I’m probably a little bit more conservative than some of my other colleagues in terms of when we will find the signatures of life. That’s—it’s still going to take some time and instruments and missions beyond JWST, but all the steps that we are making now in terms of knowing what the ingredients are—where and how everything is coming together—that are just all key steps in this whole sort of story towards finding life elsewhere in the universe.
+
+JACOB: Well, I’ve got one final question for you. The name of our show is Curious Universe, so I always like to ask: what are you still curious about?
+
+EWINE: Well, I should say, as a chemist, I’m really curious as to how those atoms come together to form, you know, even the simplest molecules. We have theories for that, but at some stage, you would really like to see it with your own eyes.
+
+[Music: Building Ideas by Todd James Carlin Baker]
+
+I think actually, just knowing what made our Earth and whether or not it is special, I think that would also be an incredibly important question. Putting our own Earth into context. I’m still from the Star Trek generation, so sometimes I wish that I could just be a science officer on a starship and just travel to the Orion Nebula and really take a scoop of the material there and just study it in great detail and then see what is everything that is really there.
+
+JACOB: Ewine van Dishoeck is an astronomer based at the University of Leiden in the Netherlands.
+
+JACOB: You know, some of Webb’s most striking images feature nebulae where stars are born. We’re going to include one of those images in the webpage for this episode. It’s a section of the Lobster Nebula, which is several thousand lightyears away from Earth. In this image, you see young stars that are extremely hot—some of them eight times hotter than the Sun. And these infant stars have shaped jagged peaks in the nebula’s cloud and carved out a cavity in the gas. I mean, you can really see how punishing the winds and radiation are that come from stars being born. You can find that webpage and transcripts for every episode of this show at nasa.gov/curiousuniverse .
+
+For more information and the latest news about the James Webb Space Telescope, head to nasa.gov/webb . And if you liked this story, you will love NASA’s documentary Cosmic Dawn.
+
+[Music: Evolving Earth by Todd James Carlin Baker]
+
+To deliver the science data you heard about in this episode, Webb’s engineers spent decades designing the telescope, building and testing it, and finally, launching it a million miles into space.
+
+PAUL GEITHNER (Deputy Project Manager – Technical for the James Webb Space Telescope): We had this singular purpose for 25 years: to make the James Webb Space Telescope a reality. And, you know, people did think we were nuts at first because the technical challenges were so daunting and the number of things we had to advance or literally invent were numerous.
+
+JACOB: Pop some popcorn and experience the incredible true story of the James Webb Space Telescope in the NASA documentary Cosmic Dawn. Head to nasa.gov/cosmicdawn.
+
+This is NASA’s Curious Universe. This episode was written and produced by me, Jacob Pinter. Our executive producer is Katie Konans. The Curious Universe team also includes Christian Elliott and, of course, Padi Boyd. Krystofer Kim designed our show art. Our theme song was composed by Matt Russo and Andrew Santaguida of SYSTEM Sounds.
+
+We had fact-checking help on this episode and others in our Webb series from Laura Betz, Alise Fisher, Amber Straughn, and Stefanie Milam.
+
+As always, if you enjoyed this episode of NASA’s Curious Universe, we would love to hear about it. Leave us a review wherever you’re listening right now. Maybe send a link to this show to one of your friends. And remember, you can follow NASA’s Curious Universe in your favorite podcast app to get a notification each time we post a new episode.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>webb-cloudy-origins</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/how-webb-illuminates-stars-cloudy-origins</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-06</_collected_at_beijing>
+<_audio_verified>HEAD 跟随重定向得 audio/mpeg + 33377511 字节；整文件下载后 ffprobe 时长 1376.340 秒、字节数一致，ffmpeg 全量解码零报错</_audio_verified>
+<_child_clip_guid>urn:podcast:nasa.gov:curious-universe:webb-cloudy-origins:clip:cryocooler:314.0-351.3</_child_clip_guid>
 </item>
 <item>
 <title>Coral Bleaching</title>

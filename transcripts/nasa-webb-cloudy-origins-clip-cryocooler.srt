@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:02,460
+But MIRI also presents a unique challenge.
+
+2
+00:00:03,910 --> 00:00:05,010
+Webb has to stay cold.
+
+3
+00:00:05,670 --> 00:00:07,570
+Otherwise, heat from the Sun and Earth
+
+4
+00:00:07,570 --> 00:00:10,010
+would interfere with its night-vision-goggle view.
+
+5
+00:00:11,080 --> 00:00:14,300
+So Webb has a huge sunshield that blocks the Sun's
+
+6
+00:00:14,300 --> 00:00:17,120
+radiation, keeping the telescope extra cold.
+
+7
+00:00:18,720 --> 00:00:21,740
+MIRI needs to stay even colder than the rest of the telescope.
+
+8
+00:00:22,580 --> 00:00:26,080
+So onboard Webb, MIRI has its own special refrigerator,
+
+9
+00:00:26,280 --> 00:00:29,040
+called the cryocooler, which uses helium
+
+10
+00:00:29,040 --> 00:00:33,640
+to maintain a temperature below minus-440 degrees Fahrenheit,
+
+11
+00:00:34,400 --> 00:00:37,220
+hovering just a few degrees above absolute zero.
+
