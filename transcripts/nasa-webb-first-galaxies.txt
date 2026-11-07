@@ -1,0 +1,193 @@
+[Music: Curiosity by SYSTEM Sounds]
+
+JACOB PINTER: You’re listening to NASA’s Curious Universe. I’m your host, Jacob Pinter.
+
+The James Webb Space Telescope is giving us revolutionary new information about the universe. From the earliest galaxies we have ever been able to detect to the birth and evolution of stars and even to planets in our own backyard. In this episode and the next several episodes of Curious Universe, we’re diving into some of these new discoveries. Today, we’re looking back to baby pictures of the universe.
+
+To begin this story, let’s take a very short trip in our time machine. Now we have put some miles on the ol’ Curious Universe time machine. We’ve taken it back billions of years, all the way to the Big Bang and the beginning of everything. Well, not this time. We’re heading back just three short years.
+
+MICHELLE THALLER (from NASA’s “First Images From the James Webb Space Telescope” broadcast): This is the day we get the first images back from the James Webb Space Telescope, and you have a front-row seat to the cosmos.
+
+JACOB: It’s July 2022. After 25 years of development, construction, testing—and finally, launch—the James Webb Space Telescope is gazing out at the universe, and NASA scientists are revealing its images for the very first time.
+
+[Music: Meditate by Liam Joseph Hennessey]
+
+JANE RIGBY: And so now we’re gonna—let’s do it.
+
+THALLER: We’ve got the whole world watching. Are you ready to put the first image up?
+
+RIGBY: Oh let’s do it. Let’s do it.
+
+THALLER: Right. Here we go.
+
+RIGBY: Ah! So if we come up and look at this image—first of all, it’s really gorgeous, and it’s teeming with galaxies.
+
+JACOB: Just one picture can contain so much. Sure, it’s beautiful. You don’t need a trained eye to see that. But what’s really going on here? Each image focuses on one small sliver of the sky, and Webb shows us the details that are hiding, waiting to be discovered—but only if we have the right tools to see them.
+
+AMBER STRAUGHN: Honestly it took me a while to even figure out what to call out in this image. There is just so much going on here. It’s so beautiful. One thing that really stands out to me is you sort of get this sense of depth… (fades out)
+
+JACOB: Now, I want to peel back the curtain a little bit. Because just getting to the point where we can see those images is its own mountain to climb. The James Webb Space Telescope is a telescope, obviously. But because it’s more complicated than the kind of telescope you could set up in your backyard—and also it’s in space, million miles from Earth—it takes a lot more work to make sense of what Webb is seeing. In fact, the raw data coming into the Webb telescope doesn’t look anything like those pretty pictures.
+
+MIC BAGLEY: It honestly looks like a TV screen that’s got the static. There’s not—visually, there’s nothing there.
+
+[Music: Talking Tech by Jay Price]
+
+So it looks like you’re just seeing noise.
+
+JACOB: Mic Bagley is a NASA scientist with a pretty intimidating job title.
+
+MIC: I’m the JWST project scientist for data, pipeline, calibration, and archives, and I can’t believe I haven’t come up with a shorter name for that title yet.
+
+JACOB: To show us the universe, Webb has to collect light. When we see images of distant galaxies, that means light particles from those galaxies traveled for billions of years all the way across the universe and eventually smacked into Webb’s mirrors. So not only are we looking far away from Earth, we’re looking back in time to the early life of the universe. It’s up to a team of scientists, including Mic, to make sure all of that light becomes information the world can use.
+
+MIC: The telescope is primarily getting data in ones and zeros. And so the computers on board are measuring—you know, the detectors are electronic, and you’re looking at when a photon hits the detector, it kicks off an electron, and we’re sort of counting electrons.
+
+JACOB: Wow.
+
+MIC: So we’re not actually counting light. We’re counting the effect, the indirect effect, of light on the metal detectors. This is like Einstein’s—
+
+JACOB: Wow!
+
+MIC: —Nobel Prize, the photoelectric effect. I’m sort of glossing over so many, you know details.
+
+JACOB: And I appreciate that.
+
+MIC: But that’s what gets sent down.
+
+JACOB: Once Mic has this information, it goes through a process called cleaning. The Webb telescope is super sensitive to heat, but its onboard electronics produce heat, which can show up in the data. So they have to subtract the heat. The telescope’s computers vibrate a little bit, so you have to account for that. Sometimes astronomers find unexpected artifacts—these little unwanted signals that get in the way of what the telescope is actually looking for.
+
+MIC: Light from a bright star way, way off in the distance—is getting scattered into your image and creating all of these fun patterns. And we’ve got great names for these things. There’s dragon’s breath, claws, wisps, snowballs. We’ve got great names for all of these things that can happen when light or cosmic rays hit the detector and create these artifacts, but all of those get in the way of the science you want to do, so you have to find some way to subtract them all out.
+
+JACOB: After more processing, you end up with an image. When you see a beautiful picture from Webb, you might actually be looking at a mosaic of hundreds of individual images, stitched together. But Webb also collects spectra of the objects it studies, and Webb’s spectra are what scientists get really excited about. These measurements spread out the different wavelengths of light like a rainbow. With that information, we can learn a ton about planets, stars, and galaxies, like what they’re made of and how hot they are.
+
+[Music: Emerging Fragments by Jay Price]
+
+In other episodes of this series, we’re going to hear what Webb is teaching us about how stars form and about the planets in our solar system and exoplanets orbiting faraway stars.
+
+Today, we’re starting with Mic’s specialty: distant galaxies. Mic was part of a science team called CEERS. That’s an acronym, and it stands for Cosmic Evolution Early Release Science Survey. That team was one of the first to work with data from Webb once it became public. In the early days of Webb’s science campaign, Mic helped detect one of the most distant galaxies ever observed. The CEERS team named that galaxy Maisie’s Galaxy. In a few minutes, Mic will explain how they found it and why they named it after a real person.
+
+One other cool thing about Mic: they’re also planning for the future. NASA’s Nancy Grace Roman Space Telescope is scheduled to launch no later than 2027, and Mic is one of the scientists helping to prepare, even before Roman leaves Earth.
+
+We’ll get to all that. But first, I asked Mic to start at the beginning.
+
+(to Mic) What are you trying to find out about the universe?
+
+MIC: So I’m really interested in the very early universe. So you have the Big Bang, and then a couple hundred million years happen, and then I want to know what happens then. How do you get the first galaxies that form? Where did the first stars form, and how? How did the first galaxies turn into, you know, grow and turn into the Milky Way today? There’s a lot of information that we don’t understand, and I find it really exciting to be looking at—sort of to be pushing the limits of what we can observe, going as far back in time as we can possibly see. We’re really pushing—JWST is so powerful, but we’re really at this point, talking about pushing it to its limits to figure out what happened first in the universe.
+
+JACOB: Wow.
+
+MIC: So looking at, sometimes I call them baby galaxies, because you’re looking at them when they’re really young and really tiny, and, you know, that’s not something we can see around us in the universe today. We really have to go very, very far back in time to see what’s going on.
+
+JACOB: I wonder if you can fill in the blank for me in this sentence: The James Webb Space Telescope is teaching us _____ about galaxies.
+
+MIC: Everything! (Laughs) No, that’s probably not fair. I mean, it’s teaching us how galaxies form and evolve, because it’s opened up a new wavelength range for us to study. And it’s opened up—it’s given us sharper images and deeper exposures and more photons, and so the amount of information that we have now to study what is going on in the gas and the stars and the dust and all of the elements that are being formed and all of the the winds that are blowing off the stars—it’s all new. It’s things that we sort of anticipated we would see, and some of it we definitely saw with Hubble. Hubble was really powerful, but JWST is just pushing everything to further distances, more details, smaller scales. It’s giving us so much more information at almost every scale and every time period of galaxy evolution. So it’s really hard to answer that question with, like, a single, you know. “This is what it’s telling us.”
+
+JACOB: Yeah, yeah, yeah. It sounds like that’s the answer. It’s teaching us everything. And so, how did you yourself start working with the James Webb Space Telescope? Like, did you seek this out? Like, this is a tool that I need, how can I get involved? What was that like?
+
+MIC: I’d been thinking about JWST since, I don’t know. I know there have been folks who’ve been working on this for decades. I think I sort of became aware of it around 2012, 2013 in grad school. And—
+
+JACOB: So that’s a solid eight, nine years before it launched, right?
+
+MIC: Yeah, right. And so it was—the research that I was doing in graduate school was all, here’s what we can do studying early galaxies with Hubble. And, you know, you had that whole chapter, and here is everything we’ll be able to do with this telescope that doesn’t exist yet. And so that was really exciting. And at the time, I was doing a lot of, like, thinking about what could we do if it exists—if it launches, when it launches?
+
+JACOB: How do you imagine and even simulate what the telescope is going to find if it’s got these capabilities that we’ve never had before, and it’s going to show us things we’ve never seen?
+
+MIC: Well, so we had, like, sort of the design specifications. And “we” is a huge group of people, right? So the Space Telescope Science Institute had provided sort of sensitivity estimates and expectations for how the detectors would work. And a lot of this would get tested in labs before the—you know, before things were actually built and documented. And then, so you can take sort of an estimate of, This is how sensitive the detectors are going to be; this is what color light the filters will be sensitive to; this is how efficiently the detectors will turn photons into data. And you sort of take all of those pieces together, and you can simulate—taking every single piece of that, you can simulate what an image will look like. And then you make up a universe, basically, because we didn’t have any images that existed that were deep enough to show what JWST would see.
+
+JACOB: Yeah.
+
+MIC: So we would create a universe from theory, from simulations, using just dark matter halos. And you sort of stitch—I’m not a theorist, so this isn’t my world.
+
+JACOB: You create a universe in a supercomputer or something?
+
+MIC: In a box, yeah. Yeah. A supercomputer in a—you’ve got, like—covering a very small area, but going into depth about, yeah, it’s in a supercomputer. And you pull out from that universe, OK, if I were to look at this patch of sky, what would I see? So now you have an image with no noise, no anything. You’ve got this perfect, pristine image of this fake universe that covers—you know, it has properties that are defined by physics. If you pressed “go” on the universe, you’d get galaxies that were sort of clustered this way.
+
+JACOB: From what we know—from what we think we know about …
+
+MIC: From what we think we know, this is how the gas would interact from gravity, and this is how—and then you take that perfect, ideal image. And you sort of observe it with JWST, with everything you know about how you expect it to work. And then you create images and spectroscopy from that data and go from there. And, I mean, you don’t know. There were a lot of things that we see in the real data that we didn’t expect, a lot of artifacts and features that were new. When the telescope launched and they opened—you know, they started taking images, there were a lot of things that were like, Oh, I wasn’t expecting to see that. We got to figure out how to deal with that. And at the same time, the images that truly came out of the telescope are a lot more sensitive than what we simulated. Like, the images are even better than we thought they would be. The data is even cleaner. It goes even deeper.
+
+JACOB: Most of us saw these images from the James Webb Space Telescope for the first time in the summer of 2022. When did you actually start seeing data, images, whatever? And what do you remember from that?
+
+MIC: Yeah. Same time. I was, like, glued to my computer screen on July 12 or whatever, to see the one that had all the high redshift galaxies in it. I mean, I was—I cried. I was so excited to see all of the detail and all—I mean, it was so crystal clear and deep and colorful. It was so exciting to see that. The telescope had observed the data for our program, for CEERS, before, back in June, but it was all under an embargo until they released the first images. So we put ourselves in a room with no windows so that we wouldn’t be distracted. We set up a wall of coffee and snacks and whatever.
+
+JACOB: Important stuff.
+
+MIC: Important stuff. And we really did—like, 10 or 12 of us locked ourselves in a room for a week and downloaded the data and, you know, tried to see and just—and honestly spent most of the time staring at the screen. Look at that! Did you see this?! Look at that! And that’s all we did for the first whole day. And then we had to remind ourselves, your job is to clean the data and give it to the team and start doing science. But it was so, so exciting, and there was so much there that we just never expected to see.
+
+[Music: The Process by Carl David Harms]
+
+JACOB: So let’s talk about what Webb saw. Before Webb, the Hubble Space Telescope managed to look back more than 13 billion years across time and space to about 500 million years after the Big Bang. If 500 million years still sounds like a long time, well, that’s less than one twenty-fifth of the universe’s life so far. So these are early days, in the grand scheme of things.
+
+Based on what they saw from Hubble and other sources, a lot of astronomers thought that in the first few hundred million years of the universe there wouldn’t be many galaxies to find. But Webb can look even farther. And in those first days, locked in a room with a pile of snacks, Mic was one of the astronomers who started rewriting what we know about the universe.
+
+MIC: And what we found was that there’s tons. Tons and tons more galaxies forming earlier, forming faster, forming more efficiently. And so that week, we were looking to find these new galaxies, these far away galaxies. And every single time we reduced the data and, you know, iterated on a new process, there was this one candidate that kept showing up as—like, we couldn’t get rid of it. At this point, you’re doing everything you can to disprove that this is a real thing. But we couldn’t get rid of it. No matter what we did, it was always in our samples, and we started to really believe it. And so we—its existence was so hard to explain with any theory that we had leading up to that point, because it was at an earlier time and so bright that it would have had to have formed even earlier to get that big and bright by the time we were observing it. And it was so exciting to find it that the [principal investigator] of our program ended up naming it after his daughter. So it’s called—
+
+JACOB: This is Maisie’s Galaxy?
+
+MIC: Maisie’s Galaxy, yep. We discovered it on his—on our P.I., Steve Finkelstein’s, birthday. And then we kept trying to, you know, get rid of—disprove it. It can’t be real, it can’t be real, it can’t be real. And then we finally decided it was real, like we believed it on her birthday, on Maisie’s birthday. And so we wrote this paper. We had not planned to write a paper quickly, but we started writing this paper saying, I think this is real—you know, let’s, let’s share it. And then we were on a telecon. It was like, 10 o’clock at night. I don’t remember who suggested it, but it was like, “Why don’t we just call it Maisie’s Galaxy? The editor of the journal can yell at us later.” And it stuck.
+
+JACOB: I actually—I copied down a real footnote in the paper that says, you know, we believed in this source on the ninth birthday of the lead author’s daughter. So we’re naming it after her. It’s perfect!
+
+MIC: Right? And, you know, part of that was the 10 o’clock at night after we’ve been locked ourselves in a room for a week. And the other part of it was like, I dare you to challenge us. We named it after somebody’s daughter.
+
+JACOB: But the name stuck, right?
+
+MIC: The name stuck, Maisie’s Galaxy. With an image, you can really just have a guess at how far away a galaxy is, and it was spectroscopically confirmed. Like, it’s real. It’s really far away, and it remains one of the first—there are now several other results showing galaxies that are brighter and at further distances—but it’s one of the first real challenges to our understanding of how you can form galaxies. How do you get Maisie’s Galaxy that early in the universe? It means that the star formation had to have started earlier. It had to have been more efficient. The universe had to be much better at collapsing gas into stars than we thought before JWST, which is really exciting. Because I think the coolest, or the best, like, homage, I guess, to a telescope, is that you have to redefine what you know. The observations you get from it mean you have to redefine what you know about physics. And that’s really cool.
+
+JACOB: So now that we’ve got a few years’ worth of Webb telescope observations that, like you said, is making us rethink what we know about the early universe, what do you think are the next questions to ask and the next things to study?
+
+MIC: Yeah. What I would really like is—like, shameless plug, I want us to go earlier. I want us to go deeper. So I’m really excited by deep field astronomy, because I don’t think we can answer—we have pushed JWST sort of to—not to the limits of what it can do, but to the limits of what it can do in, like, a semi-reasonable amount of time. Usually with JWST, you’re taking, like, an hour exposure, maybe a couple hours. But if you took one point of the sky and you stared at it for tens and tens and tens of hours with JWST, you would get even more detail. There are teams that have started doing this. We’ve got some deep observations. But if we could really go even deeper, it would be a really big investment in telescope time, but it would tell us about what’s going on in the stars, in the gas 200 million years after the Big Bang. I mean, this would be extraordinary. That’s what I hope we do. And I mean, we’ve got some years, so I really hope that that happens.
+
+JACOB: The possibility is there.
+
+MIC: Yeah!
+
+JACOB: It’s just, I know that there are so many scientists all jockeying for a very limited amount of time. But, like, we could.
+
+MIC: We could, and I do think at some point we will. It’s probably not all going to happen at the same time. It’s probably like, OK, this year we’ll dedicate a little bit of time, and next year we’ll dedicate a little more, and you slowly build up this. I would like it all to happen this year—
+
+JACOB: Tomorrow!
+
+MIC: Right. I do think we’ll get there. I just want it to happen now.
+
+JACOB: Yeah.
+
+[Music: Take Flight by Tim Laws]
+
+Why do you think it’s important to study these distant parts of the universe? I mean, when you talk about, like, a couple of hundred million years after the Big Bang, I mean that is, like, literally as far away from Earth and us as you can get. Why do you think that’s important?
+
+MIC: This is a hard question that I get asked all the time, and I still am not totally sure of my answer. I sort of think twofold. One, there’s—or maybe three, I don’t know. We’re always as a society asking ourselves the question of, like, where did we come from? And so the search for life on other planets is incredibly attractive, and JWST is a huge part of that. So I see studying the early universe, and, like, the first galaxies as a part of that story, an earlier part. We’re looking at, like the Milky Way’s baby pictures. I mean, our—you look up in the sky in the desert away from city lights, and you see this gorgeous galaxy that is, you know, streaking across the sky. And if you could look at it from above, it’s a grand design spiral. It has all of these spiral arms and stars and gas and incredibly complex system and—
+
+JACOB: And it’s beautiful.
+
+MIC: And it’s beautiful. And looking at how we got from, like, a few clusters of stars to this incredibly complex, beautiful galaxy is part of the story of where we come from. It’s a part that’s really hard to relate to because it’s so far removed. But I see it as part of—I mean, if you go down a little bit of a spiritual realm, it’s part of just, like, the bigger picture of the universe and our place in it. And so the second piece, I would say, is, studying this early in the universe gives you—I think it gives you some perspective on what feels big and what feels small. And right now, a lot of things feel really big here on Earth. So I find it really calming to read stories or look at images of the early universe and sort of see, like, OK, there’s the universe is way bigger than this. It doesn’t help solve any of our problems. Doesn’t make anything better, but it’s like a way to reground, almost, for a minute. And I also think that talking about sort of the beginning of the universe is really exciting and inspiring in a way that will hopefully keep encouraging future generations of scientists to pursue science. And so I see that being a value, I hope.
+
+JACOB: Yeah. What do you imagine the next five to 10 years could look like, partly in terms of what we’ll learn, and I guess also in terms of, like, what it might feel like to use those new tools?
+
+MIC: Yeah. So I’m really—I’m excited about both those questions, or both parts of that question. I think that first about what we’ll learn, same sort of deal. I’m most excited by the things we don’t know that we’ll learn yet, like the really— the unknown unknowns, the questions we didn’t even know to ask. Because there were so many with Webb that I expect there will be so many with each new observatory that comes online. For example, JWST is not designed for surveys. It’s really designed as a focus on a small area and really do a deep dive into a targeted follow-up to see what’s going on in this one tiny pencil beam of sky. The Nancy Grace Roman telescope, in a single exposure, is going to cover, you know, like, 100 times the size of the JWST field of view. And so that telescope is going to give us an entirely different set of information on like what’s going on on large scale. So JWST is looking really deep and small, and Roman is going slightly less deep but hugely wide. So I’m excited about that.
+
+JACOB: A lot of people are familiar with the James Webb Space Telescope. A lot of people have seen the pretty pictures. What do you want people who are not following this telescope super closely—what do you want people to know about the science that’s coming out of the James Webb Space Telescope?
+
+MIC: Yeah. I think mostly that the science is completely transformational. In every topic that it studies, it has completely changed almost everything we know about anything we’re studying. It’s changed everything we know about galaxies. To my understanding it’s changed a lot of what we know or thought we knew about exoplanets. It’s changed what we know about Jupiter. So I think that it’s—the images are really pretty, but the window that it has opened up on what we can study—it’s challenged everything we know about how the universe works, and has made us have to, like, come up with new ways to explain what the telescope is seeing.
+
+[Music: Dots and Dashes by Jan Telegra]
+
+So the pictures are really pretty, but there’s so much that you can learn from them that challenges what we know about the universe.
+
+JACOB: Cool.
+
+MIC: It’s fun. (laughs)
+
+JACOB: Mic, thank you so much. This has been so much fun.
+
+Mic Bagley: I’ve had a great time.
+
+JACOB: Mic Bagley is the James Webb Space Telescope Project Scientist for Data, Pipeline, Calibrations and Archives.
+
+If you liked this episode, you will love NASA’s documentary Cosmic Dawn. Cosmic Dawn reveals the incredible true story of the James Webb Space Telescope, with never-before-seen footage from the creation, construction, and launch of this remarkable telescope. See the film at nasa.gov/cosmicdawn. And you can find the latest news from the Webb telescope and much more information at nasa.gov/webb.
+
+This is NASA’s Curious Universe. This episode was written and produced by me, Jacob Pinter. Our executive producer is Katie Konans. The Curious Universe team also includes Christian Elliot and of course, Padi Boyd. Krystofer Kim designed our show art.
+
+Our theme song was composed by Matt Russo and Andrew Santaguida of SYSTEM Sounds. Our intern is Emma Brambila. Special thanks to Laura Betz, Amber Straughn, and Liz Landau.
+
+As always, if you enjoyed this episode of NASA’s Curious Universe, please let us know. Leave us a review. Share the show with a friend. And remember, you can “follow” NASA’s Curious Universe in your favorite podcast app to get a notification each time we post a new episode.

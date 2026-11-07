@@ -1,0 +1,175 @@
+[Music: Curiosity by SYSTEM Sounds]
+
+JACOB PINTER: You’re listening to NASA’s Curious Universe, a show full of wild, wonderful adventures from Earth, all the way across the universe. I’m your host, Jacob Pinter. You know, behind every NASA space mission, there is a ton of work on the ground to get ready. Scientists and engineers are constantly testing and researching everything they can think of to make sure missions go smoothly. And when those missions have a crew aboard, that means making sure humans stay safe. Today we’ve got a story about some of the work NASA does here on the ground. And here to help us tell it, we’ve got Dina Fine Maron. Hey Dina, and welcome to Curious Universe.
+
+DINA FINE MARON: Hey Jacob! I’m happy to be here, and greetings from NASA’s Human Research Program, a team focused on studying how humans can live and work in space. It’s based in Houston at the Johnson Space Center. Today I want to talk to you about how NASA scientists are examining how the microgravity environment in space affects the human body. They’re studying it in a really surprising way right here on Earth.
+
+[Music: Driving by Paul Hartnoll]
+
+Last year, about a dozen volunteers agreed to pause their normal lives and lie in bed with their heads tilted slightly downward for 60 days. This work will continue over the next few years with several more groups of volunteers. But when you examine what these volunteers are doing, it’s pretty wild. They lie in a tilted position where it feels like their heads are slipping towards their headboards for almost two months, and they aren’t allowed to sit up for anything—even to sneeze.
+
+ANDREAS JOSHI: So the first few hours in the six-degree head-down tilt, they felt manageable, but the first night, the back pain became really intense, so I had to breathe very loudly to cope. Just, like, imagine the cyclist fighting himself up the highest mountain during the Tour de France. [loud breathing] All the time, like so.
+
+So, the pain was mostly due to the organ shifting towards the head, putting the sudden pressure on the upper chest, which just was not built to support that weight. And the first night was really tough for that reason. The second day didn’t improve much.
+
+DINA: That’s Andreas Joshi. He’s what NASA calls an analog astronaut.
+
+[Music: Glide Shot by Paul Hartnoll]
+
+In September 2024, he arrived at a large medical facility in Cologne, Germany. It’s part of the German Aerospace Center, or DLR. There, Andreas and 10 others laid in bed with their heads tilted down for 60 days to mimic microgravity spaceflight conditions. That process is officially known as unloading the body from the effects of Earth’s gravity.
+
+Think about it: on Earth we’re adapted to walk and run. Gravity pulls our weight down towards our feet every day. But in microgravity, some weird, uncomfortable stuff happens. Body fluids, like blood and water, shift headward. Your organs even move around a bit. Lying in bed with your head lower than your feet tricks the body into responding like it does when astronauts are in microgravity, including with those fluid shifts. And researchers can gather data from participants like Andreas to assess how different dimensions of the human body act before, during, and after this type of study.
+
+ANDREAS: The second day didn’t improve much, but we supported each other. We shared tips. We kept each other going. And by day three, things got better. And by day five, I would say this was the new normal. The position was like the most critical factor. There was a camera by the bed that filmed us—really 24/7—and it made sure that we didn’t get up from the bed or that we even bended our knees or raised them in ways that really could affect the experiment.
+
+DINA: Despite daily exercise in-flight, astronauts typically return to Earth with altered balance and walking abilities. It can take a few days for them to regain their land legs. Researchers think things like in-flight balance training and electrical muscle stimulation may help crew members recover faster. They also want to speed up how quickly astronauts can get to work with mission-critical tasks when they land on the Moon or Mars. That’s why a big focus of this ongoing bedrest study is trialing such approaches. And that’s where the scientists come in, like Seward Rutkove at Harvard.
+
+SEWARD RUTKOVE: My name is Seward Rutkove, and I’m a neuromuscular neurologist.
+
+[Music: Designing the Future by Carl David Harms]
+
+DINA: Seward is a doctor who typically sees patients in the Boston area with Lou Gehrig’s disease and muscular dystrophies. But he also has done work with NASA over the years. And one day he saw a NASA solicitation specifically asking for projects that could be part of a bed rest study. He was intrigued.
+
+SEWARD: So I thought about it and had ideas about, one, how to measure muscle deterioration better while potentially in space. And two, I was always curious about the potential of using electrical muscle stimulation to improve or maintain muscle health during prolonged periods of bed rest.
+
+DINA: NASA liked his ideas, and Seward has been working on bed rest studies ever since. But he still knows that bedrest studies are kind of strange.
+
+SEWARD: Basically, people are being—are required to lie down in a bed for anywhere from 30 days to 90 days. The study that we’re involved in is 60 days long. So this is pretty uncomfortable. And not only do you have to do it for 60 days nonstop, you really can’t get up for any reason whatsoever. You’re forced to eat lying down, drink lying down, work on the computer lying down, and even go to the bathroom lying down.
+
+DINA: Bedrest studies have a long history. In the 1940s, four medical students signed onto the first one. But they didn’t just agree to stay in bed. They also wore plaster casts from their belly buttons downward for more than a month. Researchers wanted to learn more about how being immobilized affects health. Because science, right?!
+
+Since then, bedrest studies have helped scientists unravel more about the effects of long-term inactivity. But over the past few decades, human spaceflight researchers have turned to bedrest studies too, and they’re using them to explore microgravity. The bedrest environment still doesn’t fully replicate space conditions, of course. But it’s a useful stand-in for microgravity. Scientists also study microgravity’s effects on astronauts aboard the International Space Station, but relatively few people make it to space. Studying this stuff on the ground is cheaper, and it provides a larger population to test.
+
+Another perk? From ground studies, scientists can narrow down what they want to try in space. Plus, they can control a lot of the environment, including temperature, pressure, diet, and sleep.
+
+ANDREAS: So, I first learned about the mission on TV, and I was immediately intrigued by their very tough selection process.
+
+[Music: Small Wonders by Tom Kane]
+
+They mentioned that they would only take 12 out of over 7,500 applicants, and I realized that this meant a team would be incredibly diverse, with each person bringing unique strength, passions, and the willingness to take risks, and really, who would not want to be part of such an extraordinary team, right? [chuckles]
+
+So, my professional background is in management consulting and in Silicon Valley, and during my career, I really had the privilege to work with some of the most high-performing teams. A big part of the motivation, though—and I think I speak here for all the crew members—it comes from wanting to contribute to something bigger than ourselves. And this mission really felt like the closest someone without a background in aerospace could get to being an astronaut. And there was also a personal level. It was a bit of a revenge arc so to say. So, throughout school, I was the youngest and often the weakest, and this mission felt like the perfect opportunity for me to prove that I had grown stronger and more resilient.
+
+DINA: And so you went through this elaborate selection process. Can you tell me in brief a little about that?
+
+ANDREAS: Yeah. So this selection process, it started in April, and it involved multiple steps. It started with an online survey. There was a phone interview and then it had in-person medical and fitness tests as well as thorough background checks, which they conducted. And, yeah, as I mentioned, it started in April, and I got the call that I had been selected for the crew on August the first.
+
+DINA: Andreas showed up in Germany for the study in September 2024. Here’s how he describes his first impressions.
+
+ANDREAS: Yeah. So, the facility is called :envihab. It stands for “Environment” and “Habitat,” and it’s part of DLR, the German Aerospace Center’s Cologne campus. And :envihab is this gigantic, incredible building that really feels more like a living organism than just a physical structure.
+
+DINA: How come?
+
+ANDREAS: It gives this distinctive futuristic vibe with half of it underground. It creates the impression of a spaceship that just has landed.
+
+DINA: How appropriate [both laugh]
+
+ANDREAS: Inside, researchers of the Institute of Aerospace Medicine, they conduct physical as well as psychological experiments, and they study the impact of space environments on human health and human performance.
+
+DINA: They also would wheel all the volunteers together so they could hang out, talk, and support each other. They even had movie nights.
+
+ANDREAS: So we had a living area. It had this rectangular layout with six personal rooms on either side and labs and a community room at the end. And each of our rooms was featured with a light shaft with a window. And this was really the only connection to the outside world and the window with the light shaft.
+
+[Music: Molecular by Tom Kane]
+
+DINA: And in this environment the volunteers had to follow strict rules about their everyday lives so the scientists could ensure consistency across the volunteers.
+
+ANDREAS: Eating, there’s not supposed to be any breadcrumbs left. Same applies for drinking. We all had our quantity of water that we had to take in the entire day. But it even went so far as to, you know, showering and other bodily functions that follow strict protocols, how it’s supposed to be done, how much time you have to do it, and how it’s going to—who is going to check in on whatever has come out.
+
+DINA: So the main thrust of this bedrest study was to focus on muscle loss and balance. Volunteers’ days were also often jam-packed with other experiments too, looking at everything from nutrition to cognitive function.
+
+ANDREAS: We conducted over 600 experiments in total, and those experiments, they range from short, five-minute blood draws to longer sessions, such as a one-hour cognitive test battery, which was designed by Harvard, or like a two-hour MRI scans. So we had to start very early on our days. We started at 6:30 a.m. with a daily routine that included measuring the body temperature, measuring blood pressure [and] body weight. And then we would directly start with those experiments, and they would last until sometimes 7 p.m. and lights would switch off—lights as well as internet—at 10:30 p.m., so there was little room for personal time during these days.
+
+DINA: Intense stuff. Let’s dive into the experiments a bit further. Tim Macaulay is a NASA scientist who focuses on human health. He heads up that bedrest study with Seward, the Harvard researcher. Volunteers in their bedrest study made an 88-day commitment to the experiment. And Tim says it all started with a baseline testing period.
+
+TIM MACAULAY: There’s 14 days of initial baseline testing, so we’re just trying to see their baseline level of health and fitness and functional abilities. And then after those 14 days, they start their bedrest period. And from there on, they’re in the head-down-tilt position for the next 60 days straight, and they’re randomized to one of the different countermeasure groups, which I’m sure we’ll talk about in a second. And then after those 60 days, you know, they do those same tests that they did at baseline. So, we’re testing again their changes in health and fitness and functional capacities to see how it changed over those 60 days. And we’re, you know, hopeful that the countermeasures were successful in protecting some of their health and fitness during that time.
+
+MARON: Countermeasures here refers to the different exercise-type interventions they’re trialing. They’re trying to prevent, or at least reduce, muscle loss and balance impairment. And all of this is being done with the ultimate goal of helping astronauts’ bodies perform well during expeditions aboard the International Space Station, or ISS, and eventually on deep space missions to the Moon, Mars, and beyond. To that end, scientists are trying out several different regimens.
+
+[Music: Constant Motion by Ben Niblett and Jon Cotton]
+
+TIM: So we’re testing three different countermeasures in this study. The first one is electrical muscle stimulation. So, it involves putting electrodes on your muscles and electrically stimulating them to contract, kind of like you’re exercising, except, you know, the device is doing all of the work. So there’s one group that does that stimulation every day for 30 minutes a day.
+
+Another countermeasure that we’re testing is a balance training countermeasure. The reason we have this countermeasure is because astronauts, you know, they have this great gym on the ISS with resistance exercise and aerobic exercise, but they continue to return with these decrements in postural and locomotor control—balance abilities, basically. So the idea is that with this added balance training in-flight, it can kind of supplement the exercise and work on those sensory systems and the legs and the feet to help them use those abilities when they get back on Earth. So this countermeasure is done in the horizontal position, where subjects are kind of loaded onto a tilt board that they are controlling with their feet, and we’re directing them to make different movements. And they’re doing this balance training exercise three days per week for about 30 minutes each session.
+
+The last group, they are also doing that same exact balance training countermeasure, but they’re also doing exercise in the horizontal position. So we have some horizontal resistance training devices and a horizontal cycle aerobic ergometer—
+
+DINA: That’s a specialized exercise bike.
+
+TIM: —so they can do their aerobic training. And the idea there is to test the combination of exercise plus balance training to determine those effects.
+
+DINA: Unlike the rest of the study where participants are lying with their heads tilted downward, during these exercise sessions the volunteers lie flat. So for the sessions they’re actually positioned like you or I might lie down normally. But they’re on a special platform with air jets that allow their bodies to slide around a bit, kind of like an air hockey table. They press their feet on a round board with sensors on it, and when that board moves it controls a cursor on a screen above them. It’s basically a video game that gamifies exercise. If this helps preserve muscle strength in bedrest studies, the researchers would next want to know if this approach could someday help astronauts as well.
+
+MACAULAY: Yeah, so the subjects are lying on an air-bearing sled. So that means when we turn the air on, they kind of glide in the horizontal plane, kind of like an air hockey puck. So that provides some instability, as if they were standing up and balancing. We then load them so they’re wearing a harness, and we pull them down towards their feet onto the tilt board. And as you mentioned, they’re controlling the tilt of the board themselves with their feet. They’re looking at a monitor that’s overhead, and on the monitor there’s a cursor, and the cursor moves based on the tilt of the board. So we created, you could call it a video game for them to move the cursor by tilting the board to capture different targets. So of course, there’s an infinite number of ways that we can place the targets, and we can have the targets moving and add different noise in there. So it is a fun and challenging video game for now, but you can imagine we can gamify it a little more in the future. If this bedrest study shows some effectiveness of training, we can gamify it to be anything you like, anything you can think of with a joystick, something like docking to the ISS or creating some maze runner game. All of that is possible with this tilt board paradigm.
+
+DINA: How cool. And so right now, it’s sort of a floating dot, and you’re moving it with your feet to try to get it to a specific target, right, where, like, you know, there’s a cross of two lines, and you’re trying to have that dot arrive at that little target spot?
+
+TIM: Exactly.
+
+DINA: OK, cool. And I mean, that sounds fun. Is it also—since they’re in the horizontal position and their body isn’t used to that, is that also like a workout where they would be gaining a sweat, or making sweat? Or it’s not that difficult for them?
+
+TIM: [Laughs] Yeah. I mean, in terms of the challenge, it’s pretty similar to if you were to do a balanced training intervention on Earth. You know, it is meant to be challenging. We specifically have different parameters, like how much load they’re being pulled down, how far the targets are, different things like that—their foot position on the board—that can make the balance training more challenging, and so we specifically asked the trainers to manipulate those variables to try to make it challenging, but of course, not too frustrating.
+
+DINA: Andreas was one of the study participants tasked with playing the video game with his feet, so I asked him: How’d that go?
+
+ANDREAS: I was sweating, but it was super fun at the same time. We had this competition going on because it would basically give us a score how much time we would keep the cursor on top of the other cursor, and it was like, if it was all the time there, which was basically undoable, it would say 100% and then everything in between zero and 100. And then we used to basically have a high score board.
+
+DINA: So that’s the video game and exercise.
+
+[Music: Currents by Ben Niblett and Jon Cotton]
+
+But then there’s the electrical stimulation component, applying an approach sometimes used on Earth to help with sports injury recovery. I asked Seward, the Harvard doctor, about how new that would be for astronauts.
+
+SEWARD: It’s been tried, but to a very, very limited extent.
+
+DINA: When someone hears electrical stimulation, that may really bring a variety of things to mind. Can you tell us more about, you know, both what that looks like, and is that painful for an astronaut?
+
+SEWARD: I would say that what we’re doing in our study is actually using a commercial device, and it’s a very simple-to-use little device that requires you basically to place multiple electrodes over different muscles. So you can imagine literally a spider web of wires going to about eight different muscles on these people as they’re lying in bed. And then we turn on four different stimulators. Each stimulator can stimulate two different muscles, and then—and the electrodes are sitting over two different places on each muscle.
+
+Each electrode is about two centimeters square per se. And then we just turn them all on, one at a time, and you can just look at the person lying there and watch their muscles, sort of contracting and wiggling around as they are doing nothing. And it’s a strange thing to watch, and I think it’s an even stranger thing to experience if you just do it day in and day out, as we’re doing on these people.
+
+DINA: Got it. So this tiny current runs through, but it doesn’t hurt. So interesting. If it could also help astronauts preserve their muscle mass that would be huge since NASA has big plans, like eventually going to Mars.
+
+SEWARD: So the idea is, let’s say we’re traveling to Mars, and it takes six months, and we really want to make sure that when we land on Mars, we’re going to be able to get out of our little capsule or a little spaceship and walk around on the Red Planet for the first time, and not just land and then have to crawl on all fours because we’re too weak to stand up even in Martian gravity. So, the goal would be that we could monitor muscle health during space flight, and if we see that, say, there’s more atrophy than is acceptable, that could mean doing more aggressive exercise. It could be turning up the intensity of the electrical muscle stimulation. Perhaps it’ll mean taking some additional medication or nutraceutical to help maintain muscle health. So those would be, hopefully, the interventions that we could achieve if we identified excessive muscle loss.
+
+DINA: Nutraceuticals—meaning vitamin supplements—are being studied to help treat or prevent a variety of conditions in space. They’re even part of ongoing research occurring aboard the space station.
+
+[Music: Praxis I by Alexis Francois Georges Delong]
+
+Meanwhile, all this bedrest research is happening in Germany, but Tim and Seward are based in the United States and in different states at that. Here’s how that works.
+
+TIM: So we are the principal investigator team on this study. We are funded by the Human Research Program at NASA, and so they’re really the ones paying for this study over in Germany. So the Germans are, you know, listening to us, the principal investigators, in terms of what we need to do. We developed the countermeasure and the protocols for implementing the countermeasure. So we’re kind of responsible for making sure that we teach DLR how to use these and how we want it implemented with the subjects. And then we also developed a lot of the testing that’s done before and after bed rest, which is used for determining how effective the countermeasures were. So we also need to train them on those protocols as well.
+
+DINA: This experiment will include three more groups of a dozen people by 2028. But sorry American listeners, the study is only open to Europeans who hold health cards. They must also speak German. Several months after Andreas completed his participation and he got a clean bill of health, I asked him how he’s feeling and for his overall thoughts on his experience.
+
+ANDREAS: First of all, I was kind of sad to get up after 60 days, because it really was the new normal for me. But the first two days after getting up, we actually had to spend in a wheelchair. Our bodies just had to slowly adjust to gravity again, so to say, because that’s what those six degrees do—they simulate microgravity. And it was a bit disorienting, but slowly we were able to stand and walk again, regaining our balance. And we were also supported that time by an incredible team of physiotherapists and personal trainers who actually usually coach top athletes, like those from the famous Cologne soccer team or the Cologne ice hockey teams.
+
+DINA: Andreas actually spent 14 days in :envihab after the study was over, recuperating and basically relearning how to stand and walk under Earth’s gravity.
+
+ANDREAS: But what was actually tougher than walking was sitting. So, my—my coccyx was in pain for the first two months, and it was also a mental recovery, like getting back into the rhythm of a normal life after being in such a controlled and isolated environment where everything is done for you.
+
+DINA: Yeah. I can imagine when you were in that environment, there were a lot of people that needed to be on hand to take care of everything, from food prep to wheeling you from one place to another.
+
+ANDREAS: Right. There were over 150 researchers, doctors, mission leaders and support staff in total from DLR.
+
+DINA: And in this prolonged experience, is there anything you’d say you learned about yourself?
+
+[Music: Final Layer by Alexis Francois Georges Delong]
+
+ANDREAS: That’s such a great question. So, I guess I learned to reconnect with myself as a person. So for the past five years, leading a fast-growing startup has somewhat, I would say, consumed my personal identity in a sense that I only saw myself as Andreas the founder and constantly measured my worth by the success of the business. And in this process, I kind of lost sight of everything else: the person I was before, the experiences that shaped me, basically my entire life outside this tech world. And of course, being back to the country where I grew up and exchanging personal stories with the other crew members, it reminded me of who I was beyond my career role, and I started seeing my journey in a bigger context, not just through the lens of the startup founder, but really everything that I’ve done and experienced in my 33 years, and that was incredibly empowering.
+
+JACOB: Hey Dina. I’m back. What a great story. You know, NASA is working toward sending humans to Mars and also sending humans back to the Moon with the Artemis program, and Seward made the point that research like this teaches us more about living in space for long periods of time. We see these videos of astronauts walking to the launchpad or floating around inside the space station, and this story really drives home that behind every astronaut is the work of many, many people on the ground who want them to succeed.
+
+DINA: Right? It’s pretty inspiring. There’s so much incredible science happening behind the scenes with analog missions, and I, for one, am excited to see where it all leads. Thanks for having me on to talk about it.
+
+JACOB: Alright. That’s Dina Fine Maron, and you can find lots more about what happens to the human body in space and how NASA works to improve astronauts’ health and performance at nasa.gov/hrp.
+
+This is NASA’s Curious Universe. This episode was written by Dina Fine Maron and produced by me, Jacob Pinter. Our executive producer is Katie Konans. The Curious Universe team also includes Christian Elliot and of course, Padi Boyd. Krystofer Kim designed our show art.
+
+Our theme song was composed by Matt Russo and Andrew Santaguida of SYSTEM Sounds.
+
+Our intern is Emma Brambila.
+
+Special thanks to the team at NASA’s Space Technology Mission Directorate and the Human Research Program and to William Flato and Michael Smith for their help recording interviews.
+
+As always, if you enjoyed this episode of NASA’s Curious Universe, please let us know. Leave us a review. Share the show with a friend. And remember, you can “follow” NASA’s Curious Universe in your favorite podcast app to get a notification each time we post a new episode.

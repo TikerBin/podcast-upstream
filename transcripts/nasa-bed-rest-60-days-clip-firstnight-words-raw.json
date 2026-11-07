@@ -1,0 +1,644 @@
+[
+  {
+    "start": 0.0,
+    "end": 5.96,
+    "text": "So the first few hours in the six-degree head until they felt manageable but the first night",
+    "words": [
+      {
+        "word": " So",
+        "start": 0.0,
+        "end": 0.26,
+        "probability": 0.5261580348014832
+      },
+      {
+        "word": " the",
+        "start": 0.26,
+        "end": 0.42,
+        "probability": 0.8486281037330627
+      },
+      {
+        "word": " first",
+        "start": 0.42,
+        "end": 0.6,
+        "probability": 0.9920229911804199
+      },
+      {
+        "word": " few",
+        "start": 0.6,
+        "end": 0.9,
+        "probability": 0.9738311767578125
+      },
+      {
+        "word": " hours",
+        "start": 0.9,
+        "end": 1.14,
+        "probability": 0.9934531450271606
+      },
+      {
+        "word": " in",
+        "start": 1.14,
+        "end": 1.6,
+        "probability": 0.9560689330101013
+      },
+      {
+        "word": " the",
+        "start": 1.6,
+        "end": 2.04,
+        "probability": 0.9777168035507202
+      },
+      {
+        "word": " six",
+        "start": 2.04,
+        "end": 2.3,
+        "probability": 0.537714421749115
+      },
+      {
+        "word": "-degree",
+        "start": 2.3,
+        "end": 2.54,
+        "probability": 0.6111928895115852
+      },
+      {
+        "word": " head",
+        "start": 2.54,
+        "end": 2.78,
+        "probability": 0.471609890460968
+      },
+      {
+        "word": " until",
+        "start": 2.78,
+        "end": 3.12,
+        "probability": 0.7556746006011963
+      },
+      {
+        "word": " they",
+        "start": 3.12,
+        "end": 3.34,
+        "probability": 0.9571918249130249
+      },
+      {
+        "word": " felt",
+        "start": 3.34,
+        "end": 3.58,
+        "probability": 0.9950544834136963
+      },
+      {
+        "word": " manageable",
+        "start": 3.58,
+        "end": 4.04,
+        "probability": 0.9905083179473877
+      },
+      {
+        "word": " but",
+        "start": 4.04,
+        "end": 4.88,
+        "probability": 0.29564228653907776
+      },
+      {
+        "word": " the",
+        "start": 4.88,
+        "end": 5.3,
+        "probability": 0.9883384108543396
+      },
+      {
+        "word": " first",
+        "start": 5.3,
+        "end": 5.6,
+        "probability": 0.9979735016822815
+      },
+      {
+        "word": " night",
+        "start": 5.6,
+        "end": 5.96,
+        "probability": 0.9973759651184082
+      }
+    ]
+  },
+  {
+    "start": 5.96,
+    "end": 11.32,
+    "text": "the back pain became really intense so I had to breathe very loudly to cope just like imagine",
+    "words": [
+      {
+        "word": " the",
+        "start": 5.96,
+        "end": 6.4,
+        "probability": 0.8030648231506348
+      },
+      {
+        "word": " back",
+        "start": 6.4,
+        "end": 6.78,
+        "probability": 0.8267431259155273
+      },
+      {
+        "word": " pain",
+        "start": 6.78,
+        "end": 7.0,
+        "probability": 0.9691309928894043
+      },
+      {
+        "word": " became",
+        "start": 7.0,
+        "end": 7.3,
+        "probability": 0.9980917572975159
+      },
+      {
+        "word": " really",
+        "start": 7.3,
+        "end": 7.52,
+        "probability": 0.9924943447113037
+      },
+      {
+        "word": " intense",
+        "start": 7.52,
+        "end": 7.9,
+        "probability": 0.9991763234138489
+      },
+      {
+        "word": " so",
+        "start": 7.9,
+        "end": 8.28,
+        "probability": 0.5440557599067688
+      },
+      {
+        "word": " I",
+        "start": 8.28,
+        "end": 8.5,
+        "probability": 0.7826272249221802
+      },
+      {
+        "word": " had",
+        "start": 8.5,
+        "end": 8.66,
+        "probability": 0.9993002414703369
+      },
+      {
+        "word": " to",
+        "start": 8.66,
+        "end": 8.84,
+        "probability": 0.9995589852333069
+      },
+      {
+        "word": " breathe",
+        "start": 8.84,
+        "end": 9.08,
+        "probability": 0.9748193621635437
+      },
+      {
+        "word": " very",
+        "start": 9.08,
+        "end": 9.62,
+        "probability": 0.9954681396484375
+      },
+      {
+        "word": " loudly",
+        "start": 9.62,
+        "end": 9.92,
+        "probability": 0.996995210647583
+      },
+      {
+        "word": " to",
+        "start": 9.92,
+        "end": 10.16,
+        "probability": 0.9973539113998413
+      },
+      {
+        "word": " cope",
+        "start": 10.16,
+        "end": 10.42,
+        "probability": 0.9986955523490906
+      },
+      {
+        "word": " just",
+        "start": 10.42,
+        "end": 10.7,
+        "probability": 0.7307813167572021
+      },
+      {
+        "word": " like",
+        "start": 10.7,
+        "end": 10.96,
+        "probability": 0.9883390665054321
+      },
+      {
+        "word": " imagine",
+        "start": 10.96,
+        "end": 11.32,
+        "probability": 0.9428579211235046
+      }
+    ]
+  },
+  {
+    "start": 11.32,
+    "end": 19.74,
+    "text": "the cyclist fighting himself up the highest mountain during the Tour de France all the time",
+    "words": [
+      {
+        "word": " the",
+        "start": 11.32,
+        "end": 11.5,
+        "probability": 0.7374572157859802
+      },
+      {
+        "word": " cyclist",
+        "start": 11.5,
+        "end": 11.92,
+        "probability": 0.973676323890686
+      },
+      {
+        "word": " fighting",
+        "start": 11.92,
+        "end": 12.44,
+        "probability": 0.9932329654693604
+      },
+      {
+        "word": " himself",
+        "start": 12.44,
+        "end": 12.88,
+        "probability": 0.9972320199012756
+      },
+      {
+        "word": " up",
+        "start": 12.88,
+        "end": 13.1,
+        "probability": 0.9980117082595825
+      },
+      {
+        "word": " the",
+        "start": 13.1,
+        "end": 13.26,
+        "probability": 0.997408926486969
+      },
+      {
+        "word": " highest",
+        "start": 13.26,
+        "end": 13.52,
+        "probability": 0.9972672462463379
+      },
+      {
+        "word": " mountain",
+        "start": 13.52,
+        "end": 13.92,
+        "probability": 0.9912727475166321
+      },
+      {
+        "word": " during",
+        "start": 13.92,
+        "end": 14.24,
+        "probability": 0.9952608942985535
+      },
+      {
+        "word": " the",
+        "start": 14.24,
+        "end": 14.7,
+        "probability": 0.9872149229049683
+      },
+      {
+        "word": " Tour",
+        "start": 14.7,
+        "end": 14.84,
+        "probability": 0.8555083274841309
+      },
+      {
+        "word": " de",
+        "start": 14.84,
+        "end": 14.98,
+        "probability": 0.9098400473594666
+      },
+      {
+        "word": " France",
+        "start": 14.98,
+        "end": 15.24,
+        "probability": 0.9583266377449036
+      },
+      {
+        "word": " all",
+        "start": 15.24,
+        "end": 17.54,
+        "probability": 0.48229166865348816
+      },
+      {
+        "word": " the",
+        "start": 19.4,
+        "end": 19.54,
+        "probability": 0.9993981122970581
+      },
+      {
+        "word": " time",
+        "start": 19.54,
+        "end": 19.74,
+        "probability": 0.9993768334388733
+      }
+    ]
+  },
+  {
+    "start": 19.74,
+    "end": 25.6,
+    "text": "like so. So the pain was mostly due to the organ shifting towards the head putting the sudden",
+    "words": [
+      {
+        "word": " like",
+        "start": 19.74,
+        "end": 19.88,
+        "probability": 0.9092166423797607
+      },
+      {
+        "word": " so.",
+        "start": 19.88,
+        "end": 20.22,
+        "probability": 0.9962241649627686
+      },
+      {
+        "word": " So",
+        "start": 20.7,
+        "end": 20.92,
+        "probability": 0.9387719631195068
+      },
+      {
+        "word": " the",
+        "start": 20.92,
+        "end": 21.06,
+        "probability": 0.9829254150390625
+      },
+      {
+        "word": " pain",
+        "start": 21.06,
+        "end": 21.28,
+        "probability": 0.9992057681083679
+      },
+      {
+        "word": " was",
+        "start": 21.28,
+        "end": 21.48,
+        "probability": 0.9991090893745422
+      },
+      {
+        "word": " mostly",
+        "start": 21.48,
+        "end": 21.96,
+        "probability": 0.9990553259849548
+      },
+      {
+        "word": " due",
+        "start": 21.96,
+        "end": 22.58,
+        "probability": 0.9974368214607239
+      },
+      {
+        "word": " to",
+        "start": 22.58,
+        "end": 22.78,
+        "probability": 0.9992660880088806
+      },
+      {
+        "word": " the",
+        "start": 22.78,
+        "end": 22.98,
+        "probability": 0.9971101880073547
+      },
+      {
+        "word": " organ",
+        "start": 22.98,
+        "end": 23.24,
+        "probability": 0.5180221199989319
+      },
+      {
+        "word": " shifting",
+        "start": 23.24,
+        "end": 23.64,
+        "probability": 0.9954519867897034
+      },
+      {
+        "word": " towards",
+        "start": 23.64,
+        "end": 23.98,
+        "probability": 0.9970585107803345
+      },
+      {
+        "word": " the",
+        "start": 23.98,
+        "end": 24.22,
+        "probability": 0.9997054934501648
+      },
+      {
+        "word": " head",
+        "start": 24.22,
+        "end": 24.46,
+        "probability": 0.999103307723999
+      },
+      {
+        "word": " putting",
+        "start": 24.46,
+        "end": 25.08,
+        "probability": 0.6375718116760254
+      },
+      {
+        "word": " the",
+        "start": 25.08,
+        "end": 25.34,
+        "probability": 0.9481977820396423
+      },
+      {
+        "word": " sudden",
+        "start": 25.34,
+        "end": 25.6,
+        "probability": 0.9986152648925781
+      }
+    ]
+  },
+  {
+    "start": 25.6,
+    "end": 30.5,
+    "text": "pressure on the upper chest which just was not built to support that weight and the first night",
+    "words": [
+      {
+        "word": " pressure",
+        "start": 25.6,
+        "end": 25.98,
+        "probability": 0.999697208404541
+      },
+      {
+        "word": " on",
+        "start": 25.98,
+        "end": 26.2,
+        "probability": 0.999332845211029
+      },
+      {
+        "word": " the",
+        "start": 26.2,
+        "end": 26.32,
+        "probability": 0.9997450709342957
+      },
+      {
+        "word": " upper",
+        "start": 26.32,
+        "end": 26.52,
+        "probability": 0.9980725049972534
+      },
+      {
+        "word": " chest",
+        "start": 26.52,
+        "end": 26.8,
+        "probability": 0.9993376135826111
+      },
+      {
+        "word": " which",
+        "start": 26.8,
+        "end": 27.06,
+        "probability": 0.950355589389801
+      },
+      {
+        "word": " just",
+        "start": 27.06,
+        "end": 27.42,
+        "probability": 0.9844703674316406
+      },
+      {
+        "word": " was",
+        "start": 27.42,
+        "end": 27.64,
+        "probability": 0.9887710213661194
+      },
+      {
+        "word": " not",
+        "start": 27.64,
+        "end": 27.8,
+        "probability": 0.9995508790016174
+      },
+      {
+        "word": " built",
+        "start": 27.8,
+        "end": 27.98,
+        "probability": 0.9927092790603638
+      },
+      {
+        "word": " to",
+        "start": 27.98,
+        "end": 28.18,
+        "probability": 0.9991703033447266
+      },
+      {
+        "word": " support",
+        "start": 28.18,
+        "end": 28.54,
+        "probability": 0.9974683523178101
+      },
+      {
+        "word": " that",
+        "start": 28.54,
+        "end": 28.7,
+        "probability": 0.9856869578361511
+      },
+      {
+        "word": " weight",
+        "start": 28.7,
+        "end": 28.96,
+        "probability": 0.99089515209198
+      },
+      {
+        "word": " and",
+        "start": 28.96,
+        "end": 29.66,
+        "probability": 0.8490180373191833
+      },
+      {
+        "word": " the",
+        "start": 29.66,
+        "end": 30.04,
+        "probability": 0.9984756112098694
+      },
+      {
+        "word": " first",
+        "start": 30.04,
+        "end": 30.24,
+        "probability": 0.9993818998336792
+      },
+      {
+        "word": " night",
+        "start": 30.24,
+        "end": 30.5,
+        "probability": 0.9950788021087646
+      }
+    ]
+  },
+  {
+    "start": 30.5,
+    "end": 33.5,
+    "text": "was really tough for that reason the second day didn't improve much.",
+    "words": [
+      {
+        "word": " was",
+        "start": 30.5,
+        "end": 30.7,
+        "probability": 0.17799720168113708
+      },
+      {
+        "word": " really",
+        "start": 30.7,
+        "end": 31.06,
+        "probability": 0.8330028057098389
+      },
+      {
+        "word": " tough",
+        "start": 31.06,
+        "end": 31.34,
+        "probability": 0.9929344654083252
+      },
+      {
+        "word": " for",
+        "start": 31.34,
+        "end": 31.62,
+        "probability": 0.8698325753211975
+      },
+      {
+        "word": " that",
+        "start": 31.62,
+        "end": 31.78,
+        "probability": 0.968438982963562
+      },
+      {
+        "word": " reason",
+        "start": 31.78,
+        "end": 32.0,
+        "probability": 0.9959926009178162
+      },
+      {
+        "word": " the",
+        "start": 32.0,
+        "end": 32.24,
+        "probability": 0.4574287235736847
+      },
+      {
+        "word": " second",
+        "start": 32.24,
+        "end": 32.5,
+        "probability": 0.9866926074028015
+      },
+      {
+        "word": " day",
+        "start": 32.5,
+        "end": 32.72,
+        "probability": 0.9867995381355286
+      },
+      {
+        "word": " didn't",
+        "start": 32.72,
+        "end": 33.02,
+        "probability": 0.9543621242046356
+      },
+      {
+        "word": " improve",
+        "start": 33.02,
+        "end": 33.26,
+        "probability": 0.9872457981109619
+      },
+      {
+        "word": " much.",
+        "start": 33.26,
+        "end": 33.5,
+        "probability": 0.9839015603065491
+      }
+    ]
+  }
+]

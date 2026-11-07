@@ -5,7 +5,7 @@
 <link>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main</link>
 <description>仅含独立片段条目：片段 enclosure 为仓库自托管 clips 直链，文案仅覆盖片段音频；整集不在此 feed，整集不得冒充短片段。</description>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 01:18:23 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 01:26:15 +0000</lastBuildDate>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/feeds/ready-clip.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Their Mars window is a TV — clip from Encore: A Year In Mars Dune Alpha</title>
@@ -1093,6 +1093,96 @@ the words would be, almost Mars.]]></content:encoded>
 <_parent_id>nasa-webb-cloudy-origins</_parent_id>
 <_clip_start_s>314.0</_clip_start_s>
 <_clip_end_s>351.3</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>The name stuck — Maisie's Galaxy, clip from Why Webb's Earliest Galaxies Are Blowing Scientists' Minds (1082.9-1140.8s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/webb-series-finding-the-first-galaxies</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:webb-first-galaxies:clip:namestuck:1082.9-1140.8</guid>
+<pubDate>Mon, 04 Aug 2025 14:26:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-webb-first-galaxies-clip-namestuck.mp3" length="953793" type="audio/mpeg"/>
+<itunes:duration>58</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】Mic Bagley 讲 Maisie's Galaxy 名字的由来：团队起初拼命想证伪这个候选星系，最后相信它是真的；名字就这么定下来了——而它也成为韦伯改写星系形成认知的第一个挑战：恒星形成必须比预想的更早、更高效，观测迫使人类重新定义已知物理。
+【Reels 角度】一个星系以 PI 女儿的名字命名：Maisie's Galaxy——团队拼命想证伪它，最后在她生日那天相信了它，名字就此定格。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; the episode transcript marks music cues (Curiosity theme, Meditate, Talking Tech, Emerging Fragments, The Process, Take Flight, Dots and Dashes) all outside this segment.
+【来源】https://www.nasa.gov/podcasts/curious-universe/webb-series-finding-the-first-galaxies
+【采集日（北京时间）】2026-11-07
+【发布时间精度】exact（Inherits parent original publish date (NASA Curious Universe Megaphone RSS: Mon, 04 Aug 2025 14:26:00 -0000); clip itself was modelled 2026-11-07 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:webb-first-galaxies
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/webb-series-finding-the-first-galaxies
+【片段】原集 1082.9-1140.8 秒，57.9 秒，原声，未加 BGM，文件：clips/nasa-webb-first-galaxies-clip-namestuck.mp3]]></description>
+<content:encoded><![CDATA[But the name stuck, right? The name stuck. Maisie's Galaxy. With an image, you can really just have a guess at how far away a galaxy is, and it was spectroscopically confirmed. Like, it's real. It's really far away, and it remains one of the first—there are now several other results showing galaxies that are brighter and at further distances—but it's one of the first real challenges to our understanding of how you can form galaxies. How do you get Maisie's Galaxy that early in the universe? It means that the star formation had to have started earlier. It had to have been more efficient. The universe had to be much better at collapsing gas into stars than we thought before JWST, which is really exciting. Because I think the coolest, or the best, like, homage, I guess, to a telescope, is that you have to redefine what you know. The observations you get from it mean you have to redefine what you know about physics. And that's really cool.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>webb-first-galaxies-clip-namestuck</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/webb-series-finding-the-first-galaxies</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-07</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 57.9s / 953793 bytes (ffmpeg cut from verified full MP3 in this run, 2026-11-07); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-webb-first-galaxies-clip-namestuck.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-webb-first-galaxies-clip-namestuck.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-webb-first-galaxies-clip-namestuck-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-webb-first-galaxies-clip-namestuck-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:webb-first-galaxies</_parent_guid>
+<_parent_id>nasa-webb-first-galaxies</_parent_id>
+<_clip_start_s>1082.9</_clip_start_s>
+<_clip_end_s>1140.8</_clip_end_s>
+<_clip_source_nature>original_audio</_clip_source_nature>
+</item>
+<item>
+<title>The first night — clip from How Lying In Bed For 60 Days Helps Astronauts (109.1-142.7s)</title>
+<link>https://www.nasa.gov/podcasts/curious-universe/how-lying-in-bed-for-60-days-helps-astronauts</link>
+<guid isPermaLink="false">urn:podcast:nasa.gov:curious-universe:bed-rest-60-days:clip:firstnight:109.1-142.7</guid>
+<pubDate>Tue, 24 Jun 2025 13:43:00 +0000</pubDate>
+<category>science-space</category>
+<category>form:audio</category>
+<category>form:text</category>
+<category>production:ready-clip</category>
+<language>en</language>
+<itunes:image href="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/images/default-cover.png"/>
+<enclosure url="https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/clips/nasa-bed-rest-60-days-clip-firstnight.mp3" length="568856" type="audio/mpeg"/>
+<itunes:duration>34</itunes:duration>
+<description><![CDATA[【节目】NASA's Curious Universe
+【主题】science-space
+【形态】audio, text
+【生产形态】ready-clip
+【摘要】志愿者 Andreas Joshi 讲卧床研究的第一夜：头低六度的姿势起初还能忍，入夜后背痛剧烈，只能像环法车手爬坡一样大口喘气硬扛；疼痛来自内脏向头部移位、上胸受压，第二天也不见好。
+【Reels 角度】躺 60 天的第一夜：背痛剧烈到要像环法车手一样大口喘气——志愿者原声讲述。
+【许可证】Public domain：Excerpt of a US federal government work (NASA official podcast), generally not copyrighted
+【权利说明】Clip is original speech only, no BGM added. Reusable with no NASA endorsement implied; the episode transcript marks music cues (Curiosity theme, Driving, Glide Shot, Designing the Future, Small Wonders, Molecular, Constant Motion, Currents, Praxis I, Final Layer) all outside this segment. Mid-clip loud-breathing demonstration is the volunteer's own breathing (original audio, not music).
+【来源】https://www.nasa.gov/podcasts/curious-universe/how-lying-in-bed-for-60-days-helps-astronauts
+【采集日（北京时间）】2026-11-07
+【发布时间精度】exact（Inherits parent original publish date (NASA Curious Universe Megaphone RSS: Tue, 24 Jun 2025 13:43:00 -0000); clip itself was modelled 2026-11-07 Beijing, GUID does not use collection time.）
+【父集 GUID】urn:podcast:nasa.gov:curious-universe:bed-rest-60-days
+【父集链接】https://www.nasa.gov/podcasts/curious-universe/how-lying-in-bed-for-60-days-helps-astronauts
+【片段】原集 109.1-142.7 秒，33.6 秒，原声，未加 BGM，文件：clips/nasa-bed-rest-60-days-clip-firstnight.mp3]]></description>
+<content:encoded><![CDATA[So the first few hours in the six-degree head-down tilt, they felt manageable, but the first night, the back pain became really intense, so I had to breathe very loudly to cope. Just, like, imagine the cyclist fighting himself up the highest mountain during the Tour de France. All the time, like so. So, the pain was mostly due to the organ shifting towards the head, putting the sudden pressure on the upper chest, which just was not built to support that weight. And the first night was really tough for that reason. The second day didn't improve much.]]></content:encoded>
+<_show>NASA's Curious Universe</_show>
+<_episode_id>bed-rest-60-days-clip-firstnight</_episode_id>
+<_source_url>https://www.nasa.gov/podcasts/curious-universe/how-lying-in-bed-for-60-days-helps-astronauts</_source_url>
+<_license>Public domain</_license>
+<_rights_status>reusable_with_no_endorsement_note</_rights_status>
+<_collected_at_beijing>2026-11-07</_collected_at_beijing>
+<_audio_verified>Local file ffprobe 33.6s / 568856 bytes (ffmpeg cut from verified full MP3 in this run, 2026-11-07); raw HEAD verification after push</_audio_verified>
+<_clip_srt_file>transcripts/nasa-bed-rest-60-days-clip-firstnight.srt</_clip_srt_file>
+<_clip_srt_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-bed-rest-60-days-clip-firstnight.srt</_clip_srt_url>
+<_clip_words_file>transcripts/nasa-bed-rest-60-days-clip-firstnight-words.json</_clip_words_file>
+<_clip_words_url>https://raw.githubusercontent.com/TikerBin/podcast-upstream/main/transcripts/nasa-bed-rest-60-days-clip-firstnight-words.json</_clip_words_url>
+<_parent_guid>urn:podcast:nasa.gov:curious-universe:bed-rest-60-days</_parent_guid>
+<_parent_id>nasa-bed-rest-60-days</_parent_id>
+<_clip_start_s>109.1</_clip_start_s>
+<_clip_end_s>142.7</_clip_end_s>
 <_clip_source_nature>original_audio</_clip_source_nature>
 </item>
 <item>

@@ -1,0 +1,1147 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.98,
+    "text": "But the name stuck, right?",
+    "words": [
+      {
+        "word": " But",
+        "start": 0.0,
+        "end": 0.3,
+        "probability": 0.2496836930513382
+      },
+      {
+        "word": " the",
+        "start": 0.3,
+        "end": 0.4,
+        "probability": 0.9786079525947571
+      },
+      {
+        "word": " name",
+        "start": 0.4,
+        "end": 0.64,
+        "probability": 0.5423995181918144
+      },
+      {
+        "word": " stuck,",
+        "start": 0.64,
+        "end": 0.82,
+        "probability": 0.9836892485618591
+      },
+      {
+        "word": " right?",
+        "start": 0.94,
+        "end": 0.98,
+        "probability": 0.9926511645317078
+      }
+    ]
+  },
+  {
+    "start": 1.0,
+    "end": 1.56,
+    "text": "The name stuck.",
+    "words": [
+      {
+        "word": " The",
+        "start": 1.0,
+        "end": 1.08,
+        "probability": 0.7131720185279846
+      },
+      {
+        "word": " name",
+        "start": 1.08,
+        "end": 1.3,
+        "probability": 0.9379225671291351
+      },
+      {
+        "word": " stuck.",
+        "start": 1.3,
+        "end": 1.56,
+        "probability": 0.9967952370643616
+      }
+    ]
+  },
+  {
+    "start": 1.98,
+    "end": 2.38,
+    "text": "Maisie's Galaxy.",
+    "words": [
+      {
+        "word": " Maisie's",
+        "start": 1.98,
+        "end": 2.16,
+        "probability": 0.5291076103846232
+      },
+      {
+        "word": " Galaxy.",
+        "start": 2.16,
+        "end": 2.38,
+        "probability": 0.6255398988723755
+      }
+    ]
+  },
+  {
+    "start": 3.1,
+    "end": 7.16,
+    "text": "With an image, you can really just have a guess at how far away a galaxy is,",
+    "words": [
+      {
+        "word": " With",
+        "start": 3.1,
+        "end": 3.58,
+        "probability": 0.860160768032074
+      },
+      {
+        "word": " an",
+        "start": 3.58,
+        "end": 3.72,
+        "probability": 0.9965140223503113
+      },
+      {
+        "word": " image,",
+        "start": 3.72,
+        "end": 3.96,
+        "probability": 0.9992864727973938
+      },
+      {
+        "word": " you",
+        "start": 4.1,
+        "end": 4.14,
+        "probability": 0.9968714118003845
+      },
+      {
+        "word": " can",
+        "start": 4.14,
+        "end": 4.26,
+        "probability": 0.997958779335022
+      },
+      {
+        "word": " really",
+        "start": 4.26,
+        "end": 4.46,
+        "probability": 0.9916583895683289
+      },
+      {
+        "word": " just",
+        "start": 4.46,
+        "end": 4.72,
+        "probability": 0.9920952916145325
+      },
+      {
+        "word": " have",
+        "start": 4.72,
+        "end": 4.9,
+        "probability": 0.9989182949066162
+      },
+      {
+        "word": " a",
+        "start": 4.9,
+        "end": 5.04,
+        "probability": 0.9988605976104736
+      },
+      {
+        "word": " guess",
+        "start": 5.04,
+        "end": 5.26,
+        "probability": 0.9971851706504822
+      },
+      {
+        "word": " at",
+        "start": 5.26,
+        "end": 5.52,
+        "probability": 0.9827176928520203
+      },
+      {
+        "word": " how",
+        "start": 5.52,
+        "end": 5.68,
+        "probability": 0.9979627132415771
+      },
+      {
+        "word": " far",
+        "start": 5.68,
+        "end": 5.9,
+        "probability": 0.994867205619812
+      },
+      {
+        "word": " away",
+        "start": 5.9,
+        "end": 6.36,
+        "probability": 0.9920263886451721
+      },
+      {
+        "word": " a",
+        "start": 6.36,
+        "end": 6.52,
+        "probability": 0.9821324348449707
+      },
+      {
+        "word": " galaxy",
+        "start": 6.52,
+        "end": 6.66,
+        "probability": 0.9889578819274902
+      },
+      {
+        "word": " is,",
+        "start": 6.66,
+        "end": 7.16,
+        "probability": 0.9948934316635132
+      }
+    ]
+  },
+  {
+    "start": 8.08,
+    "end": 11.34,
+    "text": "and it was spectroscopically confirmed. Like, it's real.",
+    "words": [
+      {
+        "word": " and",
+        "start": 8.08,
+        "end": 8.08,
+        "probability": 0.9499029517173767
+      },
+      {
+        "word": " it",
+        "start": 8.08,
+        "end": 8.5,
+        "probability": 0.9529228806495667
+      },
+      {
+        "word": " was",
+        "start": 8.5,
+        "end": 8.66,
+        "probability": 0.9863917827606201
+      },
+      {
+        "word": " spectroscopically",
+        "start": 8.66,
+        "end": 9.42,
+        "probability": 0.9963839054107666
+      },
+      {
+        "word": " confirmed.",
+        "start": 9.42,
+        "end": 9.88,
+        "probability": 0.9931615591049194
+      },
+      {
+        "word": " Like,",
+        "start": 9.88,
+        "end": 10.18,
+        "probability": 0.8973467350006104
+      },
+      {
+        "word": " it's",
+        "start": 10.18,
+        "end": 11.1,
+        "probability": 0.8339232206344604
+      },
+      {
+        "word": " real.",
+        "start": 11.1,
+        "end": 11.34,
+        "probability": 0.39271292090415955
+      }
+    ]
+  },
+  {
+    "start": 11.62,
+    "end": 14.48,
+    "text": "It's really far away, and it remains one of the first—",
+    "words": [
+      {
+        "word": " It's",
+        "start": 11.62,
+        "end": 11.74,
+        "probability": 0.9977125525474548
+      },
+      {
+        "word": " really",
+        "start": 11.74,
+        "end": 12.04,
+        "probability": 0.9991733431816101
+      },
+      {
+        "word": " far",
+        "start": 12.04,
+        "end": 12.32,
+        "probability": 0.9997734427452087
+      },
+      {
+        "word": " away,",
+        "start": 12.32,
+        "end": 12.62,
+        "probability": 0.9985060691833496
+      },
+      {
+        "word": " and",
+        "start": 12.68,
+        "end": 12.84,
+        "probability": 0.9989022016525269
+      },
+      {
+        "word": " it",
+        "start": 12.84,
+        "end": 12.94,
+        "probability": 0.9994704127311707
+      },
+      {
+        "word": " remains",
+        "start": 12.94,
+        "end": 13.36,
+        "probability": 0.9995658993721008
+      },
+      {
+        "word": " one",
+        "start": 13.36,
+        "end": 13.82,
+        "probability": 0.9955431818962097
+      },
+      {
+        "word": " of",
+        "start": 13.82,
+        "end": 13.98,
+        "probability": 0.9995101690292358
+      },
+      {
+        "word": " the",
+        "start": 13.98,
+        "end": 14.14,
+        "probability": 0.9994248151779175
+      },
+      {
+        "word": " first—",
+        "start": 14.14,
+        "end": 14.48,
+        "probability": 0.9989145994186401
+      }
+    ]
+  },
+  {
+    "start": 15.24,
+    "end": 19.38,
+    "text": "there are now several other results showing galaxies that are brighter and at further",
+    "words": [
+      {
+        "word": " there",
+        "start": 15.24,
+        "end": 15.56,
+        "probability": 0.9947456121444702
+      },
+      {
+        "word": " are",
+        "start": 15.56,
+        "end": 15.68,
+        "probability": 0.9995230436325073
+      },
+      {
+        "word": " now",
+        "start": 15.68,
+        "end": 15.9,
+        "probability": 0.9984301924705505
+      },
+      {
+        "word": " several",
+        "start": 15.9,
+        "end": 16.44,
+        "probability": 0.9992245435714722
+      },
+      {
+        "word": " other",
+        "start": 16.44,
+        "end": 16.78,
+        "probability": 0.9993732571601868
+      },
+      {
+        "word": " results",
+        "start": 16.78,
+        "end": 17.22,
+        "probability": 0.9995356798171997
+      },
+      {
+        "word": " showing",
+        "start": 17.22,
+        "end": 17.7,
+        "probability": 0.9863616228103638
+      },
+      {
+        "word": " galaxies",
+        "start": 17.7,
+        "end": 18.24,
+        "probability": 0.9987329840660095
+      },
+      {
+        "word": " that",
+        "start": 18.24,
+        "end": 18.44,
+        "probability": 0.9992557168006897
+      },
+      {
+        "word": " are",
+        "start": 18.44,
+        "end": 18.54,
+        "probability": 0.9996644258499146
+      },
+      {
+        "word": " brighter",
+        "start": 18.54,
+        "end": 18.78,
+        "probability": 0.9994646906852722
+      },
+      {
+        "word": " and",
+        "start": 18.78,
+        "end": 19.04,
+        "probability": 0.9179984331130981
+      },
+      {
+        "word": " at",
+        "start": 19.04,
+        "end": 19.16,
+        "probability": 0.8587949872016907
+      },
+      {
+        "word": " further",
+        "start": 19.16,
+        "end": 19.38,
+        "probability": 0.9986604452133179
+      }
+    ]
+  },
+  {
+    "start": 19.38,
+    "end": 24.42,
+    "text": "distances—but it's one of the first real challenges to our understanding of how you",
+    "words": [
+      {
+        "word": " distances—but",
+        "start": 19.38,
+        "end": 20.68,
+        "probability": 0.9981133937835693
+      },
+      {
+        "word": " it's",
+        "start": 20.68,
+        "end": 20.86,
+        "probability": 0.9995996654033661
+      },
+      {
+        "word": " one",
+        "start": 20.86,
+        "end": 20.98,
+        "probability": 0.9997683167457581
+      },
+      {
+        "word": " of",
+        "start": 20.98,
+        "end": 21.1,
+        "probability": 0.9998799562454224
+      },
+      {
+        "word": " the",
+        "start": 21.1,
+        "end": 21.24,
+        "probability": 0.9998533725738525
+      },
+      {
+        "word": " first",
+        "start": 21.24,
+        "end": 21.6,
+        "probability": 0.9995995163917542
+      },
+      {
+        "word": " real",
+        "start": 21.6,
+        "end": 22.32,
+        "probability": 0.9959402084350586
+      },
+      {
+        "word": " challenges",
+        "start": 22.32,
+        "end": 22.84,
+        "probability": 0.9980960488319397
+      },
+      {
+        "word": " to",
+        "start": 22.84,
+        "end": 23.1,
+        "probability": 0.9814466238021851
+      },
+      {
+        "word": " our",
+        "start": 23.1,
+        "end": 23.22,
+        "probability": 0.9968370199203491
+      },
+      {
+        "word": " understanding",
+        "start": 23.22,
+        "end": 23.8,
+        "probability": 0.9994959831237793
+      },
+      {
+        "word": " of",
+        "start": 23.8,
+        "end": 24.1,
+        "probability": 0.9990365505218506
+      },
+      {
+        "word": " how",
+        "start": 24.1,
+        "end": 24.28,
+        "probability": 0.9997395873069763
+      },
+      {
+        "word": " you",
+        "start": 24.28,
+        "end": 24.42,
+        "probability": 0.9992396831512451
+      }
+    ]
+  },
+  {
+    "start": 24.42,
+    "end": 25.24,
+    "text": "can form galaxies.",
+    "words": [
+      {
+        "word": " can",
+        "start": 24.42,
+        "end": 24.54,
+        "probability": 0.9944214224815369
+      },
+      {
+        "word": " form",
+        "start": 24.54,
+        "end": 24.8,
+        "probability": 0.9964550733566284
+      },
+      {
+        "word": " galaxies.",
+        "start": 24.8,
+        "end": 25.24,
+        "probability": 0.9981604218482971
+      }
+    ]
+  },
+  {
+    "start": 25.52,
+    "end": 28.78,
+    "text": "How do you get Maisie's Galaxy that early in the universe?",
+    "words": [
+      {
+        "word": " How",
+        "start": 25.52,
+        "end": 25.66,
+        "probability": 0.9963233470916748
+      },
+      {
+        "word": " do",
+        "start": 25.66,
+        "end": 25.8,
+        "probability": 0.999137282371521
+      },
+      {
+        "word": " you",
+        "start": 25.8,
+        "end": 25.96,
+        "probability": 0.9996681213378906
+      },
+      {
+        "word": " get",
+        "start": 25.96,
+        "end": 26.16,
+        "probability": 0.9992262125015259
+      },
+      {
+        "word": " Maisie's",
+        "start": 26.16,
+        "end": 26.62,
+        "probability": 0.9931203524271647
+      },
+      {
+        "word": " Galaxy",
+        "start": 26.62,
+        "end": 27.06,
+        "probability": 0.8657341599464417
+      },
+      {
+        "word": " that",
+        "start": 27.06,
+        "end": 27.86,
+        "probability": 0.9574899673461914
+      },
+      {
+        "word": " early",
+        "start": 27.86,
+        "end": 28.12,
+        "probability": 0.9994021654129028
+      },
+      {
+        "word": " in",
+        "start": 28.12,
+        "end": 28.32,
+        "probability": 0.9992307424545288
+      },
+      {
+        "word": " the",
+        "start": 28.32,
+        "end": 28.42,
+        "probability": 0.9997853636741638
+      },
+      {
+        "word": " universe?",
+        "start": 28.42,
+        "end": 28.78,
+        "probability": 0.9931554198265076
+      }
+    ]
+  },
+  {
+    "start": 28.78,
+    "end": 32.04,
+    "text": "It means that the star formation had to have started earlier.",
+    "words": [
+      {
+        "word": " It",
+        "start": 28.78,
+        "end": 29.18,
+        "probability": 0.46935051679611206
+      },
+      {
+        "word": " means",
+        "start": 29.18,
+        "end": 29.5,
+        "probability": 0.9963985681533813
+      },
+      {
+        "word": " that",
+        "start": 29.5,
+        "end": 29.8,
+        "probability": 0.9927156567573547
+      },
+      {
+        "word": " the",
+        "start": 29.8,
+        "end": 29.96,
+        "probability": 0.9963169097900391
+      },
+      {
+        "word": " star",
+        "start": 29.96,
+        "end": 30.24,
+        "probability": 0.9863402843475342
+      },
+      {
+        "word": " formation",
+        "start": 30.24,
+        "end": 30.64,
+        "probability": 0.997633695602417
+      },
+      {
+        "word": " had",
+        "start": 30.64,
+        "end": 30.92,
+        "probability": 0.996545135974884
+      },
+      {
+        "word": " to",
+        "start": 30.92,
+        "end": 31.08,
+        "probability": 0.999100923538208
+      },
+      {
+        "word": " have",
+        "start": 31.08,
+        "end": 31.2,
+        "probability": 0.9961256384849548
+      },
+      {
+        "word": " started",
+        "start": 31.2,
+        "end": 31.48,
+        "probability": 0.9985122084617615
+      },
+      {
+        "word": " earlier.",
+        "start": 31.48,
+        "end": 32.04,
+        "probability": 0.9972075819969177
+      }
+    ]
+  },
+  {
+    "start": 32.3,
+    "end": 34.16,
+    "text": "It had to have been more efficient.",
+    "words": [
+      {
+        "word": " It",
+        "start": 32.3,
+        "end": 32.72,
+        "probability": 0.995886504650116
+      },
+      {
+        "word": " had",
+        "start": 32.72,
+        "end": 32.92,
+        "probability": 0.9988208413124084
+      },
+      {
+        "word": " to",
+        "start": 32.92,
+        "end": 33.08,
+        "probability": 0.9994524121284485
+      },
+      {
+        "word": " have",
+        "start": 33.08,
+        "end": 33.26,
+        "probability": 0.9987227320671082
+      },
+      {
+        "word": " been",
+        "start": 33.26,
+        "end": 33.48,
+        "probability": 0.9981629252433777
+      },
+      {
+        "word": " more",
+        "start": 33.48,
+        "end": 33.68,
+        "probability": 0.999147891998291
+      },
+      {
+        "word": " efficient.",
+        "start": 33.68,
+        "end": 34.16,
+        "probability": 0.9978275895118713
+      }
+    ]
+  },
+  {
+    "start": 34.72,
+    "end": 40.38,
+    "text": "The universe had to be much better at collapsing gas into stars than we thought before JWST,",
+    "words": [
+      {
+        "word": " The",
+        "start": 34.72,
+        "end": 34.88,
+        "probability": 0.985338568687439
+      },
+      {
+        "word": " universe",
+        "start": 34.88,
+        "end": 35.22,
+        "probability": 0.9447230696678162
+      },
+      {
+        "word": " had",
+        "start": 35.22,
+        "end": 35.44,
+        "probability": 0.9965947270393372
+      },
+      {
+        "word": " to",
+        "start": 35.44,
+        "end": 35.54,
+        "probability": 0.9995101690292358
+      },
+      {
+        "word": " be",
+        "start": 35.54,
+        "end": 35.7,
+        "probability": 0.9994899034500122
+      },
+      {
+        "word": " much",
+        "start": 35.7,
+        "end": 35.92,
+        "probability": 0.9964697360992432
+      },
+      {
+        "word": " better",
+        "start": 35.92,
+        "end": 36.2,
+        "probability": 0.9994888305664062
+      },
+      {
+        "word": " at",
+        "start": 36.2,
+        "end": 36.42,
+        "probability": 0.9962577819824219
+      },
+      {
+        "word": " collapsing",
+        "start": 36.42,
+        "end": 36.96,
+        "probability": 0.9987050294876099
+      },
+      {
+        "word": " gas",
+        "start": 36.96,
+        "end": 37.44,
+        "probability": 0.9967358708381653
+      },
+      {
+        "word": " into",
+        "start": 37.44,
+        "end": 37.76,
+        "probability": 0.9965260624885559
+      },
+      {
+        "word": " stars",
+        "start": 37.76,
+        "end": 38.3,
+        "probability": 0.9967151880264282
+      },
+      {
+        "word": " than",
+        "start": 38.3,
+        "end": 38.88,
+        "probability": 0.8861737251281738
+      },
+      {
+        "word": " we",
+        "start": 38.88,
+        "end": 39.06,
+        "probability": 0.9968120455741882
+      },
+      {
+        "word": " thought",
+        "start": 39.06,
+        "end": 39.36,
+        "probability": 0.9979501366615295
+      },
+      {
+        "word": " before",
+        "start": 39.36,
+        "end": 39.76,
+        "probability": 0.9976268410682678
+      },
+      {
+        "word": " JWST,",
+        "start": 39.76,
+        "end": 40.38,
+        "probability": 0.9479086001714071
+      }
+    ]
+  },
+  {
+    "start": 40.7,
+    "end": 48.02,
+    "text": "which is really exciting. Because I think the coolest, or the best, like, homage, I guess,",
+    "words": [
+      {
+        "word": " which",
+        "start": 40.7,
+        "end": 40.92,
+        "probability": 0.9969919919967651
+      },
+      {
+        "word": " is",
+        "start": 40.92,
+        "end": 41.06,
+        "probability": 0.9982712268829346
+      },
+      {
+        "word": " really",
+        "start": 41.06,
+        "end": 41.38,
+        "probability": 0.9991996884346008
+      },
+      {
+        "word": " exciting.",
+        "start": 41.38,
+        "end": 41.92,
+        "probability": 0.9996066689491272
+      },
+      {
+        "word": " Because",
+        "start": 41.92,
+        "end": 42.36,
+        "probability": 0.7034557461738586
+      },
+      {
+        "word": " I",
+        "start": 42.36,
+        "end": 43.12,
+        "probability": 0.9685436487197876
+      },
+      {
+        "word": " think",
+        "start": 43.12,
+        "end": 43.26,
+        "probability": 0.9989301562309265
+      },
+      {
+        "word": " the",
+        "start": 43.26,
+        "end": 43.48,
+        "probability": 0.8173379302024841
+      },
+      {
+        "word": " coolest,",
+        "start": 43.48,
+        "end": 44.5,
+        "probability": 0.7005704641342163
+      },
+      {
+        "word": " or",
+        "start": 44.5,
+        "end": 45.32,
+        "probability": 0.7592164874076843
+      },
+      {
+        "word": " the",
+        "start": 45.32,
+        "end": 45.46,
+        "probability": 0.9961676001548767
+      },
+      {
+        "word": " best,",
+        "start": 45.46,
+        "end": 46.04,
+        "probability": 0.9743849635124207
+      },
+      {
+        "word": " like,",
+        "start": 46.04,
+        "end": 46.38,
+        "probability": 0.6777740716934204
+      },
+      {
+        "word": " homage,",
+        "start": 46.38,
+        "end": 47.46,
+        "probability": 0.8670656681060791
+      },
+      {
+        "word": " I",
+        "start": 47.48,
+        "end": 47.82,
+        "probability": 0.9981643557548523
+      },
+      {
+        "word": " guess,",
+        "start": 47.82,
+        "end": 48.02,
+        "probability": 0.9995055198669434
+      }
+    ]
+  },
+  {
+    "start": 48.16,
+    "end": 51.1,
+    "text": "to a telescope, is that you have to redefine what you know.",
+    "words": [
+      {
+        "word": " to",
+        "start": 48.16,
+        "end": 48.26,
+        "probability": 0.9995348453521729
+      },
+      {
+        "word": " a",
+        "start": 48.26,
+        "end": 48.4,
+        "probability": 0.9985374212265015
+      },
+      {
+        "word": " telescope,",
+        "start": 48.4,
+        "end": 48.82,
+        "probability": 0.9994288086891174
+      },
+      {
+        "word": " is",
+        "start": 48.82,
+        "end": 49.08,
+        "probability": 0.946768581867218
+      },
+      {
+        "word": " that",
+        "start": 49.08,
+        "end": 49.34,
+        "probability": 0.997568666934967
+      },
+      {
+        "word": " you",
+        "start": 49.34,
+        "end": 49.78,
+        "probability": 0.9804698824882507
+      },
+      {
+        "word": " have",
+        "start": 49.78,
+        "end": 49.94,
+        "probability": 0.9993189573287964
+      },
+      {
+        "word": " to",
+        "start": 49.94,
+        "end": 50.08,
+        "probability": 0.9991150498390198
+      },
+      {
+        "word": " redefine",
+        "start": 50.08,
+        "end": 50.6,
+        "probability": 0.9873566925525665
+      },
+      {
+        "word": " what",
+        "start": 50.6,
+        "end": 50.76,
+        "probability": 0.9913397431373596
+      },
+      {
+        "word": " you",
+        "start": 50.76,
+        "end": 50.9,
+        "probability": 0.9292258620262146
+      },
+      {
+        "word": " know.",
+        "start": 50.9,
+        "end": 51.1,
+        "probability": 0.9756007194519043
+      }
+    ]
+  },
+  {
+    "start": 52.52,
+    "end": 56.56,
+    "text": "The observations you get from it mean you have to redefine what you know about physics.",
+    "words": [
+      {
+        "word": " The",
+        "start": 52.52,
+        "end": 53.04,
+        "probability": 0.20048746466636658
+      },
+      {
+        "word": " observations",
+        "start": 53.04,
+        "end": 53.56,
+        "probability": 0.9976499676704407
+      },
+      {
+        "word": " you",
+        "start": 53.56,
+        "end": 53.9,
+        "probability": 0.9947959780693054
+      },
+      {
+        "word": " get",
+        "start": 53.9,
+        "end": 54.08,
+        "probability": 0.9993958473205566
+      },
+      {
+        "word": " from",
+        "start": 54.08,
+        "end": 54.28,
+        "probability": 0.9982320666313171
+      },
+      {
+        "word": " it",
+        "start": 54.28,
+        "end": 54.44,
+        "probability": 0.9962280988693237
+      },
+      {
+        "word": " mean",
+        "start": 54.44,
+        "end": 54.7,
+        "probability": 0.9222980737686157
+      },
+      {
+        "word": " you",
+        "start": 54.7,
+        "end": 54.84,
+        "probability": 0.9739238619804382
+      },
+      {
+        "word": " have",
+        "start": 54.84,
+        "end": 54.98,
+        "probability": 0.9994906187057495
+      },
+      {
+        "word": " to",
+        "start": 54.98,
+        "end": 55.08,
+        "probability": 0.9992766976356506
+      },
+      {
+        "word": " redefine",
+        "start": 55.08,
+        "end": 55.58,
+        "probability": 0.9983632862567902
+      },
+      {
+        "word": " what",
+        "start": 55.58,
+        "end": 55.72,
+        "probability": 0.9988558292388916
+      },
+      {
+        "word": " you",
+        "start": 55.72,
+        "end": 55.84,
+        "probability": 0.9935389161109924
+      },
+      {
+        "word": " know",
+        "start": 55.84,
+        "end": 56.0,
+        "probability": 0.9992029070854187
+      },
+      {
+        "word": " about",
+        "start": 56.0,
+        "end": 56.22,
+        "probability": 0.9992908239364624
+      },
+      {
+        "word": " physics.",
+        "start": 56.22,
+        "end": 56.56,
+        "probability": 0.9969706535339355
+      }
+    ]
+  },
+  {
+    "start": 56.56,
+    "end": 57.88,
+    "text": "And that's really cool.",
+    "words": [
+      {
+        "word": " And",
+        "start": 56.56,
+        "end": 57.2,
+        "probability": 0.4348537027835846
+      },
+      {
+        "word": " that's",
+        "start": 57.2,
+        "end": 57.44,
+        "probability": 0.9950717687606812
+      },
+      {
+        "word": " really",
+        "start": 57.44,
+        "end": 57.62,
+        "probability": 0.9985635876655579
+      },
+      {
+        "word": " cool.",
+        "start": 57.62,
+        "end": 57.88,
+        "probability": 0.9986133575439453
+      }
+    ]
+  }
+]
